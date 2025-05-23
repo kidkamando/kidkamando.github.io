@@ -1,13 +1,12 @@
 [CustomCards]
-	[
-		{
+	[	{
 			"name": "Therin, Displaced Through Time",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Human Elf Rogue",
+			"type": "Legendary Creature â€” Human Elf Rogue ",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/264_Therin, Displaced Through Time.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Therin, Displaced Through Time.png"
 			}
 		},
 		{
@@ -17,7 +16,7 @@
 			"type": "Emblem",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/49_Echoes of the Past.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Echoes of the Past.png"
 			}
 		},
 		{
@@ -27,7 +26,7 @@
 			"type": "Emblem",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/48_Echoes of the Future.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Echoes of the Future.png"
 			}
 		},
 		{
@@ -37,7 +36,7 @@
 			"type": "Emblem",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/50_Echoes of the Present.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Echoes of the Present.png"
 			}
 		},
 		{
@@ -47,37 +46,37 @@
 			"type": "Emblem",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/47_Echoes of Entropy.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Echoes of Entropy.png"
 			}
 		},
 		{
 			"name": "Exios, Tormented Savior",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Cat Knight Warlock",
+			"type": "Legendary Creature â€” Cat Knight Warlock ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/221_Exios, Tormented Savior.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Exios, Tormented Savior.png"
 			}
 		},
 		{
 			"name": "Noolo, Graviturgy Innovator",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}{U}",
-			"type": "Legendary Creature — Minotaur Wizard",
+			"type": "Legendary Creature â€” Minotaur Wizard ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/242_Noolo, Graviturgy Innovator.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Noolo, Graviturgy Innovator.png"
 			}
 		},
 		{
 			"name": "Kinkud, Soul Divided",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Dragon Cleric",
+			"type": "Legendary Creature â€” Dragon Cleric ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/236_Kinkud, Soul Divided.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Kinkud, Soul Divided.png"
 			}
 		},
 		{
@@ -87,7 +86,7 @@
 			"type": "Artifact",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/322_Lucky Coin.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lucky Coin.png"
 			}
 		},
 		{
@@ -97,17 +96,17 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/154_Phoenix Flare.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Phoenix Flare.png"
 			}
 		},
 		{
 			"name": "Tundra Warden",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Golem Warrior",
+			"type": "Creature â€” Golem Warrior ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/84_Tundra Warden.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tundra Warden.png"
 			}
 		},
 		{
@@ -117,57 +116,57 @@
 			"type": "Instant",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/267_Top Up.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Top Up.png"
 			}
 		},
 		{
 			"name": "Scholar of Flames",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Plant Wizard",
+			"type": "Creature â€” Plant Wizard ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/158_Scholar of Flames.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scholar of Flames.png"
 			}
 		},
 		{
 			"name": "Scholar of Frost",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/32_Scholar of Frost.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scholar of Frost.png"
 			}
 		},
 		{
 			"name": "Scholar of Growth",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Cat Scribe",
+			"type": "Creature â€” Cat Scribe ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/195_Scholar of Growth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scholar of Growth.png"
 			}
 		},
 		{
 			"name": "Scholar of Decay",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Dhonedem Wizard",
+			"type": "Creature â€” Dhonedem Wizard ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/118_Scholar of Decay.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scholar of Decay.png"
 			}
 		},
 		{
 			"name": "Scholar of Wisdom",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Drimm Wizard",
+			"type": "Creature â€” Drimm Wizard ",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/78_Scholar of Wisdom.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scholar of Wisdom.png"
 			}
 		},
 		{
@@ -177,7 +176,7 @@
 			"type": "Artifact",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/77_Rune of Premonition.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rune of Premonition.png"
 			}
 		},
 		{
@@ -187,7 +186,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/123_Turn Undead.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Turn Undead.png"
 			}
 		},
 		{
@@ -197,127 +196,127 @@
 			"type": "Instant",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/27_Pitfall Trap.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pitfall Trap.png"
 			}
 		},
 		{
 			"name": "Mordant Mount",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Horse Snake",
+			"type": "Creature â€” Horse Snake ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/181_Mordant Mount.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mordant Mount.png"
 			}
 		},
 		{
 			"name": "Everburn Phoenix",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Phoenix",
+			"type": "Creature â€” Phoenix ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/134_Everburn Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Everburn Phoenix.png"
 			}
 		},
 		{
 			"name": "Pharani Bristlewall",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Plant Wall",
+			"type": "Creature â€” Plant Wall ",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/153_Pharani Bristlewall.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Bristlewall.png"
 			}
 		},
 		{
 			"name": "Gag",
 			"rarity": "common",
-			"mana_cost": "{WU}",
+			"mana_cost": "{W/U}",
 			"type": "Instant",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/284_Gag.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Gag.png"
 			}
 		},
 		{
 			"name": "Longleaf Phoenix",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Plant Phoenix",
+			"type": "Creature â€” Plant Phoenix ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/148_Longleaf Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Longleaf Phoenix.png"
 			}
 		},
 		{
 			"name": "Marrdri Marrowgiver",
 			"rarity": "common",
-			"mana_cost": "{BG}",
-			"type": "Creature — Beast Horror",
+			"mana_cost": "{B/G}",
+			"type": "Creature â€” Beast Horror ",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/292_Marrdri Marrowgiver.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Marrdri Marrowgiver.png"
 			}
 		},
 		{
 			"name": "Gold Adder",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Snake",
+			"type": "Creature â€” Snake ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/175_Gold Adder.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Gold Adder.png"
 			}
 		},
 		{
 			"name": "Keen-Eyed Condor",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/16_Keen-Eyed Condor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Keen-Eyed Condor.png"
 			}
 		},
 		{
 			"name": "Backstabbing Bloodsucker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Vampire Rogue",
+			"type": "Creature â€” Vampire Rogue ",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/90_Backstabbing Bloodsucker.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Backstabbing Bloodsucker.png"
 			}
 		},
 		{
 			"name": "Shambling Knight",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Zombie Knight",
+			"type": "Creature â€” Zombie Knight ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/120_Shambling Knight.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shambling Knight.png"
 			}
 		},
 		{
 			"name": "Fanatic Photachyodon",
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/172_Fanatic Photachyodon.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fanatic Photachyodon.png"
 			}
 		},
 		{
 			"name": "Ignition Drake",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/144_Ignition Drake.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ignition Drake.png"
 			}
 		},
 		{
@@ -327,97 +326,97 @@
 			"type": "Artifact",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/96_Fool's Ace.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fool's Ace.png"
 			}
 		},
 		{
 			"name": "Cornered Dreamer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{UB}{UB}",
-			"type": "Creature — Faerie",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature â€” Faerie ",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/276_Cornered Dreamer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Cornered Dreamer.png"
 			}
 		},
 		{
 			"name": "Garden Blazer",
 			"rarity": "common",
-			"mana_cost": "{G}{BR}",
-			"type": "Creature — Plant Sorcerer",
+			"mana_cost": "{G}{B/R}",
+			"type": "Creature â€” Plant Sorcerer ",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/285_Garden Blazer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Garden Blazer.png"
 			}
 		},
 		{
 			"name": "Avid Gambler",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human ",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/89_Avid Gambler.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Avid Gambler.png"
 			}
 		},
 		{
 			"name": "Arctic Hydromancer",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/49_Arctic Hydromancer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arctic Hydromancer.png"
 			}
 		},
 		{
 			"name": "Predatory Armor",
 			"rarity": "common",
-			"mana_cost": "{2}{2B}{G}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{2}{2/B}{G}",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/251_Predatory Armor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Predatory Armor.png"
 			}
 		},
 		{
 			"name": "Bleeding Out",
 			"rarity": "common",
-			"mana_cost": "{2B}{R}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{2/B}{R}",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/208_Bleeding Out.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bleeding Out.png"
 			}
 		},
 		{
 			"name": "Enveloping Flame",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/217_Enveloping Flame.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Enveloping Flame.png"
 			}
 		},
 		{
 			"name": "Numbing Cold",
 			"rarity": "common",
-			"mana_cost": "{1}{WU}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{1}{W/U}",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/296_Numbing Cold.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Numbing Cold.png"
 			}
 		},
 		{
 			"name": "Prophetic Vision",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/73_Prophetic Vision.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Prophetic Vision.png"
 			}
 		},
 		{
@@ -427,17 +426,17 @@
 			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/53_Bottoms Up.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bottoms Up.png"
 			}
 		},
 		{
 			"name": "Altar of Recovery",
 			"rarity": "rare",
-			"mana_cost": "{2}{BG}",
+			"mana_cost": "{2}{B/G}",
 			"type": "Artifact",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/271_Altar of Recovery.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Altar of Recovery.png"
 			}
 		},
 		{
@@ -447,7 +446,7 @@
 			"type": "Sorcery",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/139_Flashfire.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Flashfire.png"
 			}
 		},
 		{
@@ -457,17 +456,17 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/129_Caught in the Blast.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Caught in the Blast.png"
 			}
 		},
 		{
 			"name": "Decaying Alchemist",
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
-			"type": "Creature — Zombie Artificer",
+			"type": "Creature â€” Zombie Artificer ",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/213_Decaying Alchemist.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Decaying Alchemist.png"
 			}
 		},
 		{
@@ -477,117 +476,117 @@
 			"type": "Sorcery",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/258_Seeding the Ashes.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Seeding the Ashes.png"
 			}
 		},
 		{
 			"name": "Perilous Prediction",
 			"rarity": "uncommon",
-			"mana_cost": "{UR}{UR}",
+			"mana_cost": "{U/R}{U/R}",
 			"type": "Instant",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/298_Perilous Prediction.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Perilous Prediction.png"
 			}
 		},
 		{
 			"name": "Lightning Rod",
 			"rarity": "common",
-			"mana_cost": "{1}{UR}",
+			"mana_cost": "{1}{U/R}",
 			"type": "Artifact",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/290_Lightning Rod.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lightning Rod.png"
 			}
 		},
 		{
 			"name": "Vampire Overseer",
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Vampire",
+			"type": "Creature â€” Vampire ",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/269_Vampire Overseer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Vampire Overseer.png"
 			}
 		},
 		{
 			"name": "Horror in the Deep",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Legendary Creature — Giant Fish Horror",
+			"type": "Legendary Creature â€” Giant Fish Horror ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/230_Horror in the Deep.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Horror in the Deep.png"
 			}
 		},
 		{
 			"name": "Arctic Direwolf",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Wolf",
+			"type": "Creature â€” Wolf ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/167_Arctic Direwolf.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arctic Direwolf.png"
 			}
 		},
 		{
 			"name": "Frozen Mammoth",
 			"rarity": "common",
-			"mana_cost": "{2U}",
-			"type": "Creature — Mammoth",
+			"mana_cost": "{2/U}",
+			"type": "Creature â€” Mammoth ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/64_Frozen Mammoth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Mammoth.png"
 			}
 		},
 		{
 			"name": "Frozen Orc",
 			"rarity": "common",
 			"mana_cost": "{0}",
-			"type": "Creature — Orc Warrior",
+			"type": "Creature â€” Orc Warrior ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/65_Frozen Orc.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Orc.png"
 			}
 		},
 		{
 			"name": "Frozen Light",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{UR}",
+			"mana_cost": "{2}{U/R}",
 			"type": "Enchantment",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/283_Frozen Light.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Light.png"
 			}
 		},
 		{
 			"name": "Frozen Elk",
 			"rarity": "common",
 			"mana_cost": "{0}",
-			"type": "Creature — Elk",
+			"type": "Creature â€” Elk ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/225_Frozen Elk.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Elk.png"
 			}
 		},
 		{
 			"name": "Frenzied Overlord",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Demon Warrior",
+			"type": "Creature â€” Demon Warrior ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/98_Frenzied Overlord.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frenzied Overlord.png"
 			}
 		},
 		{
 			"name": "Frenzied Underling",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Demon Warrior",
+			"type": "Creature â€” Demon Warrior ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/99_Frenzied Underling.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frenzied Underling.png"
 			}
 		},
 		{
@@ -597,17 +596,17 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/169_Corrosion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Corrosion.png"
 			}
 		},
 		{
 			"name": "Impish Excavator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Faerie Imp",
+			"type": "Creature â€” Faerie Imp ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/102_Impish Excavator.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Impish Excavator.png"
 			}
 		},
 		{
@@ -617,7 +616,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/124_Withered Wish.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Withered Wish.png"
 			}
 		},
 		{
@@ -627,107 +626,107 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/146_Internal Ignition.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Internal Ignition.png"
 			}
 		},
 		{
 			"name": "Backed Into a Corner",
 			"rarity": "common",
-			"mana_cost": "{RG}",
+			"mana_cost": "{R/G}",
 			"type": "Instant",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/273_Backed Into a Corner.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Backed Into a Corner.png"
 			}
 		},
 		{
 			"name": "Arctic Whale",
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
-			"type": "Creature — Whale",
+			"type": "Creature â€” Whale ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/50_Arctic Whale.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arctic Whale.png"
 			}
 		},
 		{
 			"name": "Trickster of the Flame",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Sorcerer",
+			"type": "Creature â€” Sorcerer ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/161_Trickster of the Flame.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Trickster of the Flame.png"
 			}
 		},
 		{
 			"name": "Ancient Tarantula",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/87_Ancient Tarantula.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ancient Tarantula.png"
 			}
 		},
 		{
 			"name": "Consecrated Falcon",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/8_Consecrated Falcon.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Consecrated Falcon.png"
 			}
 		},
 		{
 			"name": "Flameshell Grub",
 			"rarity": "common",
-			"mana_cost": "{RG}",
-			"type": "Creature — Insect",
+			"mana_cost": "{R/G}",
+			"type": "Creature â€” Insect ",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/278_Flameshell Grub.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Flameshell Grub.png"
 			}
 		},
 		{
 			"name": "Tarantula Youngling",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/122_Tarantula Youngling.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tarantula Youngling.png"
 			}
 		},
 		{
 			"name": "Flitting Prankster",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Faerie",
+			"type": "Creature â€” Faerie ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/61_Flitting Prankster.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Flitting Prankster.png"
 			}
 		},
 		{
 			"name": "Sawtooth Pirahna",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Fish",
+			"type": "Creature â€” Fish ",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/117_Sawtooth Pirahna.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Sawtooth Pirahna.png"
 			}
 		},
 		{
 			"name": "Iceflow Cetacean",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Whale",
+			"type": "Creature â€” Whale ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/67_Iceflow Cetacean.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Iceflow Cetacean.png"
 			}
 		},
 		{
@@ -737,17 +736,17 @@
 			"type": "Instant",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/130_Claim the Spoils.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Claim the Spoils.png"
 			}
 		},
 		{
 			"name": "Wipe Clean",
 			"rarity": "common",
-			"mana_cost": "{3}{GW}{W}",
+			"mana_cost": "{3}{G/W}{W}",
 			"type": "Sorcery",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/305_Wipe Clean.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Wipe Clean.png"
 			}
 		},
 		{
@@ -757,7 +756,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/71_Part Ways.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Part Ways.png"
 			}
 		},
 		{
@@ -767,47 +766,47 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/174_From Burn to Brush.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/From Burn to Brush.png"
 			}
 		},
 		{
 			"name": "Blastclaw Shrimp",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Shrimp",
+			"type": "Creature â€” Shrimp ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/5_Blastclaw Shrimp.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Blastclaw Shrimp.png"
 			}
 		},
 		{
 			"name": "Green-Ear Lieutenant",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Creature — Goblin Soldier",
+			"type": "Creature â€” Goblin Soldier ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/229_Green-Ear Lieutenant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Green-Ear Lieutenant.png"
 			}
 		},
 		{
 			"name": "Lugmok, Son of Mokmok",
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
-			"type": "Legendary Creature — Kobold Soldier",
+			"type": "Legendary Creature â€” Kobold Soldier ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/149_Lugmok, Son of Mokmok.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lugmok, Son of Mokmok.png"
 			}
 		},
 		{
 			"name": "Mokmok, Lord of Greed",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
-			"type": "Legendary Creature — Kobold",
+			"type": "Legendary Creature â€” Kobold  ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/151_Mokmok, Lord of Greed.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mokmok, Lord of Greed.png"
 			}
 		},
 		{
@@ -817,87 +816,87 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/3_Bitter Isolation.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bitter Isolation.png"
 			}
 		},
 		{
 			"name": "Paradigm of Hope",
 			"rarity": "rare",
-			"mana_cost": "{2R}{W}{W}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{2/R}{W}{W}",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/244_Paradigm of Hope.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Paradigm of Hope.png"
 			}
 		},
 		{
 			"name": "Paradigm of Perserverance",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/183_Paradigm of Perserverance.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Paradigm of Perserverance.png"
 			}
 		},
 		{
 			"name": "Paradigm of Renewal",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/114_Paradigm of Renewal.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Paradigm of Renewal.png"
 			}
 		},
 		{
 			"name": "Paradigm of Passion",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/152_Paradigm of Passion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Paradigm of Passion.png"
 			}
 		},
 		{
 			"name": "Paradigm of Knowledge",
 			"rarity": "rare",
-			"mana_cost": "{1}{2R}{U}{U}",
-			"type": "Enchantment — Aura",
+			"mana_cost": "{1}{2/R}{U}{U}",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/245_Paradigm of Knowledge.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Paradigm of Knowledge.png"
 			}
 		},
 		{
 			"name": "Prankster Pixie",
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
-			"type": "Creature — Faerie",
+			"type": "Creature â€” Faerie ",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/250_Prankster Pixie.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Prankster Pixie.png"
 			}
 		},
 		{
 			"name": "Kastyr, Shaper of Destiny",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature — Cyclops Sorcerer",
+			"type": "Legendary Creature â€” Cyclops Sorcerer ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/234_Kastyr, Shaper of Destiny.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Kastyr, Shaper of Destiny.png"
 			}
 		},
 		{
 			"name": "Peer Ahead",
 			"rarity": "common",
-			"mana_cost": "{1}{UR}",
+			"mana_cost": "{1}{U/R}",
 			"type": "Sorcery",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/297_Peer Ahead.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Peer Ahead.png"
 			}
 		},
 		{
@@ -907,7 +906,7 @@
 			"type": "Sorcery",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/190_Rally the Forest.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rally the Forest.png"
 			}
 		},
 		{
@@ -917,17 +916,17 @@
 			"type": "Sorcery",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/92_Dissipate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dissipate.png"
 			}
 		},
 		{
 			"name": "Drown in Noise",
 			"rarity": "common",
-			"mana_cost": "{1}{UB}{B}",
+			"mana_cost": "{1}{U/B}{B}",
 			"type": "Sorcery",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/277_Drown in Noise.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Drown in Noise.png"
 			}
 		},
 		{
@@ -937,7 +936,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/121_Soul Swap.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Soul Swap.png"
 			}
 		},
 		{
@@ -947,7 +946,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/75_Provisions of Sanctity.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Provisions of Sanctity.png"
 			}
 		},
 		{
@@ -957,7 +956,7 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/34_Strip Bare.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Strip Bare.png"
 			}
 		},
 		{
@@ -967,7 +966,7 @@
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/178_Living Lodging.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Living Lodging.png"
 			}
 		},
 		{
@@ -977,37 +976,37 @@
 			"type": "Sorcery",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/177_Lay the Seeds.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lay the Seeds.png"
 			}
 		},
 		{
 			"name": "Nightly Scourge",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Nightmare",
+			"type": "Creature â€” Nightmare ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/109_Nightly Scourge.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nightly Scourge.png"
 			}
 		},
 		{
 			"name": "Strafing Stormer",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/159_Strafing Stormer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Strafing Stormer.png"
 			}
 		},
 		{
 			"name": "Terminus Dreadmaw",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/199_Terminus Dreadmaw.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Terminus Dreadmaw.png"
 			}
 		},
 		{
@@ -1017,77 +1016,77 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/141_Fulminate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fulminate.png"
 			}
 		},
 		{
 			"name": "Compassionate Scavenger",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Plant Shaman",
+			"type": "Creature â€” Plant Shaman ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/168_Compassionate Scavenger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Compassionate Scavenger.png"
 			}
 		},
 		{
 			"name": "Spiritual Ascent",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/33_Spiritual Ascent.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Spiritual Ascent.png"
 			}
 		},
 		{
 			"name": "Voice of Restraint",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric ",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/41_Voice of Restraint.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Voice of Restraint.png"
 			}
 		},
 		{
 			"name": "Templar's Apprentice",
 			"rarity": "common",
-			"mana_cost": "{W}{WU}",
-			"type": "Creature — Knight",
+			"mana_cost": "{W}{W/U}",
+			"type": "Creature â€” Knight ",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/302_Templar's Apprentice.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Templar's Apprentice.png"
 			}
 		},
 		{
 			"name": "Nexen Templar",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Knight",
+			"type": "Creature â€” Knight ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/22_Nexen Templar.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nexen Templar.png"
 			}
 		},
 		{
 			"name": "Resolute Squire",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Knight",
+			"type": "Creature â€” Knight ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/157_Resolute Squire.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Resolute Squire.png"
 			}
 		},
 		{
 			"name": "Dawn Vulture",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/11_Dawn Vulture.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dawn Vulture.png"
 			}
 		},
 		{
@@ -1097,7 +1096,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/83_Toss to Fate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Toss to Fate.png"
 			}
 		},
 		{
@@ -1107,307 +1106,307 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/56_Crucial Diversion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Crucial Diversion.png"
 			}
 		},
 		{
 			"name": "Maddening Mystic",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/68_Maddening Mystic.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Maddening Mystic.png"
 			}
 		},
 		{
 			"name": "Boreal Floe",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
+			"type": "Land â€” Plains Island ",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/335_Boreal Floe.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Boreal Floe.png"
 			}
 		},
 		{
 			"name": "Nesting Vinelasher",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/182_Nesting Vinelasher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nesting Vinelasher.png"
 			}
 		},
 		{
 			"name": "Dawn Titan",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/10_Dawn Titan.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dawn Titan.png"
 			}
 		},
 		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains ",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/357_Plains.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Plains.png"
 			}
 		},
 		{
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island ",
 			"collector_number": "358",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/358_Island.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Island.png"
 			}
 		},
 		{
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp ",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/359_Swamp.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Swamp.png"
 			}
 		},
 		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain ",
 			"collector_number": "360",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/360_Mountain.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mountain.png"
 			}
 		},
 		{
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest ",
 			"collector_number": "361",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/361_Forest.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Forest.png"
 			}
 		},
 		{
 			"name": "Abraded Bluffs",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/333_Abraded Bluffs.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Abraded Bluffs.png"
 			}
 		},
 		{
 			"name": "Boiling Lahar",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
+			"type": "Land â€” Island Mountain ",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/334_Boiling Lahar.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Boiling Lahar.png"
 			}
 		},
 		{
 			"name": "Collapsed Mine",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
+			"type": "Land â€” Swamp Mountain ",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/337_Collapsed Mine.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Collapsed Mine.png"
 			}
 		},
 		{
 			"name": "Panicked Pouncer",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/24_Panicked Pouncer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Panicked Pouncer.png"
 			}
 		},
 		{
 			"name": "Coral Firth",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Island",
+			"type": "Land â€” Forest Island ",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/338_Coral Firth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Coral Firth.png"
 			}
 		},
 		{
 			"name": "Tempestuous Cliffs",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains",
+			"type": "Land â€” Mountain Plains ",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/355_Tempestuous Cliffs.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tempestuous Cliffs.png"
 			}
 		},
 		{
 			"name": "Swirling Karst",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
+			"type": "Land â€” Island Swamp ",
 			"collector_number": "354",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/354_Swirling Karst.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Swirling Karst.png"
 			}
 		},
 		{
 			"name": "Hostile Copse",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
+			"type": "Land â€” Mountain Forest ",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/347_Hostile Copse.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Hostile Copse.png"
 			}
 		},
 		{
 			"name": "Ruined Capitol",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp",
+			"type": "Land â€” Plains Swamp ",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/352_Ruined Capitol.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ruined Capitol.png"
 			}
 		},
 		{
 			"name": "Morass Grove",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest",
+			"type": "Land â€” Swamp Forest ",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/351_Morass Grove.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Morass Grove.png"
 			}
 		},
 		{
 			"name": "Creepy Crawfish",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Lobster",
+			"type": "Creature â€” Lobster ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/55_Creepy Crawfish.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Creepy Crawfish.png"
 			}
 		},
 		{
 			"name": "Tender Pike",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
+			"type": "Land â€” Forest Plains ",
 			"collector_number": "356",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/356_Tender Pike.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tender Pike.png"
 			}
 		},
 		{
 			"name": "Forlorn Flats",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/346_Forlorn Flats.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Forlorn Flats.png"
 			}
 		},
 		{
 			"name": "Jagged Barrens",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/348_Jagged Barrens.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Jagged Barrens.png"
 			}
 		},
 		{
 			"name": "Eroded Canyon",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/342_Eroded Canyon.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Eroded Canyon.png"
 			}
 		},
 		{
 			"name": "Bristling Backwoods",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/336_Bristling Backwoods.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bristling Backwoods.png"
 			}
 		},
 		{
 			"name": "Creosote Heath",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/339_Creosote Heath.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Creosote Heath.png"
 			}
 		},
 		{
 			"name": "Festering Gulch",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/345_Festering Gulch.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Festering Gulch.png"
 			}
 		},
 		{
 			"name": "Lush Oasis",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/350_Lush Oasis.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lush Oasis.png"
 			}
 		},
 		{
 			"name": "Lonely Arroyo",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/349_Lonely Arroyo.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lonely Arroyo.png"
 			}
 		},
 		{
 			"name": "Soured Springs",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Desert",
+			"type": "Land â€” Desert ",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/353_Soured Springs.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Soured Springs.png"
 			}
 		},
 		{
@@ -1417,17 +1416,17 @@
 			"type": "Artifact",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/321_Looter's Luggage.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Looter's Luggage.png"
 			}
 		},
 		{
 			"name": "Caravan Charger",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Ox Mount",
+			"type": "Creature â€” Ox Mount ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/7_Caravan Charger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Caravan Charger.png"
 			}
 		},
 		{
@@ -1437,7 +1436,7 @@
 			"type": "Artifact",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/226_Genesis Engine.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Genesis Engine.png"
 			}
 		},
 		{
@@ -1447,57 +1446,57 @@
 			"type": "Artifact",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/40_Vacuum Carryall.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Vacuum Carryall.png"
 			}
 		},
 		{
 			"name": "Reckless Colossus",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/29_Reckless Colossus.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Reckless Colossus.png"
 			}
 		},
 		{
 			"name": "Helpful Scavenger",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/14_Helpful Scavenger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Helpful Scavenger.png"
 			}
 		},
 		{
 			"name": "Crypt Custodian",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Golem",
+			"type": "Artifact Creature â€” Golem ",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/310_Crypt Custodian.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Crypt Custodian.png"
 			}
 		},
 		{
 			"name": "Forgotten Witness",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Druid",
+			"type": "Creature â€” Druid ",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/173_Forgotten Witness.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Forgotten Witness.png"
 			}
 		},
 		{
 			"name": "Pharani Seedlayer",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Plant Druid",
+			"type": "Creature â€” Plant Druid ",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/189_Pharani Seedlayer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Seedlayer.png"
 			}
 		},
 		{
@@ -1507,17 +1506,17 @@
 			"type": "Enchantment",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/25_Pariah's Insight.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pariah's Insight.png"
 			}
 		},
 		{
 			"name": "Thundering Ooze",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}{G}{G}",
-			"type": "Creature — Ooze",
+			"type": "Creature â€” Ooze ",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/266_Thundering Ooze.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Thundering Ooze.png"
 			}
 		},
 		{
@@ -1527,7 +1526,7 @@
 			"type": "Enchantment",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/101_Impart Vitality.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Impart Vitality.png"
 			}
 		},
 		{
@@ -1537,7 +1536,7 @@
 			"type": "Instant",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/176_Hunted Tired.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Hunted Tired.png"
 			}
 		},
 		{
@@ -1547,77 +1546,77 @@
 			"type": "Land",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/343_Evolving Wilds.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Evolving Wilds.png"
 			}
 		},
 		{
 			"name": "Siphon Walker",
 			"rarity": "rare",
 			"mana_cost": "{X}{X}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/329_Siphon Walker.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Siphon Walker.png"
 			}
 		},
 		{
 			"name": "Laggard Golem",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/320_Laggard Golem.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Laggard Golem.png"
 			}
 		},
 		{
 			"name": "Tithe Tortoise",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Turtle",
+			"type": "Artifact Creature â€” Turtle ",
 			"collector_number": "332",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/332_Tithe Tortoise.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tithe Tortoise.png"
 			}
 		},
 		{
 			"name": "Dire Driller",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/313_Dire Driller.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dire Driller.png"
 			}
 		},
 		{
 			"name": "Ceremonial Stag",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Elk",
+			"type": "Artifact Creature â€” Elk ",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/307_Ceremonial Stag.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ceremonial Stag.png"
 			}
 		},
 		{
 			"name": "Emergency Assembly",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/316_Emergency Assembly.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Emergency Assembly.png"
 			}
 		},
 		{
 			"name": "Chromatic Simulacrum",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/308_Chromatic Simulacrum.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Chromatic Simulacrum.png"
 			}
 		},
 		{
@@ -1627,17 +1626,17 @@
 			"type": "Artifact",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/319_Golem Schematic.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Golem Schematic.png"
 			}
 		},
 		{
 			"name": "Medium of Last Rites",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Shaman",
+			"type": "Creature â€” Shaman ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/19_Medium of Last Rites.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Medium of Last Rites.png"
 			}
 		},
 		{
@@ -1647,27 +1646,27 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/57_Debilitating Denial.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Debilitating Denial.png"
 			}
 		},
 		{
 			"name": "Ungulate Glen",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/201_Ungulate Glen.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ungulate Glen.png"
 			}
 		},
 		{
 			"name": "Perpetual Sloth",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/72_Perpetual Sloth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Perpetual Sloth.png"
 			}
 		},
 		{
@@ -1677,17 +1676,17 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/82_Spell Cycle.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Spell Cycle.png"
 			}
 		},
 		{
 			"name": "Buchanan, Rampaging Berserker",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Human Soldier",
+			"type": "Legendary Creature â€” Human Soldier ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/209_Buchanan, Rampaging Berserker.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Buchanan, Rampaging Berserker.png"
 			}
 		},
 		{
@@ -1697,7 +1696,7 @@
 			"type": "Artifact",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/328_Scroll of Summoning.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scroll of Summoning.png"
 			}
 		},
 		{
@@ -1707,67 +1706,67 @@
 			"type": "Enchantment",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/132_Endless Cycle.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Endless Cycle.png"
 			}
 		},
 		{
 			"name": "Nu'Ul's Servant",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf Warlock",
+			"type": "Creature â€” Elf Warlock ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/113_Nu'Ul's Servant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nu'Ul's Servant.png"
 			}
 		},
 		{
 			"name": "Sunheart Healer",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Cat Shaman",
+			"type": "Creature â€” Cat Shaman ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/36_Sunheart Healer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Sunheart Healer.png"
 			}
 		},
 		{
 			"name": "Wounded Griffin",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Griffin",
+			"type": "Creature â€” Griffin ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/43_Wounded Griffin.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Wounded Griffin.png"
 			}
 		},
 		{
 			"name": "Nightbringer Colossus",
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}{B}",
-			"type": "Creature — Elf Demon",
+			"type": "Creature â€” Elf Demon ",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/108_Nightbringer Colossus.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nightbringer Colossus.png"
 			}
 		},
 		{
 			"name": "Trichloratops",
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/200_Trichloratops.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Trichloratops.png"
 			}
 		},
 		{
 			"name": "Enchanter of Nu'Ul",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Elf Warlock",
+			"type": "Creature â€” Elf Warlock ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/12_Enchanter of Nu'Ul.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Enchanter of Nu'Ul.png"
 			}
 		},
 		{
@@ -1777,7 +1776,7 @@
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/116_Rite of Resurrection.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rite of Resurrection.png"
 			}
 		},
 		{
@@ -1787,27 +1786,27 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/70_Parity of Fate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Parity of Fate.png"
 			}
 		},
 		{
 			"name": "Exios, Paladin of Nu'Ul",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}{G}",
-			"type": "Legendary Creature — Cat Knight Warlock",
+			"type": "Legendary Creature â€” Cat Knight Warlock  ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/220_Exios, Paladin of Nu'Ul.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Exios, Paladin of Nu'Ul.png"
 			}
 		},
 		{
 			"name": "Everburn Egg",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Phoenix Egg",
+			"type": "Creature â€” Phoenix Egg ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/133_Everburn Egg.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Everburn Egg.png"
 			}
 		},
 		{
@@ -1817,17 +1816,17 @@
 			"type": "Artifact",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/135_Everburn Quill.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Everburn Quill.png"
 			}
 		},
 		{
 			"name": "Blazing Everburn",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Phoenix",
+			"type": "Creature â€” Phoenix ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/127_Blazing Everburn.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Blazing Everburn.png"
 			}
 		},
 		{
@@ -1837,17 +1836,17 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/194_Scavenge the Remains.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scavenge the Remains.png"
 			}
 		},
 		{
 			"name": "Martyr's Protection",
 			"rarity": "uncommon",
-			"mana_cost": "{GW}",
+			"mana_cost": "{G/W}",
 			"type": "Instant",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/293_Martyr's Protection.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Martyr's Protection.png"
 			}
 		},
 		{
@@ -1857,7 +1856,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/85_Abyssal Oblation.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Abyssal Oblation.png"
 			}
 		},
 		{
@@ -1867,27 +1866,27 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/196_Scramble Ahead.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Scramble Ahead.png"
 			}
 		},
 		{
 			"name": "Acolyte of Nu'Ul",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf Warlock",
+			"type": "Creature â€” Elf Warlock ",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/86_Acolyte of Nu'Ul.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Acolyte of Nu'Ul.png"
 			}
 		},
 		{
 			"name": "Nu'Ul, Patron of the Deep",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Enchantment Creature — Elder Horror",
+			"type": "Legendary Enchantment Creature â€” Elder Horror ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/243_Nu'Ul, Patron of the Deep.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nu'Ul, Patron of the Deep.png"
 			}
 		},
 		{
@@ -1897,7 +1896,7 @@
 			"type": "Instant",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/171_Desperate Measures.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Desperate Measures.png"
 			}
 		},
 		{
@@ -1907,17 +1906,17 @@
 			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/111_Nu'Ul's Compulsion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nu'Ul's Compulsion.png"
 			}
 		},
 		{
 			"name": "Snapcaster Sorcerer",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Sorcerer",
+			"type": "Creature â€” Human Sorcerer ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/80_Snapcaster Sorcerer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Snapcaster Sorcerer.png"
 			}
 		},
 		{
@@ -1927,7 +1926,7 @@
 			"type": "Sorcery",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/160_Thrill of Danger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Thrill of Danger.png"
 			}
 		},
 		{
@@ -1937,7 +1936,7 @@
 			"type": "Instant",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/91_Desperate Bargain.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Desperate Bargain.png"
 			}
 		},
 		{
@@ -1947,17 +1946,17 @@
 			"type": "Sorcery",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/163_Uvathkolsil's Ire.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Uvathkolsil's Ire.png"
 			}
 		},
 		{
 			"name": "Vitriol",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/202_Vitriol.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Vitriol.png"
 			}
 		},
 		{
@@ -1967,17 +1966,17 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/35_Sunheart Ambush.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Sunheart Ambush.png"
 			}
 		},
 		{
 			"name": "Pharani Elder",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Plant Shaman",
+			"type": "Creature â€” Plant Shaman ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/185_Pharani Elder.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Elder.png"
 			}
 		},
 		{
@@ -1987,7 +1986,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/140_Fool the Patrons.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fool the Patrons.png"
 			}
 		},
 		{
@@ -1997,7 +1996,7 @@
 			"type": "Instant",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/254_Reject Destiny.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Reject Destiny.png"
 			}
 		},
 		{
@@ -2007,7 +2006,7 @@
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/246_Perceive Fate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Perceive Fate.png"
 			}
 		},
 		{
@@ -2017,7 +2016,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/60_Final Say.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Final Say.png"
 			}
 		},
 		{
@@ -2027,87 +2026,87 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/125_Wretched End.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Wretched End.png"
 			}
 		},
 		{
 			"name": "Ghipor-Lang, Crystal Lich",
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}{W}",
-			"type": "Legendary Creature — Golem Monk",
+			"type": "Legendary Creature â€” Golem Monk ",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/227_Ghipor-Lang, Crystal Lich.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ghipor-Lang, Crystal Lich.png"
 			}
 		},
 		{
 			"name": "Archmage of Foresight",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Giant Wizard",
+			"type": "Creature â€” Giant Wizard ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/48_Archmage of Foresight.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Archmage of Foresight.png"
 			}
 		},
 		{
 			"name": "Monastery Tutor",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
-			"type": "Creature — Human Monk",
+			"type": "Creature â€” Human Monk ",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/241_Monastery Tutor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Monastery Tutor.png"
 			}
 		},
 		{
 			"name": "Alvaesti Prodigy",
 			"rarity": "common",
-			"mana_cost": "{U}{UR}{R}",
-			"type": "Creature — Human Monk",
+			"mana_cost": "{U}{U/R}{R}",
+			"type": "Creature â€” Human Monk ",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/272_Alvaesti Prodigy.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Alvaesti Prodigy.png"
 			}
 		},
 		{
 			"name": "Phoenix Hatcher",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Sorcerer",
+			"type": "Creature â€” Human Sorcerer ",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/156_Phoenix Hatcher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Phoenix Hatcher.png"
 			}
 		},
 		{
 			"name": "Runic Bractosaur",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/192_Runic Bractosaur.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Runic Bractosaur.png"
 			}
 		},
 		{
 			"name": "Rhizome Frillback",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/191_Rhizome Frillback.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rhizome Frillback.png"
 			}
 		},
 		{
 			"name": "Alvaesti Fugitive",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/45_Alvaesti Fugitive.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Alvaesti Fugitive.png"
 			}
 		},
 		{
@@ -2117,97 +2116,97 @@
 			"type": "Land",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/344_Fallen God's Sanctum.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fallen God's Sanctum.png"
 			}
 		},
 		{
 			"name": "Uvathkolsil",
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}{U}{U}{B}{R}{R}{G}",
-			"type": "Legendary Creature — Elder Dragon God",
+			"type": "Legendary Creature â€” Elder Dragon God ",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/268_Uvathkolsil.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Uvathkolsil.png"
 			}
 		},
 		{
 			"name": "Ivekki Soldier",
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Knight",
+			"type": "Creature â€” Knight ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/231_Ivekki Soldier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ivekki Soldier.png"
 			}
 		},
 		{
 			"name": "Kaeva Captain",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Knight",
+			"type": "Creature â€” Knight ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/233_Kaeva Captain.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Kaeva Captain.png"
 			}
 		},
 		{
 			"name": "Espratan Hunter",
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Elf Warrior",
+			"type": "Creature â€” Elf Warrior ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/218_Espratan Hunter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Espratan Hunter.png"
 			}
 		},
 		{
 			"name": "Priest of Truth",
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Elf Cleric",
+			"type": "Creature â€” Elf Cleric ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/252_Priest of Truth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Priest of Truth.png"
 			}
 		},
 		{
 			"name": "Leafranger Duo",
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Plant Elf Scout",
+			"type": "Creature â€” Plant Elf Scout ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/237_Leafranger Duo.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Leafranger Duo.png"
 			}
 		},
 		{
 			"name": "Sunheart Ascendant",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Cat Cleric",
+			"type": "Creature â€” Cat Cleric ",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/263_Sunheart Ascendant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Sunheart Ascendant.png"
 			}
 		},
 		{
 			"name": "Concussive Charger",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/212_Concussive Charger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Concussive Charger.png"
 			}
 		},
 		{
 			"name": "Spirited Raptor",
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/262_Spirited Raptor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Spirited Raptor.png"
 			}
 		},
 		{
@@ -2217,7 +2216,7 @@
 			"type": "Land",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/341_Derelict Factory.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Derelict Factory.png"
 			}
 		},
 		{
@@ -2227,7 +2226,7 @@
 			"type": "Land",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/340_Decrepit Tower.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Decrepit Tower.png"
 			}
 		},
 		{
@@ -2237,7 +2236,7 @@
 			"type": "Artifact",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/325_Monument to Determination.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Monument to Determination.png"
 			}
 		},
 		{
@@ -2247,47 +2246,47 @@
 			"type": "Artifact",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/312_Dhone Sarcophagus.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dhone Sarcophagus.png"
 			}
 		},
 		{
 			"name": "Dhone Tombskimmer",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/215_Dhone Tombskimmer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dhone Tombskimmer.png"
 			}
 		},
 		{
 			"name": "Drimmvoke Spear",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/315_Drimmvoke Spear.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Drimmvoke Spear.png"
 			}
 		},
 		{
 			"name": "Blade of Silence",
 			"rarity": "mythic",
 			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Equipment",
+			"type": "Legendary Artifact â€” Equipment ",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/306_Blade of Silence.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Blade of Silence.png"
 			}
 		},
 		{
 			"name": "Awakened Frost-Wurm",
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/51_Awakened Frost-Wurm.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Awakened Frost-Wurm.png"
 			}
 		},
 		{
@@ -2297,57 +2296,57 @@
 			"type": "Artifact",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/311_Dennizit Warbell.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dennizit Warbell.png"
 			}
 		},
 		{
 			"name": "Inner Strength",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/15_Inner Strength.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Inner Strength.png"
 			}
 		},
 		{
 			"name": "Mage Armor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/18_Mage Armor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mage Armor.png"
 			}
 		},
 		{
 			"name": "Let Piros Ranger",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Elf Ranger",
+			"type": "Creature â€” Elf Ranger ",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/104_Let Piros Ranger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Let Piros Ranger.png"
 			}
 		},
 		{
 			"name": "Let Piros Guard",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Elf Knight",
+			"type": "Creature â€” Elf Knight ",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/103_Let Piros Guard.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Let Piros Guard.png"
 			}
 		},
 		{
 			"name": "Let Piros Slaver",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Elf Noble",
+			"type": "Creature â€” Elf Noble ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/238_Let Piros Slaver.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Let Piros Slaver.png"
 			}
 		},
 		{
@@ -2357,7 +2356,7 @@
 			"type": "Enchantment",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/74_Prophetic Web.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Prophetic Web.png"
 			}
 		},
 		{
@@ -2367,127 +2366,127 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/203_Voice of Allaveth's Awakening.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Voice of Allaveth's Awakening.png"
 			}
 		},
 		{
 			"name": "Forecasted Approach",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/63_Forecasted Approach.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Forecasted Approach.png"
 			}
 		},
 		{
 			"name": "Aphra, Nature's Guardian",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Elk Noble",
+			"type": "Legendary Creature â€” Elk Noble ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/1_Aphra, Nature's Guardian.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Aphra, Nature's Guardian.png"
 			}
 		},
 		{
 			"name": "Baeonax, Thieving Erudite",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Dragon Wizard",
+			"type": "Legendary Creature â€” Dragon Wizard ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/52_Baeonax, Thieving Erudite.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Baeonax, Thieving Erudite.png"
 			}
 		},
 		{
 			"name": "Malevolence, Witch-king",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Wraith Warlock",
+			"type": "Legendary Creature â€” Wraith Warlock ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/106_Malevolence, Witch-king.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Malevolence, Witch-king.png"
 			}
 		},
 		{
 			"name": "Cotay Leadon, Nurturer",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature — Plant Druid",
+			"type": "Legendary Creature â€” Plant Druid ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/170_Cotay Leadon, Nurturer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Cotay Leadon, Nurturer.png"
 			}
 		},
 		{
 			"name": "Snake Hatcher",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/197_Snake Hatcher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Snake Hatcher.png"
 			}
 		},
 		{
 			"name": "Sauros Hatcher",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/31_Sauros Hatcher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Sauros Hatcher.png"
 			}
 		},
 		{
 			"name": "Grub Hatcher",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/100_Grub Hatcher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Grub Hatcher.png"
 			}
 		},
 		{
 			"name": "Alvaesti Elder",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/44_Alvaesti Elder.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Alvaesti Elder.png"
 			}
 		},
 		{
 			"name": "Forgotten Hero",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Wraith",
+			"type": "Creature â€” Wraith ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/97_Forgotten Hero.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Forgotten Hero.png"
 			}
 		},
 		{
 			"name": "Eerie Armor",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Artifact Creature — Equipment Wraith",
+			"type": "Artifact Creature â€” Equipment Wraith  ",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/93_Eerie Armor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Eerie Armor.png"
 			}
 		},
 		{
 			"name": "Flamevolt Phoenix",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Phoenix",
+			"type": "Creature â€” Phoenix ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/138_Flamevolt Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Flamevolt Phoenix.png"
 			}
 		},
 		{
@@ -2497,57 +2496,57 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/6_Call to Battle.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Call to Battle.png"
 			}
 		},
 		{
 			"name": "Foretold Demise",
 			"rarity": "uncommon",
-			"mana_cost": "{UB}{UB}",
+			"mana_cost": "{U/B}{U/B}",
 			"type": "Instant",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/279_Foretold Demise.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Foretold Demise.png"
 			}
 		},
 		{
 			"name": "Nature's Edict",
 			"rarity": "uncommon",
-			"mana_cost": "{GW}{GW}",
+			"mana_cost": "{G/W}{G/W}",
 			"type": "Instant",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/295_Nature's Edict.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nature's Edict.png"
 			}
 		},
 		{
 			"name": "Rip From Eternity",
 			"rarity": "uncommon",
-			"mana_cost": "{WU}{WU}",
+			"mana_cost": "{W/U}{W/U}",
 			"type": "Instant",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/300_Rip From Eternity.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rip From Eternity.png"
 			}
 		},
 		{
 			"name": "Gruesome Slaughter",
 			"rarity": "uncommon",
-			"mana_cost": "{BR}{BR}",
+			"mana_cost": "{B/R}{B/R}",
 			"type": "Instant",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/286_Gruesome Slaughter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Gruesome Slaughter.png"
 			}
 		},
 		{
 			"name": "Burn Anew",
 			"rarity": "uncommon",
-			"mana_cost": "{RG}{RG}",
+			"mana_cost": "{R/G}{R/G}",
 			"type": "Instant",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/274_Burn Anew.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Burn Anew.png"
 			}
 		},
 		{
@@ -2557,7 +2556,7 @@
 			"type": "Instant",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/249_Postpone.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Postpone.png"
 			}
 		},
 		{
@@ -2567,7 +2566,7 @@
 			"type": "Enchantment",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/256_Rhythm of the Woods.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rhythm of the Woods.png"
 			}
 		},
 		{
@@ -2577,37 +2576,37 @@
 			"type": "Sorcery",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/253_Proteate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Proteate.png"
 			}
 		},
 		{
 			"name": "Shadow Sprite",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Creature — Faerie Wraith",
+			"type": "Creature â€” Faerie Wraith ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/259_Shadow Sprite.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shadow Sprite.png"
 			}
 		},
 		{
 			"name": "Chlorodon, Steward of the Weald",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Elder Plant Dinosaur",
+			"type": "Legendary Creature â€” Elder Plant Dinosaur  ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/211_Chlorodon, Steward of the Weald.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Chlorodon, Steward of the Weald.png"
 			}
 		},
 		{
 			"name": "Falcon Familiar",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/222_Falcon Familiar.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Falcon Familiar.png"
 			}
 		},
 		{
@@ -2617,107 +2616,107 @@
 			"type": "Enchantment",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/232_Ivexus' Crusade.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ivexus' Crusade.png"
 			}
 		},
 		{
 			"name": "Lightning Vortex",
 			"rarity": "common",
-			"mana_cost": "{1}{RW}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Instant",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/291_Lightning Vortex.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lightning Vortex.png"
 			}
 		},
 		{
 			"name": "King Ivexus, Warlord Crusader",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — Warrior Noble",
+			"type": "Legendary Creature â€” Warrior Noble ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/235_King Ivexus, Warlord Crusader.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/King Ivexus, Warlord Crusader.png"
 			}
 		},
 		{
 			"name": "Aldus, Spell Transmuter",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Legendary Creature — Human Wizard",
+			"type": "Legendary Creature â€” Human Wizard ",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/206_Aldus, Spell Transmuter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Aldus, Spell Transmuter.png"
 			}
 		},
 		{
-			"name": "Ælluin, Temporal Archmage",
+			"name": "Ã†lluin, Temporal Archmage",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Elf Wizard",
+			"type": "Legendary Creature â€” Elf Wizard ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/205_Ælluin, Temporal Archmage.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ã†lluin, Temporal Archmage.png"
 			}
 		},
 		{
-			"name": "Captain Pogrûz, Bounty's Bane",
+			"name": "Captain PogrÃ»z, Bounty's Bane",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Legendary Creature — Orc Pirate",
+			"type": "Legendary Creature â€” Orc Pirate ",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/210_Captain Pogrûz, Bounty's Bane.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Captain PogrÃ»z, Bounty's Bane.png"
 			}
 		},
 		{
 			"name": "Thrax, Necrose Reclaimer",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}{G}",
-			"type": "Legendary Creature — Plant Warlock",
+			"type": "Legendary Creature â€” Plant Warlock ",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/265_Thrax, Necrose Reclaimer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Thrax, Necrose Reclaimer.png"
 			}
 		},
 		{
 			"name": "Ruudy, Brutal Warsteed",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature — Rhino Mount",
+			"type": "Legendary Creature â€” Rhino Mount ",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/257_Ruudy, Brutal Warsteed.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ruudy, Brutal Warsteed.png"
 			}
 		},
 		{
 			"name": "Flametalon, Avatar of Rebirth",
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{G}{W}",
-			"type": "Legendary Creature — Phoenix Plant Dinosaur",
+			"type": "Legendary Creature â€” Phoenix Plant Dinosaur ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/223_Flametalon, Avatar of Rebirth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Flametalon, Avatar of Rebirth.png"
 			}
 		},
 		{
 			"name": "Dulakh Stormstomper",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}{R}",
-			"type": "Legendary Creature — Orc Warrior",
+			"type": "Legendary Creature â€” Orc Warrior ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/216_Dulakh Stormstomper.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dulakh Stormstomper.png"
 			}
 		},
 		{
 			"name": "Orala, Butcher of Creth",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Cat Warrior",
+			"type": "Legendary Creature â€” Cat Warrior ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/23_Orala, Butcher of Creth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Orala, Butcher of Creth.png"
 			}
 		},
 		{
@@ -2727,37 +2726,37 @@
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/137_Fervent Rage.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fervent Rage.png"
 			}
 		},
 		{
 			"name": "Phoenix Fledgeling",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Phoenix",
+			"type": "Creature â€” Phoenix ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/155_Phoenix Fledgeling.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Phoenix Fledgeling.png"
 			}
 		},
 		{
 			"name": "Goblin Scrollscorcher",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Goblin Sorcerer",
+			"type": "Creature â€” Goblin Sorcerer ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/142_Goblin Scrollscorcher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Goblin Scrollscorcher.png"
 			}
 		},
 		{
 			"name": "Spelljammer Sprite",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Faerie Warlock",
+			"type": "Creature â€” Faerie Warlock ",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/261_Spelljammer Sprite.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Spelljammer Sprite.png"
 			}
 		},
 		{
@@ -2767,27 +2766,27 @@
 			"type": "Sorcery",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/228_Glimpse the Unknowable.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Glimpse the Unknowable.png"
 			}
 		},
 		{
 			"name": "Yppotis, Spiral Giant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Creature — Cyclops Druid",
+			"type": "Legendary Creature â€” Cyclops Druid ",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/270_Yppotis, Spiral Giant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Yppotis, Spiral Giant.png"
 			}
 		},
 		{
 			"name": "Medustigmatops",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/179_Medustigmatops.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Medustigmatops.png"
 			}
 		},
 		{
@@ -2797,7 +2796,7 @@
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/204_War in the Weald.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/War in the Weald.png"
 			}
 		},
 		{
@@ -2807,37 +2806,37 @@
 			"type": "Enchantment",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/38_Taking Inventory.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Taking Inventory.png"
 			}
 		},
 		{
 			"name": "Arbiter of Anger",
 			"rarity": "common",
 			"mana_cost": "{5}{R}{R}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/126_Arbiter of Anger.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arbiter of Anger.png"
 			}
 		},
 		{
 			"name": "Immolating Everburn",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Phoenix",
+			"type": "Creature â€” Phoenix ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/145_Immolating Everburn.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Immolating Everburn.png"
 			}
 		},
 		{
 			"name": "Lumbering Shipmate",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Orc Pirate",
+			"type": "Creature â€” Orc Pirate ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/150_Lumbering Shipmate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lumbering Shipmate.png"
 			}
 		},
 		{
@@ -2847,7 +2846,7 @@
 			"type": "Instant",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/107_Mishap.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mishap.png"
 			}
 		},
 		{
@@ -2857,7 +2856,7 @@
 			"type": "Artifact",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/94_Eerie Bauble.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Eerie Bauble.png"
 			}
 		},
 		{
@@ -2867,7 +2866,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/119_Shake Faith.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shake Faith.png"
 			}
 		},
 		{
@@ -2877,7 +2876,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/76_Reconsider.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Reconsider.png"
 			}
 		},
 		{
@@ -2887,37 +2886,37 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/54_Cerebrate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Cerebrate.png"
 			}
 		},
 		{
 			"name": "Arbiter of Acceptance",
 			"rarity": "common",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/2_Arbiter of Acceptance.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arbiter of Acceptance.png"
 			}
 		},
 		{
 			"name": "Healer's Falcon",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/13_Healer's Falcon.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Healer's Falcon.png"
 			}
 		},
 		{
 			"name": "Meticulous Fencer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Elf",
+			"type": "Creature â€” Elf ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/20_Meticulous Fencer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Meticulous Fencer.png"
 			}
 		},
 		{
@@ -2927,27 +2926,27 @@
 			"type": "Instant",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/248_Phoenix's Fury.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Phoenix's Fury.png"
 			}
 		},
 		{
 			"name": "Indentured Lieutenant",
 			"rarity": "uncommon",
-			"mana_cost": "{WB}",
-			"type": "Creature — Elf Soldier",
+			"mana_cost": "{W/B}",
+			"type": "Creature â€” Elf Soldier ",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/287_Indentured Lieutenant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Indentured Lieutenant.png"
 			}
 		},
 		{
 			"name": "Cloak of Shadows",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/309_Cloak of Shadows.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Cloak of Shadows.png"
 			}
 		},
 		{
@@ -2957,7 +2956,7 @@
 			"type": "Artifact",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/326_Monument to Growth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Monument to Growth.png"
 			}
 		},
 		{
@@ -2967,17 +2966,17 @@
 			"type": "Artifact",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/327_Monument to Premonition.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Monument to Premonition.png"
 			}
 		},
 		{
 			"name": "Stone Watcher",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Shapeshifter",
+			"type": "Artifact Creature â€” Shapeshifter ",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/331_Stone Watcher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Stone Watcher.png"
 			}
 		},
 		{
@@ -2987,27 +2986,27 @@
 			"type": "Sorcery",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/240_March Upon the Gates.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/March Upon the Gates.png"
 			}
 		},
 		{
 			"name": "Pharani Wayfinder",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Plant Scout",
+			"type": "Creature â€” Plant Scout ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/247_Pharani Wayfinder.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Wayfinder.png"
 			}
 		},
 		{
 			"name": "Espratan Looter",
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Elf Wizard",
+			"type": "Creature â€” Elf Wizard ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/219_Espratan Looter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Espratan Looter.png"
 			}
 		},
 		{
@@ -3017,27 +3016,27 @@
 			"type": "Instant",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/260_Shocking Truth.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shocking Truth.png"
 			}
 		},
 		{
 			"name": "Autotomic Crusher",
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Lobster",
+			"type": "Creature â€” Lobster ",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/207_Autotomic Crusher.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Autotomic Crusher.png"
 			}
 		},
 		{
 			"name": "Twilight Duelist",
 			"rarity": "common",
-			"mana_cost": "{BR}",
-			"type": "Creature — Vampire Elf",
+			"mana_cost": "{B/R}",
+			"type": "Creature â€” Vampire Elf ",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/303_Twilight Duelist.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Twilight Duelist.png"
 			}
 		},
 		{
@@ -3047,37 +3046,37 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/180_Megafaunize.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Megafaunize.png"
 			}
 		},
 		{
 			"name": "Arbiter of Depression",
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/46_Arbiter of Depression.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arbiter of Depression.png"
 			}
 		},
 		{
 			"name": "Arbiter of Bargaining",
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/88_Arbiter of Bargaining.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arbiter of Bargaining.png"
 			}
 		},
 		{
 			"name": "Arbiter of Denial",
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant ",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/166_Arbiter of Denial.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Arbiter of Denial.png"
 			}
 		},
 		{
@@ -3087,487 +3086,487 @@
 			"type": "Artifact",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/330_Smothering Stone.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Smothering Stone.png"
 			}
 		},
 		{
 			"name": "Thopter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Thopter",
+			"type": "Token Artifact Creature â€” Thopter ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/44_Thopter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Thopter.png"
 			}
 		},
 		{
 			"name": "Citizen",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Citizen",
+			"type": "Token Creature â€” Citizen ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/29_Citizen.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Citizen.png"
 			}
 		},
 		{
 			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Soldier",
+			"type": "Token Creature â€” Soldier ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/37_Soldier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Soldier.png"
 			}
 		},
 		{
 			"name": "Shark",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Shark",
+			"type": "Token Creature â€” Shark ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/36_Shark.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shark.png"
 			}
 		},
 		{
 			"name": "Golem",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Golem",
+			"type": "Token Artifact Creature â€” Golem ",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/41_Golem.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Golem.png"
 			}
 		},
 		{
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
+			"type": "Token Artifact â€” Treasure ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/45_Treasure.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Treasure.png"
 			}
 		},
 		{
 			"name": "Clue",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Clue",
+			"type": "Token Artifact â€” Clue ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/39_Clue.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Clue.png"
 			}
 		},
 		{
 			"name": "Food",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Food",
+			"type": "Token Artifact â€” Food ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/40_Food.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Food.png"
 			}
 		},
 		{
 			"name": "Ornithopter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Thopter",
+			"type": "Token Artifact Creature â€” Thopter ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/42_Ornithopter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ornithopter.png"
 			}
 		},
 		{
 			"name": "Bird",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bird",
+			"type": "Token Creature â€” Bird ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/10_Bird.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bird.png"
 			}
 		},
 		{
 			"name": "Ox",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Ox",
+			"type": "Token Creature â€” Ox ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/7_Ox.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Ox.png"
 			}
 		},
 		{
 			"name": "Leech",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Leech",
+			"type": "Token Creature â€” Leech ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/16_Leech.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Leech.png"
 			}
 		},
 		{
 			"name": "Bird",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bird",
+			"type": "Token Creature â€” Bird ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/1_Bird.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bird.png"
 			}
 		},
 		{
 			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Soldier",
+			"type": "Token Creature â€” Soldier ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/8_Soldier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Soldier.png"
 			}
 		},
 		{
 			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spirit",
+			"type": "Token Creature â€” Spirit ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/9_Spirit.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Spirit.png"
 			}
 		},
 		{
 			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental",
+			"type": "Token Creature â€” Elemental ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/20_Elemental.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Elemental.png"
 			}
 		},
 		{
 			"name": "Blood",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Blood",
+			"type": "Token Artifact â€” Blood ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/38_Blood.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Blood.png"
 			}
 		},
 		{
 			"name": "Illusion",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Illusion",
+			"type": "Token Creature â€” Illusion ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/21_Illusion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Illusion.png"
 			}
 		},
 		{
 			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Zombie",
+			"type": "Token Creature â€” Zombie ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/18_Zombie.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Zombie.png"
 			}
 		},
 		{
 			"name": "Plant",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant",
+			"type": "Token Creature â€” Plant ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/34_Plant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Plant.png"
 			}
 		},
 		{
 			"name": "Plant",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant",
+			"type": "Token Creature â€” Plant ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/33_Plant.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Plant.png"
 			}
 		},
 		{
 			"name": "Cat",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Cat",
+			"type": "Token Creature â€” Cat ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/2_Cat.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Cat.png"
 			}
 		},
 		{
 			"name": "Goblin Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Goblin Soldier",
+			"type": "Token Creature â€” Goblin Soldier ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/31_Goblin Soldier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Goblin Soldier.png"
 			}
 		},
 		{
 			"name": "Kobold Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Kobold Soldier",
+			"type": "Token Creature â€” Kobold Soldier ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/32_Kobold Soldier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Kobold Soldier.png"
 			}
 		},
 		{
 			"name": "Bird Illusion",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bird Illusion",
+			"type": "Token Creature â€” Bird  Illusion ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/12_Bird Illusion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bird Illusion.png"
 			}
 		},
 		{
 			"name": "Elk",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elk",
+			"type": "Token Creature â€” Elk ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/24_Elk.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Elk.png"
 			}
 		},
 		{
 			"name": "Elf",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elf",
+			"type": "Token Creature â€” Elf ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/5_Elf.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Elf.png"
 			}
 		},
 		{
 			"name": "Elf",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elf",
+			"type": "Token Creature â€” Elf ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/14_Elf.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Elf.png"
 			}
 		},
 		{
 			"name": "Plant Dinosaur",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant Dinosaur",
+			"type": "Token Creature â€” Plant Dinosaur ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/35_Plant Dinosaur.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Plant Dinosaur.png"
 			}
 		},
 		{
 			"name": "Monk",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Monk",
+			"type": "Token Creature â€” Monk ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/6_Monk.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Monk.png"
 			}
 		},
 		{
 			"name": "Zombie Elf",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Zombie Elf",
+			"type": "Token Creature â€” Zombie Elf ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/19_Zombie Elf.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Zombie Elf.png"
 			}
 		},
 		{
 			"name": "Phoenix",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Phoenix",
+			"type": "Token Creature â€” Phoenix ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/23_Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Phoenix.png"
 			}
 		},
 		{
 			"name": "Phoenix",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Phoenix",
+			"type": "Token Creature â€” Phoenix ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/22_Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Phoenix.png"
 			}
 		},
 		{
 			"name": "Elf",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elf",
+			"type": "Token Creature â€” Elf ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/4_Elf.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Elf.png"
 			}
 		},
 		{
 			"name": "Plant Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant Elemental",
+			"type": "Token Creature â€” Plant Elemental ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/26_Plant Elemental.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Plant Elemental.png"
 			}
 		},
 		{
 			"name": "Wraith",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Wraith",
+			"type": "Token Creature â€” Wraith ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/17_Wraith.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Wraith.png"
 			}
 		},
 		{
 			"name": "Snake",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Snake",
+			"type": "Token Creature â€” Snake ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/28_Snake.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Snake.png"
 			}
 		},
 		{
 			"name": "Dinosaur",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Dinosaur",
+			"type": "Token Creature â€” Dinosaur ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/3_Dinosaur.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Dinosaur.png"
 			}
 		},
 		{
 			"name": "Insect",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Insect",
+			"type": "Token Creature â€” Insect ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/15_Insect.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Insect.png"
 			}
 		},
 		{
 			"name": "Elf Wraith",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elf Wraith",
+			"type": "Token Creature â€” Elf Wraith ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/30_Elf Wraith.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Elf Wraith.png"
 			}
 		},
 		{
 			"name": "Plant Dinosaur",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant Dinosaur",
+			"type": "Token Creature â€” Plant Dinosaur ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/25_Plant Dinosaur.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Plant Dinosaur.png"
 			}
 		},
 		{
 			"name": "Drimmvoke Mimetic",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Shapeshifter",
+			"type": "Artifact Creature â€” Shapeshifter ",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/314_Drimmvoke Mimetic.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Drimmvoke Mimetic.png"
 			}
 		},
 		{
 			"name": "Shapeshifter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Shapeshifter",
+			"type": "Token Artifact Creature â€” Shapeshifter ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/43_Shapeshifter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shapeshifter.png"
 			}
 		},
 		{
 			"name": "Mock Man",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Shapeshifter",
+			"type": "Artifact Creature â€” Shapeshifter ",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/324_Mock Man.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mock Man.png"
 			}
 		},
 		{
 			"name": "Copy Cat",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Shapeshifter",
+			"type": "Creature â€” Shapeshifter ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/9_Copy Cat.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Copy Cat.png"
 			}
 		},
 		{
 			"name": "Shapeshifter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Shapeshifter",
+			"type": "Token Creature â€” Shapeshifter ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/27_Shapeshifter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shapeshifter.png"
 			}
 		},
 		{
 			"name": "Deifoliolata Imitator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/214_Deifoliolata Imitator.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Deifoliolata Imitator.png"
 			}
 		},
 		{
 			"name": "Nu'Ul's Faithful",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Elf Warlock",
+			"type": "Creature â€” Elf Warlock ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/112_Nu'Ul's Faithful.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nu'Ul's Faithful.png"
 			}
 		},
 		{
@@ -3577,37 +3576,37 @@
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/69_Off the Top.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Off the Top.png"
 			}
 		},
 		{
 			"name": "Drimm Innovator",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Drimm Artificer",
+			"type": "Creature â€” Drimm Artificer ",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/58_Drimm Innovator.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Drimm Innovator.png"
 			}
 		},
 		{
 			"name": "Flechan Longbow",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/318_Flechan Longbow.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Flechan Longbow.png"
 			}
 		},
 		{
 			"name": "Tuulvoke Crystal",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Tuulvoke Crystal",
+			"type": "Token Artifact â€” Tuulvoke Crystal ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/46_Tuulvoke Crystal.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tuulvoke Crystal.png"
 			}
 		},
 		{
@@ -3617,7 +3616,7 @@
 			"type": "Artifact",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/162_Tuulvoke Synthesizer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Tuulvoke Synthesizer.png"
 			}
 		},
 		{
@@ -3627,7 +3626,7 @@
 			"type": "Artifact",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/184_Pharani Burrowmaker.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Burrowmaker.png"
 			}
 		},
 		{
@@ -3637,17 +3636,17 @@
 			"type": "Artifact",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/186_Pharani Heirloom.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Heirloom.png"
 			}
 		},
 		{
 			"name": "Blade of Bonds",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/4_Blade of Bonds.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Blade of Bonds.png"
 			}
 		},
 		{
@@ -3657,27 +3656,27 @@
 			"type": "Artifact",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/62_Font of Fantasy.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Font of Fantasy.png"
 			}
 		},
 		{
 			"name": "Espratan Elfwalker",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Elf Golem",
+			"type": "Artifact Creature â€” Elf Golem ",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/317_Espratan Elfwalker.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Espratan Elfwalker.png"
 			}
 		},
 		{
 			"name": "Fallah Brotherblade",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/136_Fallah Brotherblade.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fallah Brotherblade.png"
 			}
 		},
 		{
@@ -3687,7 +3686,7 @@
 			"type": "Artifact",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/193_Saurobloom Relic.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Saurobloom Relic.png"
 			}
 		},
 		{
@@ -3697,37 +3696,37 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/110_Nu'Ul's Blessing.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Nu'Ul's Blessing.png"
 			}
 		},
 		{
 			"name": "Memorial of the Forgotten Champion",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Shapeshifter",
+			"type": "Artifact Creature â€” Shapeshifter ",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/323_Memorial of the Forgotten Champion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Memorial of the Forgotten Champion.png"
 			}
 		},
 		{
 			"name": "Bird",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bird",
+			"type": "Token Creature â€” Bird ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/11_Bird.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Bird.png"
 			}
 		},
 		{
 			"name": "Uvathkolsil's Redemption",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/39_Uvathkolsil's Redemption.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Uvathkolsil's Redemption.png"
 			}
 		},
 		{
@@ -3737,197 +3736,197 @@
 			"type": "Artifact",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/42_Wellspring of Hope.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Wellspring of Hope.png"
 			}
 		},
 		{
 			"name": "Surveyor's Companion",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/37_Surveyor's Companion.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Surveyor's Companion.png"
 			}
 		},
 		{
 			"name": "Uvathkolsil's Legacy",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/164_Uvathkolsil's Legacy.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Uvathkolsil's Legacy.png"
 			}
 		},
 		{
 			"name": "Goblin Warcrier",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Goblin",
+			"type": "Creature â€” Goblin ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/143_Goblin Warcrier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Goblin Warcrier.png"
 			}
 		},
 		{
 			"name": "Breath of Fate",
 			"rarity": "common",
-			"mana_cost": "{2}{2R}{R}",
+			"mana_cost": "{2}{2/R}{R}",
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/128_Breath of Fate.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Breath of Fate.png"
 			}
 		},
 		{
 			"name": "Pharani Protector",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Plant Warrior",
+			"type": "Creature â€” Plant Warrior ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/188_Pharani Protector.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Protector.png"
 			}
 		},
 		{
 			"name": "Inviting Spectacle",
 			"rarity": "common",
-			"mana_cost": "{RW}{RW}",
+			"mana_cost": "{R/W}{R/W}",
 			"type": "Sorcery",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/288_Inviting Spectacle.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Inviting Spectacle.png"
 			}
 		},
 		{
 			"name": "Frozen Wish",
 			"rarity": "uncommon",
-			"mana_cost": "{2U}",
+			"mana_cost": "{2/U}",
 			"type": "Enchantment",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/66_Frozen Wish.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Wish.png"
 			}
 		},
 		{
 			"name": "Mystic of Nu'Ul",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{WB}{WB}",
-			"type": "Creature — Elf Cleric",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Creature â€” Elf Cleric ",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/294_Mystic of Nu'Ul.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Mystic of Nu'Ul.png"
 			}
 		},
 		{
 			"name": "Pharani Mentor",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Plant Dinosaur",
+			"type": "Creature â€” Plant Dinosaur ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/187_Pharani Mentor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Pharani Mentor.png"
 			}
 		},
 		{
 			"name": "Loffe, Raptor Cultivator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Legendary Creature — Plant Warrior",
+			"type": "Legendary Creature â€” Plant Warrior ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/239_Loffe, Raptor Cultivator.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Loffe, Raptor Cultivator.png"
 			}
 		},
 		{
 			"name": "Burn Through",
 			"rarity": "rare",
-			"mana_cost": "{R}{RG}{G}",
+			"mana_cost": "{R}{R/G}{G}",
 			"type": "Instant",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/275_Burn Through.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Burn Through.png"
 			}
 		},
 		{
 			"name": "Quespereth's Prefect",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Elf",
+			"type": "Creature â€” Elf ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/28_Quespereth's Prefect.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Quespereth's Prefect.png"
 			}
 		},
 		{
 			"name": "Quespereth the Great",
 			"rarity": "rare",
-			"mana_cost": "{W}{WB}{B}",
-			"type": "Legendary Creature — Elf Sorcerer",
+			"mana_cost": "{W}{W/B}{B}",
+			"type": "Legendary Creature â€” Elf Sorcerer ",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/299_Quespereth the Great.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Quespereth the Great.png"
 			}
 		},
 		{
 			"name": "Military's Adviser",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Knight",
+			"type": "Creature â€” Knight ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/21_Military's Adviser.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Military's Adviser.png"
 			}
 		},
 		{
 			"name": "Vhaedeth of the Growing Blaze",
 			"rarity": "uncommon",
-			"mana_cost": "{RG}{RG}",
-			"type": "Legendary Creature — Plant Dinosaur Mount",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Legendary Creature â€” Plant Dinosaur Mount ",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/304_Vhaedeth of the Growing Blaze.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Vhaedeth of the Growing Blaze.png"
 			}
 		},
 		{
 			"name": "Sprout Tender",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{X}{GW}",
-			"type": "Creature — Elf Druid",
+			"mana_cost": "{X}{X}{G/W}",
+			"type": "Creature â€” Elf Druid ",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/301_Sprout Tender.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Sprout Tender.png"
 			}
 		},
 		{
 			"name": "Snappy Archaeologist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/81_Snappy Archaeologist.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Snappy Archaeologist.png"
 			}
 		},
 		{
 			"name": "Volq Grenadier",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Sorcerer",
+			"type": "Creature â€” Elemental Sorcerer ",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/165_Volq Grenadier.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Volq Grenadier.png"
 			}
 		},
 		{
 			"name": "Esso Overseer",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Elf Noble",
+			"type": "Creature â€” Elf Noble ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/95_Esso Overseer.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Esso Overseer.png"
 			}
 		},
 		{
@@ -3937,7 +3936,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/115_Puppet Existence.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Puppet Existence.png"
 			}
 		},
 		{
@@ -3947,17 +3946,17 @@
 			"type": "Instant",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/198_Summer's Veil.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Summer's Veil.png"
 			}
 		},
 		{
 			"name": "Kinkud, Vessel of Uvathkolsil",
 			"rarity": "rare",
-			"mana_cost": "{2}{UR}{UR}",
-			"type": "Legendary Creature — Dragon Cleric",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Legendary Creature â€” Dragon Cleric ",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/289_Kinkud, Vessel of Uvathkolsil.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Kinkud, Vessel of Uvathkolsil.png"
 			}
 		},
 		{
@@ -3967,27 +3966,27 @@
 			"type": "Artifact",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/131_Drimmalak Forge.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Drimmalak Forge.png"
 			}
 		},
 		{
 			"name": "Faerie Looter",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Faerie",
+			"type": "Creature â€” Faerie ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/59_Faerie Looter.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Faerie Looter.png"
 			}
 		},
 		{
 			"name": "Kobold Squire",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Kobold Scout",
+			"type": "Creature â€” Kobold Scout ",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/147_Kobold Squire.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Kobold Squire.png"
 			}
 		},
 		{
@@ -3997,77 +3996,77 @@
 			"type": "Instant",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/79_Shelter in Ice.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Shelter in Ice.png"
 			}
 		},
 		{
 			"name": "Frozen Infection",
 			"rarity": "common",
-			"mana_cost": "{2}{UB}",
+			"mana_cost": "{2}{U/B}",
 			"type": "Enchantment",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/282_Frozen Infection.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Infection.png"
 			}
 		},
 		{
 			"name": "Archaeologist Surveyor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Ranger",
+			"type": "Creature â€” Human Ranger ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/47_Archaeologist Surveyor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Archaeologist Surveyor.png"
 			}
 		},
 		{
 			"name": "Frozen Bloom",
 			"rarity": "common",
-			"mana_cost": "{2G}{U}",
+			"mana_cost": "{2/G}{U}",
 			"type": "Enchantment",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/224_Frozen Bloom.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Bloom.png"
 			}
 		},
 		{
 			"name": "Frozen Ancestor",
 			"rarity": "common",
-			"mana_cost": "{1}{WU}",
+			"mana_cost": "{1}{W/U}",
 			"type": "Enchantment",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/280_Frozen Ancestor.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Ancestor.png"
 			}
 		},
 		{
 			"name": "Frozen Force",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{RW}{RW}{U}",
+			"mana_cost": "{1}{R/W}{R/W}{U}",
 			"type": "Enchantment",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/281_Frozen Force.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Frozen Force.png"
 			}
 		},
 		{
 			"name": "Fish",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Fish",
+			"type": "Token Creature â€” Fish ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/13_Fish.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Fish.png"
 			}
 		},
 		{
 			"name": "Rhy and Gallere",
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
-			"type": "Legendary Creature — Plant Elf Noble",
+			"type": "Legendary Creature â€” Plant Elf Noble ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/255_Rhy and Gallere.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rhy and Gallere.png"
 			}
 		},
 		{
@@ -4077,754 +4076,401 @@
 			"type": "Artifact",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/30_Rune of Control.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Rune of Control.png"
 			}
 		},
 		{
 			"name": "Lifebound Duo",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Elf",
+			"type": "Creature â€” Elf ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/17_Lifebound Duo.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lifebound Duo.png"
 			}
 		},
 		{
 			"name": "Lifebound Enemies",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf",
+			"type": "Creature â€” Elf ",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/105_Lifebound Enemies.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Lifebound Enemies.png"
 			}
 		},
 		{
 			"name": "Patient Tracker",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Elf Ranger",
+			"type": "Creature â€” Elf Ranger ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLD-files/img/26_Patient Tracker.png"
+				"en": "https://kidkamando.github.io/sets/VWT-Files/img/Patient Tracker.png"
 			}
 		},
-	]
-
-[rare(1)]
-	1 Therin, Displaced Through Time
+		]
+	[RareSlot(1)]
 	2 Exios, Tormented Savior
-	1 Noolo, Graviturgy Innovator
-	1 Kinkud, Soul Divided
-	2 Lucky Coin
-	2 Pitfall Trap
-	2 Longleaf Phoenix
-	2 Bottoms Up
-	2 Altar of Recovery
-	2 Frenzied Underling
-	2 Claim the Spoils
-	2 Lugmok, Son of Mokmok
-	1 Mokmok, Lord of Greed
-	1 Bitter Isolation
-	2 Paradigm of Hope
-	2 Paradigm of Perserverance
-	2 Paradigm of Renewal
-	2 Paradigm of Passion
-	2 Paradigm of Knowledge
-	1 Kastyr, Shaper of Destiny
-	2 Nexen Templar
-	2 Boreal Floe
-	2 Dawn Titan
-	2 Boiling Lahar
-	2 Collapsed Mine
-	2 Coral Firth
-	2 Tempestuous Cliffs
-	2 Swirling Karst
-	2 Hostile Copse
-	2 Ruined Capitol
-	2 Morass Grove
-	2 Tender Pike
-	2 Siphon Walker
-	2 Buchanan, Rampaging Berserker
-	1 Endless Cycle
-	2 Rite of Resurrection
-	1 Exios, Paladin of Nu'Ul
-	2 Abyssal Oblation
-	2 Nu'Ul, Patron of the Deep
-	2 Snapcaster Sorcerer
-	2 Reject Destiny
-	1 Ghipor-Lang, Crystal Lich
-	2 Archmage of Foresight
-	2 Phoenix Hatcher
-	2 Runic Bractosaur
-	2 Rhizome Frillback
-	2 Alvaesti Fugitive
-	1 Uvathkolsil
-	2 Monument to Determination
-	1 Dhone Sarcophagus
-	1 Blade of Silence
-	2 Voice of Allaveth's Awakening
-	1 Aphra, Nature's Guardian
-	1 Baeonax, Thieving Erudite
-	1 Malevolence, Witch-king
-	1 Cotay Leadon, Nurturer
-	2 Snake Hatcher
-	2 Sauros Hatcher
-	2 Grub Hatcher
-	2 Alvaesti Elder
-	2 Flamevolt Phoenix
-	2 Call to Battle
-	2 Rhythm of the Woods
-	2 Proteate
-	2 Shadow Sprite
-	2 Chlorodon, Steward of the Weald
-	2 Falcon Familiar
-	2 King Ivexus, Warlord Crusader
-	2 Aldus, Spell Transmuter
-	2 Ælluin, Temporal Archmage
-	2 Captain Pogrûz, Bounty's Bane
-	2 Thrax, Necrose Reclaimer
-	2 Ruudy, Brutal Warsteed
-	2 Flametalon, Avatar of Rebirth
-	2 Dulakh Stormstomper
-	2 Orala, Butcher of Creth
-	2 Monument to Growth
-	2 Monument to Premonition
-	2 Drimm Innovator
-	2 Pharani Heirloom
-	2 Blade of Bonds
-	2 Fallah Brotherblade
-	2 Pharani Mentor
-	2 Burn Through
-	2 Quespereth's Prefect
-	2 Quespereth the Great
-	2 Kinkud, Vessel of Uvathkolsil
-	2 Drimmalak Forge
-	2 Rhy and Gallere
-[uncommon(4)]
-	4 Phoenix Flare
-	4 Top Up
-	4 Turn Undead
-	4 Everburn Phoenix
-	4 Gold Adder
-	4 Backstabbing Bloodsucker
-	4 Cornered Dreamer
-	4 Enveloping Flame
-	4 Prophetic Vision
-	4 Flashfire
-	4 Caught in the Blast
-	4 Perilous Prediction
-	4 Horror in the Deep
-	4 Frozen Light
-	4 Impish Excavator
-	4 Withered Wish
-	4 Blastclaw Shrimp
-	4 Soul Swap
-	4 Provisions of Sanctity
-	4 Lay the Seeds
-	4 Spiritual Ascent
-	4 Dawn Vulture
-	4 Crucial Diversion
-	4 Nesting Vinelasher
-	4 Looter's Luggage
-	4 Genesis Engine
-	4 Vacuum Carryall
-	4 Pharani Seedlayer
-	4 Pariah's Insight
-	4 Thundering Ooze
-	4 Impart Vitality
-	4 Ceremonial Stag
-	4 Chromatic Simulacrum
-	4 Medium of Last Rites
-	4 Ungulate Glen
-	4 Parity of Fate
-	4 Everburn Egg
-	4 Blazing Everburn
-	4 Scavenge the Remains
-	4 Martyr's Protection
-	4 Uvathkolsil's Ire
-	4 Fool the Patrons
-	4 Perceive Fate
-	4 Final Say
-	4 Wretched End
-	4 Monastery Tutor
-	4 Kaeva Captain
-	4 Drimmvoke Spear
-	4 Awakened Frost-Wurm
-	4 Mage Armor
-	4 Let Piros Slaver
-	4 Prophetic Web
-	4 Forecasted Approach
-	4 Forgotten Hero
-	4 Eerie Armor
-	4 Foretold Demise
-	4 Nature's Edict
-	4 Rip From Eternity
-	4 Gruesome Slaughter
-	4 Burn Anew
-	4 Ivexus' Crusade
-	4 Yppotis, Spiral Giant
-	4 Medustigmatops
-	4 War in the Weald
-	4 Taking Inventory
-	4 Phoenix's Fury
-	4 Indentured Lieutenant
-	4 Cloak of Shadows
-	4 Smothering Stone
-	4 Copy Cat
-	4 Deifoliolata Imitator
-	4 Pharani Burrowmaker
-	4 Font of Fantasy
-	4 Saurobloom Relic
-	4 Frozen Wish
-	4 Mystic of Nu'Ul
-	4 Loffe, Raptor Cultivator
-	4 Military's Adviser
-	4 Vhaedeth of the Growing Blaze
-	4 Sprout Tender
-	4 Snappy Archaeologist
-	4 Volq Grenadier
-	4 Archaeologist Surveyor
-	4 Frozen Force
-	4 Rune of Control
-[common(7)]
-	8 Tundra Warden
-	8 Scholar of Flames
-	8 Scholar of Frost
-	8 Scholar of Growth
-	8 Scholar of Decay
-	8 Scholar of Wisdom
-	8 Rune of Premonition
-	8 Mordant Mount
-	8 Pharani Bristlewall
-	8 Gag
-	8 Marrdri Marrowgiver
-	8 Keen-Eyed Condor
-	8 Shambling Knight
-	8 Fanatic Photachyodon
-	8 Ignition Drake
-	8 Fool's Ace
-	8 Garden Blazer
-	8 Avid Gambler
-	8 Arctic Hydromancer
-	8 Predatory Armor
-	8 Bleeding Out
-	8 Numbing Cold
-	8 Decaying Alchemist
-	8 Seeding the Ashes
-	8 Lightning Rod
-	8 Vampire Overseer
-	8 Arctic Direwolf
-	8 Frozen Mammoth
-	8 Frozen Orc
-	8 Frozen Elk
-	8 Frenzied Overlord
-	8 Corrosion
-	8 Internal Ignition
-	8 Backed Into a Corner
-	8 Arctic Whale
-	8 Trickster of the Flame
-	8 Ancient Tarantula
-	8 Consecrated Falcon
-	8 Flameshell Grub
-	8 Tarantula Youngling
-	8 Flitting Prankster
-	8 Sawtooth Pirahna
-	8 Iceflow Cetacean
-	8 Wipe Clean
-	8 Part Ways
-	8 From Burn to Brush
-	8 Green-Ear Lieutenant
-	8 Prankster Pixie
-	8 Peer Ahead
-	8 Rally the Forest
-	8 Dissipate
-	8 Drown in Noise
-	8 Strip Bare
-	8 Living Lodging
-	8 Nightly Scourge
-	8 Strafing Stormer
-	8 Terminus Dreadmaw
-	8 Fulminate
-	8 Compassionate Scavenger
-	8 Voice of Restraint
-	8 Templar's Apprentice
-	8 Resolute Squire
-	8 Toss to Fate
-	8 Maddening Mystic
-	8 Abraded Bluffs
-	8 Panicked Pouncer
-	8 Creepy Crawfish
-	8 Forlorn Flats
-	8 Jagged Barrens
-	8 Eroded Canyon
-	8 Bristling Backwoods
-	8 Creosote Heath
-	8 Festering Gulch
-	8 Lush Oasis
-	8 Lonely Arroyo
-	8 Soured Springs
-	8 Caravan Charger
-	8 Reckless Colossus
-	8 Helpful Scavenger
-	8 Crypt Custodian
-	8 Forgotten Witness
-	8 Hunted Tired
-	8 Evolving Wilds
-	8 Laggard Golem
-	8 Tithe Tortoise
-	8 Dire Driller
-	8 Emergency Assembly
-	8 Golem Schematic
-	8 Debilitating Denial
-	8 Perpetual Sloth
-	8 Spell Cycle
-	8 Scroll of Summoning
-	8 Nu'Ul's Servant
-	8 Sunheart Healer
-	8 Wounded Griffin
-	8 Nightbringer Colossus
-	8 Trichloratops
-	8 Enchanter of Nu'Ul
-	8 Everburn Quill
-	8 Scramble Ahead
-	8 Acolyte of Nu'Ul
-	8 Desperate Measures
-	8 Nu'Ul's Compulsion
-	8 Thrill of Danger
-	8 Desperate Bargain
-	8 Vitriol
-	8 Sunheart Ambush
-	8 Pharani Elder
-	8 Alvaesti Prodigy
-	8 Fallen God's Sanctum
-	8 Ivekki Soldier
-	8 Espratan Hunter
-	8 Priest of Truth
-	8 Leafranger Duo
-	8 Sunheart Ascendant
-	8 Concussive Charger
-	8 Spirited Raptor
-	8 Derelict Factory
-	8 Decrepit Tower
-	8 Dhone Tombskimmer
-	8 Dennizit Warbell
-	8 Inner Strength
-	8 Let Piros Ranger
-	8 Let Piros Guard
-	8 Postpone
-	8 Lightning Vortex
-	8 Fervent Rage
-	8 Phoenix Fledgeling
-	8 Goblin Scrollscorcher
-	8 Spelljammer Sprite
-	8 Glimpse the Unknowable
-	8 Arbiter of Anger
-	8 Immolating Everburn
-	8 Lumbering Shipmate
-	8 Mishap
-	8 Eerie Bauble
-	8 Shake Faith
-	8 Reconsider
-	8 Cerebrate
-	8 Arbiter of Acceptance
-	8 Healer's Falcon
-	8 Meticulous Fencer
-	8 Stone Watcher
-	8 March Upon the Gates
-	8 Pharani Wayfinder
-	8 Espratan Looter
-	8 Shocking Truth
-	8 Autotomic Crusher
-	8 Twilight Duelist
-	8 Megafaunize
-	8 Arbiter of Depression
-	8 Arbiter of Bargaining
-	8 Arbiter of Denial
-	8 Drimmvoke Mimetic
-	8 Mock Man
-	8 Nu'Ul's Faithful
-	8 Off the Top
-	8 Flechan Longbow
-	8 Tuulvoke Synthesizer
-	8 Espratan Elfwalker
-	8 Nu'Ul's Blessing
-	8 Memorial of the Forgotten Champion
-	8 Uvathkolsil's Redemption
-	8 Wellspring of Hope
-	8 Surveyor's Companion
-	8 Uvathkolsil's Legacy
-	8 Goblin Warcrier
-	8 Breath of Fate
-	8 Pharani Protector
-	8 Inviting Spectacle
-	8 Esso Overseer
-	8 Puppet Existence
-	8 Summer's Veil
-	8 Faerie Looter
-	8 Kobold Squire
-	8 Shelter in Ice
-	8 Frozen Infection
-	8 Frozen Bloom
-	8 Frozen Ancestor
-	8 Lifebound Duo
-	8 Lifebound Enemies
-	8 Patient Tracker
-[wildcard(2)]
-	4 Therin, Displaced Through Time
-	7 Exios, Tormented Savior
-	4 Noolo, Graviturgy Innovator
-	4 Kinkud, Soul Divided
-	7 Lucky Coin
-	15 Phoenix Flare
-	6 Tundra Warden
-	15 Top Up
-	6 Scholar of Flames
-	6 Scholar of Frost
-	6 Scholar of Growth
-	6 Scholar of Decay
-	6 Scholar of Wisdom
-	6 Rune of Premonition
-	15 Turn Undead
-	7 Pitfall Trap
-	6 Mordant Mount
-	15 Everburn Phoenix
-	6 Pharani Bristlewall
-	6 Gag
-	7 Longleaf Phoenix
-	6 Marrdri Marrowgiver
-	15 Gold Adder
-	6 Keen-Eyed Condor
-	15 Backstabbing Bloodsucker
-	6 Shambling Knight
-	6 Fanatic Photachyodon
-	6 Ignition Drake
-	6 Fool's Ace
-	15 Cornered Dreamer
-	6 Garden Blazer
-	6 Avid Gambler
-	6 Arctic Hydromancer
-	6 Predatory Armor
-	6 Bleeding Out
-	15 Enveloping Flame
-	6 Numbing Cold
-	15 Prophetic Vision
-	7 Bottoms Up
-	7 Altar of Recovery
-	15 Flashfire
-	15 Caught in the Blast
-	6 Decaying Alchemist
-	6 Seeding the Ashes
-	15 Perilous Prediction
-	6 Lightning Rod
-	6 Vampire Overseer
-	15 Horror in the Deep
-	6 Arctic Direwolf
-	6 Frozen Mammoth
-	6 Frozen Orc
-	15 Frozen Light
-	6 Frozen Elk
-	6 Frenzied Overlord
-	7 Frenzied Underling
-	6 Corrosion
-	15 Impish Excavator
-	15 Withered Wish
-	6 Internal Ignition
-	6 Backed Into a Corner
-	6 Arctic Whale
-	6 Trickster of the Flame
-	6 Ancient Tarantula
-	6 Consecrated Falcon
-	6 Flameshell Grub
-	6 Tarantula Youngling
-	6 Flitting Prankster
-	6 Sawtooth Pirahna
-	6 Iceflow Cetacean
-	7 Claim the Spoils
-	6 Wipe Clean
-	6 Part Ways
-	6 From Burn to Brush
-	15 Blastclaw Shrimp
-	6 Green-Ear Lieutenant
-	7 Lugmok, Son of Mokmok
-	4 Mokmok, Lord of Greed
-	4 Bitter Isolation
-	7 Paradigm of Hope
-	7 Paradigm of Perserverance
-	7 Paradigm of Renewal
-	7 Paradigm of Passion
-	7 Paradigm of Knowledge
-	6 Prankster Pixie
-	4 Kastyr, Shaper of Destiny
-	6 Peer Ahead
-	6 Rally the Forest
-	6 Dissipate
-	6 Drown in Noise
-	15 Soul Swap
-	15 Provisions of Sanctity
-	6 Strip Bare
-	6 Living Lodging
-	15 Lay the Seeds
-	6 Nightly Scourge
-	6 Strafing Stormer
-	6 Terminus Dreadmaw
-	6 Fulminate
-	6 Compassionate Scavenger
-	15 Spiritual Ascent
-	6 Voice of Restraint
-	6 Templar's Apprentice
-	7 Nexen Templar
-	6 Resolute Squire
-	15 Dawn Vulture
-	6 Toss to Fate
-	15 Crucial Diversion
-	6 Maddening Mystic
-	7 Boreal Floe
-	15 Nesting Vinelasher
-	7 Dawn Titan
-	6 Abraded Bluffs
-	7 Boiling Lahar
-	7 Collapsed Mine
-	6 Panicked Pouncer
-	7 Coral Firth
-	7 Tempestuous Cliffs
-	7 Swirling Karst
-	7 Hostile Copse
-	7 Ruined Capitol
-	7 Morass Grove
-	6 Creepy Crawfish
-	7 Tender Pike
-	6 Forlorn Flats
-	6 Jagged Barrens
-	6 Eroded Canyon
-	6 Bristling Backwoods
-	6 Creosote Heath
-	6 Festering Gulch
-	6 Lush Oasis
-	6 Lonely Arroyo
-	6 Soured Springs
-	15 Looter's Luggage
-	6 Caravan Charger
-	15 Genesis Engine
-	15 Vacuum Carryall
-	6 Reckless Colossus
-	6 Helpful Scavenger
-	6 Crypt Custodian
-	6 Forgotten Witness
-	15 Pharani Seedlayer
-	15 Pariah's Insight
-	15 Thundering Ooze
-	15 Impart Vitality
-	6 Hunted Tired
-	6 Evolving Wilds
-	7 Siphon Walker
-	6 Laggard Golem
-	6 Tithe Tortoise
-	6 Dire Driller
-	15 Ceremonial Stag
-	6 Emergency Assembly
-	15 Chromatic Simulacrum
-	6 Golem Schematic
-	15 Medium of Last Rites
-	6 Debilitating Denial
-	15 Ungulate Glen
-	6 Perpetual Sloth
-	6 Spell Cycle
-	7 Buchanan, Rampaging Berserker
-	6 Scroll of Summoning
-	4 Endless Cycle
-	6 Nu'Ul's Servant
-	6 Sunheart Healer
-	6 Wounded Griffin
-	6 Nightbringer Colossus
-	6 Trichloratops
-	6 Enchanter of Nu'Ul
-	7 Rite of Resurrection
-	15 Parity of Fate
-	4 Exios, Paladin of Nu'Ul
-	15 Everburn Egg
-	6 Everburn Quill
-	15 Blazing Everburn
-	15 Scavenge the Remains
-	15 Martyr's Protection
-	7 Abyssal Oblation
-	6 Scramble Ahead
-	6 Acolyte of Nu'Ul
-	7 Nu'Ul, Patron of the Deep
-	6 Desperate Measures
-	6 Nu'Ul's Compulsion
-	7 Snapcaster Sorcerer
-	6 Thrill of Danger
-	6 Desperate Bargain
-	15 Uvathkolsil's Ire
-	6 Vitriol
-	6 Sunheart Ambush
-	6 Pharani Elder
-	15 Fool the Patrons
-	7 Reject Destiny
-	15 Perceive Fate
-	15 Final Say
-	15 Wretched End
-	4 Ghipor-Lang, Crystal Lich
-	7 Archmage of Foresight
-	15 Monastery Tutor
-	6 Alvaesti Prodigy
-	7 Phoenix Hatcher
-	7 Runic Bractosaur
-	7 Rhizome Frillback
-	7 Alvaesti Fugitive
-	6 Fallen God's Sanctum
-	4 Uvathkolsil
-	6 Ivekki Soldier
-	15 Kaeva Captain
-	6 Espratan Hunter
-	6 Priest of Truth
-	6 Leafranger Duo
-	6 Sunheart Ascendant
-	6 Concussive Charger
-	6 Spirited Raptor
-	6 Derelict Factory
-	6 Decrepit Tower
-	7 Monument to Determination
-	4 Dhone Sarcophagus
-	6 Dhone Tombskimmer
-	15 Drimmvoke Spear
-	4 Blade of Silence
-	15 Awakened Frost-Wurm
-	6 Dennizit Warbell
-	6 Inner Strength
-	15 Mage Armor
-	6 Let Piros Ranger
-	6 Let Piros Guard
-	15 Let Piros Slaver
-	15 Prophetic Web
-	7 Voice of Allaveth's Awakening
-	15 Forecasted Approach
-	4 Aphra, Nature's Guardian
-	4 Baeonax, Thieving Erudite
-	4 Malevolence, Witch-king
-	4 Cotay Leadon, Nurturer
-	7 Snake Hatcher
-	7 Sauros Hatcher
-	7 Grub Hatcher
-	7 Alvaesti Elder
-	15 Forgotten Hero
-	15 Eerie Armor
-	7 Flamevolt Phoenix
-	7 Call to Battle
-	15 Foretold Demise
-	15 Nature's Edict
-	15 Rip From Eternity
-	15 Gruesome Slaughter
-	15 Burn Anew
-	6 Postpone
-	7 Rhythm of the Woods
-	7 Proteate
-	7 Shadow Sprite
-	7 Chlorodon, Steward of the Weald
-	7 Falcon Familiar
-	15 Ivexus' Crusade
-	6 Lightning Vortex
-	7 King Ivexus, Warlord Crusader
-	7 Aldus, Spell Transmuter
-	7 Ælluin, Temporal Archmage
-	7 Captain Pogrûz, Bounty's Bane
-	7 Thrax, Necrose Reclaimer
-	7 Ruudy, Brutal Warsteed
-	7 Flametalon, Avatar of Rebirth
-	7 Dulakh Stormstomper
-	7 Orala, Butcher of Creth
-	6 Fervent Rage
-	6 Phoenix Fledgeling
-	6 Goblin Scrollscorcher
-	6 Spelljammer Sprite
-	6 Glimpse the Unknowable
-	15 Yppotis, Spiral Giant
-	15 Medustigmatops
-	15 War in the Weald
-	15 Taking Inventory
-	6 Arbiter of Anger
-	6 Immolating Everburn
-	6 Lumbering Shipmate
-	6 Mishap
-	6 Eerie Bauble
-	6 Shake Faith
-	6 Reconsider
-	6 Cerebrate
-	6 Arbiter of Acceptance
-	6 Healer's Falcon
-	6 Meticulous Fencer
-	15 Phoenix's Fury
-	15 Indentured Lieutenant
-	15 Cloak of Shadows
-	7 Monument to Growth
-	7 Monument to Premonition
-	6 Stone Watcher
-	6 March Upon the Gates
-	6 Pharani Wayfinder
-	6 Espratan Looter
-	6 Shocking Truth
-	6 Autotomic Crusher
-	6 Twilight Duelist
-	6 Megafaunize
-	6 Arbiter of Depression
-	6 Arbiter of Bargaining
-	6 Arbiter of Denial
-	15 Smothering Stone
-	6 Drimmvoke Mimetic
-	6 Mock Man
-	15 Copy Cat
-	15 Deifoliolata Imitator
-	6 Nu'Ul's Faithful
-	6 Off the Top
-	7 Drimm Innovator
-	6 Flechan Longbow
-	6 Tuulvoke Synthesizer
-	15 Pharani Burrowmaker
-	7 Pharani Heirloom
-	7 Blade of Bonds
-	15 Font of Fantasy
-	6 Espratan Elfwalker
-	7 Fallah Brotherblade
-	15 Saurobloom Relic
-	6 Nu'Ul's Blessing
-	6 Memorial of the Forgotten Champion
-	6 Uvathkolsil's Redemption
-	6 Wellspring of Hope
-	6 Surveyor's Companion
-	6 Uvathkolsil's Legacy
-	6 Goblin Warcrier
-	6 Breath of Fate
-	6 Pharani Protector
-	6 Inviting Spectacle
-	15 Frozen Wish
-	15 Mystic of Nu'Ul
-	7 Pharani Mentor
-	15 Loffe, Raptor Cultivator
-	7 Burn Through
-	7 Quespereth's Prefect
-	7 Quespereth the Great
-	15 Military's Adviser
-	15 Vhaedeth of the Growing Blaze
-	15 Sprout Tender
-	15 Snappy Archaeologist
-	15 Volq Grenadier
-	6 Esso Overseer
-	6 Puppet Existence
-	6 Summer's Veil
-	7 Kinkud, Vessel of Uvathkolsil
-	7 Drimmalak Forge
-	6 Faerie Looter
-	6 Kobold Squire
-	6 Shelter in Ice
-	6 Frozen Infection
-	15 Archaeologist Surveyor
-	6 Frozen Bloom
-	6 Frozen Ancestor
-	15 Frozen Force
-	7 Rhy and Gallere
-	15 Rune of Control
-	6 Lifebound Duo
-	6 Lifebound Enemies
-	6 Patient Tracker
+		2 Lucky Coin
+		2 Pitfall Trap
+		2 Longleaf Phoenix
+		2 Bottoms Up
+		2 Altar of Recovery
+		2 Frenzied Underling
+		2 Claim the Spoils
+		2 Lugmok, Son of Mokmok
+		2 Paradigm of Hope
+		2 Paradigm of Perserverance
+		2 Paradigm of Renewal
+		2 Paradigm of Passion
+		2 Paradigm of Knowledge
+		2 Nexen Templar
+		2 Boreal Floe
+		2 Dawn Titan
+		2 Boiling Lahar
+		2 Collapsed Mine
+		2 Coral Firth
+		2 Tempestuous Cliffs
+		2 Swirling Karst
+		2 Hostile Copse
+		2 Ruined Capitol
+		2 Morass Grove
+		2 Tender Pike
+		2 Siphon Walker
+		2 Buchanan, Rampaging Berserker
+		2 Rite of Resurrection
+		2 Abyssal Oblation
+		2 Nu'Ul, Patron of the Deep
+		2 Snapcaster Sorcerer
+		2 Reject Destiny
+		2 Archmage of Foresight
+		2 Phoenix Hatcher
+		2 Runic Bractosaur
+		2 Rhizome Frillback
+		2 Alvaesti Fugitive
+		2 Monument to Determination
+		2 Voice of Allaveth's Awakening
+		2 Snake Hatcher
+		2 Sauros Hatcher
+		2 Grub Hatcher
+		2 Alvaesti Elder
+		2 Flamevolt Phoenix
+		2 Call to Battle
+		2 Rhythm of the Woods
+		2 Proteate
+		2 Shadow Sprite
+		2 Chlorodon, Steward of the Weald
+		2 Falcon Familiar
+		2 King Ivexus, Warlord Crusader
+		2 Aldus, Spell Transmuter
+		2 Ã†lluin, Temporal Archmage
+		2 Captain PogrÃ»z, Bounty's Bane
+		2 Thrax, Necrose Reclaimer
+		2 Ruudy, Brutal Warsteed
+		2 Flametalon, Avatar of Rebirth
+		2 Dulakh Stormstomper
+		2 Orala, Butcher of Creth
+		2 Monument to Growth
+		2 Monument to Premonition
+		2 Drimm Innovator
+		2 Pharani Heirloom
+		2 Blade of Bonds
+		2 Fallah Brotherblade
+		2 Pharani Mentor
+		2 Burn Through
+		2 Quespereth's Prefect
+		2 Quespereth the Great
+		2 Kinkud, Vessel of Uvathkolsil
+		2 Drimmalak Forge
+		2 Rhy and Gallere
+		1 Therin, Displaced Through Time
+		1 Noolo, Graviturgy Innovator
+		1 Kinkud, Soul Divided
+		1 Mokmok, Lord of Greed
+		1 Bitter Isolation
+		1 Kastyr, Shaper of Destiny
+		1 Endless Cycle
+		1 Exios, Paladin of Nu'Ul
+		1 Ghipor-Lang, Crystal Lich
+		1 Uvathkolsil
+		1 Dhone Sarcophagus
+		1 Blade of Silence
+		1 Aphra, Nature's Guardian
+		1 Baeonax, Thieving Erudite
+		1 Malevolence, Witch-king
+		1 Cotay Leadon, Nurturer
+		[UncommonSlot(3)]
+	9 Phoenix Flare
+		9 Top Up
+		9 Turn Undead
+		9 Everburn Phoenix
+		9 Gold Adder
+		9 Backstabbing Bloodsucker
+		9 Cornered Dreamer
+		9 Enveloping Flame
+		9 Prophetic Vision
+		9 Flashfire
+		9 Caught in the Blast
+		9 Perilous Prediction
+		9 Horror in the Deep
+		9 Frozen Light
+		9 Impish Excavator
+		9 Withered Wish
+		9 Blastclaw Shrimp
+		9 Soul Swap
+		9 Provisions of Sanctity
+		9 Lay the Seeds
+		9 Spiritual Ascent
+		9 Dawn Vulture
+		9 Crucial Diversion
+		9 Nesting Vinelasher
+		9 Looter's Luggage
+		9 Genesis Engine
+		9 Vacuum Carryall
+		9 Pharani Seedlayer
+		9 Pariah's Insight
+		9 Thundering Ooze
+		9 Impart Vitality
+		9 Ceremonial Stag
+		9 Chromatic Simulacrum
+		9 Medium of Last Rites
+		9 Ungulate Glen
+		9 Parity of Fate
+		9 Everburn Egg
+		9 Blazing Everburn
+		9 Scavenge the Remains
+		9 Martyr's Protection
+		9 Uvathkolsil's Ire
+		9 Fool the Patrons
+		9 Perceive Fate
+		9 Final Say
+		9 Wretched End
+		9 Monastery Tutor
+		9 Kaeva Captain
+		9 Drimmvoke Spear
+		9 Awakened Frost-Wurm
+		9 Mage Armor
+		9 Let Piros Slaver
+		9 Prophetic Web
+		9 Forecasted Approach
+		9 Forgotten Hero
+		9 Eerie Armor
+		9 Foretold Demise
+		9 Nature's Edict
+		9 Rip From Eternity
+		9 Gruesome Slaughter
+		9 Burn Anew
+		9 Ivexus' Crusade
+		9 Yppotis, Spiral Giant
+		9 Medustigmatops
+		9 War in the Weald
+		9 Taking Inventory
+		9 Phoenix's Fury
+		9 Indentured Lieutenant
+		9 Cloak of Shadows
+		9 Smothering Stone
+		9 Copy Cat
+		9 Deifoliolata Imitator
+		9 Pharani Burrowmaker
+		9 Font of Fantasy
+		9 Saurobloom Relic
+		9 Frozen Wish
+		9 Mystic of Nu'Ul
+		9 Loffe, Raptor Cultivator
+		9 Military's Adviser
+		9 Vhaedeth of the Growing Blaze
+		9 Sprout Tender
+		9 Snappy Archaeologist
+		9 Volq Grenadier
+		9 Archaeologist Surveyor
+		9 Frozen Force
+		9 Rune of Control
+		[CommonSlot(10)]
+	30 Echoes of the Past
+		30 Echoes of the Future
+		30 Echoes of the Present
+		30 Echoes of Entropy
+		30 Tundra Warden
+		30 Scholar of Flames
+		30 Scholar of Frost
+		30 Scholar of Growth
+		30 Scholar of Decay
+		30 Scholar of Wisdom
+		30 Rune of Premonition
+		30 Mordant Mount
+		30 Pharani Bristlewall
+		30 Gag
+		30 Marrdri Marrowgiver
+		30 Keen-Eyed Condor
+		30 Shambling Knight
+		30 Fanatic Photachyodon
+		30 Ignition Drake
+		30 Fool's Ace
+		30 Garden Blazer
+		30 Avid Gambler
+		30 Arctic Hydromancer
+		30 Predatory Armor
+		30 Bleeding Out
+		30 Numbing Cold
+		30 Decaying Alchemist
+		30 Seeding the Ashes
+		30 Lightning Rod
+		30 Vampire Overseer
+		30 Arctic Direwolf
+		30 Frozen Mammoth
+		30 Frozen Orc
+		30 Frozen Elk
+		30 Frenzied Overlord
+		30 Corrosion
+		30 Internal Ignition
+		30 Backed Into a Corner
+		30 Arctic Whale
+		30 Trickster of the Flame
+		30 Ancient Tarantula
+		30 Consecrated Falcon
+		30 Flameshell Grub
+		30 Tarantula Youngling
+		30 Flitting Prankster
+		30 Sawtooth Pirahna
+		30 Iceflow Cetacean
+		30 Wipe Clean
+		30 Part Ways
+		30 From Burn to Brush
+		30 Green-Ear Lieutenant
+		30 Prankster Pixie
+		30 Peer Ahead
+		30 Rally the Forest
+		30 Dissipate
+		30 Drown in Noise
+		30 Strip Bare
+		30 Living Lodging
+		30 Nightly Scourge
+		30 Strafing Stormer
+		30 Terminus Dreadmaw
+		30 Fulminate
+		30 Compassionate Scavenger
+		30 Voice of Restraint
+		30 Templar's Apprentice
+		30 Resolute Squire
+		30 Toss to Fate
+		30 Maddening Mystic
+		30 Abraded Bluffs
+		30 Panicked Pouncer
+		30 Creepy Crawfish
+		30 Forlorn Flats
+		30 Jagged Barrens
+		30 Eroded Canyon
+		30 Bristling Backwoods
+		30 Creosote Heath
+		30 Festering Gulch
+		30 Lush Oasis
+		30 Lonely Arroyo
+		30 Soured Springs
+		30 Caravan Charger
+		30 Reckless Colossus
+		30 Helpful Scavenger
+		30 Crypt Custodian
+		30 Forgotten Witness
+		30 Hunted Tired
+		30 Evolving Wilds
+		30 Laggard Golem
+		30 Tithe Tortoise
+		30 Dire Driller
+		30 Emergency Assembly
+		30 Golem Schematic
+		30 Debilitating Denial
+		30 Perpetual Sloth
+		30 Spell Cycle
+		30 Scroll of Summoning
+		30 Nu'Ul's Servant
+		30 Sunheart Healer
+		30 Wounded Griffin
+		30 Nightbringer Colossus
+		30 Trichloratops
+		30 Enchanter of Nu'Ul
+		30 Everburn Quill
+		30 Scramble Ahead
+		30 Acolyte of Nu'Ul
+		30 Desperate Measures
+		30 Nu'Ul's Compulsion
+		30 Thrill of Danger
+		30 Desperate Bargain
+		30 Vitriol
+		30 Sunheart Ambush
+		30 Pharani Elder
+		30 Alvaesti Prodigy
+		30 Fallen God's Sanctum
+		30 Ivekki Soldier
+		30 Espratan Hunter
+		30 Priest of Truth
+		30 Leafranger Duo
+		30 Sunheart Ascendant
+		30 Concussive Charger
+		30 Spirited Raptor
+		30 Derelict Factory
+		30 Decrepit Tower
+		30 Dhone Tombskimmer
+		30 Dennizit Warbell
+		30 Inner Strength
+		30 Let Piros Ranger
+		30 Let Piros Guard
+		30 Postpone
+		30 Lightning Vortex
+		30 Fervent Rage
+		30 Phoenix Fledgeling
+		30 Goblin Scrollscorcher
+		30 Spelljammer Sprite
+		30 Glimpse the Unknowable
+		30 Arbiter of Anger
+		30 Immolating Everburn
+		30 Lumbering Shipmate
+		30 Mishap
+		30 Eerie Bauble
+		30 Shake Faith
+		30 Reconsider
+		30 Cerebrate
+		30 Arbiter of Acceptance
+		30 Healer's Falcon
+		30 Meticulous Fencer
+		30 Stone Watcher
+		30 March Upon the Gates
+		30 Pharani Wayfinder
+		30 Espratan Looter
+		30 Shocking Truth
+		30 Autotomic Crusher
+		30 Twilight Duelist
+		30 Megafaunize
+		30 Arbiter of Depression
+		30 Arbiter of Bargaining
+		30 Arbiter of Denial
+		30 Drimmvoke Mimetic
+		30 Mock Man
+		30 Nu'Ul's Faithful
+		30 Off the Top
+		30 Flechan Longbow
+		30 Tuulvoke Synthesizer
+		30 Espratan Elfwalker
+		30 Nu'Ul's Blessing
+		30 Memorial of the Forgotten Champion
+		30 Uvathkolsil's Redemption
+		30 Wellspring of Hope
+		30 Surveyor's Companion
+		30 Uvathkolsil's Legacy
+		30 Goblin Warcrier
+		30 Breath of Fate
+		30 Pharani Protector
+		30 Inviting Spectacle
+		30 Esso Overseer
+		30 Puppet Existence
+		30 Summer's Veil
+		30 Faerie Looter
+		30 Kobold Squire
+		30 Shelter in Ice
+		30 Frozen Infection
+		30 Frozen Bloom
+		30 Frozen Ancestor
+		30 Lifebound Duo
+		30 Lifebound Enemies
+		30 Patient Tracker
+		
