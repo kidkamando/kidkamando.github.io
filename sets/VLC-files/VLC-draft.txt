@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Phoenix Warrior",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/52_Charan, Flight to Beyond.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/52_Charan, Flight to Beyond.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Plant Dinosaur",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/78_Vhalax, Spirit of Expansion.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/78_Vhalax, Spirit of Expansion.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Legendary Creature — Elf Noble",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/70_Quespereth, Conquering Queen.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/70_Quespereth, Conquering Queen.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Creature — Elf Cleric",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/80_Astor, Second Herald of Focalor.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/80_Astor, Second Herald of Focalor.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Legendary Creature — Cleric God",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/85_Focalor, Speaker of Truth.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/85_Focalor, Speaker of Truth.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/72_Rune Bear.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/72_Rune Bear.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/6_Replaced Experiment.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/6_Replaced Experiment.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Token Creature — Bear",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/3_Bear.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/3_Bear.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Legendary Creature — Tiefling Warlock",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/7_Samson, Focalor's Chosen.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/7_Samson, Focalor's Chosen.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Legendary Planeswalker — Noolo",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/90_Noolo, Rift Imbibed.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/90_Noolo, Rift Imbibed.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Legendary Creature — Elemental Phoenix",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/71_Rothan, Star Ablaze.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/71_Rothan, Star Ablaze.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Legendary Creature — Elf Knight",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/56_Ellien, Queen's Praetorian.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/56_Ellien, Queen's Praetorian.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Legendary Creature — Plant Dinosaur",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/73_Saurex, Spirit of Reclamation.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/73_Saurex, Spirit of Reclamation.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Legendary Token Land",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/9_Vhala'Ba-o.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/9_Vhala'Ba-o.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Token Enchantment — Aura",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/4_Forest's Rage.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/4_Forest's Rage.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Token Creature — Plant Dinosaur",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/5_Plant Dinosaur.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/5_Plant Dinosaur.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Token Artifact — Tuulvoke Crystal",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/8_Tuulvoke Crystal.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/8_Tuulvoke Crystal.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Legendary Creature — Dragon Cleric",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/60_Focalor, Lattice Maker.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/60_Focalor, Lattice Maker.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Legendary Emblem",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/1_Uvathkolsil's Lattice.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/1_Uvathkolsil's Lattice.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Elemental Phoenix",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/15_Icewing Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/15_Icewing Phoenix.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Legendary Creature — Dragon Cleric",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/23_Kinkud, Lost Assassin.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/23_Kinkud, Lost Assassin.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Legendary Creature — Cat Knight",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/4_Exios, Wandering Paladin.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/4_Exios, Wandering Paladin.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Legendary Creature — Tiefling Detective",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/92_Samson, Struggling Detective.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/92_Samson, Struggling Detective.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Legendary Creature — Minotaur Wizard",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/89_Noolo, Enslaved Inventor.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/89_Noolo, Enslaved Inventor.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Enchantment Creature — Phoenix Egg",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/29_Ashen Egg.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/29_Ashen Egg.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/39_Volcanic Nest.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/39_Volcanic Nest.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/20_Brittle Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/20_Brittle Phoenix.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/57_Espren Captain.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/57_Espren Captain.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/12_Elvish Looter.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/12_Elvish Looter.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Griffon Elf",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/95_Sylvan Skyknight.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/95_Sylvan Skyknight.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Elf Knight",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/3_Espratan Captain.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/3_Espratan Captain.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/84_Espren Scholar.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/84_Espren Scholar.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/87_Guard-Commander of Espren.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/87_Guard-Commander of Espren.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Artifact",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/99_Commander's Dynamo.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/99_Commander's Dynamo.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Enchantment",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/26_Necrolegacy.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/26_Necrolegacy.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/10_Verbose Bonds.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/10_Verbose Bonds.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/21_Espren Scouting Party.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/21_Espren Scouting Party.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Artifact",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/22_Essence Vial.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/22_Essence Vial.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/25_Medium of Enduring Histories.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/25_Medium of Enduring Histories.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/51_Caravan Runner.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/51_Caravan Runner.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/16_Mulling Mystic.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/16_Mulling Mystic.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/94_Sifter Elf.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/94_Sifter Elf.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Elf Knight",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/77_Veteran Vanguard.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/77_Veteran Vanguard.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/83_Espren Fanatic.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/83_Espren Fanatic.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/91_Quespereth's Mystic.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/91_Quespereth's Mystic.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/62_Latar Spinokelp.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/62_Latar Spinokelp.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/11_Accumulated Insight.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/11_Accumulated Insight.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/14_Focalor's Truthspeaker.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/14_Focalor's Truthspeaker.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/86_Focalor's Liebinder.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/86_Focalor's Liebinder.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Dwarf Artificer",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/88_Nexen Forgemaster.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/88_Nexen Forgemaster.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/7_+1 Longsword.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/7_+1 Longsword.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/81_Banishment Beetle.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/81_Banishment Beetle.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/44_Gigafaunize.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/44_Gigafaunize.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/2_Crystallized Form.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/2_Crystallized Form.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/74_Savage Reclamation.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/74_Savage Reclamation.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Token Creature — Plant Dinosaur",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/6_Plant Dinosaur.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/6_Plant Dinosaur.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/63_Leviathan Tyrannosnap.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/63_Leviathan Tyrannosnap.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/68_Phytodactyl.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/68_Phytodactyl.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Plant Warrior",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/41_Crethwood Champion.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/41_Crethwood Champion.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Legendary Creature — Plant Druid",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/75_Silyph, Crethwood Regent.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/75_Silyph, Crethwood Regent.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/61_Frozen Everburn.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/61_Frozen Everburn.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Enchantment — Room",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/98_Watch Tower.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/98_Watch Tower.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Enchantment — Room",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/97_Spiral Staircase.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/97_Spiral Staircase.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Giant Wizard",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/5_Looming Titan.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/5_Looming Titan.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Legendary Creature — Phoenix Warrior",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/53_Charan of Fallen Ashes.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/53_Charan of Fallen Ashes.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Artifact",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/34_Horn of Pogrûz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/34_Horn of Pogrûz.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/35_Immolation Firebird.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/35_Immolation Firebird.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/31_Flaming Phytoraptor.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/31_Flaming Phytoraptor.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/13_Flawed Duplication.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/13_Flawed Duplication.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/24_Maddening Prediction.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/24_Maddening Prediction.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/38_Trust In Fate.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/38_Trust In Fate.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Legendary Creature — Plant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/40_Cotay Leadon, Grovetender.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/40_Cotay Leadon, Grovetender.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/43_Forest's Harmony.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/43_Forest's Harmony.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/45_Grasping Roots.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/45_Grasping Roots.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature — Plant Druid",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/42_Flora Trailblazer.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/42_Flora Trailblazer.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/50_Aurasaurus.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/50_Aurasaurus.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/67_Phantasmal Phalanx.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/67_Phantasmal Phalanx.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/66_Paradigm of Expansion.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/66_Paradigm of Expansion.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Artifact",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/30_Blood Quartz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/30_Blood Quartz.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Artifact",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/17_Ocean Quartz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/17_Ocean Quartz.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Artifact",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/46_Moss Quartz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/46_Moss Quartz.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Artifact",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/27_Oil Quartz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/27_Oil Quartz.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Artifact",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/1_Cloud Quartz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/1_Cloud Quartz.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/9_Selected for Service.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/9_Selected for Service.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/101_Ring of Supremacy.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/101_Ring of Supremacy.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/69_Plagiarize.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/69_Plagiarize.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/19_Turn to Stone.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/19_Turn to Stone.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/18_Premonition.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/18_Premonition.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/28_Tribute to Immortality.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/28_Tribute to Immortality.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/36_Peer Into Chaos.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/36_Peer Into Chaos.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/47_Profound Ooze.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/47_Profound Ooze.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/79_Wrath of Tradition.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/79_Wrath of Tradition.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/93_Shred to Pieces.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/93_Shred to Pieces.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/54_Cleansing Eruption.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/54_Cleansing Eruption.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/55_The Conquest of Alvaest.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/55_The Conquest of Alvaest.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Artifact Creature — Bird",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/64_Malevolent Strix.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/64_Malevolent Strix.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/48_Propagating Ooze.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/48_Propagating Ooze.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/49_Rummaging Ooze.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/49_Rummaging Ooze.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Enchantment",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/58_Explosive Monologue.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/58_Explosive Monologue.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/76_Surge of Inspiration.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/76_Surge of Inspiration.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Kindred Enchantment — Phoenix",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/65_Miracle Wings.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/65_Miracle Wings.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Token Creature — Phoenix",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/2_Phoenix.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/2_Phoenix.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/59_Feather of Life.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/59_Feather of Life.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/32_Growing Fervor.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/32_Growing Fervor.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/33_Growing Heat.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/33_Growing Heat.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Artifact",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/100_Navigator's Sextant.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/100_Navigator's Sextant.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/96_Warden of the Weald.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/96_Warden of the Weald.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/82_Enraged Everburn.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/82_Enraged Everburn.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Legendary Land",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/103_Last Home, Hunter's Guild.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/103_Last Home, Hunter's Guild.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Legendary Land",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/102_Last Home, Dead Lands Colony.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/102_Last Home, Dead Lands Colony.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/37_Rush of Replication.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/37_Rush of Replication.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VLC-files/img/8_Saurian Interrupter.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/img/8_Saurian Interrupter.png"
 			}
 		},
 	]
