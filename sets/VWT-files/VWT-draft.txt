@@ -1,0 +1,4736 @@
+[CustomCards]
+	[
+		{
+			"name": "Invasion Force",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/252_Invasion Force.png"
+			}
+		},
+		{
+			"name": "Tie in Battle",
+			"rarity": "common",
+			"mana_cost": "{RW}{RW}",
+			"type": "Instant",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/305_Tie in Battle.png"
+			}
+		},
+		{
+			"name": "Cloned to Kill",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/242_Cloned to Kill.png"
+			}
+		},
+		{
+			"name": "Blade Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{BR}",
+			"type": "Creature — Spider",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/272_Blade Spider.png"
+			}
+		},
+		{
+			"name": "Tenets of the Fallarai",
+			"rarity": "mythic",
+			"mana_cost": "{2}{UR}",
+			"type": "Artifact",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/304_Tenets of the Fallarai.png"
+			}
+		},
+		{
+			"name": "Kovekki Vholis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/177_Kovekki Vholis.png"
+			}
+		},
+		{
+			"name": "Aggressive Frillback",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/143_Aggressive Frillback.png"
+			}
+		},
+		{
+			"name": "Fallarai Soul Guide",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spirit Monk",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/162_Fallarai Soul Guide.png"
+			}
+		},
+		{
+			"name": "Everburn Oracle",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/161_Everburn Oracle.png"
+			}
+		},
+		{
+			"name": "Alternate Future",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/52_Alternate Future.png"
+			}
+		},
+		{
+			"name": "Deliver Supplies",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/69_Deliver Supplies.png"
+			}
+		},
+		{
+			"name": "Will of the Pharani",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/237_Will of the Pharani.png"
+			}
+		},
+		{
+			"name": "Squadron Frillraptor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/233_Squadron Frillraptor.png"
+			}
+		},
+		{
+			"name": "Griffin Skyguide",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Griffin Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/23_Griffin Skyguide.png"
+			}
+		},
+		{
+			"name": "Rider of Nexos",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/43_Rider of Nexos.png"
+			}
+		},
+		{
+			"name": "Valathorn, Bone Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Skeleton Noble",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/139_Valathorn, Bone Tyrant.png"
+			}
+		},
+		{
+			"name": "Soul Bind",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/135_Soul Bind.png"
+			}
+		},
+		{
+			"name": "Flechan Berserker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/166_Flechan Berserker.png"
+			}
+		},
+		{
+			"name": "Cellombrane Taiko",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/202_Cellombrane Taiko.png"
+			}
+		},
+		{
+			"name": "Sturdy, Volq of Earth",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Elemental Golem",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/137_Sturdy, Volq of Earth.png"
+			}
+		},
+		{
+			"name": "March of the Dhonedem",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/127_March of the Dhonedem.png"
+			}
+		},
+		{
+			"name": "Banner Owl",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/62_Banner Owl.png"
+			}
+		},
+		{
+			"name": "Cornered Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/13_Cornered Captain.png"
+			}
+		},
+		{
+			"name": "Bountiful Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/5_Bountiful Bandit.png"
+			}
+		},
+		{
+			"name": "Cliffside Pass",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/343_Cliffside Pass.png"
+			}
+		},
+		{
+			"name": "Border Fortress",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/339_Border Fortress.png"
+			}
+		},
+		{
+			"name": "Sudden Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{UR}",
+			"type": "Instant",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/302_Sudden Inspiration.png"
+			}
+		},
+		{
+			"name": "Violent Strait",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/363_Violent Strait.png"
+			}
+		},
+		{
+			"name": "Arctic Steppe",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/336_Arctic Steppe.png"
+			}
+		},
+		{
+			"name": "Bloodied Battlefield",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/338_Bloodied Battlefield.png"
+			}
+		},
+		{
+			"name": "Thriving Cay",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/362_Thriving Cay.png"
+			}
+		},
+		{
+			"name": "Ravenous Jungle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/355_Ravenous Jungle.png"
+			}
+		},
+		{
+			"name": "Withering Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/364_Withering Marsh.png"
+			}
+		},
+		{
+			"name": "Heroes' Graveyard",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/350_Heroes' Graveyard.png"
+			}
+		},
+		{
+			"name": "Sunken Memorial",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/360_Sunken Memorial.png"
+			}
+		},
+		{
+			"name": "Isolated Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/351_Isolated Grove.png"
+			}
+		},
+		{
+			"name": "Reflective Mirage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{UR}",
+			"type": "Instant",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/296_Reflective Mirage.png"
+			}
+		},
+		{
+			"name": "Endless Hunt",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/210_Endless Hunt.png"
+			}
+		},
+		{
+			"name": "Expedition Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{GW}{GW}",
+			"type": "Creature — Human Ranger Assassin",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/281_Expedition Hunter.png"
+			}
+		},
+		{
+			"name": "Destructive Phyllotyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{RG}{RG}{RG}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/278_Destructive Phyllotyrant.png"
+			}
+		},
+		{
+			"name": "Assurance of the Army",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/59_Assurance of the Army.png"
+			}
+		},
+		{
+			"name": "Bloodblade Arachnid",
+			"rarity": "common",
+			"mana_cost": "{4}{BR}{BR}",
+			"type": "Creature — Spider",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/273_Bloodblade Arachnid.png"
+			}
+		},
+		{
+			"name": "Raptor Scout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/227_Raptor Scout.png"
+			}
+		},
+		{
+			"name": "Ghipor-Lang, Rot Becoming",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Zombie Construct Wizard",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/118_Ghipor-Lang, Rot Becoming.png"
+			}
+		},
+		{
+			"name": "Breanor, Son of Ferawyn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Elf Knight",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/150_Breanor, Son of Ferawyn.png"
+			}
+		},
+		{
+			"name": "The Dark King, Reborn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Knight Wizard",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/245_The Dark King, Reborn.png"
+			}
+		},
+		{
+			"name": "Bortott, Righteous Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{RG}{RG}",
+			"type": "Legendary Creature — Turtle Dinosaur",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/274_Bortott, Righteous Guardian.png"
+			}
+		},
+		{
+			"name": "Tea Reader",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/87_Tea Reader.png"
+			}
+		},
+		{
+			"name": "Curtail",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/67_Curtail.png"
+			}
+		},
+		{
+			"name": "Altar of Empyrea",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/98_Altar of Empyrea.png"
+			}
+		},
+		{
+			"name": "The Golden Lure",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/322_The Golden Lure.png"
+			}
+		},
+		{
+			"name": "Blessed Bloomblade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/196_Blessed Bloomblade.png"
+			}
+		},
+		{
+			"name": "Swift, Volq of Air",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Elemental Phoenix",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/266_Swift, Volq of Air.png"
+			}
+		},
+		{
+			"name": "Survey the Reserve",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/235_Survey the Reserve.png"
+			}
+		},
+		{
+			"name": "Devour Prey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/208_Devour Prey.png"
+			}
+		},
+		{
+			"name": "Mark for Weakness",
+			"rarity": "common",
+			"mana_cost": "{GW}",
+			"type": "Sorcery",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/291_Mark for Weakness.png"
+			}
+		},
+		{
+			"name": "Spear of Life and Cycles",
+			"rarity": "uncommon",
+			"mana_cost": "{BG}{BG}",
+			"type": "Artifact",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/300_Spear of Life and Cycles.png"
+			}
+		},
+		{
+			"name": "Flechan Flame Thrower",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Sorcerer",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/168_Flechan Flame Thrower.png"
+			}
+		},
+		{
+			"name": "Will of the Flechan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/193_Will of the Flechan.png"
+			}
+		},
+		{
+			"name": "Elucidate Plan",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/73_Elucidate Plan.png"
+			}
+		},
+		{
+			"name": "Preconnaissance Mission",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/79_Preconnaissance Mission.png"
+			}
+		},
+		{
+			"name": "Will of the Tchit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/96_Will of the Tchit.png"
+			}
+		},
+		{
+			"name": "Will of the Nexen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/50_Will of the Nexen.png"
+			}
+		},
+		{
+			"name": "Will of the Dhonedem",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/142_Will of the Dhonedem.png"
+			}
+		},
+		{
+			"name": "Conqueror's Trophy",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/243_Conqueror's Trophy.png"
+			}
+		},
+		{
+			"name": "Nature's Reclaim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/256_Nature's Reclaim.png"
+			}
+		},
+		{
+			"name": "Arcanum Core of Dennizit",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/308_Arcanum Core of Dennizit.png"
+			}
+		},
+		{
+			"name": "Foresight Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/75_Foresight Ritual.png"
+			}
+		},
+		{
+			"name": "Mycelocepts, Flesh Twister",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Zombie Fungus",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/255_Mycelocepts, Flesh Twister.png"
+			}
+		},
+		{
+			"name": "Ancenstor's Tutelage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/55_Ancenstor's Tutelage.png"
+			}
+		},
+		{
+			"name": "Sharp-Eyed Woodward",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger Scout",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/231_Sharp-Eyed Woodward.png"
+			}
+		},
+		{
+			"name": "Soul's Protector",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/46_Soul's Protector.png"
+			}
+		},
+		{
+			"name": "Advanced Outrider",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Knight Scout",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/1_Advanced Outrider.png"
+			}
+		},
+		{
+			"name": "Mark of Death",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/128_Mark of Death.png"
+			}
+		},
+		{
+			"name": "Lone Survivors",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/126_Lone Survivors.png"
+			}
+		},
+		{
+			"name": "Nexen Standard-Bearer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/31_Nexen Standard-Bearer.png"
+			}
+		},
+		{
+			"name": "Brutalize",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/100_Brutalize.png"
+			}
+		},
+		{
+			"name": "Collateral Clerk",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/10_Collateral Clerk.png"
+			}
+		},
+		{
+			"name": "Courageous Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/153_Courageous Strike.png"
+			}
+		},
+		{
+			"name": "Cleaver of Constellations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/9_Cleaver of Constellations.png"
+			}
+		},
+		{
+			"name": "Kell, Patron of the Hunt",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Enchantment Creature — Elder Ranger",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/253_Kell, Patron of the Hunt.png"
+			}
+		},
+		{
+			"name": "Resolute Cornucopia",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{X}",
+			"type": "Artifact",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/329_Resolute Cornucopia.png"
+			}
+		},
+		{
+			"name": "Prison Cell",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/41_Prison Cell.png"
+			}
+		},
+		{
+			"name": "Galloping Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/21_Galloping Mentor.png"
+			}
+		},
+		{
+			"name": "Prella Wunderbait, Chronicler of Velesta",
+			"rarity": "rare",
+			"mana_cost": "{2}{UR}{UR}",
+			"type": "Legendary Planeswalker — Prella",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/295_Prella Wunderbait, Chronicler of Velesta.png"
+			}
+		},
+		{
+			"name": "Will, Patron of Cycles",
+			"rarity": "mythic",
+			"mana_cost": "{3}{GW}{GW}",
+			"type": "Legendary Enchantment Creature — Elder Elemental",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/307_Will, Patron of Cycles.png"
+			}
+		},
+		{
+			"name": "Assaulted Cityguard",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/146_Assaulted Cityguard.png"
+			}
+		},
+		{
+			"name": "Rallying Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/183_Rallying Charge.png"
+			}
+		},
+		{
+			"name": "Stranded Sloop",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/330_Stranded Sloop.png"
+			}
+		},
+		{
+			"name": "Raider's Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/328_Raider's Axe.png"
+			}
+		},
+		{
+			"name": "Boots of Abjuration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/313_Boots of Abjuration.png"
+			}
+		},
+		{
+			"name": "Phial of Cleansing",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/326_Phial of Cleansing.png"
+			}
+		},
+		{
+			"name": "Necrotic Monolith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/130_Necrotic Monolith.png"
+			}
+		},
+		{
+			"name": "Wartime Assembly",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/333_Wartime Assembly.png"
+			}
+		},
+		{
+			"name": "Drimmvoke Automaton",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/318_Drimmvoke Automaton.png"
+			}
+		},
+		{
+			"name": "Treasure Tortoise",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Turtle",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/332_Treasure Tortoise.png"
+			}
+		},
+		{
+			"name": "Canopy Grazer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/201_Canopy Grazer.png"
+			}
+		},
+		{
+			"name": "Territorial Direwolf",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/236_Territorial Direwolf.png"
+			}
+		},
+		{
+			"name": "Voracious Starfish",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Starfish",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/140_Voracious Starfish.png"
+			}
+		},
+		{
+			"name": "Silkless Weaver",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/232_Silkless Weaver.png"
+			}
+		},
+		{
+			"name": "Skipping Stalgeon",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/84_Skipping Stalgeon.png"
+			}
+		},
+		{
+			"name": "Plan the Invasion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/180_Plan the Invasion.png"
+			}
+		},
+		{
+			"name": "Directed Volley",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/157_Directed Volley.png"
+			}
+		},
+		{
+			"name": "Volatile Cyclops",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/190_Volatile Cyclops.png"
+			}
+		},
+		{
+			"name": "Fallarai Swiftblade",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Monk",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/164_Fallarai Swiftblade.png"
+			}
+		},
+		{
+			"name": "Dashing Pilferer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Pirate",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/155_Dashing Pilferer.png"
+			}
+		},
+		{
+			"name": "Whirling Firestorm",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/192_Whirling Firestorm.png"
+			}
+		},
+		{
+			"name": "Horned Drillmaster",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/174_Horned Drillmaster.png"
+			}
+		},
+		{
+			"name": "Lancer Drillmaster",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/178_Lancer Drillmaster.png"
+			}
+		},
+		{
+			"name": "Rash Ivoryhorn",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Rhino",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/184_Rash Ivoryhorn.png"
+			}
+		},
+		{
+			"name": "Blood Frenzy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/148_Blood Frenzy.png"
+			}
+		},
+		{
+			"name": "Animated Lavatwister",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Snake Elemental",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/144_Animated Lavatwister.png"
+			}
+		},
+		{
+			"name": "Scrap Cannoneer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/186_Scrap Cannoneer.png"
+			}
+		},
+		{
+			"name": "Frontline Burstmage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Sorcerer",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/170_Frontline Burstmage.png"
+			}
+		},
+		{
+			"name": "Greedy Deckhand",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Pirate",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/172_Greedy Deckhand.png"
+			}
+		},
+		{
+			"name": "Flechan Challenger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/167_Flechan Challenger.png"
+			}
+		},
+		{
+			"name": "Heat Mirage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/173_Heat Mirage.png"
+			}
+		},
+		{
+			"name": "Ceaseless Rattlebone",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton Snake",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/101_Ceaseless Rattlebone.png"
+			}
+		},
+		{
+			"name": "Patron's Favor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/131_Patron's Favor.png"
+			}
+		},
+		{
+			"name": "Hunt Crasher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crocodile",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/120_Hunt Crasher.png"
+			}
+		},
+		{
+			"name": "Devouring Sandwurm",
+			"rarity": "common",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Wurm",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/106_Devouring Sandwurm.png"
+			}
+		},
+		{
+			"name": "Explosive Gambit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/116_Explosive Gambit.png"
+			}
+		},
+		{
+			"name": "Rise of the Ancestors",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/132_Rise of the Ancestors.png"
+			}
+		},
+		{
+			"name": "Parfolus the Black",
+			"rarity": "rare",
+			"mana_cost": "{2}{UB}{UB}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/294_Parfolus the Black.png"
+			}
+		},
+		{
+			"name": "Dhone Drone",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Dhonedem Zombie",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/108_Dhone Drone.png"
+			}
+		},
+		{
+			"name": "Ghirit Sandwatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Dhonedem Scout",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/119_Ghirit Sandwatcher.png"
+			}
+		},
+		{
+			"name": "Dhone Slickblade",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Dhonedem Warrior",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/109_Dhone Slickblade.png"
+			}
+		},
+		{
+			"name": "Dhone Spearman",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Dhonedem Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/110_Dhone Spearman.png"
+			}
+		},
+		{
+			"name": "Indentured Skeleton",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/121_Indentured Skeleton.png"
+			}
+		},
+		{
+			"name": "Infernal Witness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Devil Shaman",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/123_Infernal Witness.png"
+			}
+		},
+		{
+			"name": "Battlefield Pillagers",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/99_Battlefield Pillagers.png"
+			}
+		},
+		{
+			"name": "Leaping Meal",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Frog",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/125_Leaping Meal.png"
+			}
+		},
+		{
+			"name": "Brushwood Engagement",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/198_Brushwood Engagement.png"
+			}
+		},
+		{
+			"name": "Crashing Rhino",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Rhino",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/204_Crashing Rhino.png"
+			}
+		},
+		{
+			"name": "Bubbly Companion",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/199_Bubbly Companion.png"
+			}
+		},
+		{
+			"name": "Brutality, Volq of Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{RG}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/275_Brutality, Volq of Flame.png"
+			}
+		},
+		{
+			"name": "Crushing Blow",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/205_Crushing Blow.png"
+			}
+		},
+		{
+			"name": "Ravenous Chlorotyrant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/228_Ravenous Chlorotyrant.png"
+			}
+		},
+		{
+			"name": "Canopy Constrictor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Snake",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/200_Canopy Constrictor.png"
+			}
+		},
+		{
+			"name": "Moxie",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/218_Moxie.png"
+			}
+		},
+		{
+			"name": "Destructive Propagation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/207_Destructive Propagation.png"
+			}
+		},
+		{
+			"name": "Concealed Predator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/203_Concealed Predator.png"
+			}
+		},
+		{
+			"name": "Fanatic of Cycles",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/213_Fanatic of Cycles.png"
+			}
+		},
+		{
+			"name": "Flowering Compsidome",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/214_Flowering Compsidome.png"
+			}
+		},
+		{
+			"name": "Deadwood Flat-Top",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/206_Deadwood Flat-Top.png"
+			}
+		},
+		{
+			"name": "Sauros Trainer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/230_Sauros Trainer.png"
+			}
+		},
+		{
+			"name": "Beast Tracker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/194_Beast Tracker.png"
+			}
+		},
+		{
+			"name": "Rockmuncher",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/229_Rockmuncher.png"
+			}
+		},
+		{
+			"name": "Tide-Reader Cetacean",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/91_Tide-Reader Cetacean.png"
+			}
+		},
+		{
+			"name": "Scrying Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/83_Scrying Stone.png"
+			}
+		},
+		{
+			"name": "Anticipate Maneuvers",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/56_Anticipate Maneuvers.png"
+			}
+		},
+		{
+			"name": "Nixie Prankster",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/77_Nixie Prankster.png"
+			}
+		},
+		{
+			"name": "Wartime Messenger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/95_Wartime Messenger.png"
+			}
+		},
+		{
+			"name": "Drimmvoke Replicator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/71_Drimmvoke Replicator.png"
+			}
+		},
+		{
+			"name": "Tearjay Fledgling",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/88_Tearjay Fledgling.png"
+			}
+		},
+		{
+			"name": "Avaunt",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/60_Avaunt.png"
+			}
+		},
+		{
+			"name": "Brightfeather Tearjay",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/64_Brightfeather Tearjay.png"
+			}
+		},
+		{
+			"name": "Revert",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/81_Revert.png"
+			}
+		},
+		{
+			"name": "Deflection Thopter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/68_Deflection Thopter.png"
+			}
+		},
+		{
+			"name": "Tuulvoke Miner",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dwarf",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/93_Tuulvoke Miner.png"
+			}
+		},
+		{
+			"name": "Aerial Scoutgear",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/51_Aerial Scoutgear.png"
+			}
+		},
+		{
+			"name": "Predictive Measures",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/80_Predictive Measures.png"
+			}
+		},
+		{
+			"name": "Alvaesti Warcry",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/54_Alvaesti Warcry.png"
+			}
+		},
+		{
+			"name": "Heart of Courage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/25_Heart of Courage.png"
+			}
+		},
+		{
+			"name": "Timely Defense",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/48_Timely Defense.png"
+			}
+		},
+		{
+			"name": "Bringer of the Day",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Horse Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/6_Bringer of the Day.png"
+			}
+		},
+		{
+			"name": "Righteous Frenzy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/44_Righteous Frenzy.png"
+			}
+		},
+		{
+			"name": "Noble's Martyr",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/34_Noble's Martyr.png"
+			}
+		},
+		{
+			"name": "Pride of the Army",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/38_Pride of the Army.png"
+			}
+		},
+		{
+			"name": "Frontline Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/20_Frontline Champion.png"
+			}
+		},
+		{
+			"name": "Cleansing Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/8_Cleansing Light.png"
+			}
+		},
+		{
+			"name": "Griffin Skypaladin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Griffin Knight",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/24_Griffin Skypaladin.png"
+			}
+		},
+		{
+			"name": "Monocular Peacewarden",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cyclops",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/29_Monocular Peacewarden.png"
+			}
+		},
+		{
+			"name": "Griffin Lancer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Griffin Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/22_Griffin Lancer.png"
+			}
+		},
+		{
+			"name": "Espratan Adjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Sorcerer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/17_Espratan Adjudicator.png"
+			}
+		},
+		{
+			"name": "Boundless Wings",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/4_Boundless Wings.png"
+			}
+		},
+		{
+			"name": "Faithful Stand",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/18_Faithful Stand.png"
+			}
+		},
+		{
+			"name": "Disciple of the Shield",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/15_Disciple of the Shield.png"
+			}
+		},
+		{
+			"name": "Crossbow",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/316_Crossbow.png"
+			}
+		},
+		{
+			"name": "Flechan War Machine",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/319_Flechan War Machine.png"
+			}
+		},
+		{
+			"name": "Nexen Longshot",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/325_Nexen Longshot.png"
+			}
+		},
+		{
+			"name": "Banner of Allegiance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/310_Banner of Allegiance.png"
+			}
+		},
+		{
+			"name": "Drimm Manablade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/317_Drimm Manablade.png"
+			}
+		},
+		{
+			"name": "Flechan Wardrum",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/320_Flechan Wardrum.png"
+			}
+		},
+		{
+			"name": "Battle Scrap",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/311_Battle Scrap.png"
+			}
+		},
+		{
+			"name": "Metalscale Recycler",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/324_Metalscale Recycler.png"
+			}
+		},
+		{
+			"name": "Brilliance, Shifting Edge",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/314_Brilliance, Shifting Edge.png"
+			}
+		},
+		{
+			"name": "Divination Dais",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/70_Divination Dais.png"
+			}
+		},
+		{
+			"name": "Tracker's Bow",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/331_Tracker's Bow.png"
+			}
+		},
+		{
+			"name": "Gella Hound",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/321_Gella Hound.png"
+			}
+		},
+		{
+			"name": "Implusive Scout-Hound",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dog Construct",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/323_Implusive Scout-Hound.png"
+			}
+		},
+		{
+			"name": "Pharani Budresin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/221_Pharani Budresin.png"
+			}
+		},
+		{
+			"name": "Eidolon of the Fallarai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/160_Eidolon of the Fallarai.png"
+			}
+		},
+		{
+			"name": "Blade of Burdening",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/312_Blade of Burdening.png"
+			}
+		},
+		{
+			"name": "Castle Pelloh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/341_Castle Pelloh.png"
+			}
+		},
+		{
+			"name": "Thorngrove, Capitol of the Pharani",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/361_Thorngrove, Capitol of the Pharani.png"
+			}
+		},
+		{
+			"name": "Castle Warven",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/342_Castle Warven.png"
+			}
+		},
+		{
+			"name": "Aven Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/61_Aven Scout.png"
+			}
+		},
+		{
+			"name": "Tsunami Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/92_Tsunami Serpent.png"
+			}
+		},
+		{
+			"name": "Alvaesti Adjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/53_Alvaesti Adjudicator.png"
+			}
+		},
+		{
+			"name": "Flechan Adjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/165_Flechan Adjudicator.png"
+			}
+		},
+		{
+			"name": "Pharani Adjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Sorcerer",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/220_Pharani Adjudicator.png"
+			}
+		},
+		{
+			"name": "Dhone Adjudicator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Sorcerer",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/107_Dhone Adjudicator.png"
+			}
+		},
+		{
+			"name": "Skelepathy",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/134_Skelepathy.png"
+			}
+		},
+		{
+			"name": "Drimmvoke Synthesizer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/159_Drimmvoke Synthesizer.png"
+			}
+		},
+		{
+			"name": "Gilre, Compelling Rascal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Cat Rogue",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/250_Gilre, Compelling Rascal.png"
+			}
+		},
+		{
+			"name": "Political Assassination",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/258_Political Assassination.png"
+			}
+		},
+		{
+			"name": "Pwaeriss, Great Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Elder Serpent",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/259_Pwaeriss, Great Wyrm.png"
+			}
+		},
+		{
+			"name": "Ravenous Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Hyena",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/262_Ravenous Scavenger.png"
+			}
+		},
+		{
+			"name": "Avartic, Predatory Blight",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Vampire Fungus",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/239_Avartic, Predatory Blight.png"
+			}
+		},
+		{
+			"name": "Champion's Execution",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/241_Champion's Execution.png"
+			}
+		},
+		{
+			"name": "Arcanum Capacitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/145_Arcanum Capacitor.png"
+			}
+		},
+		{
+			"name": "Enfleshed Skeleton",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/114_Enfleshed Skeleton.png"
+			}
+		},
+		{
+			"name": "Spirited Return",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/136_Spirited Return.png"
+			}
+		},
+		{
+			"name": "Spear of Chaos and Order",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{UR}{UR}",
+			"type": "Artifact — Equipment",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/299_Spear of Chaos and Order.png"
+			}
+		},
+		{
+			"name": "Possessive Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/36_Possessive Soul.png"
+			}
+		},
+		{
+			"name": "Cloudtop Scout",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Griffin Knight",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/65_Cloudtop Scout.png"
+			}
+		},
+		{
+			"name": "Sphere of Silence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/85_Sphere of Silence.png"
+			}
+		},
+		{
+			"name": "Squire Initiate",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Knight",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/47_Squire Initiate.png"
+			}
+		},
+		{
+			"name": "Thopter Warforge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/89_Thopter Warforge.png"
+			}
+		},
+		{
+			"name": "Fuming Everburn",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/171_Fuming Everburn.png"
+			}
+		},
+		{
+			"name": "Propaganda of Conquest",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/327_Propaganda of Conquest.png"
+			}
+		},
+		{
+			"name": "Odyssey's Conclusion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/257_Odyssey's Conclusion.png"
+			}
+		},
+		{
+			"name": "Commandeer Supplies",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/66_Commandeer Supplies.png"
+			}
+		},
+		{
+			"name": "Floodgate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/74_Floodgate.png"
+			}
+		},
+		{
+			"name": "Pharani Warcry",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/222_Pharani Warcry.png"
+			}
+		},
+		{
+			"name": "Dhonedem Warcry",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/111_Dhonedem Warcry.png"
+			}
+		},
+		{
+			"name": "Nexen Warcry",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/32_Nexen Warcry.png"
+			}
+		},
+		{
+			"name": "Flechan Warcry",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/169_Flechan Warcry.png"
+			}
+		},
+		{
+			"name": "Martyr's Inspiration",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/129_Martyr's Inspiration.png"
+			}
+		},
+		{
+			"name": "Ferawyn's Lieutenant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/19_Ferawyn's Lieutenant.png"
+			}
+		},
+		{
+			"name": "Night's Watch",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/33_Night's Watch.png"
+			}
+		},
+		{
+			"name": "Twisted Perfection",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/94_Twisted Perfection.png"
+			}
+		},
+		{
+			"name": "Fallarai Burstmage",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Monk",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/247_Fallarai Burstmage.png"
+			}
+		},
+		{
+			"name": "Berserk Assault",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/147_Berserk Assault.png"
+			}
+		},
+		{
+			"name": "Fallarai of the Flaming Foot",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{UR}{R}",
+			"type": "Creature — Monk",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/282_Fallarai of the Flaming Foot.png"
+			}
+		},
+		{
+			"name": "Siphon Energy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/45_Siphon Energy.png"
+			}
+		},
+		{
+			"name": "Tyrannovitae Immortalis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Elder Plant Dinosaur",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/267_Tyrannovitae Immortalis.png"
+			}
+		},
+		{
+			"name": "Steelstorm Assault",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/187_Steelstorm Assault.png"
+			}
+		},
+		{
+			"name": "Witness Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/238_Witness Strength.png"
+			}
+		},
+		{
+			"name": "Bioreclamation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/195_Bioreclamation.png"
+			}
+		},
+		{
+			"name": "Inexorable Rot",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/122_Inexorable Rot.png"
+			}
+		},
+		{
+			"name": "Lord Ullpracious, Esprata's Founder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{UB}{UB}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/289_Lord Ullpracious, Esprata's Founder.png"
+			}
+		},
+		{
+			"name": "Quan-Org, Magus of Reflections",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Golem Wizard",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/260_Quan-Org, Magus of Reflections.png"
+			}
+		},
+		{
+			"name": "Lord Iven, Dread Marauder",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/254_Lord Iven, Dread Marauder.png"
+			}
+		},
+		{
+			"name": "Elemental Contagion",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/113_Elemental Contagion.png"
+			}
+		},
+		{
+			"name": "Envenomed Informant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Snake Rogue",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/115_Envenomed Informant.png"
+			}
+		},
+		{
+			"name": "Mindflare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{UR}{UR}",
+			"type": "Instant",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/292_Mindflare.png"
+			}
+		},
+		{
+			"name": "Calamitous Stampede",
+			"rarity": "uncommon",
+			"mana_cost": "{RW}{RW}",
+			"type": "Sorcery",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/276_Calamitous Stampede.png"
+			}
+		},
+		{
+			"name": "Deteriorate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{UB}{UB}",
+			"type": "Instant",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/279_Deteriorate.png"
+			}
+		},
+		{
+			"name": "Steer Astray",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{WB}{WB}",
+			"type": "Instant",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/301_Steer Astray.png"
+			}
+		},
+		{
+			"name": "Devastating Impact",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{RG}{RG}",
+			"type": "Instant",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/280_Devastating Impact.png"
+			}
+		},
+		{
+			"name": "Tenacious Blaze",
+			"rarity": "uncommon",
+			"mana_cost": "{BR}{BR}",
+			"type": "Instant",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/303_Tenacious Blaze.png"
+			}
+		},
+		{
+			"name": "Mana Vortex",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{WU}{WU}",
+			"type": "Instant",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/290_Mana Vortex.png"
+			}
+		},
+		{
+			"name": "Claw to Compost",
+			"rarity": "uncommon",
+			"mana_cost": "{GW}{GW}",
+			"type": "Sorcery",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/277_Claw to Compost.png"
+			}
+		},
+		{
+			"name": "Misplace",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{GU}{GU}",
+			"type": "Instant",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/293_Misplace.png"
+			}
+		},
+		{
+			"name": "Iven's Edict",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{BG}{BG}",
+			"type": "Sorcery",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/288_Iven's Edict.png"
+			}
+		},
+		{
+			"name": "Verdant Expansion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{UR}",
+			"type": "Enchantment",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/306_Verdant Expansion.png"
+			}
+		},
+		{
+			"name": "Lattice of Sealing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/28_Lattice of Sealing.png"
+			}
+		},
+		{
+			"name": "Tsavabni Vellon, Infamous Raider",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Cat Pirate",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/189_Tsavabni Vellon, Infamous Raider.png"
+			}
+		},
+		{
+			"name": "Skarserd, Duplimancer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{UR}{UR}",
+			"type": "Legendary Creature — Dwarf Sorcerer",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/298_Skarserd, Duplimancer.png"
+			}
+		},
+		{
+			"name": "Flatplain Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/347_Flatplain Battleground.png"
+			}
+		},
+		{
+			"name": "Cursemarsh Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/344_Cursemarsh Battleground.png"
+			}
+		},
+		{
+			"name": "Heatpool Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/349_Heatpool Battleground.png"
+			}
+		},
+		{
+			"name": "Frostlake Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/348_Frostlake Battleground.png"
+			}
+		},
+		{
+			"name": "Shimmersand Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/358_Shimmersand Battleground.png"
+			}
+		},
+		{
+			"name": "Blazeleaf Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/337_Blazeleaf Battleground.png"
+			}
+		},
+		{
+			"name": "Saltridge Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/357_Saltridge Battleground.png"
+			}
+		},
+		{
+			"name": "Rotpool Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/356_Rotpool Battleground.png"
+			}
+		},
+		{
+			"name": "Sunbleached Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/359_Sunbleached Battleground.png"
+			}
+		},
+		{
+			"name": "Lushpond Battleground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/353_Lushpond Battleground.png"
+			}
+		},
+		{
+			"name": "Castle Hollen",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/340_Castle Hollen.png"
+			}
+		},
+		{
+			"name": "Kelloke, Capitol of the Drimm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/352_Kelloke, Capitol of the Drimm.png"
+			}
+		},
+		{
+			"name": "Espren, Capitol of the Espratan",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/346_Espren, Capitol of the Espratan.png"
+			}
+		},
+		{
+			"name": "Alepha, Capitol of the Alvaesti",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/335_Alepha, Capitol of the Alvaesti.png"
+			}
+		},
+		{
+			"name": "Dennezit, Capitol of the Dhone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/345_Dennezit, Capitol of the Dhone.png"
+			}
+		},
+		{
+			"name": "Nethenan Sea Wall",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/354_Nethenan Sea Wall.png"
+			}
+		},
+		{
+			"name": "Uvathkolsil, Ascendant",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{U}{U}{B}{R}{R}{G}",
+			"type": "Legendary Planeswalker — Uvathkolsil",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/268_Uvathkolsil, Ascendant.png"
+			}
+		},
+		{
+			"name": "Neverending Slumber",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/76_Neverending Slumber.png"
+			}
+		},
+		{
+			"name": "Bespoke Battleship",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/63_Bespoke Battleship.png"
+			}
+		},
+		{
+			"name": "Spirit Wings",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/86_Spirit Wings.png"
+			}
+		},
+		{
+			"name": "Obsessed with Omniscience",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/78_Obsessed with Omniscience.png"
+			}
+		},
+		{
+			"name": "Volatile Vholis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/191_Volatile Vholis.png"
+			}
+		},
+		{
+			"name": "Staff of Strength",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/234_Staff of Strength.png"
+			}
+		},
+		{
+			"name": "Artificer's Torch",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/58_Artificer's Torch.png"
+			}
+		},
+		{
+			"name": "Prowler's Crossbow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/226_Prowler's Crossbow.png"
+			}
+		},
+		{
+			"name": "Flanged Soulstealer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/117_Flanged Soulstealer.png"
+			}
+		},
+		{
+			"name": "Banner of Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/3_Banner of Battle.png"
+			}
+		},
+		{
+			"name": "Axe of Force",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/309_Axe of Force.png"
+			}
+		},
+		{
+			"name": "Greenmaze Ancient",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/215_Greenmaze Ancient.png"
+			}
+		},
+		{
+			"name": "Resourceful Mechanic",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/42_Resourceful Mechanic.png"
+			}
+		},
+		{
+			"name": "Keen Salvage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/27_Keen Salvage.png"
+			}
+		},
+		{
+			"name": "Exponential Growth",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/212_Exponential Growth.png"
+			}
+		},
+		{
+			"name": "Armor of Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/2_Armor of Hope.png"
+			}
+		},
+		{
+			"name": "Priest's Hymns",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/39_Priest's Hymns.png"
+			}
+		},
+		{
+			"name": "Principle Ascendant",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/40_Principle Ascendant.png"
+			}
+		},
+		{
+			"name": "Practical Footsoldier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/37_Practical Footsoldier.png"
+			}
+		},
+		{
+			"name": "Comet Shard",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/315_Comet Shard.png"
+			}
+		},
+		{
+			"name": "Conviction of Victory",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/12_Conviction of Victory.png"
+			}
+		},
+		{
+			"name": "Nexen Conscription",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/30_Nexen Conscription.png"
+			}
+		},
+		{
+			"name": "Caeriil, Hope's Disciple",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/7_Caeriil, Hope's Disciple.png"
+			}
+		},
+		{
+			"name": "Devotion's Reward",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/14_Devotion's Reward.png"
+			}
+		},
+		{
+			"name": "Apothecary's Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/57_Apothecary's Insight.png"
+			}
+		},
+		{
+			"name": "Vexatious Nixie",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/270_Vexatious Nixie.png"
+			}
+		},
+		{
+			"name": "Destructive Harvest",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/156_Destructive Harvest.png"
+			}
+		},
+		{
+			"name": "Glyph Gorger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{RG}",
+			"type": "Creature",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/287_Glyph Gorger.png"
+			}
+		},
+		{
+			"name": "Disciple of the Lost Sands",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/112_Disciple of the Lost Sands.png"
+			}
+		},
+		{
+			"name": "Death Roller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Crocodile",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/102_Death Roller.png"
+			}
+		},
+		{
+			"name": "Scavenger's Feast",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/133_Scavenger's Feast.png"
+			}
+		},
+		{
+			"name": "Decayed Disturbance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/103_Decayed Disturbance.png"
+			}
+		},
+		{
+			"name": "Virtuous Act",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/49_Virtuous Act.png"
+			}
+		},
+		{
+			"name": "Rhystic Remora",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/82_Rhystic Remora.png"
+			}
+		},
+		{
+			"name": "Conscription Officer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/11_Conscription Officer.png"
+			}
+		},
+		{
+			"name": "Opportune Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/35_Opportune Reinforcements.png"
+			}
+		},
+		{
+			"name": "General Gephor of Nexos",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Elf Knight",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/249_General Gephor of Nexos.png"
+			}
+		},
+		{
+			"name": "Thrumminghawk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/90_Thrumminghawk.png"
+			}
+		},
+		{
+			"name": "Dame Erisska, Gallant Stonemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Drimm Knight Artificer",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/244_Dame Erisska, Gallant Stonemaker.png"
+			}
+		},
+		{
+			"name": "Disembody",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/16_Disembody.png"
+			}
+		},
+		{
+			"name": "Wise-Eye Wizard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Cyclops Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/97_Wise-Eye Wizard.png"
+			}
+		},
+		{
+			"name": "Terrorex",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/138_Terrorex.png"
+			}
+		},
+		{
+			"name": "Mountainous Stormeye",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/179_Mountainous Stormeye.png"
+			}
+		},
+		{
+			"name": "Protective Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/225_Protective Prowler.png"
+			}
+		},
+		{
+			"name": "Phytosaur Rex",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/223_Phytosaur Rex.png"
+			}
+		},
+		{
+			"name": "Ivory Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Rhino Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/26_Ivory Charger.png"
+			}
+		},
+		{
+			"name": "Brushwood Ambusher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/197_Brushwood Ambusher.png"
+			}
+		},
+		{
+			"name": "Embellished Expedition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/209_Embellished Expedition.png"
+			}
+		},
+		{
+			"name": "Pristine Orchard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/224_Pristine Orchard.png"
+			}
+		},
+		{
+			"name": "Call of Fealty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/151_Call of Fealty.png"
+			}
+		},
+		{
+			"name": "Knight's Honor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/176_Knight's Honor.png"
+			}
+		},
+		{
+			"name": "Disciplined Spellstrike",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Sorcerer Monk",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/158_Disciplined Spellstrike.png"
+			}
+		},
+		{
+			"name": "Push for Survival",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/181_Push for Survival.png"
+			}
+		},
+		{
+			"name": "Tephratic Spray",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/188_Tephratic Spray.png"
+			}
+		},
+		{
+			"name": "Bouncing Sightfish",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fish",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/149_Bouncing Sightfish.png"
+			}
+		},
+		{
+			"name": "Fallarai Strikemaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Monk",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/163_Fallarai Strikemaster.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/365_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/366_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/367_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/368_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/369_Forest.png"
+			}
+		},
+		{
+			"name": "Ekkon, Parallel Crafter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/72_Ekkon, Parallel Crafter.png"
+			}
+		},
+		{
+			"name": "Dek'Ka, Harbinger of Nu'Ul",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Dhonedem Cleric",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/104_Dek'Ka, Harbinger of Nu'Ul.png"
+			}
+		},
+		{
+			"name": "Ko'Ma, Death's Herald",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Dhonedem Warrior",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/124_Ko'Ma, Death's Herald.png"
+			}
+		},
+		{
+			"name": "Excess, Volq of Vitality",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Plant Elemental",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/211_Excess, Volq of Vitality.png"
+			}
+		},
+		{
+			"name": "Nature's Insight",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/219_Nature's Insight.png"
+			}
+		},
+		{
+			"name": "Kirras, Echo Maker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Minotaur Sorcerer",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/175_Kirras, Echo Maker.png"
+			}
+		},
+		{
+			"name": "Hunter's Scope",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/251_Hunter's Scope.png"
+			}
+		},
+		{
+			"name": "Rak'Thavos, Nimble Shipwright",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Lizard Pirate",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/182_Rak'Thavos, Nimble Shipwright.png"
+			}
+		},
+		{
+			"name": "Ravenous Carapite",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Snail",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/261_Ravenous Carapite.png"
+			}
+		},
+		{
+			"name": "Jungle Pathmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ranger Scout",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/217_Jungle Pathmaker.png"
+			}
+		},
+		{
+			"name": "Desert Pathmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Ranger",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/105_Desert Pathmaker.png"
+			}
+		},
+		{
+			"name": "Warven, Fallen Champion",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Skeleton Wizard",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/141_Warven, Fallen Champion.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/13_Illusion.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/14_Knight.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/5_Soldier.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/29_Treasure.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/20_Knight.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/6_Soldier.png"
+			}
+		},
+		{
+			"name": "Crusade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/1_Crusade.png"
+			}
+		},
+		{
+			"name": "Sorcerer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Sorcerer",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/24_Sorcerer.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/28_Thopter.png"
+			}
+		},
+		{
+			"name": "Tuulvoke Crystal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Tuulvoke Crystal",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/30_Tuulvoke Crystal.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/26_Golem.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/25_Food.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/11_Zombie.png"
+			}
+		},
+		{
+			"name": "Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/7_Faerie.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/12_Zombie.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/9_Skeleton.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/10_Skeleton.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Phoenix",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phoenix",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/15_Phoenix.png"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/8_Rat.png"
+			}
+		},
+		{
+			"name": "Forest's Rage",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/19_Forest's Rage.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/18_Plant.png"
+			}
+		},
+		{
+			"name": "Plant Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Dinosaur",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/21_Plant Dinosaur.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/16_Beast.png"
+			}
+		},
+		{
+			"name": "Plant Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Dinosaur",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/22_Plant Dinosaur.png"
+			}
+		},
+		{
+			"name": "Knight Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Knight Golem",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/3_Knight Golem.png"
+			}
+		},
+		{
+			"name": "Dragon Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Dragon Construct",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/2_Dragon Construct.png"
+			}
+		},
+		{
+			"name": "Plant Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Dinosaur",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/23_Plant Dinosaur.png"
+			}
+		},
+		{
+			"name": "Monk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Monk",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/4_Monk.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/17_Elemental.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/27_Golem.png"
+			}
+		},
+		{
+			"name": "Drimm Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Drimm Artificer",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/246_Drimm Tinkerer.png"
+			}
+		},
+		{
+			"name": "Sunheart Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/264_Sunheart Champion.png"
+			}
+		},
+		{
+			"name": "Sunbreaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/263_Sunbreaker.png"
+			}
+		},
+		{
+			"name": "Salvage Welder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/185_Salvage Welder.png"
+			}
+		},
+		{
+			"name": "Warrior of the Weald",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Druid Soldier",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/271_Warrior of the Weald.png"
+			}
+		},
+		{
+			"name": "Sunheart Charger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/265_Sunheart Charger.png"
+			}
+		},
+		{
+			"name": "Hold Steadfast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/216_Hold Steadfast.png"
+			}
+		},
+		{
+			"name": "Riot Stomper",
+			"rarity": "uncommon",
+			"mana_cost": "{WB}{WB}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/297_Riot Stomper.png"
+			}
+		},
+		{
+			"name": "Velesta At War",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/269_Velesta At War.png"
+			}
+		},
+		{
+			"name": "Frozen Knowledge",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Enchantment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/248_Frozen Knowledge.png"
+			}
+		},
+		{
+			"name": "Frozen Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{WU}",
+			"type": "Creature — Human Knight",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/284_Frozen Knight.png"
+			}
+		},
+		{
+			"name": "Frozen Mana",
+			"rarity": "rare",
+			"mana_cost": "{WU}{WU}",
+			"type": "Enchantment",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/285_Frozen Mana.png"
+			}
+		},
+		{
+			"name": "Frozen Wyrm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{GU}",
+			"type": "Creature — Wurm",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/286_Frozen Wyrm.png"
+			}
+		},
+		{
+			"name": "Frozen Blast",
+			"rarity": "uncommon",
+			"mana_cost": "{UR}",
+			"type": "Enchantment",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/283_Frozen Blast.png"
+			}
+		},
+		{
+			"name": "Cone of Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/152_Cone of Lightning.png"
+			}
+		},
+		{
+			"name": "Woslan's Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/334_Woslan's Tower.png"
+			}
+		},
+		{
+			"name": "Cappasi, the Boundless",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Artifact Creature — Golem Artificer",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/240_Cappasi, the Boundless.png"
+			}
+		},
+		{
+			"name": "Crusading Aberration",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Horror Knight",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VWT-files/img/154_Crusading Aberration.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Invasion Force
+	1 Tenets of the Fallarai
+	2 Aggressive Frillback
+	2 Fallarai Soul Guide
+	2 Everburn Oracle
+	2 Sturdy, Volq of Earth
+	2 Endless Hunt
+	2 Ghipor-Lang, Rot Becoming
+	1 The Dark King, Reborn
+	1 Bortott, Righteous Guardian
+	2 Curtail
+	2 Altar of Empyrea
+	1 The Golden Lure
+	2 Swift, Volq of Air
+	2 Preconnaissance Mission
+	2 Conqueror's Trophy
+	1 Arcanum Core of Dennizit
+	1 Mycelocepts, Flesh Twister
+	2 Sharp-Eyed Woodward
+	2 Soul's Protector
+	2 Advanced Outrider
+	2 Collateral Clerk
+	2 Kell, Patron of the Hunt
+	2 Resolute Cornucopia
+	2 Prison Cell
+	2 Prella Wunderbait, Chronicler of Velesta
+	1 Will, Patron of Cycles
+	2 Phial of Cleansing
+	2 Fallarai Swiftblade
+	2 Whirling Firestorm
+	2 Frontline Burstmage
+	2 Parfolus the Black
+	2 Brutality, Volq of Flame
+	1 Drimmvoke Replicator
+	2 Brightfeather Tearjay
+	1 Alvaesti Warcry
+	2 Brilliance, Shifting Edge
+	2 Blade of Burdening
+	2 Thorngrove, Capitol of the Pharani
+	2 Skelepathy
+	2 Gilre, Compelling Rascal
+	2 Political Assassination
+	2 Pwaeriss, Great Wyrm
+	2 Ravenous Scavenger
+	2 Avartic, Predatory Blight
+	2 Champion's Execution
+	2 Arcanum Capacitor
+	2 Propaganda of Conquest
+	2 Commandeer Supplies
+	1 Pharani Warcry
+	1 Dhonedem Warcry
+	1 Nexen Warcry
+	1 Flechan Warcry
+	2 Twisted Perfection
+	2 Fallarai Burstmage
+	1 Tyrannovitae Immortalis
+	2 Steelstorm Assault
+	2 Bioreclamation
+	2 Inexorable Rot
+	1 Lord Ullpracious, Esprata's Founder
+	1 Quan-Org, Magus of Reflections
+	2 Lord Iven, Dread Marauder
+	2 Elemental Contagion
+	2 Verdant Expansion
+	1 Tsavabni Vellon, Infamous Raider
+	1 Skarserd, Duplimancer
+	2 Castle Hollen
+	2 Kelloke, Capitol of the Drimm
+	2 Espren, Capitol of the Espratan
+	2 Alepha, Capitol of the Alvaesti
+	2 Dennezit, Capitol of the Dhone
+	2 Nethenan Sea Wall
+	1 Uvathkolsil, Ascendant
+	2 Staff of Strength
+	2 Greenmaze Ancient
+	2 Resourceful Mechanic
+	2 Exponential Growth
+	2 Conviction of Victory
+	2 Nexen Conscription
+	1 Caeriil, Hope's Disciple
+	1 Virtuous Act
+	2 Rhystic Remora
+	2 General Gephor of Nexos
+	1 Ekkon, Parallel Crafter
+	1 Dek'Ka, Harbinger of Nu'Ul
+	1 Ko'Ma, Death's Herald
+	1 Excess, Volq of Vitality
+	1 Nature's Insight
+	1 Kirras, Echo Maker
+	2 Hunter's Scope
+	2 Rak'Thavos, Nimble Shipwright
+	2 Ravenous Carapite
+	2 Warven, Fallen Champion
+	2 Sunbreaker
+	1 Velesta At War
+	2 Frozen Mana
+	2 Cappasi, the Boundless
+	2 Crusading Aberration
+[uncommon(4)]
+	4 Cloned to Kill
+	4 Kovekki Vholis
+	4 Alternate Future
+	4 Will of the Pharani
+	4 Squadron Frillraptor
+	4 Rider of Nexos
+	4 Valathorn, Bone Tyrant
+	4 Soul Bind
+	4 Cellombrane Taiko
+	4 March of the Dhonedem
+	4 Cornered Captain
+	4 Bountiful Bandit
+	4 Cliffside Pass
+	4 Sudden Inspiration
+	4 Violent Strait
+	4 Arctic Steppe
+	4 Bloodied Battlefield
+	4 Thriving Cay
+	4 Ravenous Jungle
+	4 Withering Marsh
+	4 Heroes' Graveyard
+	4 Sunken Memorial
+	4 Isolated Grove
+	4 Reflective Mirage
+	4 Expedition Hunter
+	4 Destructive Phyllotyrant
+	4 Assurance of the Army
+	4 Breanor, Son of Ferawyn
+	4 Blessed Bloomblade
+	4 Devour Prey
+	4 Spear of Life and Cycles
+	4 Will of the Flechan
+	4 Will of the Tchit
+	4 Will of the Nexen
+	4 Will of the Dhonedem
+	4 Nature's Reclaim
+	4 Foresight Ritual
+	4 Ancenstor's Tutelage
+	4 Brutalize
+	4 Cleaver of Constellations
+	4 Galloping Mentor
+	4 Rallying Charge
+	4 Stranded Sloop
+	4 Raider's Axe
+	4 Boots of Abjuration
+	4 Necrotic Monolith
+	4 Rise of the Ancestors
+	4 Scrying Stone
+	4 Heart of Courage
+	4 Espratan Adjudicator
+	4 Banner of Allegiance
+	4 Battle Scrap
+	4 Divination Dais
+	4 Pharani Budresin
+	4 Eidolon of the Fallarai
+	4 Castle Warven
+	4 Aven Scout
+	4 Tsunami Serpent
+	4 Alvaesti Adjudicator
+	4 Flechan Adjudicator
+	4 Pharani Adjudicator
+	4 Dhone Adjudicator
+	4 Spear of Chaos and Order
+	4 Possessive Soul
+	4 Odyssey's Conclusion
+	4 Ferawyn's Lieutenant
+	4 Fallarai of the Flaming Foot
+	4 Witness Strength
+	4 Envenomed Informant
+	4 Mindflare
+	4 Calamitous Stampede
+	4 Deteriorate
+	4 Steer Astray
+	4 Devastating Impact
+	4 Tenacious Blaze
+	4 Mana Vortex
+	4 Claw to Compost
+	4 Misplace
+	4 Iven's Edict
+	4 Lattice of Sealing
+	4 Neverending Slumber
+	4 Bespoke Battleship
+	4 Spirit Wings
+	4 Obsessed with Omniscience
+	4 Volatile Vholis
+	4 Artificer's Torch
+	4 Prowler's Crossbow
+	4 Flanged Soulstealer
+	4 Banner of Battle
+	4 Keen Salvage
+	4 Armor of Hope
+	4 Priest's Hymns
+	4 Devotion's Reward
+	4 Apothecary's Insight
+	4 Vexatious Nixie
+	4 Glyph Gorger
+	4 Disciple of the Lost Sands
+	4 Death Roller
+	4 Decayed Disturbance
+	4 Conscription Officer
+	4 Opportune Reinforcements
+	4 Thrumminghawk
+	4 Dame Erisska, Gallant Stonemaker
+	4 Disembody
+	4 Wise-Eye Wizard
+	4 Terrorex
+	4 Mountainous Stormeye
+	4 Protective Prowler
+	4 Phytosaur Rex
+	4 Ivory Charger
+	4 Brushwood Ambusher
+	4 Embellished Expedition
+	4 Pristine Orchard
+	4 Call of Fealty
+	4 Knight's Honor
+	4 Disciplined Spellstrike
+	4 Push for Survival
+	4 Tephratic Spray
+	4 Bouncing Sightfish
+	4 Fallarai Strikemaster
+	4 Jungle Pathmaker
+	4 Desert Pathmaker
+	4 Drimm Tinkerer
+	4 Sunheart Champion
+	4 Salvage Welder
+	4 Hold Steadfast
+	4 Riot Stomper
+	4 Frozen Knight
+	4 Frozen Wyrm
+	4 Frozen Blast
+	4 Cone of Lightning
+[common(7)]
+	8 Tie in Battle
+	8 Blade Spider
+	8 Deliver Supplies
+	8 Griffin Skyguide
+	8 Flechan Berserker
+	8 Banner Owl
+	8 Border Fortress
+	8 Bloodblade Arachnid
+	8 Raptor Scout
+	8 Tea Reader
+	8 Survey the Reserve
+	8 Mark for Weakness
+	8 Flechan Flame Thrower
+	8 Elucidate Plan
+	8 Mark of Death
+	8 Lone Survivors
+	8 Nexen Standard-Bearer
+	8 Courageous Strike
+	8 Assaulted Cityguard
+	8 Wartime Assembly
+	8 Drimmvoke Automaton
+	8 Treasure Tortoise
+	8 Canopy Grazer
+	8 Territorial Direwolf
+	8 Voracious Starfish
+	8 Silkless Weaver
+	8 Skipping Stalgeon
+	8 Plan the Invasion
+	8 Directed Volley
+	8 Volatile Cyclops
+	8 Dashing Pilferer
+	8 Horned Drillmaster
+	8 Lancer Drillmaster
+	8 Rash Ivoryhorn
+	8 Blood Frenzy
+	8 Animated Lavatwister
+	8 Scrap Cannoneer
+	8 Greedy Deckhand
+	8 Flechan Challenger
+	8 Heat Mirage
+	8 Ceaseless Rattlebone
+	8 Patron's Favor
+	8 Hunt Crasher
+	8 Devouring Sandwurm
+	8 Explosive Gambit
+	8 Dhone Drone
+	8 Ghirit Sandwatcher
+	8 Dhone Slickblade
+	8 Dhone Spearman
+	8 Indentured Skeleton
+	8 Infernal Witness
+	8 Battlefield Pillagers
+	8 Leaping Meal
+	8 Brushwood Engagement
+	8 Crashing Rhino
+	8 Bubbly Companion
+	8 Crushing Blow
+	8 Ravenous Chlorotyrant
+	8 Canopy Constrictor
+	8 Moxie
+	8 Destructive Propagation
+	8 Concealed Predator
+	8 Fanatic of Cycles
+	8 Flowering Compsidome
+	8 Deadwood Flat-Top
+	8 Sauros Trainer
+	8 Beast Tracker
+	8 Rockmuncher
+	8 Tide-Reader Cetacean
+	8 Anticipate Maneuvers
+	8 Nixie Prankster
+	8 Wartime Messenger
+	8 Tearjay Fledgling
+	8 Avaunt
+	8 Revert
+	8 Deflection Thopter
+	8 Tuulvoke Miner
+	8 Aerial Scoutgear
+	8 Predictive Measures
+	8 Timely Defense
+	8 Bringer of the Day
+	8 Righteous Frenzy
+	8 Noble's Martyr
+	8 Pride of the Army
+	8 Frontline Champion
+	8 Cleansing Light
+	8 Griffin Skypaladin
+	8 Monocular Peacewarden
+	8 Griffin Lancer
+	8 Boundless Wings
+	8 Faithful Stand
+	8 Disciple of the Shield
+	8 Crossbow
+	8 Flechan War Machine
+	8 Nexen Longshot
+	8 Drimm Manablade
+	8 Flechan Wardrum
+	8 Metalscale Recycler
+	8 Tracker's Bow
+	8 Gella Hound
+	8 Implusive Scout-Hound
+	8 Castle Pelloh
+	8 Drimmvoke Synthesizer
+	8 Enfleshed Skeleton
+	8 Spirited Return
+	8 Cloudtop Scout
+	8 Sphere of Silence
+	8 Squire Initiate
+	8 Thopter Warforge
+	8 Fuming Everburn
+	8 Floodgate
+	8 Martyr's Inspiration
+	8 Night's Watch
+	8 Berserk Assault
+	8 Siphon Energy
+	8 Flatplain Battleground
+	8 Cursemarsh Battleground
+	8 Heatpool Battleground
+	8 Frostlake Battleground
+	8 Shimmersand Battleground
+	8 Blazeleaf Battleground
+	8 Saltridge Battleground
+	8 Rotpool Battleground
+	8 Sunbleached Battleground
+	8 Lushpond Battleground
+	8 Axe of Force
+	8 Principle Ascendant
+	8 Practical Footsoldier
+	8 Comet Shard
+	8 Destructive Harvest
+	8 Scavenger's Feast
+	8 Warrior of the Weald
+	8 Sunheart Charger
+	8 Frozen Knowledge
+	8 Woslan's Tower
+[wildcard(2)]
+	7 Invasion Force
+	6 Tie in Battle
+	15 Cloned to Kill
+	6 Blade Spider
+	4 Tenets of the Fallarai
+	15 Kovekki Vholis
+	7 Aggressive Frillback
+	7 Fallarai Soul Guide
+	7 Everburn Oracle
+	15 Alternate Future
+	6 Deliver Supplies
+	15 Will of the Pharani
+	15 Squadron Frillraptor
+	6 Griffin Skyguide
+	15 Rider of Nexos
+	15 Valathorn, Bone Tyrant
+	15 Soul Bind
+	6 Flechan Berserker
+	15 Cellombrane Taiko
+	7 Sturdy, Volq of Earth
+	15 March of the Dhonedem
+	6 Banner Owl
+	15 Cornered Captain
+	15 Bountiful Bandit
+	15 Cliffside Pass
+	6 Border Fortress
+	15 Sudden Inspiration
+	15 Violent Strait
+	15 Arctic Steppe
+	15 Bloodied Battlefield
+	15 Thriving Cay
+	15 Ravenous Jungle
+	15 Withering Marsh
+	15 Heroes' Graveyard
+	15 Sunken Memorial
+	15 Isolated Grove
+	15 Reflective Mirage
+	7 Endless Hunt
+	15 Expedition Hunter
+	15 Destructive Phyllotyrant
+	15 Assurance of the Army
+	6 Bloodblade Arachnid
+	6 Raptor Scout
+	7 Ghipor-Lang, Rot Becoming
+	15 Breanor, Son of Ferawyn
+	4 The Dark King, Reborn
+	4 Bortott, Righteous Guardian
+	6 Tea Reader
+	7 Curtail
+	7 Altar of Empyrea
+	4 The Golden Lure
+	15 Blessed Bloomblade
+	7 Swift, Volq of Air
+	6 Survey the Reserve
+	15 Devour Prey
+	6 Mark for Weakness
+	15 Spear of Life and Cycles
+	6 Flechan Flame Thrower
+	15 Will of the Flechan
+	6 Elucidate Plan
+	7 Preconnaissance Mission
+	15 Will of the Tchit
+	15 Will of the Nexen
+	15 Will of the Dhonedem
+	7 Conqueror's Trophy
+	15 Nature's Reclaim
+	4 Arcanum Core of Dennizit
+	15 Foresight Ritual
+	4 Mycelocepts, Flesh Twister
+	15 Ancenstor's Tutelage
+	7 Sharp-Eyed Woodward
+	7 Soul's Protector
+	7 Advanced Outrider
+	6 Mark of Death
+	6 Lone Survivors
+	6 Nexen Standard-Bearer
+	15 Brutalize
+	7 Collateral Clerk
+	6 Courageous Strike
+	15 Cleaver of Constellations
+	7 Kell, Patron of the Hunt
+	7 Resolute Cornucopia
+	7 Prison Cell
+	15 Galloping Mentor
+	7 Prella Wunderbait, Chronicler of Velesta
+	4 Will, Patron of Cycles
+	6 Assaulted Cityguard
+	15 Rallying Charge
+	15 Stranded Sloop
+	15 Raider's Axe
+	15 Boots of Abjuration
+	7 Phial of Cleansing
+	15 Necrotic Monolith
+	6 Wartime Assembly
+	6 Drimmvoke Automaton
+	6 Treasure Tortoise
+	6 Canopy Grazer
+	6 Territorial Direwolf
+	6 Voracious Starfish
+	6 Silkless Weaver
+	6 Skipping Stalgeon
+	6 Plan the Invasion
+	6 Directed Volley
+	6 Volatile Cyclops
+	7 Fallarai Swiftblade
+	6 Dashing Pilferer
+	7 Whirling Firestorm
+	6 Horned Drillmaster
+	6 Lancer Drillmaster
+	6 Rash Ivoryhorn
+	6 Blood Frenzy
+	6 Animated Lavatwister
+	6 Scrap Cannoneer
+	7 Frontline Burstmage
+	6 Greedy Deckhand
+	6 Flechan Challenger
+	6 Heat Mirage
+	6 Ceaseless Rattlebone
+	6 Patron's Favor
+	6 Hunt Crasher
+	6 Devouring Sandwurm
+	6 Explosive Gambit
+	15 Rise of the Ancestors
+	7 Parfolus the Black
+	6 Dhone Drone
+	6 Ghirit Sandwatcher
+	6 Dhone Slickblade
+	6 Dhone Spearman
+	6 Indentured Skeleton
+	6 Infernal Witness
+	6 Battlefield Pillagers
+	6 Leaping Meal
+	6 Brushwood Engagement
+	6 Crashing Rhino
+	6 Bubbly Companion
+	7 Brutality, Volq of Flame
+	6 Crushing Blow
+	6 Ravenous Chlorotyrant
+	6 Canopy Constrictor
+	6 Moxie
+	6 Destructive Propagation
+	6 Concealed Predator
+	6 Fanatic of Cycles
+	6 Flowering Compsidome
+	6 Deadwood Flat-Top
+	6 Sauros Trainer
+	6 Beast Tracker
+	6 Rockmuncher
+	6 Tide-Reader Cetacean
+	15 Scrying Stone
+	6 Anticipate Maneuvers
+	6 Nixie Prankster
+	6 Wartime Messenger
+	4 Drimmvoke Replicator
+	6 Tearjay Fledgling
+	6 Avaunt
+	7 Brightfeather Tearjay
+	6 Revert
+	6 Deflection Thopter
+	6 Tuulvoke Miner
+	6 Aerial Scoutgear
+	6 Predictive Measures
+	4 Alvaesti Warcry
+	15 Heart of Courage
+	6 Timely Defense
+	6 Bringer of the Day
+	6 Righteous Frenzy
+	6 Noble's Martyr
+	6 Pride of the Army
+	6 Frontline Champion
+	6 Cleansing Light
+	6 Griffin Skypaladin
+	6 Monocular Peacewarden
+	6 Griffin Lancer
+	15 Espratan Adjudicator
+	6 Boundless Wings
+	6 Faithful Stand
+	6 Disciple of the Shield
+	6 Crossbow
+	6 Flechan War Machine
+	6 Nexen Longshot
+	15 Banner of Allegiance
+	6 Drimm Manablade
+	6 Flechan Wardrum
+	15 Battle Scrap
+	6 Metalscale Recycler
+	7 Brilliance, Shifting Edge
+	15 Divination Dais
+	6 Tracker's Bow
+	6 Gella Hound
+	6 Implusive Scout-Hound
+	15 Pharani Budresin
+	15 Eidolon of the Fallarai
+	7 Blade of Burdening
+	6 Castle Pelloh
+	7 Thorngrove, Capitol of the Pharani
+	15 Castle Warven
+	15 Aven Scout
+	15 Tsunami Serpent
+	15 Alvaesti Adjudicator
+	15 Flechan Adjudicator
+	15 Pharani Adjudicator
+	15 Dhone Adjudicator
+	7 Skelepathy
+	6 Drimmvoke Synthesizer
+	7 Gilre, Compelling Rascal
+	7 Political Assassination
+	7 Pwaeriss, Great Wyrm
+	7 Ravenous Scavenger
+	7 Avartic, Predatory Blight
+	7 Champion's Execution
+	7 Arcanum Capacitor
+	6 Enfleshed Skeleton
+	6 Spirited Return
+	15 Spear of Chaos and Order
+	15 Possessive Soul
+	6 Cloudtop Scout
+	6 Sphere of Silence
+	6 Squire Initiate
+	6 Thopter Warforge
+	6 Fuming Everburn
+	7 Propaganda of Conquest
+	15 Odyssey's Conclusion
+	7 Commandeer Supplies
+	6 Floodgate
+	4 Pharani Warcry
+	4 Dhonedem Warcry
+	4 Nexen Warcry
+	4 Flechan Warcry
+	6 Martyr's Inspiration
+	15 Ferawyn's Lieutenant
+	6 Night's Watch
+	7 Twisted Perfection
+	7 Fallarai Burstmage
+	6 Berserk Assault
+	15 Fallarai of the Flaming Foot
+	6 Siphon Energy
+	4 Tyrannovitae Immortalis
+	7 Steelstorm Assault
+	15 Witness Strength
+	7 Bioreclamation
+	7 Inexorable Rot
+	4 Lord Ullpracious, Esprata's Founder
+	4 Quan-Org, Magus of Reflections
+	7 Lord Iven, Dread Marauder
+	7 Elemental Contagion
+	15 Envenomed Informant
+	15 Mindflare
+	15 Calamitous Stampede
+	15 Deteriorate
+	15 Steer Astray
+	15 Devastating Impact
+	15 Tenacious Blaze
+	15 Mana Vortex
+	15 Claw to Compost
+	15 Misplace
+	15 Iven's Edict
+	7 Verdant Expansion
+	15 Lattice of Sealing
+	4 Tsavabni Vellon, Infamous Raider
+	4 Skarserd, Duplimancer
+	6 Flatplain Battleground
+	6 Cursemarsh Battleground
+	6 Heatpool Battleground
+	6 Frostlake Battleground
+	6 Shimmersand Battleground
+	6 Blazeleaf Battleground
+	6 Saltridge Battleground
+	6 Rotpool Battleground
+	6 Sunbleached Battleground
+	6 Lushpond Battleground
+	7 Castle Hollen
+	7 Kelloke, Capitol of the Drimm
+	7 Espren, Capitol of the Espratan
+	7 Alepha, Capitol of the Alvaesti
+	7 Dennezit, Capitol of the Dhone
+	7 Nethenan Sea Wall
+	4 Uvathkolsil, Ascendant
+	15 Neverending Slumber
+	15 Bespoke Battleship
+	15 Spirit Wings
+	15 Obsessed with Omniscience
+	15 Volatile Vholis
+	7 Staff of Strength
+	15 Artificer's Torch
+	15 Prowler's Crossbow
+	15 Flanged Soulstealer
+	15 Banner of Battle
+	6 Axe of Force
+	7 Greenmaze Ancient
+	7 Resourceful Mechanic
+	15 Keen Salvage
+	7 Exponential Growth
+	15 Armor of Hope
+	15 Priest's Hymns
+	6 Principle Ascendant
+	6 Practical Footsoldier
+	6 Comet Shard
+	7 Conviction of Victory
+	7 Nexen Conscription
+	4 Caeriil, Hope's Disciple
+	15 Devotion's Reward
+	15 Apothecary's Insight
+	15 Vexatious Nixie
+	6 Destructive Harvest
+	15 Glyph Gorger
+	15 Disciple of the Lost Sands
+	15 Death Roller
+	6 Scavenger's Feast
+	15 Decayed Disturbance
+	4 Virtuous Act
+	7 Rhystic Remora
+	15 Conscription Officer
+	15 Opportune Reinforcements
+	7 General Gephor of Nexos
+	15 Thrumminghawk
+	15 Dame Erisska, Gallant Stonemaker
+	15 Disembody
+	15 Wise-Eye Wizard
+	15 Terrorex
+	15 Mountainous Stormeye
+	15 Protective Prowler
+	15 Phytosaur Rex
+	15 Ivory Charger
+	15 Brushwood Ambusher
+	15 Embellished Expedition
+	15 Pristine Orchard
+	15 Call of Fealty
+	15 Knight's Honor
+	15 Disciplined Spellstrike
+	15 Push for Survival
+	15 Tephratic Spray
+	15 Bouncing Sightfish
+	15 Fallarai Strikemaster
+	4 Ekkon, Parallel Crafter
+	4 Dek'Ka, Harbinger of Nu'Ul
+	4 Ko'Ma, Death's Herald
+	4 Excess, Volq of Vitality
+	4 Nature's Insight
+	4 Kirras, Echo Maker
+	7 Hunter's Scope
+	7 Rak'Thavos, Nimble Shipwright
+	7 Ravenous Carapite
+	15 Jungle Pathmaker
+	15 Desert Pathmaker
+	7 Warven, Fallen Champion
+	15 Drimm Tinkerer
+	15 Sunheart Champion
+	7 Sunbreaker
+	15 Salvage Welder
+	6 Warrior of the Weald
+	6 Sunheart Charger
+	15 Hold Steadfast
+	15 Riot Stomper
+	4 Velesta At War
+	6 Frozen Knowledge
+	15 Frozen Knight
+	7 Frozen Mana
+	15 Frozen Wyrm
+	15 Frozen Blast
+	15 Cone of Lightning
+	6 Woslan's Tower
+	7 Cappasi, the Boundless
+	7 Crusading Aberration
