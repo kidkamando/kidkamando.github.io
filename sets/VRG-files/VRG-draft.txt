@@ -1,0 +1,3461 @@
+[CustomCards]
+	[	{
+			"name": "Ambush Scout",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Rogue ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ambush Scout.png"
+			}
+		},
+		{
+			"name": "Drimm Gunblade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Drimm Gunblade.png"
+			}
+		},
+		{
+			"name": "Tyrannovitae Physicorum",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Dinosaur Incarnation ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tyrannovitae Physicorum.png"
+			}
+		},
+		{
+			"name": "Blastblade Vholis",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Blastblade Vholis.png"
+			}
+		},
+		{
+			"name": "Lightray",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Spirit Fish ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Lightray.png"
+			}
+		},
+		{
+			"name": "Spewing Slagmaw",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spewing Slagmaw.png"
+			}
+		},
+		{
+			"name": "Ossified Slagmaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ossified Slagmaw.png"
+			}
+		},
+		{
+			"name": "Halt Momentum",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Halt Momentum.png"
+			}
+		},
+		{
+			"name": "Phial of Rejuvination",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Phial of Rejuvination.png"
+			}
+		},
+		{
+			"name": "Dsimay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dsimay.png"
+			}
+		},
+		{
+			"name": "Vapid Ascension",
+			"rarity": "mythic",
+			"mana_cost": "{G/W}{G/W}{G/W}{G/W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vapid Ascension.png"
+			}
+		},
+		{
+			"name": "Chief of the Leaf",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Plant Warrior ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chief of the Leaf.png"
+			}
+		},
+		{
+			"name": "Patron's Ritual",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Patron's Ritual.png"
+			}
+		},
+		{
+			"name": "Chief of the Peaks",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chief of the Peaks.png"
+			}
+		},
+		{
+			"name": "Chief of the Swell",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chief of the Swell.png"
+			}
+		},
+		{
+			"name": "Chief of the Dunes",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Dhonedem Warrior ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chief of the Dunes.png"
+			}
+		},
+		{
+			"name": "Chief of the Flats",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chief of the Flats.png"
+			}
+		},
+		{
+			"name": "Grasp to Ground",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Grasp to Ground.png"
+			}
+		},
+		{
+			"name": "Keeper of the Essenceflame",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Elemental Wizard ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Keeper of the Essenceflame.png"
+			}
+		},
+		{
+			"name": "Dimetrominax Ignis",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Dinosaur Incarnation  ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dimetrominax Ignis.png"
+			}
+		},
+		{
+			"name": "Quetzadficere Versatilis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Dinosaur Incarnation  ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Quetzadficere Versatilis.png"
+			}
+		},
+		{
+			"name": "Plesioaquae Mortiferum",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Dinosaur Incarnation  ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Plesioaquae Mortiferum.png"
+			}
+		},
+		{
+			"name": "Pachydurus Interitus",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Dinosaur Incarnation  ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pachydurus Interitus.png"
+			}
+		},
+		{
+			"name": "Hearty Blaze",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hearty Blaze.png"
+			}
+		},
+		{
+			"name": "Vigorose",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vigorose.png"
+			}
+		},
+		{
+			"name": "Vereth's Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Turtle ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vereth's Familiar.png"
+			}
+		},
+		{
+			"name": "Transparent Thaumaturge",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct Wizard ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Transparent Thaumaturge.png"
+			}
+		},
+		{
+			"name": "Clash of Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Clash of Strength.png"
+			}
+		},
+		{
+			"name": "Challenging Approach",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Challenging Approach.png"
+			}
+		},
+		{
+			"name": "Threads of Foresight",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Threads of Foresight.png"
+			}
+		},
+		{
+			"name": "Cyclops Neonate",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cyclops ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cyclops Neonate.png"
+			}
+		},
+		{
+			"name": "Nu'Ul's Edict",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Nu'Ul's Edict.png"
+			}
+		},
+		{
+			"name": "Eleventh Hour",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Eleventh Hour.png"
+			}
+		},
+		{
+			"name": "Battlefield Dragoon",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Elf Griffin Knight ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Dragoon.png"
+			}
+		},
+		{
+			"name": "Skylance Savior",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Creature — Griffin Knight ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Skylance Savior.png"
+			}
+		},
+		{
+			"name": "Battlefield Duelist",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Duelist.png"
+			}
+		},
+		{
+			"name": "Battlefield Charger",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Rhino ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Charger.png"
+			}
+		},
+		{
+			"name": "Battlefield Assassin",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Creature — Elf Rogue ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Assassin.png"
+			}
+		},
+		{
+			"name": "Battlefield Daggertooth",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Daggertooth.png"
+			}
+		},
+		{
+			"name": "Battlefield Deadshot",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Creature — Elf Archer ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Deadshot.png"
+			}
+		},
+		{
+			"name": "Battlefield Thrasher",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Creature — Beast ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Thrasher.png"
+			}
+		},
+		{
+			"name": "Battlefield Vanguard",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Elf Knight ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Vanguard.png"
+			}
+		},
+		{
+			"name": "Battlefield Stomper",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Stomper.png"
+			}
+		},
+		{
+			"name": "Battlefield Evoker",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Faerie ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Evoker.png"
+			}
+		},
+		{
+			"name": "Timely Maneuver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Timely Maneuver.png"
+			}
+		},
+		{
+			"name": "Soldier's Deliberation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Soldier's Deliberation.png"
+			}
+		},
+		{
+			"name": "Pilgrim of Cycles",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Monk ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pilgrim of Cycles.png"
+			}
+		},
+		{
+			"name": "Selective Conefinement",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Selective Conefinement.png"
+			}
+		},
+		{
+			"name": "Roaring Berserker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat Warrior ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Roaring Berserker.png"
+			}
+		},
+		{
+			"name": "Expanding Mold",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Expanding Mold.png"
+			}
+		},
+		{
+			"name": "Student of the Cycles",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Student of the Cycles.png"
+			}
+		},
+		{
+			"name": "Splashback Tailfin",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Fish ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Splashback Tailfin.png"
+			}
+		},
+		{
+			"name": "Interpret",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Interpret.png"
+			}
+		},
+		{
+			"name": "Tchit Subsumer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Golem ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tchit Subsumer.png"
+			}
+		},
+		{
+			"name": "Sylvan Disrupter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Elf Rogue ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sylvan Disrupter.png"
+			}
+		},
+		{
+			"name": "Constant Strain",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Constant Strain.png"
+			}
+		},
+		{
+			"name": "Rejuvinating Flight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Rejuvinating Flight.png"
+			}
+		},
+		{
+			"name": "Chromaton",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chromaton.png"
+			}
+		},
+		{
+			"name": "Grappling Lobster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Lobster ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Grappling Lobster.png"
+			}
+		},
+		{
+			"name": "Nihilistic Neonate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Nihilistic Neonate.png"
+			}
+		},
+		{
+			"name": "Stareader Adept",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Sorcerer ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Stareader Adept.png"
+			}
+		},
+		{
+			"name": "Grove Cleanser",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Minotaur Ranger ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Grove Cleanser.png"
+			}
+		},
+		{
+			"name": "Conduit's Filterfrill",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Lizard ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Conduit's Filterfrill.png"
+			}
+		},
+		{
+			"name": "Hoarder Rat",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hoarder Rat.png"
+			}
+		},
+		{
+			"name": "Tuulvoke Excavator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tuulvoke Excavator.png"
+			}
+		},
+		{
+			"name": "Ivekki Rider",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ivekki Rider.png"
+			}
+		},
+		{
+			"name": "Relentless Rascal",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Skeleton Rogue ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Relentless Rascal.png"
+			}
+		},
+		{
+			"name": "Crystalline Awakener",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct Artificer ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Crystalline Awakener.png"
+			}
+		},
+		{
+			"name": "Spiral Into Insanity",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spiral Into Insanity.png"
+			}
+		},
+		{
+			"name": "Tchit Synthesizer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tchit Synthesizer.png"
+			}
+		},
+		{
+			"name": "Dovish Principles",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dovish Principles.png"
+			}
+		},
+		{
+			"name": "Fluttering Sharpwings",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Fluttering Sharpwings.png"
+			}
+		},
+		{
+			"name": "Arclance",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Arclance.png"
+			}
+		},
+		{
+			"name": "Ascend into Legend",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ascend into Legend.png"
+			}
+		},
+		{
+			"name": "Framework Fighter",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Skeleton Golem ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Framework Fighter.png"
+			}
+		},
+		{
+			"name": "Arresting Pack Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Arresting Pack Hunter.png"
+			}
+		},
+		{
+			"name": "Cut Low",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cut Low.png"
+			}
+		},
+		{
+			"name": "Envision",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Envision.png"
+			}
+		},
+		{
+			"name": "Kovekki Sphere",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kovekki Sphere.png"
+			}
+		},
+		{
+			"name": "Brash Invader",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Brash Invader.png"
+			}
+		},
+		{
+			"name": "Scour for Settlement",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Scour for Settlement.png"
+			}
+		},
+		{
+			"name": "Spotted Matriarch",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Hyena ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spotted Matriarch.png"
+			}
+		},
+		{
+			"name": "Apportion Apparition",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Illusion Warrior ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Apportion Apparition.png"
+			}
+		},
+		{
+			"name": "Battlefield Adaptation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Battlefield Adaptation.png"
+			}
+		},
+		{
+			"name": "Krait Floodmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Krait Floodmaker.png"
+			}
+		},
+		{
+			"name": "Archpriest of Nu'Ul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Archpriest of Nu'Ul.png"
+			}
+		},
+		{
+			"name": "Prowling Partners",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast Hyena ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Prowling Partners.png"
+			}
+		},
+		{
+			"name": "Ghivoran Berserker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Warrior ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ghivoran Berserker.png"
+			}
+		},
+		{
+			"name": "Dying Fervor",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dying Fervor.png"
+			}
+		},
+		{
+			"name": "Scrapyard Doctor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dwarf Shaman ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Scrapyard Doctor.png"
+			}
+		},
+		{
+			"name": "Swiftongue Spellsinger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Bard ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Swiftongue Spellsinger.png"
+			}
+		},
+		{
+			"name": "Reprocess",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Reprocess.png"
+			}
+		},
+		{
+			"name": "Craft Into Service",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Craft Into Service.png"
+			}
+		},
+		{
+			"name": "Triplopia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Triplopia.png"
+			}
+		},
+		{
+			"name": "Siroccous Zephyr",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Siroccous Zephyr.png"
+			}
+		},
+		{
+			"name": "Scalding Wind",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Scalding Wind.png"
+			}
+		},
+		{
+			"name": "Change of Breath",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Change of Breath.png"
+			}
+		},
+		{
+			"name": "Phoenixwing Fireblade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Phoenixwing Fireblade.png"
+			}
+		},
+		{
+			"name": "Silt Shooter",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Silt Shooter.png"
+			}
+		},
+		{
+			"name": "Drimm Battlemace",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Drimm Battlemace.png"
+			}
+		},
+		{
+			"name": "Pharani Rubblecrusher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Shaman ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pharani Rubblecrusher.png"
+			}
+		},
+		{
+			"name": "Theatric Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Creature — Kobold Rogue ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Theatric Scavenger.png"
+			}
+		},
+		{
+			"name": "Vaporaxe",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vaporaxe.png"
+			}
+		},
+		{
+			"name": "Contraption Caretaker",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Contraption Caretaker.png"
+			}
+		},
+		{
+			"name": "Shadowings",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Shadowings.png"
+			}
+		},
+		{
+			"name": "Snakeshield",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Snakeshield.png"
+			}
+		},
+		{
+			"name": "Colossal Barkplate",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Colossal Barkplate.png"
+			}
+		},
+		{
+			"name": "Hungering Vinecoat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hungering Vinecoat.png"
+			}
+		},
+		{
+			"name": "Tyrranax Stalkjaw",
+			"rarity": "rare",
+			"mana_cost": "{4}{G/W}{G/W}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tyrranax Stalkjaw.png"
+			}
+		},
+		{
+			"name": "Banner Flyer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Griffin Cleric ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Banner Flyer.png"
+			}
+		},
+		{
+			"name": "Vitalomaton",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vitalomaton.png"
+			}
+		},
+		{
+			"name": "Shadow Smasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Shadow Smasher.png"
+			}
+		},
+		{
+			"name": "Distracting Apparition",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Illusion ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Distracting Apparition.png"
+			}
+		},
+		{
+			"name": "Ivekki Charger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ivekki Charger.png"
+			}
+		},
+		{
+			"name": "Cleric's Companion",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cleric's Companion.png"
+			}
+		},
+		{
+			"name": "Ghirit Poisoner",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Dhonedem Assassin ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ghirit Poisoner.png"
+			}
+		},
+		{
+			"name": "Pharani Thornmaker",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pharani Thornmaker.png"
+			}
+		},
+		{
+			"name": "Tixe Caverns",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Cave ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tixe Caverns.png"
+			}
+		},
+		{
+			"name": "Requisition Officer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Requisition Officer.png"
+			}
+		},
+		{
+			"name": "Marauding Krait",
+			"rarity": "common",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Marauding Krait.png"
+			}
+		},
+		{
+			"name": "Dhone Reconstructor",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dhone Reconstructor.png"
+			}
+		},
+		{
+			"name": "Iventown, City of Prosperity",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Iventown, City of Prosperity.png"
+			}
+		},
+		{
+			"name": "Fort Kaevos",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Fort Kaevos.png"
+			}
+		},
+		{
+			"name": "Kheveth, City of Storms",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kheveth, City of Storms.png"
+			}
+		},
+		{
+			"name": "Ghivor, City of Resilience",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ghivor, City of Resilience.png"
+			}
+		},
+		{
+			"name": "Ivexika, City of Dominion",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ivexika, City of Dominion.png"
+			}
+		},
+		{
+			"name": "Kaeva, City of Might",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kaeva, City of Might.png"
+			}
+		},
+		{
+			"name": "Bloom Spiral",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Bloom Spiral.png"
+			}
+		},
+		{
+			"name": "Amulet of Ardor",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Amulet of Ardor.png"
+			}
+		},
+		{
+			"name": "Aggressive Expansion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Aggressive Expansion.png"
+			}
+		},
+		{
+			"name": "Captain of Anarchy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Captain of Anarchy.png"
+			}
+		},
+		{
+			"name": "Rebellion Stomper",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Creature — Minotaur Druid ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Rebellion Stomper.png"
+			}
+		},
+		{
+			"name": "Vios' Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cyclops Knight ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vios' Champion.png"
+			}
+		},
+		{
+			"name": "Griffin Commando",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Griffin Knight ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Griffin Commando.png"
+			}
+		},
+		{
+			"name": "Herald of the Old Ways",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Herald of the Old Ways.png"
+			}
+		},
+		{
+			"name": "Quarry Cray",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Lobster Leviathan ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Quarry Cray.png"
+			}
+		},
+		{
+			"name": "Flash Boil",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Flash Boil.png"
+			}
+		},
+		{
+			"name": "Chromatic Spray",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Sorcery",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chromatic Spray.png"
+			}
+		},
+		{
+			"name": "Hopeful General",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Golem Soldier ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hopeful General.png"
+			}
+		},
+		{
+			"name": "Militia Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Militia Surveyor.png"
+			}
+		},
+		{
+			"name": "Conduit's Mindscout",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Griffin ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Conduit's Mindscout.png"
+			}
+		},
+		{
+			"name": "Conduit's Binder",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Spider ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Conduit's Binder.png"
+			}
+		},
+		{
+			"name": "Landsculptor Automaton",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Landsculptor Automaton.png"
+			}
+		},
+		{
+			"name": "Traitor's Negotiations",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Traitor's Negotiations.png"
+			}
+		},
+		{
+			"name": "Hallowed Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hallowed Strength.png"
+			}
+		},
+		{
+			"name": "Gatekeeper Cyclops",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cyclops Shaman ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Gatekeeper Cyclops.png"
+			}
+		},
+		{
+			"name": "Spellstrike Trainee",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spellstrike Trainee.png"
+			}
+		},
+		{
+			"name": "Coup de Main",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Coup de Main.png"
+			}
+		},
+		{
+			"name": "Soldier Scupltor",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Soldier Scupltor.png"
+			}
+		},
+		{
+			"name": "Knightless Griffin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Griffin ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Knightless Griffin.png"
+			}
+		},
+		{
+			"name": "Clash of Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Clash of Resolve.png"
+			}
+		},
+		{
+			"name": "Trial of Focus",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Trial of Focus.png"
+			}
+		},
+		{
+			"name": "Formulate Design",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Formulate Design.png"
+			}
+		},
+		{
+			"name": "Weapon Scrounger",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Weapon Scrounger.png"
+			}
+		},
+		{
+			"name": "Accomplished Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dhonedem Warrior ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Accomplished Champion.png"
+			}
+		},
+		{
+			"name": "Triumphant Outcome",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Triumphant Outcome.png"
+			}
+		},
+		{
+			"name": "Sendeth Vulture",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sendeth Vulture.png"
+			}
+		},
+		{
+			"name": "Trade of Blows",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Trade of Blows.png"
+			}
+		},
+		{
+			"name": "Overwhelming Blaze",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Overwhelming Blaze.png"
+			}
+		},
+		{
+			"name": "Reflector Sorcerer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Sorcerer ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Reflector Sorcerer.png"
+			}
+		},
+		{
+			"name": "Destructive Boltblade",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Destructive Boltblade.png"
+			}
+		},
+		{
+			"name": "Steamscythe",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Steamscythe.png"
+			}
+		},
+		{
+			"name": "Mulchmaker Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mulchmaker Hunter.png"
+			}
+		},
+		{
+			"name": "Vigorous Reclamation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vigorous Reclamation.png"
+			}
+		},
+		{
+			"name": "Spring Splasher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ape ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spring Splasher.png"
+			}
+		},
+		{
+			"name": "Watch of the Jungle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Ranger ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Watch of the Jungle.png"
+			}
+		},
+		{
+			"name": "Mark of Laval",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mark of Laval.png"
+			}
+		},
+		{
+			"name": "Sandstorm Billower",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Wurm ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sandstorm Billower.png"
+			}
+		},
+		{
+			"name": "Shocksteel Splitter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Shocksteel Splitter.png"
+			}
+		},
+		{
+			"name": "Ves'Tyr, Aeromancer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Dhonedem Warlock ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ves'Tyr, Aeromancer.png"
+			}
+		},
+		{
+			"name": "Demoralizing Detonation",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Instant",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Demoralizing Detonation.png"
+			}
+		},
+		{
+			"name": "Willbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Willbreaker.png"
+			}
+		},
+		{
+			"name": "Spotted Patriarch",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spotted Patriarch.png"
+			}
+		},
+		{
+			"name": "Unveiled Assault",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Unveiled Assault.png"
+			}
+		},
+		{
+			"name": "Mark for Feast",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mark for Feast.png"
+			}
+		},
+		{
+			"name": "Vios, Phantasmal Armorer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Soldier Wizard ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vios, Phantasmal Armorer.png"
+			}
+		},
+		{
+			"name": "Assistant Automaton",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Assistant Automaton.png"
+			}
+		},
+		{
+			"name": "Send Astorm",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Send Astorm.png"
+			}
+		},
+		{
+			"name": "Chained to Distraught",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chained to Distraught.png"
+			}
+		},
+		{
+			"name": "Declutter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Declutter.png"
+			}
+		},
+		{
+			"name": "Murmuring Illusionist",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Murmuring Illusionist.png"
+			}
+		},
+		{
+			"name": "Yenstone",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Yenstone.png"
+			}
+		},
+		{
+			"name": "Conduit's Bloodhound",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dog ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Conduit's Bloodhound.png"
+			}
+		},
+		{
+			"name": "Animae Lotus",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Animae Lotus.png"
+			}
+		},
+		{
+			"name": "Kovith Pass",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kovith Pass.png"
+			}
+		},
+		{
+			"name": "Ivexika Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ivexika Marsh.png"
+			}
+		},
+		{
+			"name": "Iven Flats",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Iven Flats.png"
+			}
+		},
+		{
+			"name": "Tixe Pool",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tixe Pool.png"
+			}
+		},
+		{
+			"name": "Sendeth Dunes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sendeth Dunes.png"
+			}
+		},
+		{
+			"name": "Kovith Tundra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kovith Tundra.png"
+			}
+		},
+		{
+			"name": "Monith Pass",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Monith Pass.png"
+			}
+		},
+		{
+			"name": "Ghivor Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ghivor Falls.png"
+			}
+		},
+		{
+			"name": "Kheveth Stormshore",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kheveth Stormshore.png"
+			}
+		},
+		{
+			"name": "Kaeva Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Kaeva Grove.png"
+			}
+		},
+		{
+			"name": "Sekk Depths",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sekk Depths.png"
+			}
+		},
+		{
+			"name": "Skullcrusher Automaton",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Skullcrusher Automaton.png"
+			}
+		},
+		{
+			"name": "Lose to History",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Lose to History.png"
+			}
+		},
+		{
+			"name": "Phantasmal Trickster",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Phantasmal Trickster.png"
+			}
+		},
+		{
+			"name": "Puppet Remains",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Puppet Remains.png"
+			}
+		},
+		{
+			"name": "Hallowed Mockery",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hallowed Mockery.png"
+			}
+		},
+		{
+			"name": "Augured Menace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Beast ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Augured Menace.png"
+			}
+		},
+		{
+			"name": "Conscripted Ooze",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Ooze ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Conscripted Ooze.png"
+			}
+		},
+		{
+			"name": "Shroud Shimmer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}",
+			"type": "Creature — Illusion Cleric ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Shroud Shimmer.png"
+			}
+		},
+		{
+			"name": "Sharpened Gale",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Illusion ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sharpened Gale.png"
+			}
+		},
+		{
+			"name": "Stout Replimancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Wizard ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Stout Replimancer.png"
+			}
+		},
+		{
+			"name": "Evaporation Initiative",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Evaporation Initiative.png"
+			}
+		},
+		{
+			"name": "Merciless Training",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Merciless Training.png"
+			}
+		},
+		{
+			"name": "Gargantuan Hoardmaker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cyclops ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Gargantuan Hoardmaker.png"
+			}
+		},
+		{
+			"name": "Condensed Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Illusion ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Condensed Drifter.png"
+			}
+		},
+		{
+			"name": "Awakened Lashvine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Plant ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Awakened Lashvine.png"
+			}
+		},
+		{
+			"name": "Keen-Eyed Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Keen-Eyed Hunter.png"
+			}
+		},
+		{
+			"name": "Grazing Charger",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Rhino ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Grazing Charger.png"
+			}
+		},
+		{
+			"name": "Priest of Broken Cycles",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Illusion ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Priest of Broken Cycles.png"
+			}
+		},
+		{
+			"name": "Cornucopia of Phuron",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cornucopia of Phuron.png"
+			}
+		},
+		{
+			"name": "Cackling Canine",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Hyena ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cackling Canine.png"
+			}
+		},
+		{
+			"name": "Sharpshooter Guru",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sharpshooter Guru.png"
+			}
+		},
+		{
+			"name": "Edacious Behemoth",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Edacious Behemoth.png"
+			}
+		},
+		{
+			"name": "Grafteradon",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Grafteradon.png"
+			}
+		},
+		{
+			"name": "Tower of Effen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land — Mountain ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tower of Effen.png"
+			}
+		},
+		{
+			"name": "Tower of Zelria",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land — Island ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tower of Zelria.png"
+			}
+		},
+		{
+			"name": "Tower of Kheveth",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land — Plains ",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tower of Kheveth.png"
+			}
+		},
+		{
+			"name": "Tower of Esso",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land — Swamp ",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tower of Esso.png"
+			}
+		},
+		{
+			"name": "Tower of Tuulvho",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land — Forest ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tower of Tuulvho.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Forest.png"
+			}
+		},
+		{
+			"name": "Olmod, Resonant Performer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Dwarf Bard ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Olmod, Resonant Performer.png"
+			}
+		},
+		{
+			"name": "Eldemar, Dreg Recycler",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Elf Artificer ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Eldemar, Dreg Recycler.png"
+			}
+		},
+		{
+			"name": "Iophe, Growth's Guide",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Nymph Druid ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Iophe, Growth's Guide.png"
+			}
+		},
+		{
+			"name": "Soven Warwalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Soven Warwalker.png"
+			}
+		},
+		{
+			"name": "Vanguard Fabricator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Dwarf Cleric Artificer ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vanguard Fabricator.png"
+			}
+		},
+		{
+			"name": "Astute Metalmother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Kenku Cleric ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Astute Metalmother.png"
+			}
+		},
+		{
+			"name": "Reckless General",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Reckless General.png"
+			}
+		},
+		{
+			"name": "Vengeful General",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dhonedem Soldier ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vengeful General.png"
+			}
+		},
+		{
+			"name": "Flourishing General",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Soldier ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Flourishing General.png"
+			}
+		},
+		{
+			"name": "Plotting General",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Plotting General.png"
+			}
+		},
+		{
+			"name": "Push the Advantage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Push the Advantage.png"
+			}
+		},
+		{
+			"name": "Tarot Reading",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tarot Reading.png"
+			}
+		},
+		{
+			"name": "Transference Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Transference Colossus.png"
+			}
+		},
+		{
+			"name": "Mechanum Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mechanum Armor.png"
+			}
+		},
+		{
+			"name": "Ironbark Cuirass",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ironbark Cuirass.png"
+			}
+		},
+		{
+			"name": "Exploit Vulnerability",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Exploit Vulnerability.png"
+			}
+		},
+		{
+			"name": "Vindictive Spellsprite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Faerie Sorcerer ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vindictive Spellsprite.png"
+			}
+		},
+		{
+			"name": "Surplus Supplies",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Surplus Supplies.png"
+			}
+		},
+		{
+			"name": "Hardened Leechtop",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hardened Leechtop.png"
+			}
+		},
+		{
+			"name": "Sporous Propagator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Fungus ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sporous Propagator.png"
+			}
+		},
+		{
+			"name": "Leaf Leaper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Frog ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Leaf Leaper.png"
+			}
+		},
+		{
+			"name": "Steamshape",
+			"rarity": "rare",
+			"mana_cost": "{X}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Steamshape.png"
+			}
+		},
+		{
+			"name": "Azuryax, Megabat",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Plant Bat ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Azuryax, Megabat.png"
+			}
+		},
+		{
+			"name": "Bloom Helix",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Bloom Helix.png"
+			}
+		},
+		{
+			"name": "Khastr, Scrap Repurposer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Dwarf Artificer ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Khastr, Scrap Repurposer.png"
+			}
+		},
+		{
+			"name": "Fervent Delusion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Fervent Delusion.png"
+			}
+		},
+		{
+			"name": "Conduit's Spy",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Rat ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Conduit's Spy.png"
+			}
+		},
+		{
+			"name": "Vedik, Phantasm's Sergeant",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vedik, Phantasm's Sergeant.png"
+			}
+		},
+		{
+			"name": "Tempest Catcher",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Kenku Rogue ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tempest Catcher.png"
+			}
+		},
+		{
+			"name": "Vicious Tactics",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vicious Tactics.png"
+			}
+		},
+		{
+			"name": "Natural Recycling",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Natural Recycling.png"
+			}
+		},
+		{
+			"name": "Tuulcore Serpent",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact Creature — Serpent ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tuulcore Serpent.png"
+			}
+		},
+		{
+			"name": "Vitilla, Patron of Growth",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Elder Plant ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vitilla, Patron of Growth.png"
+			}
+		},
+		{
+			"name": "Mycosaur Rex",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Creature — Fungus Dinosaur ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mycosaur Rex.png"
+			}
+		},
+		{
+			"name": "Barkclaw, Apex Herbisaur",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Plant Dinosaur ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Barkclaw, Apex Herbisaur.png"
+			}
+		},
+		{
+			"name": "Bulwark, Gella Invention",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W/U}{W/U}{U}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Bulwark, Gella Invention.png"
+			}
+		},
+		{
+			"name": "Shimmersword",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Shimmersword.png"
+			}
+		},
+		{
+			"name": "Catapult Chaff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Catapult Chaff.png"
+			}
+		},
+		{
+			"name": "Glimmerstone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Glimmerstone.png"
+			}
+		},
+		{
+			"name": "Blessed Pinions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Blessed Pinions.png"
+			}
+		},
+		{
+			"name": "Scorching Windfall",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Scorching Windfall.png"
+			}
+		},
+		{
+			"name": "Carnivorous Herbisaur",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Carnivorous Herbisaur.png"
+			}
+		},
+		{
+			"name": "Hazardous Hallucination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Giant Illusion ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Hazardous Hallucination.png"
+			}
+		},
+		{
+			"name": "Cordyception Carrier",
+			"rarity": "uncommon",
+			"mana_cost": "{9}{B}",
+			"type": "Creature — Fungus Insect ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cordyception Carrier.png"
+			}
+		},
+		{
+			"name": "Mechanical Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Golem Pirate ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mechanical Looter.png"
+			}
+		},
+		{
+			"name": "Destructive Glassing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Destructive Glassing.png"
+			}
+		},
+		{
+			"name": "Taking Stock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Taking Stock.png"
+			}
+		},
+		{
+			"name": "Search Through the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Search Through the Future.png"
+			}
+		},
+		{
+			"name": "Oust",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Oust.png"
+			}
+		},
+		{
+			"name": "Pharani Expedition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pharani Expedition.png"
+			}
+		},
+		{
+			"name": "Overpowering Domination",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Overpowering Domination.png"
+			}
+		},
+		{
+			"name": "Fool's Boondoggle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Fool's Boondoggle.png"
+			}
+		},
+		{
+			"name": "Strength in Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Strength in Arms.png"
+			}
+		},
+		{
+			"name": "Magewarden Skyseer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Griffin Scout ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Magewarden Skyseer.png"
+			}
+		},
+		{
+			"name": "Ethereal Armament",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ethereal Armament.png"
+			}
+		},
+		{
+			"name": "Vedik's Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Vedik's Charge.png"
+			}
+		},
+		{
+			"name": "Veiled Power",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Veiled Power.png"
+			}
+		},
+		{
+			"name": "Murmurate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Murmurate.png"
+			}
+		},
+		{
+			"name": "Bone Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Bone Collector.png"
+			}
+		},
+		{
+			"name": "Epochal Extent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Epochal Extent.png"
+			}
+		},
+		{
+			"name": "Stockpile Stormer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Stockpile Stormer.png"
+			}
+		},
+		{
+			"name": "Insidious Deathtrapper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Insect Wurm ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Insidious Deathtrapper.png"
+			}
+		},
+		{
+			"name": "Obstruct",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Obstruct.png"
+			}
+		},
+		{
+			"name": "Spiretop Stormcatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spiretop Stormcatcher.png"
+			}
+		},
+		{
+			"name": "Creth Raidleader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Hyena ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Creth Raidleader.png"
+			}
+		},
+		{
+			"name": "City-State Berserker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Dwarf Soldier ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/City-State Berserker.png"
+			}
+		},
+		{
+			"name": "Bellow of Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Bellow of Battle.png"
+			}
+		},
+		{
+			"name": "Phantasmagore",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Illusion ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Phantasmagore.png"
+			}
+		},
+		{
+			"name": "Pelmer, Incantation Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Elf Artificer ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pelmer, Incantation Channeler.png"
+			}
+		},
+		{
+			"name": "Sphere of Spellcatching",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Sphere of Spellcatching.png"
+			}
+		},
+		{
+			"name": "Mistmouth Hydra",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Hydra ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Mistmouth Hydra.png"
+			}
+		},
+		{
+			"name": "Pharani Wildguide",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pharani Wildguide.png"
+			}
+		},
+		{
+			"name": "Tsavabni's Pridemate",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Shaman ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tsavabni's Pridemate.png"
+			}
+		},
+		{
+			"name": "Imagined Incursion",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Imagined Incursion.png"
+			}
+		},
+		{
+			"name": "Verdant Accelerator",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Sorcerer ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Verdant Accelerator.png"
+			}
+		},
+		{
+			"name": "Cackling Cartilage",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Hyena ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cackling Cartilage.png"
+			}
+		},
+		{
+			"name": "Pastra, Disparate Commander",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Sorcerer ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Pastra, Disparate Commander.png"
+			}
+		},
+		{
+			"name": "Weigh the Risk",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Weigh the Risk.png"
+			}
+		},
+		{
+			"name": "Angermound Eruptor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Lizard ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Angermound Eruptor.png"
+			}
+		},
+		{
+			"name": "Last Man Standing",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Last Man Standing.png"
+			}
+		},
+		{
+			"name": "Cavernous Ventmaw",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Lizard ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Cavernous Ventmaw.png"
+			}
+		},
+		{
+			"name": "Bull-Horned Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Bull-Horned Raider.png"
+			}
+		},
+		{
+			"name": "Goliath Vinebeetle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{G}{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Goliath Vinebeetle.png"
+			}
+		},
+		{
+			"name": "Destroy Villain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Destroy Villain.png"
+			}
+		},
+		{
+			"name": "Saignue, Spotted Packleader",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Hyena ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Saignue, Spotted Packleader.png"
+			}
+		},
+		{
+			"name": "Malon, Echomaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Elf Shaman ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Malon, Echomaker.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Blastblade Vholis
+		2 Spewing Slagmaw
+		2 Chief of the Leaf
+		2 Chief of the Peaks
+		2 Chief of the Swell
+		2 Chief of the Dunes
+		2 Chief of the Flats
+		2 Eleventh Hour
+		2 Skylance Savior
+		2 Selective Conefinement
+		2 Splashback Tailfin
+		2 Relentless Rascal
+		2 Tchit Synthesizer
+		2 Arclance
+		2 Dying Fervor
+		2 Swiftongue Spellsinger
+		2 Scalding Wind
+		2 Theatric Scavenger
+		2 Tyrranax Stalkjaw
+		2 Iventown, City of Prosperity
+		2 Fort Kaevos
+		2 Kheveth, City of Storms
+		2 Ghivor, City of Resilience
+		2 Ivexika, City of Dominion
+		2 Kaeva, City of Might
+		2 Amulet of Ardor
+		2 Aggressive Expansion
+		2 Captain of Anarchy
+		2 Rebellion Stomper
+		2 Griffin Commando
+		2 Hopeful General
+		2 Reflector Sorcerer
+		2 Mark for Feast
+		2 Murmuring Illusionist
+		2 Animae Lotus
+		2 Lose to History
+		2 Phantasmal Trickster
+		2 Conscripted Ooze
+		2 Stout Replimancer
+		2 Cornucopia of Phuron
+		2 Reckless General
+		2 Vengeful General
+		2 Flourishing General
+		2 Plotting General
+		2 Exploit Vulnerability
+		2 Steamshape
+		2 Bloom Helix
+		2 Khastr, Scrap Repurposer
+		2 Fervent Delusion
+		2 Conduit's Spy
+		2 Natural Recycling
+		2 Phantasmagore
+		2 Pelmer, Incantation Channeler
+		2 Sphere of Spellcatching
+		2 Mistmouth Hydra
+		2 Pharani Wildguide
+		2 Tsavabni's Pridemate
+		2 Imagined Incursion
+		2 Verdant Accelerator
+		2 Cackling Cartilage
+		2 Pastra, Disparate Commander
+		2 Weigh the Risk
+		2 Angermound Eruptor
+		2 Last Man Standing
+		2 Cavernous Ventmaw
+		2 Saignue, Spotted Packleader
+		2 Malon, Echomaker
+		1 Tyrannovitae Physicorum
+		1 Vapid Ascension
+		1 Dimetrominax Ignis
+		1 Quetzadficere Versatilis
+		1 Plesioaquae Mortiferum
+		1 Pachydurus Interitus
+		1 Herald of the Old Ways
+		1 Ves'Tyr, Aeromancer
+		1 Vios, Phantasmal Armorer
+		1 Edacious Behemoth
+		1 Olmod, Resonant Performer
+		1 Eldemar, Dreg Recycler
+		1 Iophe, Growth's Guide
+		1 Azuryax, Megabat
+		1 Vedik, Phantasm's Sergeant
+		1 Tempest Catcher
+		1 Vicious Tactics
+		1 Tuulcore Serpent
+		1 Vitilla, Patron of Growth
+		1 Mycosaur Rex
+		1 Barkclaw, Apex Herbisaur
+		1 Bulwark, Gella Invention
+		1 Shimmersword
+		[UncommonSlot(3)]
+	9 Drimm Gunblade
+		9 Lightray
+		9 Ossified Slagmaw
+		9 Halt Momentum
+		9 Dsimay
+		9 Vigorose
+		9 Nu'Ul's Edict
+		9 Timely Maneuver
+		9 Sylvan Disrupter
+		9 Grappling Lobster
+		9 Crystalline Awakener
+		9 Ascend into Legend
+		9 Arresting Pack Hunter
+		9 Apportion Apparition
+		9 Battlefield Adaptation
+		9 Krait Floodmaker
+		9 Archpriest of Nu'Ul
+		9 Prowling Partners
+		9 Ghivoran Berserker
+		9 Scrapyard Doctor
+		9 Reprocess
+		9 Triplopia
+		9 Change of Breath
+		9 Phoenixwing Fireblade
+		9 Pharani Rubblecrusher
+		9 Hungering Vinecoat
+		9 Banner Flyer
+		9 Vitalomaton
+		9 Shadow Smasher
+		9 Vios' Champion
+		9 Quarry Cray
+		9 Flash Boil
+		9 Militia Surveyor
+		9 Clash of Resolve
+		9 Weapon Scrounger
+		9 Watch of the Jungle
+		9 Sandstorm Billower
+		9 Shocksteel Splitter
+		9 Demoralizing Detonation
+		9 Willbreaker
+		9 Chained to Distraught
+		9 Declutter
+		9 Yenstone
+		9 Puppet Remains
+		9 Hallowed Mockery
+		9 Augured Menace
+		9 Shroud Shimmer
+		9 Sharpened Gale
+		9 Evaporation Initiative
+		9 Condensed Drifter
+		9 Awakened Lashvine
+		9 Keen-Eyed Hunter
+		9 Cackling Canine
+		9 Tower of Effen
+		9 Tower of Zelria
+		9 Tower of Kheveth
+		9 Tower of Esso
+		9 Tower of Tuulvho
+		9 Soven Warwalker
+		9 Vanguard Fabricator
+		9 Astute Metalmother
+		9 Push the Advantage
+		9 Tarot Reading
+		9 Transference Colossus
+		9 Mechanum Armor
+		9 Ironbark Cuirass
+		9 Vindictive Spellsprite
+		9 Surplus Supplies
+		9 Hardened Leechtop
+		9 Sporous Propagator
+		9 Leaf Leaper
+		9 Catapult Chaff
+		9 Glimmerstone
+		9 Blessed Pinions
+		9 Scorching Windfall
+		9 Carnivorous Herbisaur
+		9 Hazardous Hallucination
+		9 Cordyception Carrier
+		9 Mechanical Looter
+		9 Destructive Glassing
+		9 Taking Stock
+		9 Search Through the Future
+		9 Oust
+		9 Pharani Expedition
+		9 Overpowering Domination
+		9 Fool's Boondoggle
+		9 Strength in Arms
+		9 Magewarden Skyseer
+		9 Ethereal Armament
+		9 Vedik's Charge
+		9 Veiled Power
+		9 Murmurate
+		9 Bone Collector
+		9 Epochal Extent
+		9 Stockpile Stormer
+		9 Insidious Deathtrapper
+		9 Obstruct
+		9 Spiretop Stormcatcher
+		9 Creth Raidleader
+		9 City-State Berserker
+		9 Bellow of Battle
+		9 Bull-Horned Raider
+		9 Goliath Vinebeetle
+		9 Destroy Villain
+		[CommonSlot(10)]
+	30 Ambush Scout
+		30 Phial of Rejuvination
+		30 Patron's Ritual
+		30 Grasp to Ground
+		30 Keeper of the Essenceflame
+		30 Hearty Blaze
+		30 Vereth's Familiar
+		30 Transparent Thaumaturge
+		30 Clash of Strength
+		30 Challenging Approach
+		30 Threads of Foresight
+		30 Cyclops Neonate
+		30 Battlefield Dragoon
+		30 Battlefield Duelist
+		30 Battlefield Charger
+		30 Battlefield Assassin
+		30 Battlefield Daggertooth
+		30 Battlefield Deadshot
+		30 Battlefield Thrasher
+		30 Battlefield Vanguard
+		30 Battlefield Stomper
+		30 Battlefield Evoker
+		30 Soldier's Deliberation
+		30 Pilgrim of Cycles
+		30 Roaring Berserker
+		30 Expanding Mold
+		30 Student of the Cycles
+		30 Interpret
+		30 Tchit Subsumer
+		30 Constant Strain
+		30 Rejuvinating Flight
+		30 Chromaton
+		30 Nihilistic Neonate
+		30 Stareader Adept
+		30 Grove Cleanser
+		30 Conduit's Filterfrill
+		30 Hoarder Rat
+		30 Tuulvoke Excavator
+		30 Ivekki Rider
+		30 Spiral Into Insanity
+		30 Dovish Principles
+		30 Fluttering Sharpwings
+		30 Framework Fighter
+		30 Cut Low
+		30 Envision
+		30 Kovekki Sphere
+		30 Brash Invader
+		30 Scour for Settlement
+		30 Spotted Matriarch
+		30 Craft Into Service
+		30 Siroccous Zephyr
+		30 Silt Shooter
+		30 Drimm Battlemace
+		30 Vaporaxe
+		30 Contraption Caretaker
+		30 Shadowings
+		30 Snakeshield
+		30 Colossal Barkplate
+		30 Distracting Apparition
+		30 Ivekki Charger
+		30 Cleric's Companion
+		30 Ghirit Poisoner
+		30 Pharani Thornmaker
+		30 Tixe Caverns
+		30 Requisition Officer
+		30 Marauding Krait
+		30 Dhone Reconstructor
+		30 Bloom Spiral
+		30 Chromatic Spray
+		30 Conduit's Mindscout
+		30 Conduit's Binder
+		30 Landsculptor Automaton
+		30 Traitor's Negotiations
+		30 Hallowed Strength
+		30 Gatekeeper Cyclops
+		30 Spellstrike Trainee
+		30 Coup de Main
+		30 Soldier Scupltor
+		30 Knightless Griffin
+		30 Trial of Focus
+		30 Formulate Design
+		30 Accomplished Champion
+		30 Triumphant Outcome
+		30 Sendeth Vulture
+		30 Trade of Blows
+		30 Overwhelming Blaze
+		30 Destructive Boltblade
+		30 Steamscythe
+		30 Mulchmaker Hunter
+		30 Vigorous Reclamation
+		30 Spring Splasher
+		30 Mark of Laval
+		30 Spotted Patriarch
+		30 Unveiled Assault
+		30 Assistant Automaton
+		30 Send Astorm
+		30 Conduit's Bloodhound
+		30 Kovith Pass
+		30 Ivexika Marsh
+		30 Iven Flats
+		30 Tixe Pool
+		30 Sendeth Dunes
+		30 Kovith Tundra
+		30 Monith Pass
+		30 Ghivor Falls
+		30 Kheveth Stormshore
+		30 Kaeva Grove
+		30 Sekk Depths
+		30 Skullcrusher Automaton
+		30 Merciless Training
+		30 Gargantuan Hoardmaker
+		30 Grazing Charger
+		30 Priest of Broken Cycles
+		30 Sharpshooter Guru
+		30 Grafteradon
+		[LandSlot(1)]
+	10 Plains
+		10 Island
+		10 Swamp
+		10 Mountain
+		10 Forest
+		

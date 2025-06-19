@@ -1,52 +1,62 @@
 [CustomCards]
 	[	{
-			"name": "Cloud Quartz",
+			"name": "Charan, Flight to Beyond",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Phoenix Warrior ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Charan, Flight to Beyond.png"
+			}
+		},
+		{
+			"name": "Vhalax, Spirit of Expansion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Plant Dinosaur ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Vhalax, Spirit of Expansion.png"
+			}
+		},
+		{
+			"name": "Quespereth, Conquering Queen",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Elf Noble ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Quespereth, Conquering Queen.png"
+			}
+		},
+		{
+			"name": "Astor, Second Herald of Focalor",
+			"rarity": "mythic",
+			"mana_cost": "{G/U}{W}",
+			"type": "Legendary Creature — Elf Cleric ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Astor, Second Herald of Focalor.png"
+			}
+		},
+		{
+			"name": "Focalor, Speaker of Truth",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G/W}{G/W}{U}{U}",
+			"type": "Legendary Creature — Cleric God ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor, Speaker of Truth.png"
+			}
+		},
+		{
+			"name": "Rune Bear",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact",
-			"collector_number": "1",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Bear ",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Cloud Quartz.png"
-			}
-		},
-		{
-			"name": "Crystallized Form",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Crystallized Form.png"
-			}
-		},
-		{
-			"name": "Espratan Captain",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Elf Knight ",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espratan Captain.png"
-			}
-		},
-		{
-			"name": "Exios, Wandering Paladin",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Cat Knight ",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Exios, Wandering Paladin.png"
-			}
-		},
-		{
-			"name": "Looming Titan",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Giant Wizard ",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Looming Titan.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rune Bear.png"
 			}
 		},
 		{
@@ -70,73 +80,53 @@
 			}
 		},
 		{
-			"name": "Saurian Interrupter",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Dinosaur ",
-			"collector_number": "8",
+			"name": "Noolo, Rift Imbibed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{W/B}",
+			"type": "Legendary Planeswalker — Noolo ",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Saurian Interrupter.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Noolo, Rift Imbibed.png"
 			}
 		},
 		{
-			"name": "Selected for Service",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Sorcery",
-			"collector_number": "9",
+			"name": "Rothan, Star Ablaze",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Elemental Phoenix ",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Selected for Service.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rothan, Star Ablaze.png"
 			}
 		},
 		{
-			"name": "Verbose Bonds",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Enchantment",
-			"collector_number": "10",
+			"name": "Ellien, Queen's Praetorian",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Elf Knight ",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Verbose Bonds.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ellien, Queen's Praetorian.png"
 			}
 		},
 		{
-			"name": "Accumulated Insight",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "11",
+			"name": "Saurex, Spirit of Reclamation",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Plant Dinosaur ",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Accumulated Insight.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Saurex, Spirit of Reclamation.png"
 			}
 		},
 		{
-			"name": "Elvish Looter",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Elf ",
-			"collector_number": "12",
+			"name": "Focalor, Lattice Maker",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Dragon Cleric ",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Elvish Looter.png"
-			}
-		},
-		{
-			"name": "Flawed Duplication",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flawed Duplication.png"
-			}
-		},
-		{
-			"name": "Focalor's Truthspeaker",
-			"rarity": "common",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Elf Cleric ",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor's Truthspeaker.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor, Lattice Maker.png"
 			}
 		},
 		{
@@ -150,43 +140,63 @@
 			}
 		},
 		{
-			"name": "Mulling Mystic",
-			"rarity": "common",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Elf Wizard ",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Mulling Mystic.png"
-			}
-		},
-		{
-			"name": "Ocean Quartz",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Artifact",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ocean Quartz.png"
-			}
-		},
-		{
-			"name": "Premonition",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Premonition.png"
-			}
-		},
-		{
-			"name": "Turn to Stone",
+			"name": "Kinkud, Lost Assassin",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "19",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Dragon Cleric ",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Turn to Stone.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Kinkud, Lost Assassin.png"
+			}
+		},
+		{
+			"name": "Exios, Wandering Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Knight ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Exios, Wandering Paladin.png"
+			}
+		},
+		{
+			"name": "Samson, Struggling Detective",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Legendary Creature — Tiefling Detective ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Samson, Struggling Detective.png"
+			}
+		},
+		{
+			"name": "Noolo, Enslaved Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}",
+			"type": "Legendary Creature — Minotaur Wizard ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Noolo, Enslaved Inventor.png"
+			}
+		},
+		{
+			"name": "Ashen Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Phoenix Egg  ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ashen Egg.png"
+			}
+		},
+		{
+			"name": "Volcanic Nest",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Volcanic Nest.png"
 			}
 		},
 		{
@@ -197,6 +207,96 @@
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Brittle Phoenix.png"
+			}
+		},
+		{
+			"name": "Espren Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Captain.png"
+			}
+		},
+		{
+			"name": "Elvish Looter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Elvish Looter.png"
+			}
+		},
+		{
+			"name": "Sylvan Skyknight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W/U}",
+			"type": "Creature — Griffon Elf ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Sylvan Skyknight.png"
+			}
+		},
+		{
+			"name": "Espratan Captain",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Elf Knight ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espratan Captain.png"
+			}
+		},
+		{
+			"name": "Espren Scholar",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Scholar.png"
+			}
+		},
+		{
+			"name": "Guard-Commander of Espren",
+			"rarity": "rare",
+			"mana_cost": "{4}{W/B}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Guard-Commander of Espren.png"
+			}
+		},
+		{
+			"name": "Commander's Dynamo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Commander's Dynamo.png"
+			}
+		},
+		{
+			"name": "Necrolegacy",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Necrolegacy.png"
+			}
+		},
+		{
+			"name": "Verbose Bonds",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Verbose Bonds.png"
 			}
 		},
 		{
@@ -220,26 +320,6 @@
 			}
 		},
 		{
-			"name": "Kinkud, Lost Assassin",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Dragon Cleric ",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Kinkud, Lost Assassin.png"
-			}
-		},
-		{
-			"name": "Maddening Prediction",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Maddening Prediction.png"
-			}
-		},
-		{
 			"name": "Medium of Enduring Histories",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
@@ -250,83 +330,245 @@
 			}
 		},
 		{
-			"name": "Necrolegacy",
-			"rarity": "mythic",
-			"mana_cost": "{B}{B}{B}",
-			"type": "Enchantment",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Necrolegacy.png"
-			}
-		},
-		{
-			"name": "Oil Quartz",
+			"name": "Caravan Runner",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Artifact",
-			"collector_number": "27",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Elf ",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Oil Quartz.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Caravan Runner.png"
 			}
 		},
 		{
-			"name": "Tribute to Immortality",
+			"name": "Mulling Mystic",
 			"rarity": "common",
-			"mana_cost": "{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "28",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Tribute to Immortality.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Mulling Mystic.png"
 			}
 		},
 		{
-			"name": "Ashen Egg",
+			"name": "Sifter Elf",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Sifter Elf.png"
+			}
+		},
+		{
+			"name": "Veteran Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Elf Knight ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Veteran Vanguard.png"
+			}
+		},
+		{
+			"name": "Espren Fanatic",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Creature — Elf ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Fanatic.png"
+			}
+		},
+		{
+			"name": "Quespereth's Mystic",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Enchantment Creature — Phoenix Egg  ",
-			"collector_number": "29",
+			"mana_cost": "{2}{W/B}{U}",
+			"type": "Creature — Elf ",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ashen Egg.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Quespereth's Mystic.png"
 			}
 		},
 		{
-			"name": "Blood Quartz",
+			"name": "Latar Spinokelp",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Artifact",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Blood Quartz.png"
-			}
-		},
-		{
-			"name": "Flaming Phytoraptor",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Plant Dinosaur ",
-			"collector_number": "31",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flaming Phytoraptor.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Latar Spinokelp.png"
 			}
 		},
 		{
-			"name": "Growing Fervor",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "32",
+			"name": "Accumulated Insight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Growing Fervor.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Accumulated Insight.png"
 			}
 		},
 		{
-			"name": "Growing Heat",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "33",
+			"name": "Focalor's Truthspeaker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Growing Heat.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor's Truthspeaker.png"
+			}
+		},
+		{
+			"name": "Focalor's Liebinder",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W/U}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor's Liebinder.png"
+			}
+		},
+		{
+			"name": "Nexen Forgemaster",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Dwarf Artificer ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Nexen Forgemaster.png"
+			}
+		},
+		{
+			"name": "Banishment Beetle",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Insect ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Banishment Beetle.png"
+			}
+		},
+		{
+			"name": "Gigafaunize",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Gigafaunize.png"
+			}
+		},
+		{
+			"name": "Crystallized Form",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Crystallized Form.png"
+			}
+		},
+		{
+			"name": "Savage Reclamation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Savage Reclamation.png"
+			}
+		},
+		{
+			"name": "Leviathan Tyrannosnap",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}{G}{G}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Leviathan Tyrannosnap.png"
+			}
+		},
+		{
+			"name": "Phytodactyl",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Plant Dinosaur  ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Phytodactyl.png"
+			}
+		},
+		{
+			"name": "Crethwood Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Warrior ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Crethwood Champion.png"
+			}
+		},
+		{
+			"name": "Silyph, Crethwood Regent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Plant Druid ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Silyph, Crethwood Regent.png"
+			}
+		},
+		{
+			"name": "Frozen Everburn",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Frozen Everburn.png"
+			}
+		},
+		{
+			"name": "Watch Tower",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Room ",
+			"collector_number": "98",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Watch Tower.png"
+			}
+		},
+		{
+			"name": "Spiral Staircase",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Room ",
+			"collector_number": "97",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Spiral Staircase.png"
+			}
+		},
+		{
+			"name": "Looming Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant Wizard ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Looming Titan.png"
+			}
+		},
+		{
+			"name": "Charan of Fallen Ashes",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Phoenix Warrior ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Charan of Fallen Ashes.png"
 			}
 		},
 		{
@@ -350,23 +592,33 @@
 			}
 		},
 		{
-			"name": "Peer Into Chaos",
+			"name": "Flaming Phytoraptor",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "36",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Peer Into Chaos.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flaming Phytoraptor.png"
 			}
 		},
 		{
-			"name": "Rush of Replication",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "37",
+			"name": "Flawed Duplication",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rush of Replication.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flawed Duplication.png"
+			}
+		},
+		{
+			"name": "Maddening Prediction",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Maddening Prediction.png"
 			}
 		},
 		{
@@ -380,16 +632,6 @@
 			}
 		},
 		{
-			"name": "Volcanic Nest",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Volcanic Nest.png"
-			}
-		},
-		{
 			"name": "Cotay Leadon, Grovetender",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
@@ -397,26 +639,6 @@
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Cotay Leadon, Grovetender.png"
-			}
-		},
-		{
-			"name": "Crethwood Champion",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Plant Warrior ",
-			"collector_number": "41",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Crethwood Champion.png"
-			}
-		},
-		{
-			"name": "Flora Trailblazer",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Plant Druid ",
-			"collector_number": "42",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flora Trailblazer.png"
 			}
 		},
 		{
@@ -430,16 +652,6 @@
 			}
 		},
 		{
-			"name": "Gigafaunize",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Enchantment",
-			"collector_number": "44",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Gigafaunize.png"
-			}
-		},
-		{
 			"name": "Grasping Roots",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
@@ -450,43 +662,13 @@
 			}
 		},
 		{
-			"name": "Moss Quartz",
+			"name": "Flora Trailblazer",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Artifact",
-			"collector_number": "46",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Moss Quartz.png"
-			}
-		},
-		{
-			"name": "Profound Ooze",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Ooze ",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Profound Ooze.png"
-			}
-		},
-		{
-			"name": "Propagating Ooze",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Ooze ",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Propagating Ooze.png"
-			}
-		},
-		{
-			"name": "Rummaging Ooze",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Ooze ",
-			"collector_number": "49",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rummaging Ooze.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flora Trailblazer.png"
 			}
 		},
 		{
@@ -500,33 +682,173 @@
 			}
 		},
 		{
-			"name": "Caravan Runner",
-			"rarity": "common",
-			"mana_cost": "{U}{B}",
-			"type": "Creature — Elf ",
-			"collector_number": "51",
+			"name": "Phantasmal Phalanx",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Caravan Runner.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Phantasmal Phalanx.png"
 			}
 		},
 		{
-			"name": "Charan, Flight to Beyond",
-			"rarity": "mythic",
-			"mana_cost": "{U}{B}{R}",
-			"type": "Legendary Creature — Phoenix Warrior ",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Charan, Flight to Beyond.png"
-			}
-		},
-		{
-			"name": "Charan of Fallen Ashes",
+			"name": "Paradigm of Expansion",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Creature — Phoenix Warrior ",
-			"collector_number": "53",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Charan of Fallen Ashes.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Paradigm of Expansion.png"
+			}
+		},
+		{
+			"name": "Blood Quartz",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Blood Quartz.png"
+			}
+		},
+		{
+			"name": "Ocean Quartz",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ocean Quartz.png"
+			}
+		},
+		{
+			"name": "Moss Quartz",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Moss Quartz.png"
+			}
+		},
+		{
+			"name": "Oil Quartz",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Oil Quartz.png"
+			}
+		},
+		{
+			"name": "Cloud Quartz",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Cloud Quartz.png"
+			}
+		},
+		{
+			"name": "Selected for Service",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Selected for Service.png"
+			}
+		},
+		{
+			"name": "Ring of Supremacy",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ring of Supremacy.png"
+			}
+		},
+		{
+			"name": "Plagiarize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Plagiarize.png"
+			}
+		},
+		{
+			"name": "Turn to Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Turn to Stone.png"
+			}
+		},
+		{
+			"name": "Premonition",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Premonition.png"
+			}
+		},
+		{
+			"name": "Tribute to Immortality",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Tribute to Immortality.png"
+			}
+		},
+		{
+			"name": "Peer Into Chaos",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Peer Into Chaos.png"
+			}
+		},
+		{
+			"name": "Profound Ooze",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ooze ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Profound Ooze.png"
+			}
+		},
+		{
+			"name": "Wrath of Tradition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Wrath of Tradition.png"
+			}
+		},
+		{
+			"name": "Shred to Pieces",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Shred to Pieces.png"
 			}
 		},
 		{
@@ -550,23 +872,33 @@
 			}
 		},
 		{
-			"name": "Ellien, Queen's Praetorian",
-			"rarity": "mythic",
+			"name": "Malevolent Strix",
+			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Elf Knight ",
-			"collector_number": "56",
+			"type": "Artifact Creature — Bird ",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ellien, Queen's Praetorian.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Malevolent Strix.png"
 			}
 		},
 		{
-			"name": "Espren Captain",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Elf Soldier ",
-			"collector_number": "57",
+			"name": "Propagating Ooze",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ooze ",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Captain.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Propagating Ooze.png"
+			}
+		},
+		{
+			"name": "Rummaging Ooze",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ooze ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rummaging Ooze.png"
 			}
 		},
 		{
@@ -580,63 +912,13 @@
 			}
 		},
 		{
-			"name": "Feather of Life",
-			"rarity": "common",
-			"mana_cost": "{B}{R}",
-			"type": "Instant",
-			"collector_number": "59",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Feather of Life.png"
-			}
-		},
-		{
-			"name": "Focalor, Lattice Maker",
-			"rarity": "mythic",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Dragon Cleric ",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor, Lattice Maker.png"
-			}
-		},
-		{
-			"name": "Frozen Everburn",
-			"rarity": "common",
-			"mana_cost": "{0}",
-			"type": "Creature — Phoenix ",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Frozen Everburn.png"
-			}
-		},
-		{
-			"name": "Latar Spinokelp",
-			"rarity": "common",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Plant Dinosaur ",
-			"collector_number": "62",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Latar Spinokelp.png"
-			}
-		},
-		{
-			"name": "Leviathan Tyrannosnap",
+			"name": "Surge of Inspiration",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}{G}{G}",
-			"type": "Creature — Plant Dinosaur ",
-			"collector_number": "63",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Leviathan Tyrannosnap.png"
-			}
-		},
-		{
-			"name": "Malevolent Strix",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}{B}",
-			"type": "Artifact Creature — Bird ",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Malevolent Strix.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Surge of Inspiration.png"
 			}
 		},
 		{
@@ -650,345 +932,33 @@
 			}
 		},
 		{
-			"name": "Paradigm of Expansion",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{G}",
+			"name": "Feather of Life",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Feather of Life.png"
+			}
+		},
+		{
+			"name": "Growing Fervor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "66",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Paradigm of Expansion.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Growing Fervor.png"
 			}
 		},
 		{
-			"name": "Phantasmal Phalanx",
+			"name": "Growing Heat",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{W}",
+			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "67",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Phantasmal Phalanx.png"
-			}
-		},
-		{
-			"name": "Phytodactyl",
-			"rarity": "common",
-			"mana_cost": "{G}{W}",
-			"type": "Creature — Plant Dinosaur  ",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Phytodactyl.png"
-			}
-		},
-		{
-			"name": "Plagiarize",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Sorcery",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Plagiarize.png"
-			}
-		},
-		{
-			"name": "Quespereth, Conquering Queen",
-			"rarity": "mythic",
-			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Elf Noble ",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Quespereth, Conquering Queen.png"
-			}
-		},
-		{
-			"name": "Rothan, Star Ablaze",
-			"rarity": "mythic",
-			"mana_cost": "{2}{U}{B}{R}",
-			"type": "Legendary Creature — Elemental Phoenix ",
-			"collector_number": "71",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rothan, Star Ablaze.png"
-			}
-		},
-		{
-			"name": "Rune Bear",
-			"rarity": "common",
-			"mana_cost": "{G}{W}",
-			"type": "Creature — Bear ",
-			"collector_number": "72",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rune Bear.png"
-			}
-		},
-		{
-			"name": "Saurex, Spirit of Reclamation",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Legendary Creature — Plant Dinosaur ",
-			"collector_number": "73",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Saurex, Spirit of Reclamation.png"
-			}
-		},
-		{
-			"name": "Savage Reclamation",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "74",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Savage Reclamation.png"
-			}
-		},
-		{
-			"name": "Silyph, Crethwood Regent",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Creature — Plant Druid ",
-			"collector_number": "75",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Silyph, Crethwood Regent.png"
-			}
-		},
-		{
-			"name": "Surge of Inspiration",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Sorcery",
-			"collector_number": "76",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Surge of Inspiration.png"
-			}
-		},
-		{
-			"name": "Veteran Vanguard",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Elf Knight ",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Veteran Vanguard.png"
-			}
-		},
-		{
-			"name": "Vhalax, Spirit of Expansion",
-			"rarity": "mythic",
-			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Legendary Creature — Plant Dinosaur ",
-			"collector_number": "78",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Vhalax, Spirit of Expansion.png"
-			}
-		},
-		{
-			"name": "Wrath of Tradition",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Wrath of Tradition.png"
-			}
-		},
-		{
-			"name": "Astor, Second Herald of Focalor",
-			"rarity": "mythic",
-			"mana_cost": "{G/U}{W}",
-			"type": "Legendary Creature — Elf Cleric ",
-			"collector_number": "80",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Astor, Second Herald of Focalor.png"
-			}
-		},
-		{
-			"name": "Banishment Beetle",
-			"rarity": "common",
-			"mana_cost": "{1}{G/W}",
-			"type": "Creature — Insect ",
-			"collector_number": "81",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Banishment Beetle.png"
-			}
-		},
-		{
-			"name": "Enraged Everburn",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B/R}",
-			"type": "Creature — Phoenix ",
-			"collector_number": "82",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Enraged Everburn.png"
-			}
-		},
-		{
-			"name": "Espren Fanatic",
-			"rarity": "common",
-			"mana_cost": "{W/B}",
-			"type": "Creature — Elf ",
-			"collector_number": "83",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Fanatic.png"
-			}
-		},
-		{
-			"name": "Espren Scholar",
-			"rarity": "rare",
-			"mana_cost": "{2}{U/B}",
-			"type": "Creature — Elf Shaman ",
-			"collector_number": "84",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Scholar.png"
-			}
-		},
-		{
-			"name": "Focalor, Speaker of Truth",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G/W}{G/W}{U}{U}",
-			"type": "Legendary Creature — Cleric God ",
-			"collector_number": "85",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor, Speaker of Truth.png"
-			}
-		},
-		{
-			"name": "Focalor's Liebinder",
-			"rarity": "common",
-			"mana_cost": "{2}{W}{W/U}",
-			"type": "Creature — Elf Cleric ",
-			"collector_number": "86",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor's Liebinder.png"
-			}
-		},
-		{
-			"name": "Guard-Commander of Espren",
-			"rarity": "rare",
-			"mana_cost": "{4}{W/B}",
-			"type": "Creature — Elf Soldier ",
-			"collector_number": "87",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Guard-Commander of Espren.png"
-			}
-		},
-		{
-			"name": "Nexen Forgemaster",
-			"rarity": "common",
-			"mana_cost": "{1}{R/W}",
-			"type": "Creature — Dwarf Artificer ",
-			"collector_number": "88",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Nexen Forgemaster.png"
-			}
-		},
-		{
-			"name": "Noolo, Enslaved Inventor",
-			"rarity": "uncommon",
-			"mana_cost": "{W/U}",
-			"type": "Legendary Creature — Minotaur Wizard ",
-			"collector_number": "89",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Noolo, Enslaved Inventor.png"
-			}
-		},
-		{
-			"name": "Noolo, Rift Imbibed",
-			"rarity": "mythic",
-			"mana_cost": "{2}{U}{W/B}",
-			"type": "Legendary Planeswalker — Noolo ",
-			"collector_number": "90",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Noolo, Rift Imbibed.png"
-			}
-		},
-		{
-			"name": "Quespereth's Mystic",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W/B}{U}",
-			"type": "Creature — Elf ",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Quespereth's Mystic.png"
-			}
-		},
-		{
-			"name": "Samson, Struggling Detective",
-			"rarity": "uncommon",
-			"mana_cost": "{U/B}",
-			"type": "Legendary Creature — Tiefling Detective ",
-			"collector_number": "92",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Samson, Struggling Detective.png"
-			}
-		},
-		{
-			"name": "Shred to Pieces",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G/W}",
-			"type": "Sorcery",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Shred to Pieces.png"
-			}
-		},
-		{
-			"name": "Sifter Elf",
-			"rarity": "common",
-			"mana_cost": "{1}{W/B}",
-			"type": "Creature — Elf Druid ",
-			"collector_number": "94",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Sifter Elf.png"
-			}
-		},
-		{
-			"name": "Sylvan Skyknight",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W/U}",
-			"type": "Creature — Griffon Elf ",
-			"collector_number": "95",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Sylvan Skyknight.png"
-			}
-		},
-		{
-			"name": "Warden of the Weald",
-			"rarity": "common",
-			"mana_cost": "{2}{G/W}",
-			"type": "Creature — Elf ",
-			"collector_number": "96",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Warden of the Weald.png"
-			}
-		},
-		{
-			"name": "Spiral Staircase",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Room ",
-			"collector_number": "97",
-			"layout": "split",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Spiral Staircase.png"
-			}
-		},
-		{
-			"name": "Watch Tower",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Enchantment — Room ",
-			"collector_number": "98",
-			"layout": "split",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Watch Tower.png"
-			}
-		},
-		{
-			"name": "Commander's Dynamo",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"collector_number": "99",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Commander's Dynamo.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Growing Heat.png"
 			}
 		},
 		{
@@ -1002,13 +972,33 @@
 			}
 		},
 		{
-			"name": "Ring of Supremacy",
-			"rarity": "mythic",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact",
-			"collector_number": "101",
+			"name": "Warden of the Weald",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Elf ",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ring of Supremacy.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Warden of the Weald.png"
+			}
+		},
+		{
+			"name": "Enraged Everburn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Phoenix ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Enraged Everburn.png"
+			}
+		},
+		{
+			"name": "Last Home, Hunter's Guild",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Last Home, Hunter's Guild.png"
 			}
 		},
 		{
@@ -1022,121 +1012,131 @@
 			}
 		},
 		{
-			"name": "Last Home, Hunter's Guild",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "103",
+			"name": "Rush of Replication",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Last Home, Hunter's Guild.png"
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rush of Replication.png"
+			}
+		},
+		{
+			"name": "Saurian Interrupter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Saurian Interrupter.png"
 			}
 		},
 		]
 	[RareSlot(1)]
-	2 Espratan Captain
+	2 Samson, Focalor's Chosen
+		2 Volcanic Nest
+		2 Espratan Captain
+		2 Espren Scholar
+		2 Guard-Commander of Espren
+		2 Veteran Vanguard
+		2 Crethwood Champion
 		2 Looming Titan
-		2 Samson, Focalor's Chosen
-		2 Saurian Interrupter
+		2 Charan of Fallen Ashes
 		2 Horn of Pogrûz
 		2 Trust In Fate
-		2 Volcanic Nest
 		2 Cotay Leadon, Grovetender
-		2 Crethwood Champion
 		2 Grasping Roots
+		2 Paradigm of Expansion
 		2 Profound Ooze
 		2 Propagating Ooze
 		2 Rummaging Ooze
-		2 Charan of Fallen Ashes
 		2 Explosive Monologue
 		2 Miracle Wings
-		2 Paradigm of Expansion
-		2 Veteran Vanguard
-		2 Espren Scholar
-		2 Guard-Commander of Espren
 		2 Last Home, Hunter's Guild
-		1 Necrolegacy
-		1 Rush of Replication
+		2 Saurian Interrupter
 		1 Charan, Flight to Beyond
-		1 Ellien, Queen's Praetorian
-		1 Focalor, Lattice Maker
-		1 Quespereth, Conquering Queen
-		1 Rothan, Star Ablaze
-		1 Saurex, Spirit of Reclamation
 		1 Vhalax, Spirit of Expansion
+		1 Quespereth, Conquering Queen
 		1 Astor, Second Herald of Focalor
 		1 Focalor, Speaker of Truth
 		1 Noolo, Rift Imbibed
+		1 Rothan, Star Ablaze
+		1 Ellien, Queen's Praetorian
+		1 Saurex, Spirit of Reclamation
+		1 Focalor, Lattice Maker
+		1 Necrolegacy
 		1 Ring of Supremacy
+		1 Rush of Replication
 		[UncommonSlot(3)]
-	9 Exios, Wandering Paladin
-		9 Verbose Bonds
-		9 Flawed Duplication
-		9 Icewing Phoenix
-		9 Turn to Stone
+	9 Icewing Phoenix
 		9 Kinkud, Lost Assassin
-		9 Medium of Enduring Histories
+		9 Exios, Wandering Paladin
+		9 Samson, Struggling Detective
+		9 Noolo, Enslaved Inventor
 		9 Ashen Egg
-		9 Growing Fervor
-		9 Growing Heat
-		9 Forest's Harmony
-		9 Gigafaunize
-		9 Aurasaurus
-		9 Cleansing Eruption
-		9 The Conquest of Alvaest
 		9 Espren Captain
+		9 Sylvan Skyknight
+		9 Commander's Dynamo
+		9 Verbose Bonds
+		9 Medium of Enduring Histories
+		9 Quespereth's Mystic
+		9 Gigafaunize
+		9 Savage Reclamation
 		9 Leviathan Tyrannosnap
-		9 Malevolent Strix
+		9 Silyph, Crethwood Regent
+		9 Watch Tower
+		9 Flawed Duplication
+		9 Forest's Harmony
+		9 Aurasaurus
 		9 Phantasmal Phalanx
 		9 Plagiarize
-		9 Savage Reclamation
-		9 Silyph, Crethwood Regent
-		9 Surge of Inspiration
+		9 Turn to Stone
 		9 Wrath of Tradition
-		9 Enraged Everburn
-		9 Noolo, Enslaved Inventor
-		9 Quespereth's Mystic
-		9 Samson, Struggling Detective
 		9 Shred to Pieces
-		9 Sylvan Skyknight
-		9 Watch Tower
-		9 Commander's Dynamo
+		9 Cleansing Eruption
+		9 The Conquest of Alvaest
+		9 Malevolent Strix
+		9 Surge of Inspiration
+		9 Growing Fervor
+		9 Growing Heat
+		9 Enraged Everburn
 		9 Last Home, Dead Lands Colony
 		[CommonSlot(10)]
-	30 Cloud Quartz
-		30 Crystallized Form
+	30 Rune Bear
 		30 Replaced Experiment
-		30 Selected for Service
-		30 Accumulated Insight
-		30 Elvish Looter
-		30 Focalor's Truthspeaker
-		30 Mulling Mystic
-		30 Ocean Quartz
-		30 Premonition
 		30 Brittle Phoenix
+		30 Elvish Looter
 		30 Espren Scouting Party
 		30 Essence Vial
-		30 Maddening Prediction
-		30 Oil Quartz
-		30 Tribute to Immortality
-		30 Blood Quartz
-		30 Flaming Phytoraptor
-		30 Immolation Firebird
-		30 Peer Into Chaos
-		30 Flora Trailblazer
-		30 Moss Quartz
 		30 Caravan Runner
-		30 Feather of Life
-		30 Frozen Everburn
-		30 Latar Spinokelp
-		30 Phytodactyl
-		30 Rune Bear
-		30 Banishment Beetle
+		30 Mulling Mystic
+		30 Sifter Elf
 		30 Espren Fanatic
+		30 Latar Spinokelp
+		30 Accumulated Insight
+		30 Focalor's Truthspeaker
 		30 Focalor's Liebinder
 		30 Nexen Forgemaster
-		30 Sifter Elf
-		30 Warden of the Weald
+		30 Banishment Beetle
+		30 Crystallized Form
+		30 Phytodactyl
+		30 Frozen Everburn
 		30 Spiral Staircase
+		30 Immolation Firebird
+		30 Flaming Phytoraptor
+		30 Maddening Prediction
+		30 Flora Trailblazer
+		30 Blood Quartz
+		30 Ocean Quartz
+		30 Moss Quartz
+		30 Oil Quartz
+		30 Cloud Quartz
+		30 Selected for Service
+		30 Premonition
+		30 Tribute to Immortality
+		30 Peer Into Chaos
+		30 Feather of Life
 		30 Navigator's Sextant
+		30 Warden of the Weald
 		[LandSlot(1)]
 	
