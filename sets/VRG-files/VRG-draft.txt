@@ -90,13 +90,13 @@
 			}
 		},
 		{
-			"name": "Dsimay",
+			"name": "Dismay",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Sorcery",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dsimay.png"
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Dismay.png"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 			"name": "Chief of the Swell",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Creature",
+			"type": "Creature — Elf Warrior ",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Chief of the Swell.png"
@@ -643,7 +643,7 @@
 			"name": "Tuulvoke Excavator",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature",
+			"type": "Creature — Dwarf ",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Tuulvoke Excavator.png"
@@ -873,7 +873,7 @@
 			"name": "Ghivoran Berserker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Warrior ",
+			"type": "Creature — Human Warrior ",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Ghivoran Berserker.png"
@@ -1343,7 +1343,7 @@
 			"name": "Herald of the Old Ways",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Elf Shaman ",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Herald of the Old Ways.png"
@@ -1723,7 +1723,7 @@
 			"name": "Spotted Patriarch",
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature",
+			"type": "Creature — Hyena ",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Spotted Patriarch.png"
@@ -1953,7 +1953,7 @@
 			"name": "Skullcrusher Automaton",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature",
+			"type": "Artifact Creature — Golem ",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Skullcrusher Automaton.png"
@@ -2113,7 +2113,7 @@
 			"name": "Grazing Charger",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Rhino ",
+			"type": "Creature — Bird Rhino ",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Grazing Charger.png"
@@ -2520,13 +2520,13 @@
 			}
 		},
 		{
-			"name": "Khastr, Scrap Repurposer",
+			"name": "Khazzabek, Scrap Repurposer",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Dwarf Artificer ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Khastr, Scrap Repurposer.png"
+				"en": "https://kidkamando.github.io/sets/VRG-files/VRG-files/Khazzabek, Scrap Repurposer.png"
 			}
 		},
 		{
@@ -3188,7 +3188,7 @@
 		2 Exploit Vulnerability
 		2 Steamshape
 		2 Bloom Helix
-		2 Khastr, Scrap Repurposer
+		2 Khazzabek, Scrap Repurposer
 		2 Fervent Delusion
 		2 Conduit's Spy
 		2 Natural Recycling
@@ -3236,7 +3236,7 @@
 		9 Lightray
 		9 Ossified Slagmaw
 		9 Halt Momentum
-		9 Dsimay
+		9 Dismay
 		9 Vigorose
 		9 Nu'Ul's Edict
 		9 Timely Maneuver

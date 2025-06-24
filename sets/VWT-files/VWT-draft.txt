@@ -143,7 +143,7 @@
 			"name": "Rider of Nexos",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Knight ",
+			"type": "Creature — Human Knight ",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Rider of Nexos.png"
@@ -223,7 +223,7 @@
 			"name": "Cornered Captain",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Knight ",
+			"type": "Creature — Elf Knight ",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Cornered Captain.png"
@@ -233,7 +233,7 @@
 			"name": "Bountiful Bandit",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Warrior ",
+			"type": "Creature — Human Warrior ",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Bountiful Bandit.png"
@@ -573,7 +573,7 @@
 			"name": "Flechan Flame Thrower",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Sorcerer ",
+			"type": "Creature — Human Sorcerer ",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Flechan Flame Thrower.png"
@@ -753,7 +753,7 @@
 			"name": "Nexen Standard-Bearer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Soldier ",
+			"type": "Creature — Elf Soldier ",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Nexen Standard-Bearer.png"
@@ -833,7 +833,7 @@
 			"name": "Galloping Mentor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Knight ",
+			"type": "Creature — Human Knight ",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Galloping Mentor.png"
@@ -1043,7 +1043,7 @@
 			"name": "Fallarai Swiftblade",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Monk ",
+			"type": "Creature — Minotaur Monk ",
 			"collector_number": "164",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Fallarai Swiftblade.png"
@@ -1133,7 +1133,7 @@
 			"name": "Frontline Burstmage",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Sorcerer ",
+			"type": "Creature — Dwarf Sorcerer ",
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Frontline Burstmage.png"
@@ -1673,7 +1673,7 @@
 			"name": "Noble's Martyr",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Cleric ",
+			"type": "Creature — Dwarf Cleric ",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Noble's Martyr.png"
@@ -1693,7 +1693,7 @@
 			"name": "Frontline Champion",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Soldier ",
+			"type": "Creature — Human Soldier ",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Frontline Champion.png"
@@ -2183,7 +2183,7 @@
 			"name": "Squire Initiate",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Knight ",
+			"type": "Creature — Human Knight ",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Squire Initiate.png"
@@ -2313,7 +2313,7 @@
 			"name": "Night's Watch",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Soldier ",
+			"type": "Creature — Human Soldier ",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Night's Watch.png"
@@ -2333,7 +2333,7 @@
 			"name": "Fallarai Burstmage",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
-			"type": "Creature — Monk ",
+			"type": "Creature — Human Monk ",
 			"collector_number": "247",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Fallarai Burstmage.png"
@@ -2353,7 +2353,7 @@
 			"name": "Fallarai of the Flaming Foot",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U/R}{R}",
-			"type": "Creature — Monk ",
+			"type": "Creature — Dwarf Monk ",
 			"collector_number": "282",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Fallarai of the Flaming Foot.png"
@@ -2963,7 +2963,7 @@
 			"name": "Practical Footsoldier",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Soldier ",
+			"type": "Creature — Human Soldier ",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Practical Footsoldier.png"
@@ -3293,7 +3293,7 @@
 			"name": "Disciplined Spellstrike",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Sorcerer Monk ",
+			"type": "Creature — Minotaur Sorcerer Monk ",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Disciplined Spellstrike.png"
@@ -3483,7 +3483,7 @@
 			"name": "Jungle Pathmaker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Ranger Scout ",
+			"type": "Creature — Human Ranger Scout ",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Jungle Pathmaker.png"
@@ -3553,7 +3553,7 @@
 			"name": "Warrior of the Weald",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Druid Soldier ",
+			"type": "Creature — Plant Druid Soldier ",
 			"collector_number": "271",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/VWT-files/VWT-files/Warrior of the Weald.png"

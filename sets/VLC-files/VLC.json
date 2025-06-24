@@ -1,6 +1,6 @@
 ﻿{
     "name": "Velesta Discovered Commander",
-    "formats": "Commander",
+    "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -160,7 +160,7 @@
             "rules_text": "Noolo can be your commander.",
             "flavor_text": "[i]aa[/i]",
             "pt": "",
-            "special_text": "Noolo can be your commander.\nEach turn, the first time you activate an ability of another nonland permanent you control, put a loyalty counter on Noolo.\n[+1]: As an additional cost to activate this ability, sacrifice an artifact. Create two 1/1 white Elf creature tokens.\n[0]: Draw a card, then create a Tuulvoke Crystal artifact token.\n[-9]: Noncreature artifacts you control become 3/3 colorless Construct creature tokens in addition to their other types.",
+            "special_text": "Noolo can be your commander.\nEach turn, the first time you activate an ability of another nonland permanent you control, put a loyalty counter on Noolo.\n[+1]: As an additional cost to activate this ability, sacrifice an artifact. Create two 1/1 white Elf creature tokens.\n[0]: Draw a card, then create a Tuulvoke Crystal token. [i](It's an artifact with \u201cWhen this artifact enters, exile a card from your hand.\u201d and \u201c{T}, Sacrifice this artifact: You may play the exiled card until end of turn.\u201d)[/i]\n[-9]: Noncreature artifacts you control become 3/3 colorless Construct creature tokens in addition to their other types.",
             "shape": "planeswalker",
             "set": "VLC",
             "loyalty": "4",
