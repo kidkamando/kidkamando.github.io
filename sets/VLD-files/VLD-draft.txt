@@ -3152,7 +3152,7 @@
 		{
 			"name": "Pharani Heirloom",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Artifact",
 			"collector_number": "186",
 			"image_uris": {
