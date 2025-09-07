@@ -42,7 +42,7 @@
 		{
 			"name": "Putty Patroller",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Golem Warrior Villain Minion ",
 			"collector_number": "114",
 			"image_uris": {
@@ -220,7 +220,7 @@
 		{
 			"name": "Powerdrain",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{1}{G}{G}{U}",
 			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
@@ -816,7 +816,7 @@
 		{
 			"name": "Batling",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Creature — Demon Bat Villain Minion ",
 			"collector_number": "86",
 			"image_uris": {
@@ -3751,13 +3751,13 @@
 			}
 		},
 		{
-			"name": "Nerfarious Knowledge",
+			"name": "Nefarious Knowledge",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Nerfarious Knowledge.png"
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Nefarious Knowledge.png"
 			}
 		},
 		{
@@ -3884,7 +3884,7 @@
 			"name": "Grid Battleforce Recruit",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Citizen ",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Grid Battleforce Recruit.png"
@@ -3994,7 +3994,7 @@
 			"name": "Mavro's Royal Guard",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Alien Soldier ",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mavro's Royal Guard.png"
@@ -4444,7 +4444,7 @@
 		30 Emergency Event
 		30 Return to Headquarters
 		30 Once a Ranger...
-		30 Nerfarious Knowledge
+		30 Nefarious Knowledge
 		30 Respond to the Attack
 		30 Forced From the Zord
 		30 Interrupted Sequence
@@ -4810,7 +4810,7 @@
 	10 Return to Headquarters
 	10 Once a Ranger...
 	10 End of the Power Rangers
-	10 Nerfarious Knowledge
+	10 Nefarious Knowledge
 	10 Venjix's Drone Factory
 	10 Respond to the Attack
 	10 Forced From the Zord
