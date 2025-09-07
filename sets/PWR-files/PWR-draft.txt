@@ -4,7 +4,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Artifact — Zord Vehicle ",
-			"collector_number": "186",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dragonzord.png"
 			}
@@ -14,7 +14,7 @@
 			"rarity": "rare",
 			"mana_cost": "{9}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Forever Red.png"
 			}
@@ -24,7 +24,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/It's Morphin' Time!.png"
 			}
@@ -34,7 +34,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "275",
+			"collector_number": "309",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Master Morpher.png"
 			}
@@ -44,7 +44,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Golem Warrior Villain Minion ",
-			"collector_number": "104",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Putty Patroller.png"
 			}
@@ -54,7 +54,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Warrior Villain Minion ",
-			"collector_number": "110",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tenga Warrior.png"
 			}
@@ -64,7 +64,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "341",
+			"collector_number": "375",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Storm Power Megazord_front.png"
 			},
@@ -81,7 +81,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "263",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/TJ, Courageous Torchbearer_front.png"
 			},
@@ -98,7 +98,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact — Megazord Vehicle  ",
-			"collector_number": "325",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dino Megazord, Tank Mode_front.png"
 			},
@@ -115,7 +115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "151",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Enlarge Monster.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "134",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Power Sword.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "271",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dragon Dagger.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "10",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Call the Zords.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "283",
+			"collector_number": "317",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Saba, White Tiger's Advisor.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Robot Villain Minion ",
-			"collector_number": "36",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/White Krybot.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
 			"type": "Artifact Creature — Robot Villain Minion ",
-			"collector_number": "257",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Orange Krybot.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "33",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Trini, Mighty Lionheart_front.png"
 			},
@@ -202,7 +202,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Triforian Transformation.png"
 			}
@@ -212,7 +212,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Enchantment — Saga Aura ",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Lights of Orion.png"
 			}
@@ -222,7 +222,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "217",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Powerdrain.png"
 			}
@@ -232,7 +232,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "272",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dragon Shield.png"
 			}
@@ -242,7 +242,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Zord ",
-			"collector_number": "266",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Battle Borg.png"
 			}
@@ -252,7 +252,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "278",
+			"collector_number": "312",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Morph-X.png"
 			}
@@ -272,7 +272,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "267",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Blade Blaster.png"
 			}
@@ -282,7 +282,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "277",
+			"collector_number": "311",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Megabattle Armor.png"
 			}
@@ -292,7 +292,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Villainous Confrontation.png"
 			}
@@ -302,7 +302,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "345",
+			"collector_number": "379",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Turbo Megazord.png"
 			}
@@ -312,7 +312,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact — Zord Vehicle ",
-			"collector_number": "129",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lightning Cruiser.png"
 			}
@@ -322,7 +322,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Artifact — Zord Vehicle ",
-			"collector_number": "68",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Storm Blaster.png"
 			}
@@ -332,7 +332,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "343",
+			"collector_number": "377",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Thundersaurus Megazord.png"
 			}
@@ -352,7 +352,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "328",
+			"collector_number": "362",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Galaxy Megazord.png"
 			}
@@ -362,7 +362,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Creature — Megazord ",
-			"collector_number": "288",
+			"collector_number": "322",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Stratoforce Megazord.png"
 			}
@@ -372,7 +372,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Creature — Megazord ",
-			"collector_number": "268",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Centaurus Megazord.png"
 			}
@@ -382,7 +382,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "332",
+			"collector_number": "366",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lifeforce Megazord.png"
 			}
@@ -392,7 +392,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Human Spirit Villain ",
-			"collector_number": "197",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jarrod, Dai Shi's Host_front.png"
 			},
@@ -409,7 +409,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "161",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mystic Muscles.png"
 			}
@@ -419,7 +419,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "346",
+			"collector_number": "380",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Wild Force Megazord.png"
 			}
@@ -429,7 +429,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "338",
+			"collector_number": "372",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Primal Ultrazord.png"
 			}
@@ -439,7 +439,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "339",
+			"collector_number": "373",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/S.W.A.T. Megazord.png"
 			}
@@ -449,7 +449,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "299",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Command Center.png"
 			}
@@ -459,7 +459,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "344",
+			"collector_number": "378",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Time Force Megazord.png"
 			}
@@ -469,7 +469,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "221",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Quantasaurus Rex_front.png"
 			},
@@ -486,7 +486,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Artifact Creature — Robot Villain ",
-			"collector_number": "220",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Psycho Ranger Pink.png"
 			}
@@ -496,7 +496,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Giant Mode.png"
 			}
@@ -506,7 +506,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}",
 			"type": "Legendary Creature — Human Monk ",
-			"collector_number": "260",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/RJ, Tranquil Mentor_front.png"
 			},
@@ -523,7 +523,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Creature — Alien ",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zordon of Eltar.png"
 			}
@@ -533,7 +533,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Artifact Creature — Robot Advisor ",
-			"collector_number": "179",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Alpha 5, Zordon's Adviser.png"
 			}
@@ -543,7 +543,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "307",
+			"collector_number": "341",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Moon Palace.png"
 			}
@@ -553,7 +553,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Judgement Scanner.png"
 			}
@@ -563,7 +563,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zeo Flying Power Kick.png"
 			}
@@ -573,7 +573,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Retrieve From the Grid.png"
 			}
@@ -583,7 +583,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "95",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Kimberly, Mighty Aerialist_front.png"
 			},
@@ -600,7 +600,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "175",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zack, Mighty Fighter_front.png"
 			},
@@ -617,7 +617,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Cryo Imprisonment.png"
 			}
@@ -627,7 +627,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Explosive Runoff.png"
 			}
@@ -654,7 +654,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "125",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jason, Mighty Leader_front.png"
 			},
@@ -671,7 +671,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "237",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tommy, Mighty Rival_front.png"
 			},
@@ -688,7 +688,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "279",
+			"collector_number": "313",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Morpher.png"
 			}
@@ -698,7 +698,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Fish Pirate Villain Minion ",
-			"collector_number": "61",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Piranhatron.png"
 			}
@@ -708,7 +708,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "85",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Countdown to Destruction.png"
 			}
@@ -718,7 +718,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Evox Virus.png"
 			}
@@ -738,7 +738,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "228",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rise of the Psycho Rangers.png"
 			}
@@ -748,7 +748,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Spacecraft ",
-			"collector_number": "289",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Terra Venture.png"
 			}
@@ -758,7 +758,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R/G}",
 			"type": "Sorcery",
-			"collector_number": "251",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Activate Battlizer.png"
 			}
@@ -768,7 +768,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Millenium Message.png"
 			}
@@ -778,7 +778,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zordon's Sacrifice.png"
 			}
@@ -788,7 +788,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "282",
+			"collector_number": "316",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Quasar Saber.png"
 			}
@@ -798,7 +798,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "177",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zocato Power.png"
 			}
@@ -808,7 +808,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "140",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Team Up.png"
 			}
@@ -818,7 +818,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Demon Bat Villain Minion ",
-			"collector_number": "82",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Batling.png"
 			}
@@ -828,7 +828,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "274",
+			"collector_number": "308",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lightspeed Aquabase.png"
 			}
@@ -838,7 +838,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Insect Villain Minion ",
-			"collector_number": "107",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Stingwinger.png"
 			}
@@ -848,7 +848,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Robot Villain Minion ",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Cyclobot.png"
 			}
@@ -858,7 +858,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Ninja Artificer ",
-			"collector_number": "60",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ninjor, Master of the Ninja Way.png"
 			}
@@ -868,7 +868,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Soldier ",
-			"collector_number": "198",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jen, Temporal Officer_front.png"
 			},
@@ -885,7 +885,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "342",
+			"collector_number": "376",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Supertrain Megazord.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "333",
+			"collector_number": "367",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lightspeed Megazord.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "322",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dark Predazord.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "317",
+			"collector_number": "351",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Animus, Wild Force Ancestor.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "318",
+			"collector_number": "352",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Astro Megazord.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "335",
+			"collector_number": "369",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mystic Titan Megazord.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "326",
+			"collector_number": "360",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/DriveMax Megazord.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "330",
+			"collector_number": "364",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jungle Pride Megazord.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "340",
+			"collector_number": "374",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Samurai Megazord.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "329",
+			"collector_number": "363",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Gosei Great Megazord.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "331",
+			"collector_number": "365",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Legendary Megazord.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "324",
+			"collector_number": "358",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dino Charge Ultrazord.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact — Megazord Vehicle ",
-			"collector_number": "336",
+			"collector_number": "370",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ninja Steel Megazord.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "319",
+			"collector_number": "353",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Beast-X Ultrazord.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "321",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Cosmic Fury Megazord.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Human Hero Knight ",
-			"collector_number": "157",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Magna Defender.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "323",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Defender Torozord.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Zord Ox ",
-			"collector_number": "174",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Torozord.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "27",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Silver Guardian.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Shifting Futures.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon Spirit Villain Minion ",
-			"collector_number": "103",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Putrid.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Mutant Outlaw Villain ",
-			"collector_number": "223",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ransik, Temporal Criminal.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Alien Noble Villain  ",
-			"collector_number": "207",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lord Zedd, Emperor of Evil.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Alien Wizard Villain  ",
-			"collector_number": "63",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rita Repulsa, Intergalactic Mystic.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Alien Insect Villain ",
-			"collector_number": "239",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Trakeena, Scorpius' Heir.png"
 			}
@@ -1135,7 +1135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Human Pirate Villain ",
-			"collector_number": "185",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Divatox, Intergalactic Pirate Queen.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Artifact Creature — Robot Noble Villain ",
-			"collector_number": "202",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/King Mondo of the Machine Empire.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Planet ",
-			"collector_number": "302",
+			"collector_number": "336",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/KO-35.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Demon Villain ",
-			"collector_number": "105",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Queen Bansheera, Demonic Matriarch.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Legendary Creature — Human Mutant Villain ",
-			"collector_number": "211",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Master Org, Reincarnated.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Ninja Villain ",
-			"collector_number": "208",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lothor, Exiled Conqueror.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Dinosaur Scientist Villain ",
-			"collector_number": "213",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mesogog, Thunder's Bane.png"
 			}
@@ -1205,7 +1205,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Dinosaur Villain Minion ",
-			"collector_number": "242",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tyrannodrone.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Ninja Villain Minion ",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Kelzak.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Robot Villain Minion ",
-			"collector_number": "269",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Cog.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Lizard Villain Minion ",
-			"collector_number": "127",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lava Lizard.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Monk Villain Minion ",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rinshi.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct Villain Minion ",
-			"collector_number": "273",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Grinder.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon Villain Minion ",
-			"collector_number": "100",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mooger.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact Creature — Germ Construct Villain Minion ",
-			"collector_number": "241",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tronic.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Insect Villain Minion ",
-			"collector_number": "206",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Loogie.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Germ Villain Minion ",
-			"collector_number": "245",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Vivix.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Robot Villain Minion ",
-			"collector_number": "38",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/X-Borg.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Orc Villain Minion ",
-			"collector_number": "124",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Hidiac.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Artifact Creature — Warrior Robot Villain Minion ",
-			"collector_number": "204",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Kudabot.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Knight Construct Villain Minion ",
-			"collector_number": "195",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Hengemen.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Alien Warrior Villain ",
-			"collector_number": "87",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Emperor Gruumm, Troobian Conqueror.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Spirit Knight Villain ",
-			"collector_number": "203",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Knight Wolf, Koragg Possessed.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Elemental Villain ",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Flurious, Transformed by the Aurora.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Elemental Villain ",
-			"collector_number": "131",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Moltor, Cursed by the Corona.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Construct Villain ",
-			"collector_number": "244",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Venjix, Viral Conqueror.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Fox Spirit Shaman Villain ",
-			"collector_number": "209",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Madame Odius, Steel Seeker.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Snake Construct Villain ",
-			"collector_number": "190",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Evox, Viral Insurgent.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Alien Noble Villain ",
-			"collector_number": "247",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Void Queen, Santaura Transformed.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}{R}{R}",
 			"type": "Legendary Creature — Alien Noble Villain  ",
-			"collector_number": "212",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Master Zedd, Morphin Menace.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Alien Outlaw Villain ",
-			"collector_number": "233",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Sledge, Energem Hunter.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Legacy of Power.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{X}{4}",
 			"type": "Legendary Artifact — Zord Dragon ",
-			"collector_number": "284",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Serpentera, Zedd's Zord.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Alien Dog Soldier ",
-			"collector_number": "180",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Anubis Cruger, SPD Commander_front.png"
 			},
@@ -1492,7 +1492,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Bat Outlaw Villain ",
-			"collector_number": "182",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Broodwing, Armorer For Hire.png"
 			}
@@ -1502,7 +1502,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Advancement of Self.png"
 			}
@@ -1512,7 +1512,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Monk ",
-			"collector_number": "147",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Adam, Martial Protector_front.png"
 			},
@@ -1529,7 +1529,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "254",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Carlos, Stubborn Ally_front.png"
 			},
@@ -1546,7 +1546,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warrior  ",
-			"collector_number": "229",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rocky, Mighty Torchbearer_front.png"
 			},
@@ -1563,7 +1563,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "183",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Damon, Astro Mechanic_front.png"
 			},
@@ -1580,7 +1580,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Doctor ",
-			"collector_number": "11",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dana, Emergency Responder_front.png"
 			},
@@ -1597,7 +1597,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Pilot ",
-			"collector_number": "32",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Taylor, Stranded Pilot_front.png"
 			},
@@ -1614,7 +1614,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Ninja ",
-			"collector_number": "238",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tori, Wind Ninja Hydromancer_front.png"
 			},
@@ -1631,7 +1631,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "189",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ethan, Thundering Geek_front.png"
 			},
@@ -1648,7 +1648,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Mutant ",
-			"collector_number": "144",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Z, Replicating Thief_front.png"
 			},
@@ -1665,7 +1665,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Sorcerer ",
-			"collector_number": "132",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Nick, Destined Mystic_front.png"
 			},
@@ -1682,7 +1682,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Human Outlaw ",
-			"collector_number": "76",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Will, Master Thief_front.png"
 			},
@@ -1699,7 +1699,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Monk ",
-			"collector_number": "205",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lily, Passionate Student_front.png"
 			},
@@ -1716,7 +1716,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Outlaw ",
-			"collector_number": "39",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ziggy, Lucky Fugitive_front.png"
 			},
@@ -1750,7 +1750,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "93",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jake, Enthusiastic Athlete_front.png"
 			},
@@ -1767,7 +1767,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Alien Warrior ",
-			"collector_number": "215",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Orion, Andresian Refugee_front.png"
 			},
@@ -1784,7 +1784,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/U}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "256",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Koda, Ageless Caveman_front.png"
 			},
@@ -1801,7 +1801,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "218",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Preston, Gifted Magician_front.png"
 			},
@@ -1818,7 +1818,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Golem Ranger ",
-			"collector_number": "287",
+			"collector_number": "321",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Steel Silva, Robotic Brother_front.png"
 			},
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Knight ",
-			"collector_number": "196",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Izzy, Chromatic Athlete_front.png"
 			},
@@ -1852,7 +1852,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U/R}",
 			"type": "Legendary Creature — Alien Knight ",
-			"collector_number": "252",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Amelia, Leader in Crisis_front.png"
 			},
@@ -1869,7 +1869,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Artifact Creature — Zord Elephant ",
-			"collector_number": "158",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mastodon Dinozord.png"
 			}
@@ -1879,7 +1879,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "141",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tyrannosaurus Dinozord.png"
 			}
@@ -1889,7 +1889,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "102",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Pterodactyl Dinozord.png"
 			}
@@ -1899,7 +1899,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact Creature — Zord ",
-			"collector_number": "70",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Triceratops Dinozord.png"
 			}
@@ -1909,7 +1909,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact Creature — Zord Cat ",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Saber-Toothed Tiger Dinozord.png"
 			}
@@ -1919,7 +1919,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Zord ",
-			"collector_number": "285",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Shogunzord.png"
 			}
@@ -1929,7 +1929,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Artifact Creature — Zord ",
-			"collector_number": "30",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Super Zeo Zord II — Yellow.png"
 			}
@@ -1939,7 +1939,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Artifact — Zord Dinosaur Horse ",
-			"collector_number": "71",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Triceratops Unicorn Thunderzord.png"
 			}
@@ -1949,7 +1949,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "276",
+			"collector_number": "310",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mega Vehicle.png"
 			}
@@ -1959,7 +1959,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Ape ",
-			"collector_number": "193",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Gorilla Galactabeast_front.png"
 			},
@@ -1986,7 +1986,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Artifact — Zord Vehicle Elephant  ",
-			"collector_number": "188",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Elephant Wildzord.png"
 			}
@@ -1996,7 +1996,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Artifact Creature — Zord Cat ",
-			"collector_number": "235",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Storm Lionzord.png"
 			}
@@ -2006,7 +2006,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "187",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dragozord.png"
 			}
@@ -2016,7 +2016,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Artifact — Zord Vehicle Wolf ",
-			"collector_number": "143",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Wolf Cruiser.png"
 			}
@@ -2026,7 +2026,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}",
 			"type": "Legendary Artifact Creature — Zord Faerie ",
-			"collector_number": "59",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mystic Sprite.png"
 			}
@@ -2036,7 +2036,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Zord Vehicle ",
-			"collector_number": "270",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dozer Driver.png"
 			}
@@ -2046,7 +2046,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Artifact Creature — Zord Cat Spirit ",
-			"collector_number": "170",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tiger Animal Spirit.png"
 			}
@@ -2056,7 +2056,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Zord Vehicle ",
-			"collector_number": "29",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/SPD S.W.A.T. Flyer.png"
 			}
@@ -2066,7 +2066,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact Creature — Zord Cat ",
-			"collector_number": "130",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lion Foldingzord.png"
 			}
@@ -2076,7 +2076,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Artifact Creature — Zord Cat ",
-			"collector_number": "153",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Gosei Tiger Mechazord.png"
 			}
@@ -2086,7 +2086,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact — Zord Vehicle ",
-			"collector_number": "138",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Super Mega Racer Zord.png"
 			}
@@ -2096,7 +2096,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "224",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Raptor Zord.png"
 			}
@@ -2106,7 +2106,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Artifact Creature — Zord Dog ",
-			"collector_number": "156",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Kodiak Zord.png"
 			}
@@ -2116,7 +2116,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Artifact Creature — Zord Insect ",
-			"collector_number": "249",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Wrecker Zord.png"
 			}
@@ -2126,7 +2126,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "234",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Stego Spike Zord.png"
 			}
@@ -2136,7 +2136,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Artifact Creature — Zord Scorpion ",
-			"collector_number": "84",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Cosmic Scorpion Zord.png"
 			}
@@ -2146,7 +2146,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Alien Ally ",
-			"collector_number": "184",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Delphine, Aquitian Leader_front.png"
 			},
@@ -2163,7 +2163,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Creature — Monk Beast Villain Minion ",
-			"collector_number": "227",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rinshi Beast.png"
 			}
@@ -2173,7 +2173,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Artifact Creature — Robot Villain Minion ",
-			"collector_number": "253",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Blue Krybot.png"
 			}
@@ -2183,7 +2183,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "176",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/A Zeo Ascension.png"
 			}
@@ -2193,7 +2193,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "28",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Soldier of Terra Venture.png"
 			}
@@ -2203,7 +2203,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact Creature — Robot Soldier Villain Minion   ",
-			"collector_number": "12",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Grey Zentinel.png"
 			}
@@ -2213,7 +2213,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Artifact Creature — Robot Soldier Villain Minion ",
-			"collector_number": "226",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Red Zentinel.png"
 			}
@@ -2223,7 +2223,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}",
 			"type": "Creature — Horror Villain Minion ",
-			"collector_number": "264",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Triskull's Ghoul.png"
 			}
@@ -2233,7 +2233,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}{G}",
 			"type": "Sorcery",
-			"collector_number": "259",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Power Up!.png"
 			}
@@ -2243,7 +2243,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rita's Growth Lightning.png"
 			}
@@ -2253,7 +2253,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Thwart Villainy.png"
 			}
@@ -2263,7 +2263,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/United Scheme.png"
 			}
@@ -2273,7 +2273,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "240",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Transformation Shielding.png"
 			}
@@ -2283,7 +2283,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "308",
+			"collector_number": "342",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Newtech City.png"
 			}
@@ -2293,7 +2293,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "294",
+			"collector_number": "328",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Amber Beach.png"
 			}
@@ -2303,7 +2303,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "311",
+			"collector_number": "345",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/San Angeles.png"
 			}
@@ -2313,7 +2313,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "301",
+			"collector_number": "335",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Corinth.png"
 			}
@@ -2323,7 +2323,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "316",
+			"collector_number": "350",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Turtle Cove.png"
 			}
@@ -2333,7 +2333,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "310",
+			"collector_number": "344",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Pine Ridge.png"
 			}
@@ -2343,7 +2343,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "304",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mariner Bay.png"
 			}
@@ -2353,7 +2353,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "309",
+			"collector_number": "343",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ocean Bluff.png"
 			}
@@ -2363,7 +2363,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "300",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Coral Harbor.png"
 			}
@@ -2373,7 +2373,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "298",
+			"collector_number": "332",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Briarwood.png"
 			}
@@ -2383,7 +2383,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "295",
+			"collector_number": "329",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Angel Grove.png"
 			}
@@ -2393,7 +2393,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Town ",
-			"collector_number": "303",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Machine Arena.png"
 			}
@@ -2403,7 +2403,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Alien Wurm ",
-			"collector_number": "164",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Scuttleworm.png"
 			}
@@ -2413,7 +2413,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Alien Wurm ",
-			"collector_number": "165",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Scuttleworm Larva.png"
 			}
@@ -2423,7 +2423,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "293",
+			"collector_number": "327",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Abyss of Evil.png"
 			}
@@ -2433,7 +2433,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "306",
+			"collector_number": "340",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mirinoi.png"
 			}
@@ -2443,7 +2443,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "305",
+			"collector_number": "339",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mercuria.png"
 			}
@@ -2453,7 +2453,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "314",
+			"collector_number": "348",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Spirit World.png"
 			}
@@ -2463,7 +2463,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "312",
+			"collector_number": "346",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Sanzu River.png"
 			}
@@ -2473,7 +2473,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "315",
+			"collector_number": "349",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Storm Chargers.png"
 			}
@@ -2483,7 +2483,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "313",
+			"collector_number": "347",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Silver Hills.png"
 			}
@@ -2493,7 +2493,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "296",
+			"collector_number": "330",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Animarium.png"
 			}
@@ -2503,7 +2503,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Planet ",
-			"collector_number": "297",
+			"collector_number": "331",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Aquitar.png"
 			}
@@ -2513,7 +2513,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "154",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Grid Connection.png"
 			}
@@ -2523,7 +2523,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Alien Noble Villain ",
-			"collector_number": "219",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Prince Vrak, Resurrected.png"
 			}
@@ -2533,7 +2533,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Alien Insect Soldier Villain ",
-			"collector_number": "178",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Admiral Malkor, Insectoid Leader.png"
 			}
@@ -2543,7 +2543,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}",
 			"type": "Sorcery",
-			"collector_number": "258",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Power Down.png"
 			}
@@ -2553,7 +2553,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "280",
+			"collector_number": "314",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Power Coin.png"
 			}
@@ -2563,7 +2563,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Machine Empire Rebuilt.png"
 			}
@@ -2573,7 +2573,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "90",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Excavation of Serpentera.png"
 			}
@@ -2583,7 +2583,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jungle Master Mode.png"
 			}
@@ -2593,7 +2593,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "347",
+			"collector_number": "381",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zeo Megazord.png"
 			}
@@ -2603,7 +2603,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Demorph.png"
 			}
@@ -2613,7 +2613,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}",
 			"type": "Creature — Fungus ",
-			"collector_number": "262",
+			"collector_number": "296",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Sporix Spore.png"
 			}
@@ -2623,7 +2623,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Ninja Robot Villain Minion ",
-			"collector_number": "192",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Foxbot.png"
 			}
@@ -2633,7 +2633,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Zord Germ Villain Minion ",
-			"collector_number": "246",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Vivizord.png"
 			}
@@ -2643,7 +2643,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "199",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jungle Fan.png"
 			}
@@ -2653,7 +2653,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Spacecraft ",
-			"collector_number": "286",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Squidrill.png"
 			}
@@ -2663,7 +2663,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "292",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zeo Fragment.png"
 			}
@@ -2673,7 +2673,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Team Power Blast.png"
 			}
@@ -2683,7 +2683,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "126",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Kelzak Tonfa.png"
 			}
@@ -2693,7 +2693,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Alien Outlaw ",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Heckyl, Corrupted Hero_front.png"
 			},
@@ -2710,7 +2710,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "200",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jungle Mace.png"
 			}
@@ -2720,7 +2720,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "201",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jungle Shark Sabers.png"
 			}
@@ -2730,7 +2730,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mystic Growth.png"
 			}
@@ -2740,7 +2740,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "111",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Trakeena's Gambit.png"
 			}
@@ -2750,7 +2750,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "94",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Jinxer's Batling Card.png"
 			}
@@ -2760,7 +2760,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Ooze Villain Minion ",
-			"collector_number": "162",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Oozemen.png"
 			}
@@ -2770,7 +2770,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Compliance Collar.png"
 			}
@@ -2780,7 +2780,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Instant",
-			"collector_number": "181",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Bake Into a Pizza.png"
 			}
@@ -2790,7 +2790,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Artifact",
-			"collector_number": "214",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mesogog's Geno-Randomizer.png"
 			}
@@ -2800,7 +2800,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Ally ",
-			"collector_number": "236",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tommy, Mighty Ally_front.png"
 			},
@@ -2817,7 +2817,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Creature — Demon Villain Minion ",
-			"collector_number": "191",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Flying Mooger.png"
 			}
@@ -2827,7 +2827,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "291",
+			"collector_number": "325",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Turbo Wind Fire.png"
 			}
@@ -2837,7 +2837,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Weapon Finisher.png"
 			}
@@ -2847,7 +2847,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "290",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Transdagger.png"
 			}
@@ -2857,7 +2857,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ready for Action.png"
 			}
@@ -2867,7 +2867,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "167",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Stronger Than Before.png"
 			}
@@ -2877,7 +2877,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Demon Villain Minion ",
-			"collector_number": "210",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Master Blaster Mooger.png"
 			}
@@ -2887,7 +2887,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "66",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Sedative Breath.png"
 			}
@@ -2897,7 +2897,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Soldier Villain ",
-			"collector_number": "106",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/SPD A-Squad Ranger.png"
 			}
@@ -2907,7 +2907,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Part of Something Bigger.png"
 			}
@@ -2917,7 +2917,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Five of a Kind.png"
 			}
@@ -2927,7 +2927,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "243",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Udonna, Mystic Mentor_front.png"
 			},
@@ -2944,7 +2944,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "171",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Titanic Bond.png"
 			}
@@ -2954,7 +2954,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Vehicle ",
-			"collector_number": "281",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Power Cycle.png"
 			}
@@ -2964,7 +2964,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Instant",
-			"collector_number": "231",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Search for Zordon.png"
 			}
@@ -2974,7 +2974,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Compulsory Retreat.png"
 			}
@@ -2984,7 +2984,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "116",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Banish to the Void.png"
 			}
@@ -2994,7 +2994,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Legendary Artifact Creature — Zord Cat ",
-			"collector_number": "37",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/White Tigerzord.png"
 			}
@@ -3004,7 +3004,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R/W}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "255",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Fern, Loyal Partner_front.png"
 			},
@@ -3021,7 +3021,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Eradication of the Wild Zords.png"
 			}
@@ -3031,7 +3031,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Destruction of the Command Center.png"
 			}
@@ -3041,7 +3041,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "31",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Symbol Power — Seal.png"
 			}
@@ -3061,7 +3061,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Trip Through Time.png"
 			}
@@ -3071,7 +3071,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Enchantment Creature — Dragon ",
-			"collector_number": "120",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Fire Heart, the Last Dragon.png"
 			}
@@ -3081,7 +3081,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Quantum Secrets.png"
 			}
@@ -3091,7 +3091,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "128",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/The Legendary War.png"
 			}
@@ -3101,7 +3101,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Zombie Soldier ",
-			"collector_number": "168",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Styxoid.png"
 			}
@@ -3121,7 +3121,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Venjix's Computations.png"
 			}
@@ -3131,7 +3131,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Udonna's Blizzard Rush.png"
 			}
@@ -3141,7 +3141,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Diversion Revealed.png"
 			}
@@ -3151,7 +3151,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ghosts in the Machine.png"
 			}
@@ -3161,7 +3161,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "62",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Quadrafighter.png"
 			}
@@ -3181,7 +3181,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "320",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Centaurus-Wolf Megazord.png"
 			}
@@ -3201,7 +3201,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "327",
+			"collector_number": "361",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Electro Zord.png"
 			}
@@ -3211,7 +3211,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "337",
+			"collector_number": "371",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Omegamax Megazord.png"
 			}
@@ -3221,7 +3221,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Creature — Megazord ",
-			"collector_number": "334",
+			"collector_number": "368",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mega Winger.png"
 			}
@@ -3231,7 +3231,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "81",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Assault on the City.png"
 			}
@@ -3241,7 +3241,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/An Evil Game.png"
 			}
@@ -3251,7 +3251,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Last Second Escape.png"
 			}
@@ -3261,7 +3261,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Symbol Power — Dream.png"
 			}
@@ -3271,7 +3271,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Monster of the Week.png"
 			}
@@ -3281,7 +3281,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "148",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Battle Preparations.png"
 			}
@@ -3291,7 +3291,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "169",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Symbol Power — Earth.png"
 			}
@@ -3301,7 +3301,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Step in the Scheme.png"
 			}
@@ -3311,7 +3311,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Artifact Creature — Zord Frog ",
-			"collector_number": "149",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Black Frog Ninjazord.png"
 			}
@@ -3321,7 +3321,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Discover the Animarium.png"
 			}
@@ -3331,7 +3331,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Minion Promotion.png"
 			}
@@ -3341,7 +3341,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{X}{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Summon Minions.png"
 			}
@@ -3351,7 +3351,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Robotpalooza.png"
 			}
@@ -3361,7 +3361,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Artifact Creature — Zord Robot Villain Minion ",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Gigatronic.png"
 			}
@@ -3371,7 +3371,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Alien Beast Soldier Villain ",
-			"collector_number": "91",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Goldar, Winged General.png"
 			}
@@ -3381,7 +3381,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Alien Ally Hero ",
-			"collector_number": "101",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Phantom Ranger, Invisible Ally.png"
 			}
@@ -3391,7 +3391,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/To Earn Your Stripes.png"
 			}
@@ -3401,7 +3401,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Legendary Artifact Creature — Zord Dinosaur ",
-			"collector_number": "172",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Titanus, Carrierzord.png"
 			}
@@ -3411,7 +3411,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "155",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Intervention of the Masters.png"
 			}
@@ -3421,7 +3421,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Skeleton Villain ",
-			"collector_number": "83",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Bones, Finster's First Creation.png"
 			}
@@ -3431,7 +3431,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "9",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Always a Chance.png"
 			}
@@ -3441,7 +3441,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Impenetrable Web.png"
 			}
@@ -3451,7 +3451,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Artifact",
-			"collector_number": "92",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Hexuba's Cauldron.png"
 			}
@@ -3461,7 +3461,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Alien Cat Scientist ",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Kat Manx, Delta Designer_front.png"
 			},
@@ -3478,7 +3478,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Druid ",
-			"collector_number": "163",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Princess Shayla, Animarium's Caretaker.png"
 			}
@@ -3488,7 +3488,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Reinforcements From the Future.png"
 			}
@@ -3498,7 +3498,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{G}",
 			"type": "Creature — Crocodile Demon Villain Minion ",
-			"collector_number": "261",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Spitfang.png"
 			}
@@ -3508,7 +3508,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "216",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Papyrox Print.png"
 			}
@@ -3518,7 +3518,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "225",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Realm of the Animal Spirits.png"
 			}
@@ -3528,7 +3528,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "222",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/A Ranger's Homecoming.png"
 			}
@@ -3538,7 +3538,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "250",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zords on Repair.png"
 			}
@@ -3548,7 +3548,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "194",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Guilty Verdict.png"
 			}
@@ -3558,7 +3558,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Insect Villain ",
-			"collector_number": "248",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Wild Weeder.png"
 			}
@@ -3568,7 +3568,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Creature — Zord Crocodile Alien ",
-			"collector_number": "232",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Skullgator.png"
 			}
@@ -3578,7 +3578,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "73",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/United Alliance of Evil.png"
 			}
@@ -3588,7 +3588,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Ranger ",
-			"collector_number": "230",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ryan, Raised by Demons_front.png"
 			},
@@ -3598,6 +3598,516 @@
 				"image_uris": {
 					"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Ryan, Raised by Demons_back.png"
 				}
+			}
+		},
+		{
+			"name": "Escape Through Reflections",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Escape Through Reflections.png"
+			}
+		},
+		{
+			"name": "Armorized Biofield",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Armorized Biofield.png"
+			}
+		},
+		{
+			"name": "Clone Ranger",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Clone Ranger.png"
+			}
+		},
+		{
+			"name": "Continue the Fight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Continue the Fight.png"
+			}
+		},
+		{
+			"name": "Release of the Galactabeasts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Release of the Galactabeasts.png"
+			}
+		},
+		{
+			"name": "Destruction of the Org Heart",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Destruction of the Org Heart.png"
+			}
+		},
+		{
+			"name": "SPD Cadet",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Alien Soldier ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/SPD Cadet.png"
+			}
+		},
+		{
+			"name": "Emergency Event",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Emergency Event.png"
+			}
+		},
+		{
+			"name": "Heroic Sacrifice",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Heroic Sacrifice.png"
+			}
+		},
+		{
+			"name": "Feed on Misery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Feed on Misery.png"
+			}
+		},
+		{
+			"name": "Sudden Horde",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Sudden Horde.png"
+			}
+		},
+		{
+			"name": "Weapon Trade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Weapon Trade.png"
+			}
+		},
+		{
+			"name": "Return to Headquarters",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Return to Headquarters.png"
+			}
+		},
+		{
+			"name": "Once a Ranger...",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Once a Ranger....png"
+			}
+		},
+		{
+			"name": "End of the Power Rangers",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/End of the Power Rangers.png"
+			}
+		},
+		{
+			"name": "Nerfarious Knowledge",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Nerfarious Knowledge.png"
+			}
+		},
+		{
+			"name": "Venjix's Drone Factory",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Venjix's Drone Factory.png"
+			}
+		},
+		{
+			"name": "Respond to the Attack",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Instant",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Respond to the Attack.png"
+			}
+		},
+		{
+			"name": "Forced From the Zord",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Instant",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Forced From the Zord.png"
+			}
+		},
+		{
+			"name": "Interrupted Sequence",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Instant",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Interrupted Sequence.png"
+			}
+		},
+		{
+			"name": "Working Towards Their Downfall",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Working Towards Their Downfall.png"
+			}
+		},
+		{
+			"name": "Debilitate",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Instant",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Debilitate.png"
+			}
+		},
+		{
+			"name": "Burst of Courage",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Instant",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Burst of Courage.png"
+			}
+		},
+		{
+			"name": "Restore Memory",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Instant",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Restore Memory.png"
+			}
+		},
+		{
+			"name": "Menacing Presence",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Instant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Menacing Presence.png"
+			}
+		},
+		{
+			"name": "Opportune Dodge",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Opportune Dodge.png"
+			}
+		},
+		{
+			"name": "Adapt to Circumstance",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Adapt to Circumstance.png"
+			}
+		},
+		{
+			"name": "Venomark's Infection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Venomark's Infection.png"
+			}
+		},
+		{
+			"name": "Grid Battleforce Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Grid Battleforce Recruit.png"
+			}
+		},
+		{
+			"name": "Rock Troll",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Troll Warrior Villain ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rock Troll.png"
+			}
+		},
+		{
+			"name": "Search for Bowen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Search for Bowen.png"
+			}
+		},
+		{
+			"name": "Saw Attack Bot",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Robot Villain ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Saw Attack Bot.png"
+			}
+		},
+		{
+			"name": "Minion Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Minion Reinforcements.png"
+			}
+		},
+		{
+			"name": "Mack's Manipulation",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mack's Manipulation.png"
+			}
+		},
+		{
+			"name": "Bulk and Skull, Troublemakers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Citizen ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Bulk and Skull, Troublemakers.png"
+			}
+		},
+		{
+			"name": "A Ranger's Resolve",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/A Ranger's Resolve.png"
+			}
+		},
+		{
+			"name": "Hydra Worm",
+			"rarity": "common",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra Wurm ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Hydra Worm.png"
+			}
+		},
+		{
+			"name": "Lightspeed Training",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Lightspeed Training.png"
+			}
+		},
+		{
+			"name": "Auxillary Wildzord",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Zord Beast ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Auxillary Wildzord.png"
+			}
+		},
+		{
+			"name": "Mavro's Royal Guard",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Mavro's Royal Guard.png"
+			}
+		},
+		{
+			"name": "Scorpion Cartel Lookout",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Scorpion Cartel Lookout.png"
+			}
+		},
+		{
+			"name": "Seeing the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Seeing the Past.png"
+			}
+		},
+		{
+			"name": "Clash of the Red Rangers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Clash of the Red Rangers.png"
+			}
+		},
+		{
+			"name": "Dark Troll",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Troll Warrior Villain ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Dark Troll.png"
+			}
+		},
+		{
+			"name": "Sam, SPD Omega Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Soldier Hero ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Sam, SPD Omega Ranger.png"
+			}
+		},
+		{
+			"name": "Tori's Tidal Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Tori's Tidal Wave.png"
+			}
+		},
+		{
+			"name": "Spikeball",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Alien Insect Villain Minion ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Spikeball.png"
+			}
+		},
+		{
+			"name": "Hero's Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Hero's Spirit.png"
+			}
+		},
+		{
+			"name": "Zedd's Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Zedd's Lightning Strike.png"
+			}
+		},
+		{
+			"name": "Rinshi Shadow Guard",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit Monk Soldier Villain ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Rinshi Shadow Guard.png"
+			}
+		},
+		{
+			"name": "Octoroo, Xandred's Apothecary",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Demon Octopus Villain ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/PWR-files/PWR-files/Octoroo, Xandred's Apothecary.png"
 			}
 		},
 		]
@@ -3665,6 +4175,16 @@
 		2 Zords on Repair
 		2 Wild Weeder
 		2 Ryan, Raised by Demons
+		2 Armorized Biofield
+		2 Clone Ranger
+		2 Destruction of the Org Heart
+		2 Heroic Sacrifice
+		2 End of the Power Rangers
+		2 Venjix's Drone Factory
+		2 Mack's Manipulation
+		2 Lightspeed Training
+		2 Auxillary Wildzord
+		2 Mavro's Royal Guard
 		1 Master Morpher
 		1 Quantasaurus Rex
 		1 Zordon of Eltar
@@ -3689,6 +4209,7 @@
 		1 Kat Manx, Delta Designer
 		1 Princess Shayla, Animarium's Caretaker
 		1 United Alliance of Evil
+		1 Octoroo, Xandred's Apothecary
 		[UncommonSlot(3)]
 	9 Tenga Warrior
 		9 TJ, Courageous Torchbearer
@@ -3796,6 +4317,21 @@
 		9 Papyrox Print
 		9 Guilty Verdict
 		9 Skullgator
+		9 Continue the Fight
+		9 Release of the Galactabeasts
+		9 Feed on Misery
+		9 Sudden Horde
+		9 Weapon Trade
+		9 Venomark's Infection
+		9 Search for Bowen
+		9 Saw Attack Bot
+		9 Minion Reinforcements
+		9 Bulk and Skull, Troublemakers
+		9 Seeing the Past
+		9 Clash of the Red Rangers
+		9 Dark Troll
+		9 Sam, SPD Omega Ranger
+		9 Tori's Tidal Wave
 		[CommonSlot(10)]
 	30 It's Morphin' Time!
 		30 Putty Patroller
@@ -3903,6 +4439,31 @@
 		30 Venjix's Computations
 		30 Udonna's Blizzard Rush
 		30 Quadrafighter
+		30 Escape Through Reflections
+		30 SPD Cadet
+		30 Emergency Event
+		30 Return to Headquarters
+		30 Once a Ranger...
+		30 Nerfarious Knowledge
+		30 Respond to the Attack
+		30 Forced From the Zord
+		30 Interrupted Sequence
+		30 Working Towards Their Downfall
+		30 Debilitate
+		30 Burst of Courage
+		30 Restore Memory
+		30 Menacing Presence
+		30 Opportune Dodge
+		30 Adapt to Circumstance
+		30 Grid Battleforce Recruit
+		30 Rock Troll
+		30 A Ranger's Resolve
+		30 Hydra Worm
+		30 Scorpion Cartel Lookout
+		30 Spikeball
+		30 Hero's Spirit
+		30 Zedd's Lightning Strike
+		30 Rinshi Shadow Guard
 		[WildcardSlot(1)]
 	10 Dragonzord
 	10 Forever Red
@@ -4234,6 +4795,57 @@
 	10 Skullgator
 	10 United Alliance of Evil
 	10 Ryan, Raised by Demons
+	10 Escape Through Reflections
+	10 Armorized Biofield
+	10 Clone Ranger
+	10 Continue the Fight
+	10 Release of the Galactabeasts
+	10 Destruction of the Org Heart
+	10 SPD Cadet
+	10 Emergency Event
+	10 Heroic Sacrifice
+	10 Feed on Misery
+	10 Sudden Horde
+	10 Weapon Trade
+	10 Return to Headquarters
+	10 Once a Ranger...
+	10 End of the Power Rangers
+	10 Nerfarious Knowledge
+	10 Venjix's Drone Factory
+	10 Respond to the Attack
+	10 Forced From the Zord
+	10 Interrupted Sequence
+	10 Working Towards Their Downfall
+	10 Debilitate
+	10 Burst of Courage
+	10 Restore Memory
+	10 Menacing Presence
+	10 Opportune Dodge
+	10 Adapt to Circumstance
+	10 Venomark's Infection
+	10 Grid Battleforce Recruit
+	10 Rock Troll
+	10 Search for Bowen
+	10 Saw Attack Bot
+	10 Minion Reinforcements
+	10 Mack's Manipulation
+	10 Bulk and Skull, Troublemakers
+	10 A Ranger's Resolve
+	10 Hydra Worm
+	10 Lightspeed Training
+	10 Auxillary Wildzord
+	10 Mavro's Royal Guard
+	10 Scorpion Cartel Lookout
+	10 Seeing the Past
+	10 Clash of the Red Rangers
+	10 Dark Troll
+	10 Sam, SPD Omega Ranger
+	10 Tori's Tidal Wave
+	10 Spikeball
+	10 Hero's Spirit
+	10 Zedd's Lightning Strike
+	10 Rinshi Shadow Guard
+	10 Octoroo, Xandred's Apothecary
 	[LandSlot(1)]
 	10 Storm Power Megazord
 		10 Dino Megazord, Tank Mode
