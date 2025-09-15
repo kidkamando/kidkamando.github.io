@@ -7563,7 +7563,7 @@
             "number": 151,
             "color_identity": "R",
             "cost": "{X}{1}{R}",
-            "rules_text": "When Merrick enters, exile the top X cards of your library. You may play those cards for as long as you control this creature.\nWhenever a creature or Zord you control enters, if you paid more mana to cast it than its mana value, _UNFINISHED deals damage to any target equal to the difference.",
+            "rules_text": "When Merrick enters, exile the top X cards of your library. You may play those cards for as long as you control this creature.\nWhenever you cast a spell, if you paid more mana to cast it than its mana value, Merrick deals damage to any target equal to the difference.",
             "flavor_text": "[i]\u201cHowling Wolf!\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
