@@ -1,283 +1,172 @@
 [CustomCards]
-	[
-		{
-			"name": "Hextech Construct",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/9_Hextech Construct.png"
-			}
-		},
-		{
-			"name": "Human Soldier",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Human Soldier",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/1_Human Soldier.png"
-			}
-		},
-		{
-			"name": "Illusion",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Illusion",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/6_Illusion.png"
-			}
-		},
-		{
-			"name": "Junk",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Junk",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/10_Junk.png"
-			}
-		},
-		{
-			"name": "Shade",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Shade",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/4_Shade.png"
-			}
-		},
-		{
-			"name": "Shimmer",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Shimmer",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/11_Shimmer.png"
-			}
-		},
-		{
-			"name": "Spirit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/2_Spirit.png"
-			}
-		},
-		{
-			"name": "Tentacle",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Tentacle",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/7_Tentacle.png"
-			}
-		},
-		{
-			"name": "Treasure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/12_Treasure.png"
-			}
-		},
-		{
-			"name": "Valor, Quinn's Partner",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Legendary Creature — Bird Scout",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/3_Valor, Quinn's Partner.png"
-			}
-		},
-		{
-			"name": "Zombie",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Zombie",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/5_Zombie.png"
-			}
-		},
-		{
+	[	{
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest ",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/302_Forest.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Forest.png"
 			}
 		},
 		{
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island ",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/299_Island.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Island.png"
 			}
 		},
 		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain ",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/301_Mountain.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mountain.png"
 			}
 		},
 		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains ",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/298_Plains.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Plains.png"
 			}
 		},
 		{
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp ",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/300_Swamp.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Swamp.png"
 			}
 		},
 		{
 			"name": "Blessed Hilltop",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
+			"type": "Land â€” Forest Plains ",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/267_Blessed Hilltop.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blessed Hilltop.png"
 			}
 		},
 		{
 			"name": "Blighted Ravine",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
+			"type": "Land â€” Swamp Mountain ",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/268_Blighted Ravine.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blighted Ravine.png"
 			}
 		},
 		{
 			"name": "Buried Armory",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp",
+			"type": "Land â€” Plains Swamp ",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/269_Buried Armory.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Buried Armory.png"
 			}
 		},
 		{
 			"name": "Chamber of Renewal",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Forest Island",
+			"type": "Land â€” Forest Island ",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/270_Chamber of Renewal.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chamber of Renewal.png"
 			}
 		},
 		{
 			"name": "Crest of Insight",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
+			"type": "Land â€” Island Mountain ",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/271_Crest of Insight.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Crest of Insight.png"
 			}
 		},
 		{
 			"name": "Darkin Altar",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest",
+			"type": "Land â€” Swamp Forest ",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/272_Darkin Altar.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darkin Altar.png"
 			}
 		},
 		{
 			"name": "Emperor's Dais",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains",
+			"type": "Land â€” Mountain Plains ",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/273_Emperor's Dais.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Emperor's Dais.png"
 			}
 		},
 		{
 			"name": "Forge of Tomorrow",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
+			"type": "Land â€” Plains Island ",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/274_Forge of Tomorrow.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Forge of Tomorrow.png"
 			}
 		},
 		{
 			"name": "Ixaocan",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
+			"type": "Land â€” Mountain Forest ",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/275_Ixaocan.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ixaocan.png"
 			}
 		},
 		{
 			"name": "Mistfallen Battlefield",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
+			"type": "Land â€” Island Swamp ",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/276_Mistfallen Battlefield.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mistfallen Battlefield.png"
 			}
 		},
 		{
 			"name": "Monastery of Hirana",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains",
+			"type": "Land â€” Mountain Plains ",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/277_Monastery of Hirana.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Monastery of Hirana.png"
 			}
 		},
 		{
 			"name": "Piltover & Zaun",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Swamp Plains",
+			"type": "Land â€” Swamp Plains ",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/278_Piltover & Zaun.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Piltover & Zaun.png"
 			}
 		},
 		{
@@ -287,7 +176,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/279_Preservarium.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Preservarium.png"
 			}
 		},
 		{
@@ -297,27 +186,27 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/280_Reaver's Row.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Reaver's Row.png"
 			}
 		},
 		{
 			"name": "Rockfall Path",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
+			"type": "Land â€” Mountain Forest ",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/282_Rockfall Path.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rockfall Path.png"
 			}
 		},
 		{
 			"name": "Roiling Sands",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
+			"type": "Land â€” Forest Plains ",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/283_Roiling Sands.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Roiling Sands.png"
 			}
 		},
 		{
@@ -327,17 +216,17 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/284_Sandswept Tomb.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sandswept Tomb.png"
 			}
 		},
 		{
 			"name": "Slaughter Docks",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
+			"type": "Land â€” Swamp Mountain ",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/285_Slaughter Docks.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Slaughter Docks.png"
 			}
 		},
 		{
@@ -347,17 +236,17 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/286_Spiral Stairs.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spiral Stairs.png"
 			}
 		},
 		{
 			"name": "Star Spring",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Island",
+			"type": "Land â€” Forest Island ",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/287_Star Spring.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Star Spring.png"
 			}
 		},
 		{
@@ -367,17 +256,17 @@
 			"type": "Land",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/288_Startipped Peak.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Startipped Peak.png"
 			}
 		},
 		{
 			"name": "Stormcarved Spire",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
+			"type": "Land â€” Island Mountain ",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/289_Stormcarved Spire.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Stormcarved Spire.png"
 			}
 		},
 		{
@@ -387,7 +276,7 @@
 			"type": "Land",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/290_Tree of Dreams.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Tree of Dreams.png"
 			}
 		},
 		{
@@ -397,37 +286,37 @@
 			"type": "Land",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/291_Trifarian Training Pits.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trifarian Training Pits.png"
 			}
 		},
 		{
 			"name": "Twisted Treeline",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest",
+			"type": "Land â€” Swamp Forest ",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/292_Twisted Treeline.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twisted Treeline.png"
 			}
 		},
 		{
 			"name": "University of Piltover",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
+			"type": "Land â€” Plains Island ",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/293_University of Piltover.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/University of Piltover.png"
 			}
 		},
 		{
 			"name": "Vault of Helia",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
+			"type": "Land â€” Island Swamp ",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/294_Vault of Helia.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Vault of Helia.png"
 			}
 		},
 		{
@@ -437,7 +326,7 @@
 			"type": "Land",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/295_Veiled Temple.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veiled Temple.png"
 			}
 		},
 		{
@@ -447,7 +336,7 @@
 			"type": "Land",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/296_Warlord's Palace.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Warlord's Palace.png"
 			}
 		},
 		{
@@ -457,77 +346,77 @@
 			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/297_Windswept Hillock.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Windswept Hillock.png"
 			}
 		},
 		{
 			"name": "Quinn, Winged Justice",
 			"rarity": "rare",
-			"mana_cost": "{2}{WU}",
-			"type": "Legendary Creature — Human Ranger Knight",
+			"mana_cost": "{2}{W/U}",
+			"type": "Legendary Creature â€” Human Ranger Knight ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/247_Quinn, Winged Justice.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Quinn, Winged Justice.png"
 			}
 		},
 		{
 			"name": "Ambessa, Matriarch of War",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Human Soldier",
+			"type": "Legendary Creature â€” Human Soldier ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/155_Ambessa, Matriarch of War.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ambessa, Matriarch of War.png"
 			}
 		},
 		{
 			"name": "Basilisk Bloodseeker",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Human Lizard Soldier",
+			"type": "Creature â€” Human Lizard Soldier ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/60_Basilisk Bloodseeker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Basilisk Bloodseeker.png"
 			}
 		},
 		{
 			"name": "Basilisk Rider",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Lizard Soldier",
-			"collector_number": "95",
+			"type": "Creature â€” Human Lizard Soldier ",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/95_Basilisk Rider.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Basilisk Rider.png"
 			}
 		},
 		{
-			"name": "Bear Stance — Berserking Strikes",
+			"name": "Bear Stance â€” Berserking Strikes",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/159_Bear Stance — Berserking Strikes.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bear Stance â€” Berserking Strikes.png"
 			}
 		},
 		{
 			"name": "Bloodthirsty Marauder",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Crocodile Warrior",
-			"collector_number": "96",
+			"type": "Creature â€” Human Crocodile Warrior ",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/96_Bloodthirsty Marauder.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bloodthirsty Marauder.png"
 			}
 		},
 		{
 			"name": "Boxtopus",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Octopus",
+			"type": "Creature â€” Octopus ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/36_Boxtopus.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Boxtopus.png"
 			}
 		},
 		{
@@ -535,129 +424,119 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/99_Corrosive Charge.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Corrosive Charge.png"
 			}
 		},
 		{
 			"name": "Darius, Hand of Noxus",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
-			"type": "Legendary Creature — Human Knight",
+			"type": "Legendary Creature â€” Human Knight ",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/169_Darius, Hand of Noxus.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darius, Hand of Noxus.png"
 			}
 		},
 		{
 			"name": "Draven, Glorious Executioner",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Human Warrior Performer",
-			"collector_number": "101",
+			"type": "Legendary Creature â€” Human Warrior Performer ",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/101_Draven, Glorious Executioner.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Draven, Glorious Executioner.png"
 			}
 		},
 		{
 			"name": "Fangs of the Stars",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Elemental Cat",
+			"type": "Creature â€” Elemental Cat ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/136_Fangs of the Stars.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Fangs of the Stars.png"
 			}
 		},
 		{
 			"name": "House Spider",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider ",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/76_House Spider.png"
-			}
-		},
-		{
-			"name": "Lacerate",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/1_Lacerate.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/House Spider.png"
 			}
 		},
 		{
 			"name": "Naafiri, Hound of a Hundred Bites",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
-			"type": "Legendary Creature — Darkin Dog",
+			"type": "Legendary Creature â€” Darkin Dog ",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/202_Naafiri, Hound of a Hundred Bites.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Naafiri, Hound of a Hundred Bites.png"
 			}
 		},
 		{
 			"name": "Noxian Battleaxe",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/256_Noxian Battleaxe.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Noxian Battleaxe.png"
 			}
 		},
 		{
 			"name": "Pakaa Protector",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/143_Pakaa Protector.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pakaa Protector.png"
 			}
 		},
 		{
 			"name": "Ravenous Butcher",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Beast Spirit",
+			"type": "Creature â€” Beast Spirit ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/80_Ravenous Butcher.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ravenous Butcher.png"
 			}
 		},
 		{
 			"name": "Scuttle Crab",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Crab",
+			"type": "Creature â€” Crab ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/52_Scuttle Crab.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scuttle Crab.png"
 			}
 		},
 		{
 			"name": "Shrieking Spinner",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider ",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/85_Shrieking Spinner.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Shrieking Spinner.png"
 			}
 		},
 		{
 			"name": "Snowy Razorclaw",
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Bird Beast",
+			"type": "Creature â€” Bird Beast ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/148_Snowy Razorclaw.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Snowy Razorclaw.png"
 			}
 		},
 		{
@@ -667,147 +546,147 @@
 			"type": "Instant",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/114_Spinning Spectacle.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spinning Spectacle.png"
 			}
 		},
 		{
 			"name": "Strength of the Storm God",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/150_Strength of the Storm God.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Strength of the Storm God.png"
 			}
 		},
 		{
 			"name": "Talon, Blade's Shadow",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}{R}",
-			"type": "Legendary Creature — Human Assassin",
+			"type": "Legendary Creature â€” Human Assassin ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/228_Talon, Blade's Shadow.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Talon, Blade's Shadow.png"
 			}
 		},
 		{
 			"name": "Teemo, Bandle Scout",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
-			"type": "Legendary Creature — Yordle Druid",
+			"type": "Legendary Creature â€” Yordle Druid ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/229_Teemo, Bandle Scout.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Teemo, Bandle Scout.png"
 			}
 		},
 		{
-			"name": "Thorn of the Black Rose",
+			"name": "Agent of the Black Rose",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Minotaur",
-			"collector_number": "117",
+			"type": "Creature â€” Minotaur ",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/117_Thorn of the Black Rose.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Agent of the Black Rose.png"
 			}
 		},
 		{
 			"name": "Tibbers, Mayhem's Guardian",
 			"rarity": "rare",
-			"mana_cost": "{4}{BR}{BR}",
-			"type": "Legendary Creature — Demon Bear Toy",
+			"mana_cost": "{4}{B/R}{B/R}",
+			"type": "Legendary Creature â€” Demon Bear Toy ",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/248_Tibbers, Mayhem's Guardian.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Tibbers, Mayhem's Guardian.png"
 			}
 		},
 		{
 			"name": "Twitch, Plague Rat",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Rat",
+			"type": "Legendary Creature â€” Rat Rogue ",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/89_Twitch, Plague Rat.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twitch, Plague Rat.png"
 			}
 		},
 		{
 			"name": "Unrivaled Contender",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/233_Unrivaled Contender.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Unrivaled Contender.png"
 			}
 		},
 		{
 			"name": "Volibear, the Relentless Storm",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{G}",
-			"type": "Legendary Creature — Elemental Bear God",
+			"type": "Legendary Creature â€” Elemental Bear God ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/238_Volibear, the Relentless Storm.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Volibear, the Relentless Storm.png"
 			}
 		},
 		{
 			"name": "Warwick, Uncaged Wrath of Zaun",
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}{G}",
-			"type": "Legendary Creature — Werewolf",
+			"type": "Legendary Creature â€” Werewolf ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/239_Warwick, Uncaged Wrath of Zaun.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Warwick, Uncaged Wrath of Zaun.png"
 			}
 		},
 		{
 			"name": "Chembaron Mastermind",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Citizen",
+			"type": "Creature â€” Human Citizen ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/39_Chembaron Mastermind.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chembaron Mastermind.png"
 			}
 		},
 		{
 			"name": "Chirean Sumpworker",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Bat Peasant",
-			"collector_number": "98",
+			"type": "Creature â€” Bat Peasant ",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/98_Chirean Sumpworker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chirean Sumpworker.png"
 			}
 		},
 		{
 			"name": "Chump Whump",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Yordle",
+			"type": "Creature â€” Yordle ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/63_Chump Whump.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chump Whump.png"
 			}
 		},
 		{
 			"name": "Renata Glasc, Chem-Baroness",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Citizen",
+			"type": "Legendary Creature â€” Human Citizen ",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/210_Renata Glasc, Chem-Baroness.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Renata Glasc, Chem-Baroness.png"
 			}
 		},
 		{
 			"name": "Urgot, Vindictive Dreadnought",
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}",
-			"type": "Legendary Artifact Creature — Human Outlaw",
+			"type": "Legendary Artifact Creature â€” Human Outlaw ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/234_Urgot, Vindictive Dreadnought.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Urgot, Vindictive Dreadnought.png"
 			}
 		},
 		{
@@ -817,17 +696,17 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/62_Blood Hunt.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blood Hunt.png"
 			}
 		},
 		{
 			"name": "Annie, Tybaulk's Chosen",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "92",
+			"type": "Legendary Creature â€” Human Warlock ",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/92_Annie, Tybaulk's Chosen.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Annie, Tybaulk's Chosen.png"
 			}
 		},
 		{
@@ -837,7 +716,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/83_Rite of Diminance.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rite of Diminance.png"
 			}
 		},
 		{
@@ -845,19 +724,19 @@
 			"rarity": "common",
 			"mana_cost": "{X}{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/107_Inspired by the Crowd.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Inspired by the Crowd.png"
 			}
 		},
 		{
 			"name": "Aurelion Sol, Star Forger",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Elder Dragon God",
+			"type": "Legendary Creature â€” Elder Dragon God ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/158_Aurelion Sol, Star Forger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aurelion Sol, Star Forger.png"
 			}
 		},
 		{
@@ -867,177 +746,177 @@
 			"type": "Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/281_Ripper's Bay.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ripper's Bay.png"
 			}
 		},
 		{
 			"name": "Solari Stellacorn",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Elemental Pegasus Unicorn",
+			"type": "Creature â€” Elemental Pegasus Unicorn ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/25_Solari Stellacorn.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Solari Stellacorn.png"
 			}
 		},
 		{
 			"name": "Cosmic Youngling",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Elemental Pegasus Unicorn",
+			"type": "Creature â€” Elemental Pegasus Unicorn ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/40_Cosmic Youngling.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cosmic Youngling.png"
 			}
 		},
 		{
 			"name": "Winding Light",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Elemental Beast",
+			"type": "Creature â€” Elemental Beast ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/59_Winding Light.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Winding Light.png"
 			}
 		},
 		{
 			"name": "Stonebreaker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Elemental Beast",
+			"type": "Creature â€” Elemental Beast ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/116_Stonebreaker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Stonebreaker.png"
 			}
 		},
 		{
 			"name": "Chip, Little Pebble",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature — Elemental",
+			"type": "Legendary Creature â€” Elemental ",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/130_Chip, Little Pebble.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chip, Little Pebble.png"
 			}
 		},
 		{
 			"name": "Cliff Elemental",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/132_Cliff Elemental.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cliff Elemental.png"
 			}
 		},
 		{
 			"name": "Herald of Spring",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elemental Elk",
+			"type": "Creature â€” Elemental Elk ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/139_Herald of Spring.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Herald of Spring.png"
 			}
 		},
 		{
 			"name": "Xer'sai Dunebreaker",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Insect Horror",
+			"type": "Creature â€” Insect Horror ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/152_Xer'sai Dunebreaker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Xer'sai Dunebreaker.png"
 			}
 		},
 		{
 			"name": "Taliyah, Stoneweaver",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}{R}",
-			"type": "Legendary Creature — Human Ranger",
+			"type": "Legendary Creature â€” Human Ranger ",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/227_Taliyah, Stoneweaver.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Taliyah, Stoneweaver.png"
 			}
 		},
 		{
 			"name": "Friendly Messenger",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Elemental Dog",
+			"type": "Creature â€” Elemental Dog ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/10_Friendly Messenger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Friendly Messenger.png"
 			}
 		},
 		{
 			"name": "Starry Scamp",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/55_Starry Scamp.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Starry Scamp.png"
 			}
 		},
 		{
 			"name": "Giddy Sparkleologist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/137_Giddy Sparkleologist.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Giddy Sparkleologist.png"
 			}
 		},
 		{
 			"name": "Malphite, Shard of the Monolith",
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
-			"type": "Legendary Creature — Elemental",
+			"type": "Legendary Creature â€” Elemental ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/140_Malphite, Shard of the Monolith.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Malphite, Shard of the Monolith.png"
 			}
 		},
 		{
 			"name": "Golden Sister",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Elemental Shaman",
+			"type": "Creature â€” Elemental Shaman ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/13_Golden Sister.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Golden Sister.png"
 			}
 		},
 		{
 			"name": "Silver Sister",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Elemental Shaman",
+			"type": "Creature â€” Elemental Shaman ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/53_Silver Sister.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Silver Sister.png"
 			}
 		},
 		{
 			"name": "Oath of the Battlesister",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/17_Oath of the Battlesister.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Oath of the Battlesister.png"
 			}
 		},
 		{
 			"name": "Marai Songstress",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Merfolk Bard",
+			"type": "Creature â€” Merfolk Bard ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/141_Marai Songstress.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Marai Songstress.png"
 			}
 		},
 		{
@@ -1047,67 +926,67 @@
 			"type": "Artifact",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/257_Obelisk of Power.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Obelisk of Power.png"
 			}
 		},
 		{
 			"name": "Jax, Grandmaster at Arms",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Icathian Warrior",
+			"type": "Legendary Creature â€” Icathian Warrior ",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/184_Jax, Grandmaster at Arms.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Jax, Grandmaster at Arms.png"
 			}
 		},
 		{
 			"name": "The Light of Icathia",
 			"rarity": "rare",
 			"mana_cost": "{1}",
-			"type": "Legendary Artifact — Equipment",
+			"type": "Legendary Artifact â€” Equipment ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/255_The Light of Icathia.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/The Light of Icathia.png"
 			}
 		},
 		{
 			"name": "Blue Sentinel",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Golem",
+			"type": "Creature â€” Golem ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/160_Blue Sentinel.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blue Sentinel.png"
 			}
 		},
 		{
 			"name": "Horrific Scavenger",
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Creature — Crab Horror",
+			"type": "Creature â€” Crab Horror ",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/75_Horrific Scavenger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Horrific Scavenger.png"
 			}
 		},
 		{
 			"name": "Lunari Shadestalker",
 			"rarity": "mythic",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Assassin",
+			"type": "Creature â€” Human Assassin ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/47_Lunari Shadestalker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lunari Shadestalker.png"
 			}
 		},
 		{
 			"name": "Morgana, Fallen Deliberate",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Angel Human Shaman",
+			"type": "Legendary Creature â€” Angel Human Shaman ",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/201_Morgana, Fallen Deliberate.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Morgana, Fallen Deliberate.png"
 			}
 		},
 		{
@@ -1117,7 +996,7 @@
 			"type": "Enchantment",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/61_Black Mist.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Black Mist.png"
 			}
 		},
 		{
@@ -1127,7 +1006,7 @@
 			"type": "Instant",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/165_Chains of Corruption.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chains of Corruption.png"
 			}
 		},
 		{
@@ -1137,7 +1016,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/2_Black Shield.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Black Shield.png"
 			}
 		},
 		{
@@ -1147,27 +1026,27 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/67_Dark Binding.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Dark Binding.png"
 			}
 		},
 		{
 			"name": "Caitlyn, Sheriff of Piltover",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Human Detective",
+			"type": "Legendary Creature â€” Human Detective ",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/162_Caitlyn, Sheriff of Piltover.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Caitlyn, Sheriff of Piltover.png"
 			}
 		},
 		{
 			"name": "Vi, Piltover Enforcer",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Human Warrior",
+			"type": "Legendary Creature â€” Human Warrior ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/237_Vi, Piltover Enforcer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Vi, Piltover Enforcer.png"
 			}
 		},
 		{
@@ -1175,9 +1054,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/111_Noxian Tactics.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Noxian Tactics.png"
 			}
 		},
 		{
@@ -1185,9 +1064,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/108_Love Tap.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Love Tap.png"
 			}
 		},
 		{
@@ -1197,27 +1076,27 @@
 			"type": "Artifact",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/251_Carvings of Divination.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Carvings of Divination.png"
 			}
 		},
 		{
 			"name": "Yuumi, Feline Friend",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Enchantment Creature — Cat",
+			"type": "Legendary Enchantment Creature â€” Cat ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/242_Yuumi, Feline Friend.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Yuumi, Feline Friend.png"
 			}
 		},
 		{
-			"name": "Strength in Numbers",
+			"name": "Strength of Company",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/27_Strength in Numbers.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Strength of Company.png"
 			}
 		},
 		{
@@ -1227,17 +1106,17 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/34_Blooming Bud.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blooming Bud.png"
 			}
 		},
 		{
 			"name": "Blooming Petal Pixie",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Faerie",
+			"type": "Creature â€” Faerie ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/35_Blooming Petal Pixie.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blooming Petal Pixie.png"
 			}
 		},
 		{
@@ -1247,47 +1126,47 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/134_Dream-Laden Bough.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Dream-Laden Bough.png"
 			}
 		},
 		{
 			"name": "Lillia, Bashful Bloom",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Creature — Faerie Druid",
+			"type": "Legendary Creature â€” Faerie Druid ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/191_Lillia, Bashful Bloom.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lillia, Bashful Bloom.png"
 			}
 		},
 		{
 			"name": "Lulu, Fae Sorceress",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Yordle Wizard",
+			"type": "Legendary Creature â€” Yordle Wizard ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/194_Lulu, Fae Sorceress.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lulu, Fae Sorceress.png"
 			}
 		},
 		{
 			"name": "Funsmith",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "105",
+			"type": "Creature â€” Human Artificer ",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/105_Funsmith.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Funsmith.png"
 			}
 		},
 		{
 			"name": "Beguiling Cobra",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Snake",
+			"type": "Creature â€” Snake ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/123_Beguiling Cobra.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Beguiling Cobra.png"
 			}
 		},
 		{
@@ -1297,17 +1176,17 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/125_Brave the Freljord.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brave the Freljord.png"
 			}
 		},
 		{
 			"name": "Grizzled Ranger",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Yordle Ranger",
+			"type": "Creature â€” Yordle Ranger ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/138_Grizzled Ranger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Grizzled Ranger.png"
 			}
 		},
 		{
@@ -1317,37 +1196,37 @@
 			"type": "Sorcery",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/41_Crystal Arrow.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Crystal Arrow.png"
 			}
 		},
 		{
 			"name": "Ashe, Warmother of the Avarosa",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
-			"type": "Legendary Creature — Human Ranger",
+			"type": "Legendary Creature â€” Human Ranger ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/157_Ashe, Warmother of the Avarosa.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ashe, Warmother of the Avarosa.png"
 			}
 		},
 		{
 			"name": "Lissandra, Lady of Ice and Darkness",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
-			"type": "Legendary Creature — Human Warlock",
+			"type": "Legendary Creature â€” Human Warlock ",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/192_Lissandra, Lady of Ice and Darkness.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lissandra, Lady of Ice and Darkness.png"
 			}
 		},
 		{
 			"name": "Sejuani, Fury of the North",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Legendary Creature — Human Boar Warrior",
+			"type": "Legendary Creature â€” Human Boar Warrior ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/216_Sejuani, Fury of the North.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sejuani, Fury of the North.png"
 			}
 		},
 		{
@@ -1357,7 +1236,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/38_Caught in the Cold.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Caught in the Cold.png"
 			}
 		},
 		{
@@ -1367,17 +1246,17 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/86_Succumb to the Iceborn.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Succumb to the Iceborn.png"
 			}
 		},
 		{
 			"name": "Rimefang Denmother",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Wolf",
+			"type": "Creature â€” Wolf ",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/212_Rimefang Denmother.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rimefang Denmother.png"
 			}
 		},
 		{
@@ -1387,7 +1266,7 @@
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/178_Ground Slam.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ground Slam.png"
 			}
 		},
 		{
@@ -1397,7 +1276,7 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/146_Rockslide.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rockslide.png"
 			}
 		},
 		{
@@ -1407,7 +1286,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/131_Clash of Giants.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Clash of Giants.png"
 			}
 		},
 		{
@@ -1417,27 +1296,27 @@
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/128_Brutal Skirmish.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brutal Skirmish.png"
 			}
 		},
 		{
 			"name": "Kha'Zix, Voidreaver",
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
-			"type": "Legendary Creature — Horror Insect",
+			"type": "Legendary Creature â€” Horror Insect ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/188_Kha'Zix, Voidreaver.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Kha'Zix, Voidreaver.png"
 			}
 		},
 		{
 			"name": "Rengar, Unseen Predator",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Creature — Vastayan Ranger",
+			"type": "Legendary Creature â€” Vastayan Ranger ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/211_Rengar, Unseen Predator.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rengar, Unseen Predator.png"
 			}
 		},
 		{
@@ -1447,17 +1326,17 @@
 			"type": "Enchantment",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/21_Ritual of the Black Flame.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ritual of the Black Flame.png"
 			}
 		},
 		{
 			"name": "Heimerdinger, Revered Inventor",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Yordle Artificer",
+			"type": "Legendary Creature â€” Yordle Artificer ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/44_Heimerdinger, Revered Inventor.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Heimerdinger, Revered Inventor.png"
 			}
 		},
 		{
@@ -1467,7 +1346,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/58_Whispered Words.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Whispered Words.png"
 			}
 		},
 		{
@@ -1475,29 +1354,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/119_Voidling Adaptation.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Voidling Adaptation.png"
 			}
 		},
 		{
 			"name": "Mordekaiser, Iron Revenant",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{W}{B}",
-			"type": "Legendary Creature — Spirit Knight",
+			"type": "Legendary Creature â€” Spirit Knight ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/200_Mordekaiser, Iron Revenant.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mordekaiser, Iron Revenant.png"
 			}
 		},
 		{
 			"name": "Ekko, the Boy Who Shattered Time",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Human Artificer",
+			"type": "Legendary Creature â€” Human Artificer ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/170_Ekko, the Boy Who Shattered Time.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ekko, the Boy Who Shattered Time.png"
 			}
 		},
 		{
@@ -1507,17 +1386,17 @@
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/37_Called Shot.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Called Shot.png"
 			}
 		},
 		{
 			"name": "Smooth Soloist",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Vastayan Bard",
+			"type": "Creature â€” Vastayan Bard ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/54_Smooth Soloist.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Smooth Soloist.png"
 			}
 		},
 		{
@@ -1527,17 +1406,17 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/56_Sunk Cost.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sunk Cost.png"
 			}
 		},
 		{
 			"name": "Enveloping Shadowblade",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Shade Cleric Assassin",
+			"type": "Creature â€” Shade Cleric Assassin ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/69_Enveloping Shadowblade.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Enveloping Shadowblade.png"
 			}
 		},
 		{
@@ -1547,27 +1426,27 @@
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/74_Haunted Relic.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Haunted Relic.png"
 			}
 		},
 		{
 			"name": "Zed, Master of Shadows",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Creature — Human Ninja",
+			"type": "Legendary Creature â€” Human Ninja ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/243_Zed, Master of Shadows.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Zed, Master of Shadows.png"
 			}
 		},
 		{
 			"name": "Wharf Rat",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Shark Rat",
-			"collector_number": "120",
+			"type": "Creature â€” Shark Rat ",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/120_Wharf Rat.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Wharf Rat.png"
 			}
 		},
 		{
@@ -1577,7 +1456,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/115_Staggering Strikes.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Staggering Strikes.png"
 			}
 		},
 		{
@@ -1585,29 +1464,29 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/112_Salvaged Scrap.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Salvaged Scrap.png"
 			}
 		},
 		{
 			"name": "Towering Pairophant",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Elephant",
+			"type": "Creature â€” Elephant ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/151_Towering Pairophant.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Towering Pairophant.png"
 			}
 		},
 		{
 			"name": "Chimeslime",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Artifact Creature — Zombie Ooze",
+			"type": "Artifact Creature â€” Zombie Ooze ",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/166_Chimeslime.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chimeslime.png"
 			}
 		},
 		{
@@ -1617,47 +1496,47 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/51_Rapid Deluge.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rapid Deluge.png"
 			}
 		},
 		{
 			"name": "Whiteflame Protector",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Elemental Dragon",
+			"type": "Creature â€” Elemental Dragon ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/30_Whiteflame Protector.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Whiteflame Protector.png"
 			}
 		},
 		{
 			"name": "Jinx, Loose Cannon",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature — Human Artificer",
+			"type": "Legendary Creature â€” Human Artificer ",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/186_Jinx, Loose Cannon.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Jinx, Loose Cannon.png"
 			}
 		},
 		{
 			"name": "Skarner, Primordial Sovereign",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Legendary Creature — Scorpion Noble",
+			"type": "Legendary Creature â€” Scorpion Noble ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/221_Skarner, Primordial Sovereign.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Skarner, Primordial Sovereign.png"
 			}
 		},
 		{
 			"name": "Shaco, Malicious Marionette",
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Legendary Artifact Creature — Demon Clown Toy",
+			"type": "Legendary Artifact Creature â€” Demon Clown Toy ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/217_Shaco, Malicious Marionette.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Shaco, Malicious Marionette.png"
 			}
 		},
 		{
@@ -1667,127 +1546,127 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/203_Opportune Hijacking.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Opportune Hijacking.png"
 			}
 		},
 		{
 			"name": "Galio, Petricite Colossus",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Artifact Creature — Golem Warrior",
+			"type": "Legendary Artifact Creature â€” Golem Warrior ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/11_Galio, Petricite Colossus.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Galio, Petricite Colossus.png"
 			}
 		},
 		{
 			"name": "Petricite Broadwing",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Bird Golem",
+			"type": "Artifact Creature â€” Bird Golem ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/259_Petricite Broadwing.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Petricite Broadwing.png"
 			}
 		},
 		{
 			"name": "Citybreaker",
 			"rarity": "rare",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Vehicle",
+			"type": "Artifact Creature â€” Vehicle ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/252_Citybreaker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Citybreaker.png"
 			}
 		},
 		{
 			"name": "Poppy, Keeper of the Hammer",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Yordle Knight",
+			"type": "Legendary Creature â€” Yordle Knight ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/205_Poppy, Keeper of the Hammer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Poppy, Keeper of the Hammer.png"
 			}
 		},
 		{
 			"name": "Hammer of Orlon",
 			"rarity": "mythic",
 			"mana_cost": "{1}",
-			"type": "Legendary Artifact — Equipment",
+			"type": "Legendary Artifact â€” Equipment ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/254_Hammer of Orlon.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hammer of Orlon.png"
 			}
 		},
 		{
 			"name": "Rell, Iron Maiden",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Human Knight",
+			"type": "Legendary Creature â€” Human Knight ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/209_Rell, Iron Maiden.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rell, Iron Maiden.png"
 			}
 		},
 		{
 			"name": "Sivir, Battle Mistress",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Human Warrior",
+			"type": "Legendary Creature â€” Human Warrior ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/220_Sivir, Battle Mistress.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sivir, Battle Mistress.png"
 			}
 		},
 		{
 			"name": "Soraka, the Starchild",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Druid Avatar",
+			"type": "Legendary Creature â€” Druid Avatar  ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/222_Soraka, the Starchild.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Soraka, the Starchild.png"
 			}
 		},
 		{
 			"name": "Soul Shackles",
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/223_Soul Shackles.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Soul Shackles.png"
 			}
 		},
 		{
 			"name": "Spiritual Rootling",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Treefolk",
+			"type": "Creature â€” Treefolk ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/224_Spiritual Rootling.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spiritual Rootling.png"
 			}
 		},
 		{
 			"name": "Tristana, Yordle Gunner",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Yordle Soldier",
+			"type": "Legendary Creature â€” Yordle Soldier ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/230_Tristana, Yordle Gunner.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Tristana, Yordle Gunner.png"
 			}
 		},
 		{
 			"name": "Soul Sword",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/264_Soul Sword.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Soul Sword.png"
 			}
 		},
 		{
@@ -1797,27 +1676,27 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/82_Ring of Frost.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ring of Frost.png"
 			}
 		},
 		{
 			"name": "Thresh, Chain Warden",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Creature — Zombie Cleric",
+			"type": "Legendary Creature â€” Zombie Cleric ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/87_Thresh, Chain Warden.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Thresh, Chain Warden.png"
 			}
 		},
 		{
 			"name": "Wraith of Echoes",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Spirit Warlock",
+			"type": "Creature â€” Spirit Warlock ",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/90_Wraith of Echoes.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Wraith of Echoes.png"
 			}
 		},
 		{
@@ -1827,17 +1706,17 @@
 			"type": "Enchantment",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/65_Crimson Pact.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Crimson Pact.png"
 			}
 		},
 		{
 			"name": "Curse of the Sad Mummy",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Enchantment — Aura Curse",
+			"type": "Enchantment â€” Aura Curse ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/66_Curse of the Sad Mummy.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Curse of the Sad Mummy.png"
 			}
 		},
 		{
@@ -1847,7 +1726,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/70_Evelyn's Last Caress.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Evelyn's Last Caress.png"
 			}
 		},
 		{
@@ -1857,57 +1736,57 @@
 			"type": "Instant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/78_Lamb's Respite.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lamb's Respite.png"
 			}
 		},
 		{
 			"name": "Imperial Demolitionist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/77_Imperial Demolitionist.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Imperial Demolitionist.png"
 			}
 		},
 		{
 			"name": "Frenzied Skitterer",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/73_Frenzied Skitterer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Frenzied Skitterer.png"
 			}
 		},
 		{
 			"name": "Nocturne, Eternal Nightmare",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Demon Nightmare",
+			"type": "Legendary Creature â€” Demon Nightmare ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/79_Nocturne, Eternal Nightmare.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Nocturne, Eternal Nightmare.png"
 			}
 		},
 		{
 			"name": "Fiddlesticks, the Ancient Fear",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Enchantment Creature — Demon",
+			"type": "Legendary Enchantment Creature â€” Demon ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/72_Fiddlesticks, the Ancient Fear.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Fiddlesticks, the Ancient Fear.png"
 			}
 		},
 		{
 			"name": "Desolate Husk",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Minion",
+			"type": "Creature â€” Human Minion ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/8_Desolate Husk.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Desolate Husk.png"
 			}
 		},
 		{
@@ -1917,37 +1796,37 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/6_Concerted Strike.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Concerted Strike.png"
 			}
 		},
 		{
 			"name": "Smooth Mixologist",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Vastayan Citizen",
+			"type": "Creature â€” Vastayan Citizen ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/24_Smooth Mixologist.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Smooth Mixologist.png"
 			}
 		},
 		{
 			"name": "Leona, Radiant Dawn",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Legendary Creature — Avatar Knight",
+			"type": "Legendary Creature â€” Avatar Knight ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/15_Leona, Radiant Dawn.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Leona, Radiant Dawn.png"
 			}
 		},
 		{
 			"name": "Garen, the Might of Demacia",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Creature — Human Knight",
+			"type": "Legendary Creature â€” Human Knight ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/12_Garen, the Might of Demacia.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Garen, the Might of Demacia.png"
 			}
 		},
 		{
@@ -1957,47 +1836,47 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/3_Blessing of Durand.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blessing of Durand.png"
 			}
 		},
 		{
 			"name": "Veteran Investigator",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Yordle Detective",
+			"type": "Creature â€” Yordle Detective ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/29_Veteran Investigator.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veteran Investigator.png"
 			}
 		},
 		{
 			"name": "Brightsteel Protector",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/4_Brightsteel Protector.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brightsteel Protector.png"
 			}
 		},
 		{
 			"name": "Seed of Strength",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/147_Seed of Strength.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Seed of Strength.png"
 			}
 		},
 		{
 			"name": "Arena Battlecaster",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Performer",
-			"collector_number": "93",
+			"type": "Creature â€” Human Performer ",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/93_Arena Battlecaster.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Arena Battlecaster.png"
 			}
 		},
 		{
@@ -2005,19 +1884,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/118_Vault Breaker.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Vault Breaker.png"
 			}
 		},
 		{
 			"name": "Ziggs, Hexplosives Expert",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Yordle Artificer",
+			"type": "Legendary Creature â€” Yordle Artificer ",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/121_Ziggs, Hexplosives Expert.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ziggs, Hexplosives Expert.png"
 			}
 		},
 		{
@@ -2027,7 +1906,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/43_Denial of Shadow.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Denial of Shadow.png"
 			}
 		},
 		{
@@ -2035,9 +1914,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/102_Encore.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Encore.png"
 			}
 		},
 		{
@@ -2045,29 +1924,29 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/110_Mystic Shot.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mystic Shot.png"
 			}
 		},
 		{
 			"name": "Brand, Burning Vengeance",
 			"rarity": "mythic",
 			"mana_cost": "{R}{R}{R}",
-			"type": "Legendary Creature — Elemental",
-			"collector_number": "97",
+			"type": "Legendary Creature â€” Elemental ",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/97_Brand, Burning Vengeance.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brand, Burning Vengeance.png"
 			}
 		},
 		{
 			"name": "Pakaa Cub",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/142_Pakaa Cub.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pakaa Cub.png"
 			}
 		},
 		{
@@ -2075,9 +1954,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/109_Molten Breath.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Molten Breath.png"
 			}
 		},
 		{
@@ -2087,47 +1966,47 @@
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/14_Heavy Metal.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Heavy Metal.png"
 			}
 		},
 		{
 			"name": "Orianna, Lady of Clockwork",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Construct Performer",
+			"type": "Legendary Creature â€” Construct Performer ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/50_Orianna, Lady of Clockwork.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Orianna, Lady of Clockwork.png"
 			}
 		},
 		{
 			"name": "Incandescence",
 			"rarity": "common",
-			"mana_cost": "{1}{RW}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/246_Incandescence.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Incandescence.png"
 			}
 		},
 		{
 			"name": "Lux, Lady of Luminosity",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{W}",
-			"type": "Legendary Creature — Human Shaman",
+			"type": "Legendary Creature â€” Human Shaman ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/195_Lux, Lady of Luminosity.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lux, Lady of Luminosity.png"
 			}
 		},
 		{
 			"name": "Captive Greyback",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Shark",
+			"type": "Creature â€” Shark ",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/163_Captive Greyback.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Captive Greyback.png"
 			}
 		},
 		{
@@ -2137,7 +2016,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/154_All Out.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/All Out.png"
 			}
 		},
 		{
@@ -2147,84 +2026,84 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/177_Grasp of the Undying.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Grasp of the Undying.png"
 			}
 		},
 		{
 			"name": "Pantheon, Aspect of War",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Soldier Avatar",
+			"type": "Legendary Creature â€” Soldier Avatar  ",
 			"collector_number": "204",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pantheon, Aspect of War_front.png"
+			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/RDV-files/img/204_Pantheon, Aspect of War_back.png"
+					"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pantheon, Aspect of War_back.png"
 				}
-			},
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/204_Pantheon, Aspect of War_front.png"
 			}
 		},
 		{
 			"name": "Mini-Minitee",
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Beast Fish",
+			"type": "Creature â€” Beast Fish ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/199_Mini-Minitee.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mini-Minitee.png"
 			}
 		},
 		{
 			"name": "Twisted Leech",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Leech Horror",
+			"type": "Creature â€” Leech Horror ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/232_Twisted Leech.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twisted Leech.png"
 			}
 		},
 		{
 			"name": "Yasuo, Unforgiven Wanderer",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Human Warrior",
+			"type": "Legendary Creature â€” Human Warrior ",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/240_Yasuo, Unforgiven Wanderer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Yasuo, Unforgiven Wanderer.png"
 			}
 		},
 		{
 			"name": "LeBlanc, Matron of the Black Rose",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Human Wizard",
+			"type": "Legendary Creature â€” Human Wizard ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/190_LeBlanc, Matron of the Black Rose.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/LeBlanc, Matron of the Black Rose.png"
 			}
 		},
 		{
 			"name": "Master Yi, Last of the Wuju",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Creature — Human Monk",
+			"type": "Legendary Creature â€” Human Monk ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/197_Master Yi, Last of the Wuju.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Master Yi, Last of the Wuju.png"
 			}
 		},
 		{
 			"name": "Rock Hopper",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Citizen",
+			"type": "Creature â€” Human Citizen ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/145_Rock Hopper.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rock Hopper.png"
 			}
 		},
 		{
@@ -2234,7 +2113,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/149_Song of the Meeps.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Song of the Meeps.png"
 			}
 		},
 		{
@@ -2244,7 +2123,7 @@
 			"type": "Enchantment",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/91_Acceleration Gate.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Acceleration Gate.png"
 			}
 		},
 		{
@@ -2252,9 +2131,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/100_Divine Judgement.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Divine Judgement.png"
 			}
 		},
 		{
@@ -2264,147 +2143,147 @@
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/135_Falling Comet.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Falling Comet.png"
 			}
 		},
 		{
 			"name": "Neeko, Curious Chameleon",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Creature — Vastayan Shapeshifter",
+			"type": "Legendary Creature â€” Vastayan Shapeshifter ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/49_Neeko, Curious Chameleon.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Neeko, Curious Chameleon.png"
 			}
 		},
 		{
 			"name": "Aphelios, Lunari Intertwined",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Human Cleric",
+			"type": "Legendary Creature â€” Human Cleric ",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/156_Aphelios, Lunari Intertwined.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aphelios, Lunari Intertwined.png"
 			}
 		},
 		{
 			"name": "Karthus, Deathsinger",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
-			"type": "Legendary Creature — Zombie Wizard",
+			"type": "Legendary Creature â€” Zombie Wizard ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/187_Karthus, Deathsinger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Karthus, Deathsinger.png"
 			}
 		},
 		{
 			"name": "Ezreal, Prodigal Explorer",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
-			"type": "Legendary Creature — Human Shaman Ranger",
+			"type": "Legendary Creature â€” Human Shaman Ranger ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/172_Ezreal, Prodigal Explorer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ezreal, Prodigal Explorer.png"
 			}
 		},
 		{
 			"name": "Gangplank, Saltwater Scourge",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
-			"type": "Legendary Creature — Human Pirate",
+			"type": "Legendary Creature â€” Human Pirate ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/175_Gangplank, Saltwater Scourge.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Gangplank, Saltwater Scourge.png"
 			}
 		},
 		{
 			"name": "Briar, Restrained Hunger",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Vampire Berserker",
+			"type": "Legendary Creature â€” Vampire Berserker ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/161_Briar, Restrained Hunger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Briar, Restrained Hunger.png"
 			}
 		},
 		{
 			"name": "Hungry Owlcat",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Bird Cat",
+			"type": "Creature â€” Bird Cat ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/182_Hungry Owlcat.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hungry Owlcat.png"
 			}
 		},
 		{
 			"name": "Ivern, Friend of the Forest",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Treefolk Ally",
+			"type": "Legendary Creature â€” Treefolk Ally ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/183_Ivern, Friend of the Forest.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ivern, Friend of the Forest.png"
 			}
 		},
 		{
 			"name": "K'Sante, Pride of Nazumah",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Legendary Creature — Human Warrior",
+			"type": "Legendary Creature â€” Human Warrior ",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/189_K'Sante, Pride of Nazumah.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/K'Sante, Pride of Nazumah.png"
 			}
 		},
 		{
 			"name": "Jayce, Defender of Tomorrow",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Human Artificer",
+			"type": "Legendary Creature â€” Human Artificer ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/185_Jayce, Defender of Tomorrow.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Jayce, Defender of Tomorrow.png"
 			}
 		},
 		{
-			"name": "Shimmering Mirage",
+			"name": "Whirling Mirage",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/113_Shimmering Mirage.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Whirling Mirage.png"
 			}
 		},
 		{
 			"name": "Bristlehog",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/126_Bristlehog.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bristlehog.png"
 			}
 		},
 		{
 			"name": "Trusty Ramhound",
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Sheep Dog",
+			"type": "Creature â€” Sheep Dog ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/231_Trusty Ramhound.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trusty Ramhound.png"
 			}
 		},
 		{
 			"name": "Midenstokke Henchmen",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/198_Midenstokke Henchmen.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Midenstokke Henchmen.png"
 			}
 		},
 		{
@@ -2412,19 +2291,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/103_Featherstorm.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Featherstorm.png"
 			}
 		},
 		{
 			"name": "Proliferating Darkwraith",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Creature — Wraith",
+			"type": "Creature â€” Wraith ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/208_Proliferating Darkwraith.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Proliferating Darkwraith.png"
 			}
 		},
 		{
@@ -2434,67 +2313,57 @@
 			"type": "Instant",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/213_Rite of Negation.png"
-			}
-		},
-		{
-			"name": "Clue",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Clue",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/8_Clue.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rite of Negation.png"
 			}
 		},
 		{
 			"name": "Flame Chompers",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "104",
+			"type": "Artifact Creature â€” Construct ",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/104_Flame Chompers.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Flame Chompers.png"
 			}
 		},
 		{
 			"name": "Ascended Traveler",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Avatar Ranger",
+			"type": "Creature â€” Avatar Ranger ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/31_Ascended Traveler.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ascended Traveler.png"
 			}
 		},
 		{
 			"name": "Twisted Catalyzer",
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}",
-			"type": "Creature — Yordle Wizard",
+			"type": "Creature â€” Yordle Wizard ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/88_Twisted Catalyzer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twisted Catalyzer.png"
 			}
 		},
 		{
 			"name": "Fear Beyond Death",
 			"rarity": "common",
 			"mana_cost": "{B}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/71_Fear Beyond Death.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Fear Beyond Death.png"
 			}
 		},
 		{
 			"name": "The Cloven Way",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Elemental Sheep",
+			"type": "Creature â€” Elemental Sheep ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/64_The Cloven Way.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/The Cloven Way.png"
 			}
 		},
 		{
@@ -2504,67 +2373,67 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/84_Shaken Ground.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Shaken Ground.png"
 			}
 		},
 		{
 			"name": "Luminosprite",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/46_Luminosprite.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Luminosprite.png"
 			}
 		},
 		{
 			"name": "Aspiring Chronomancer",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/32_Aspiring Chronomancer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aspiring Chronomancer.png"
 			}
 		},
 		{
 			"name": "Curious Aviarist",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Vastayan Druid",
+			"type": "Creature â€” Vastayan Druid ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/42_Curious Aviarist.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Curious Aviarist.png"
 			}
 		},
 		{
 			"name": "Caretaker's Shrine",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/5_Caretaker's Shrine.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Caretaker's Shrine.png"
 			}
 		},
 		{
 			"name": "Solari Sunhawk",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Elemental Bird",
+			"type": "Creature â€” Elemental Bird ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/26_Solari Sunhawk.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Solari Sunhawk.png"
 			}
 		},
 		{
 			"name": "Amateur Aeronaut",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/1_Amateur Aeronaut.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Amateur Aeronaut.png"
 			}
 		},
 		{
@@ -2574,7 +2443,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/22_The Skies Descend.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/The Skies Descend.png"
 			}
 		},
 		{
@@ -2584,7 +2453,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/18_Paddle Star.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Paddle Star.png"
 			}
 		},
 		{
@@ -2594,47 +2463,47 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/23_Sky Charge.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sky Charge.png"
 			}
 		},
 		{
-			"name": "Trail of Evidence",
+			"name": "Trail of Sump",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/28_Trail of Evidence.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trail of Sump.png"
 			}
 		},
 		{
 			"name": "Durand Protege",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/9_Durand Protege.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Durand Protege.png"
 			}
 		},
 		{
 			"name": "Trusty Adnere",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Vastayan Druid",
+			"type": "Creature â€” Vastayan Druid ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/57_Trusty Adnere.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trusty Adnere.png"
 			}
 		},
 		{
 			"name": "Infinite Mindsplitter",
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}{U}",
-			"type": "Creature — Elemental Dragon",
+			"type": "Creature â€” Elemental Dragon ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/45_Infinite Mindsplitter.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Infinite Mindsplitter.png"
 			}
 		},
 		{
@@ -2642,119 +2511,119 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/106_Grand Starfall.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Grand Starfall.png"
 			}
 		},
 		{
 			"name": "Protective Broodfather",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/144_Protective Broodfather.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Protective Broodfather.png"
 			}
 		},
 		{
 			"name": "Birds of Study",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/124_Birds of Study.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Birds of Study.png"
 			}
 		},
 		{
 			"name": "Brush Growth",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/127_Brush Growth.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brush Growth.png"
 			}
 		},
 		{
 			"name": "Aspect of the Warrior",
 			"rarity": "rare",
 			"mana_cost": "{10}{R}{R}",
-			"type": "Creature — Avatar Warrior",
-			"collector_number": "94",
+			"type": "Creature â€” Avatar Warrior ",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/94_Aspect of the Warrior.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aspect of the Warrior.png"
 			}
 		},
 		{
 			"name": "Assembly Bot",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
-			"type": "Artifact Creature — Assembly-Worker Construct",
+			"type": "Artifact Creature â€” Assembly-Worker Construct ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/33_Assembly Bot.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Assembly Bot.png"
 			}
 		},
 		{
 			"name": "Daisy, Green Father's Friend",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Creature — Golem Ally",
+			"type": "Legendary Creature â€” Golem Ally ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/7_Daisy, Green Father's Friend.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Daisy, Green Father's Friend.png"
 			}
 		},
 		{
 			"name": "Cell Division",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/129_Cell Division.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cell Division.png"
 			}
 		},
 		{
 			"name": "Ancient Krug",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/122_Ancient Krug.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ancient Krug.png"
 			}
 		},
 		{
 			"name": "Plaza Guardian",
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/20_Plaza Guardian.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Plaza Guardian.png"
 			}
 		},
 		{
 			"name": "Moondreamer",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/16_Moondreamer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Moondreamer.png"
 			}
 		},
 		{
 			"name": "Mountain Scryer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/48_Mountain Scryer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mountain Scryer.png"
 			}
 		},
 		{
@@ -2764,17 +2633,17 @@
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/81_Rend.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rend.png"
 			}
 		},
 		{
 			"name": "Bitsy Lizard",
 			"rarity": "common",
-			"mana_cost": "{RG}",
-			"type": "Creature — Lizard",
+			"mana_cost": "{R/G}",
+			"type": "Creature â€” Lizard ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/245_Bitsy Lizard.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bitsy Lizard.png"
 			}
 		},
 		{
@@ -2784,37 +2653,37 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/153_Against the Odds.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Against the Odds.png"
 			}
 		},
 		{
 			"name": "Giga Gromp",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Creature — Frog",
+			"type": "Creature â€” Frog ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/176_Giga Gromp.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Giga Gromp.png"
 			}
 		},
 		{
 			"name": "Cull the Meek",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/168_Cull the Meek.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cull the Meek.png"
 			}
 		},
 		{
 			"name": "Spotted Toad",
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
-			"type": "Creature — Frog",
+			"type": "Creature â€” Frog ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/225_Spotted Toad.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spotted Toad.png"
 			}
 		},
 		{
@@ -2824,17 +2693,17 @@
 			"type": "Sorcery",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/206_Primordial Burst.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Primordial Burst.png"
 			}
 		},
 		{
 			"name": "Gust Monk",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Yordle Monk",
+			"type": "Creature â€” Yordle Monk ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/179_Gust Monk.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Gust Monk.png"
 			}
 		},
 		{
@@ -2844,67 +2713,67 @@
 			"type": "Instant",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/226_Statikk Shock.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Statikk Shock.png"
 			}
 		},
 		{
 			"name": "Astute Academic",
 			"rarity": "common",
-			"mana_cost": "{UR}",
-			"type": "Creature — Human Citizen",
+			"mana_cost": "{U/R}",
+			"type": "Creature â€” Human Citizen ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/244_Astute Academic.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Astute Academic.png"
 			}
 		},
 		{
 			"name": "Hoarder's Helper",
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/181_Hoarder's Helper.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hoarder's Helper.png"
 			}
 		},
 		{
 			"name": "Lizard Trainers",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Yordle Druid",
+			"type": "Creature â€” Yordle Druid ",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/193_Lizard Trainers.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lizard Trainers.png"
 			}
 		},
 		{
 			"name": "Scattered Husk",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Yordle Minion",
+			"type": "Creature â€” Yordle Minion ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/215_Scattered Husk.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scattered Husk.png"
 			}
 		},
 		{
 			"name": "Veiled Conjurer",
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/235_Veiled Conjurer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veiled Conjurer.png"
 			}
 		},
 		{
 			"name": "Veiled Scholar",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/236_Veiled Scholar.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veiled Scholar.png"
 			}
 		},
 		{
@@ -2914,67 +2783,67 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/180_Hidden Pathway.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hidden Pathway.png"
 			}
 		},
 		{
 			"name": "Yordle Squire",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Yordle Soldier",
+			"type": "Creature â€” Yordle Soldier ",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/241_Yordle Squire.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Yordle Squire.png"
 			}
 		},
 		{
 			"name": "Silver Bolts",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/219_Silver Bolts.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Silver Bolts.png"
 			}
 		},
 		{
-			"name": "Ferromancy — Crash Down",
+			"name": "Ferromancy â€” Crash Down",
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/173_Ferromancy — Crash Down.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ferromancy â€” Crash Down.png"
 			}
 		},
 		{
 			"name": "Silent Stormcloud",
 			"rarity": "common",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/218_Silent Stormcloud.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Silent Stormcloud.png"
 			}
 		},
 		{
 			"name": "Mageseeker Inquisitor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier ",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/196_Mageseeker Inquisitor.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mageseeker Inquisitor.png"
 			}
 		},
 		{
 			"name": "Ruby-Eyed Conjurer",
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman ",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/214_Ruby-Eyed Conjurer.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ruby-Eyed Conjurer.png"
 			}
 		},
 		{
@@ -2984,17 +2853,17 @@
 			"type": "Enchantment",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/171_Event Horizon.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Event Horizon.png"
 			}
 		},
 		{
 			"name": "Field Promotion",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura ",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/174_Field Promotion.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Field Promotion.png"
 			}
 		},
 		{
@@ -3004,57 +2873,57 @@
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/207_Progress Day Celebration.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Progress Day Celebration.png"
 			}
 		},
 		{
 			"name": "Rocket Blaster",
 			"rarity": "common",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct ",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/261_Rocket Blaster.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rocket Blaster.png"
 			}
 		},
 		{
 			"name": "Scrap Scuttler",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Crab Construct",
+			"type": "Artifact Creature â€” Crab Construct ",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/263_Scrap Scuttler.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scrap Scuttler.png"
 			}
 		},
 		{
 			"name": "Petricite Charger",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Boar Golem",
+			"type": "Artifact Creature â€” Boar Golem ",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/260_Petricite Charger.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Petricite Charger.png"
 			}
 		},
 		{
 			"name": "T-Hex",
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
-			"type": "Artifact Creature — Dinosaur Construct",
+			"type": "Artifact Creature â€” Dinosaur Construct ",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/266_T-Hex.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/T-Hex.png"
 			}
 		},
 		{
 			"name": "Electric Shredder",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/253_Electric Shredder.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Electric Shredder.png"
 			}
 		},
 		{
@@ -3064,17 +2933,17 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/258_Penitentiary Keys.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Penitentiary Keys.png"
 			}
 		},
 		{
 			"name": "Petricite Behemoth",
 			"rarity": "mythic",
 			"mana_cost": "{7}{W}{W}{W}",
-			"type": "Artifact Creature — Beast Golem",
+			"type": "Artifact Creature â€” Beast Golem ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/19_Petricite Behemoth.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Petricite Behemoth.png"
 			}
 		},
 		{
@@ -3084,17 +2953,17 @@
 			"type": "Enchantment",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/164_Cask Depot.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cask Depot.png"
 			}
 		},
 		{
 			"name": "Corki, Daring Bombardier",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature — Yordle Pilot",
+			"type": "Legendary Creature â€” Yordle Pilot ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/167_Corki, Daring Bombardier.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Corki, Daring Bombardier.png"
 			}
 		},
 		{
@@ -3104,663 +2973,669 @@
 			"type": "Artifact",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/249_Ascended's Gemstone.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ascended's Gemstone.png"
 			}
 		},
 		{
 			"name": "Starfire Spellblade",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/265_Starfire Spellblade.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Starfire Spellblade.png"
 			}
 		},
 		{
 			"name": "Carved Bladetwirler",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct Soldier",
+			"type": "Artifact Creature â€” Construct Soldier ",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/250_Carved Bladetwirler.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Carved Bladetwirler.png"
 			}
 		},
 		{
 			"name": "Scout's Bow",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment ",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/262_Scout's Bow.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scout's Bow.png"
 			}
 		},
 		{
 			"name": "Death, Swift Release",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Beast Avatar",
+			"type": "Legendary Creature â€” Beast Avatar ",
 			"collector_number": "133",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Death, Swift Release_front.png"
+			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/RDV-files/img/133_Death, Swift Release_back.png"
+					"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Death, Swift Release_back.png"
 				}
-			},
-			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/133_Death, Swift Release_front.png"
 			}
 		},
 		{
 			"name": "Death, Violent Finality",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Wolf Avatar",
+			"type": "Legendary Creature â€” Wolf Avatar ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RDV-files/img/68_Death, Violent Finality.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Death, Violent Finality.png"
 			}
 		},
-	]
-
-[rare(1)]
-	2 Blessed Hilltop
-	2 Buried Armory
-	2 Crest of Insight
-	2 Darkin Altar
-	2 Emperor's Dais
-	2 Ixaocan
-	2 Slaughter Docks
-	2 Star Spring
-	2 University of Piltover
-	2 Vault of Helia
+		]
+	[RareSlot(1)]
 	2 Quinn, Winged Justice
-	2 Darius, Hand of Noxus
-	2 Draven, Glorious Executioner
-	2 Naafiri, Hound of a Hundred Bites
-	2 Talon, Blade's Shadow
-	2 Teemo, Bandle Scout
-	2 Tibbers, Mayhem's Guardian
-	2 Twitch, Plague Rat
-	2 Volibear, the Relentless Storm
-	1 Warwick, Uncaged Wrath of Zaun
-	2 Renata Glasc, Chem-Baroness
-	1 Urgot, Vindictive Dreadnought
-	1 Aurelion Sol, Star Forger
-	1 Ripper's Bay
-	2 Taliyah, Stoneweaver
-	2 Malphite, Shard of the Monolith
-	2 Jax, Grandmaster at Arms
-	2 The Light of Icathia
-	1 Lunari Shadestalker
-	1 Morgana, Fallen Deliberate
-	2 Black Mist
-	2 Caitlyn, Sheriff of Piltover
-	2 Vi, Piltover Enforcer
-	2 Lillia, Bashful Bloom
-	2 Lulu, Fae Sorceress
-	1 Ashe, Warmother of the Avarosa
-	2 Lissandra, Lady of Ice and Darkness
-	2 Sejuani, Fury of the North
-	1 Kha'Zix, Voidreaver
-	2 Rengar, Unseen Predator
-	2 Heimerdinger, Revered Inventor
-	1 Mordekaiser, Iron Revenant
-	1 Ekko, the Boy Who Shattered Time
-	1 Zed, Master of Shadows
-	1 Jinx, Loose Cannon
-	2 Skarner, Primordial Sovereign
-	1 Shaco, Malicious Marionette
-	2 Opportune Hijacking
-	2 Galio, Petricite Colossus
-	2 Citybreaker
-	2 Poppy, Keeper of the Hammer
-	1 Hammer of Orlon
-	2 Soraka, the Starchild
-	2 Tristana, Yordle Gunner
-	1 Thresh, Chain Warden
-	2 Crimson Pact
-	2 Fiddlesticks, the Ancient Fear
-	2 Leona, Radiant Dawn
-	1 Ziggs, Hexplosives Expert
-	2 Encore
-	1 Brand, Burning Vengeance
-	2 Orianna, Lady of Clockwork
-	1 Lux, Lady of Luminosity
-	1 Pantheon, Aspect of War
-	1 Yasuo, Unforgiven Wanderer
-	2 LeBlanc, Matron of the Black Rose
-	2 Master Yi, Last of the Wuju
-	2 Neeko, Curious Chameleon
-	1 Aphelios, Lunari Intertwined
-	2 Karthus, Deathsinger
-	2 Ezreal, Prodigal Explorer
-	2 Gangplank, Saltwater Scourge
-	2 Ivern, Friend of the Forest
-	1 K'Sante, Pride of Nazumah
-	2 Jayce, Defender of Tomorrow
-	2 Shimmering Mirage
-	1 Proliferating Darkwraith
-	1 Twisted Catalyzer
-	2 Protective Broodfather
-	2 Birds of Study
-	2 Brush Growth
-	2 Aspect of the Warrior
-	2 Assembly Bot
-	1 Daisy, Green Father's Friend
-	1 Cell Division
-	1 Ancient Krug
-	2 Plaza Guardian
-	2 Moondreamer
-	1 Mountain Scryer
-	1 Petricite Behemoth
-	2 Cask Depot
-	2 Corki, Daring Bombardier
-[uncommon(4)]
-	4 Blighted Ravine
-	4 Chamber of Renewal
-	4 Forge of Tomorrow
-	4 Mistfallen Battlefield
-	4 Monastery of Hirana
-	4 Piltover & Zaun
-	4 Rockfall Path
-	4 Roiling Sands
-	4 Stormcarved Spire
-	4 Twisted Treeline
-	4 Ambessa, Matriarch of War
-	4 Basilisk Bloodseeker
-	4 Bear Stance — Berserking Strikes
-	4 Boxtopus
-	4 Corrosive Charge
-	4 Fangs of the Stars
-	4 Ravenous Butcher
-	4 Shrieking Spinner
-	4 Thorn of the Black Rose
-	4 Chembaron Mastermind
-	4 Blood Hunt
-	4 Annie, Tybaulk's Chosen
-	4 Solari Stellacorn
-	4 Winding Light
-	4 Stonebreaker
-	4 Chip, Little Pebble
-	4 Starry Scamp
-	4 Giddy Sparkleologist
-	4 Oath of the Battlesister
-	4 Marai Songstress
-	4 Blue Sentinel
-	4 Yuumi, Feline Friend
-	4 Strength in Numbers
-	4 Grizzled Ranger
-	4 Crystal Arrow
-	4 Ground Slam
-	4 Rockslide
-	4 Brutal Skirmish
-	4 Ritual of the Black Flame
-	4 Whispered Words
-	4 Smooth Soloist
-	4 Staggering Strikes
-	4 Chimeslime
-	4 Whiteflame Protector
-	4 Rell, Iron Maiden
-	4 Sivir, Battle Mistress
-	4 Ring of Frost
-	4 Wraith of Echoes
-	4 Curse of the Sad Mummy
-	4 Imperial Demolitionist
-	4 Nocturne, Eternal Nightmare
-	4 Smooth Mixologist
-	4 Garen, the Might of Demacia
-	4 Brightsteel Protector
-	4 Arena Battlecaster
-	4 Captive Greyback
-	4 Twisted Leech
-	4 Song of the Meeps
-	4 Acceleration Gate
-	4 Divine Judgement
-	4 Falling Comet
-	4 Briar, Restrained Hunger
-	4 Hungry Owlcat
-	4 Featherstorm
-	4 Durand Protege
-	4 Trusty Adnere
-	4 Infinite Mindsplitter
-	4 Grand Starfall
-	4 Lizard Trainers
-	4 Veiled Scholar
-	4 Mageseeker Inquisitor
-	4 Event Horizon
-	4 Field Promotion
-	4 Progress Day Celebration
-	4 T-Hex
-	4 Electric Shredder
-	4 Starfire Spellblade
-	4 Scout's Bow
-	4 Death, Swift Release
-	4 Death, Violent Finality
-[common(7)]
-	8 Preservarium
-	8 Reaver's Row
-	8 Sandswept Tomb
-	8 Spiral Stairs
-	8 Startipped Peak
-	8 Tree of Dreams
-	8 Trifarian Training Pits
-	8 Veiled Temple
-	8 Warlord's Palace
-	8 Windswept Hillock
-	8 Basilisk Rider
-	8 Bloodthirsty Marauder
-	8 House Spider
-	8 Noxian Battleaxe
-	8 Pakaa Protector
-	8 Scuttle Crab
-	8 Snowy Razorclaw
-	8 Spinning Spectacle
-	8 Strength of the Storm God
-	8 Unrivaled Contender
-	8 Chirean Sumpworker
-	8 Chump Whump
-	8 Rite of Diminance
-	8 Inspired by the Crowd
-	8 Cosmic Youngling
-	8 Cliff Elemental
-	8 Herald of Spring
-	8 Xer'sai Dunebreaker
-	8 Friendly Messenger
-	8 Golden Sister
-	8 Silver Sister
-	8 Obelisk of Power
-	8 Horrific Scavenger
-	8 Chains of Corruption
-	8 Black Shield
-	8 Dark Binding
-	8 Noxian Tactics
-	8 Love Tap
-	8 Carvings of Divination
-	8 Blooming Bud
-	8 Blooming Petal Pixie
-	8 Dream-Laden Bough
-	8 Funsmith
-	8 Beguiling Cobra
-	8 Brave the Freljord
-	8 Caught in the Cold
-	8 Succumb to the Iceborn
-	8 Rimefang Denmother
-	8 Clash of Giants
-	8 Voidling Adaptation
-	8 Called Shot
-	8 Sunk Cost
-	8 Enveloping Shadowblade
-	8 Haunted Relic
-	8 Wharf Rat
-	8 Salvaged Scrap
-	8 Towering Pairophant
-	8 Rapid Deluge
-	8 Petricite Broadwing
-	8 Soul Shackles
-	8 Spiritual Rootling
-	8 Soul Sword
-	8 Evelyn's Last Caress
-	8 Lamb's Respite
-	8 Frenzied Skitterer
-	8 Desolate Husk
-	8 Concerted Strike
-	8 Blessing of Durand
-	8 Veteran Investigator
-	8 Seed of Strength
-	8 Vault Breaker
-	8 Denial of Shadow
-	8 Mystic Shot
-	8 Pakaa Cub
-	8 Molten Breath
-	8 Heavy Metal
-	8 Incandescence
-	8 All Out
-	8 Grasp of the Undying
-	8 Mini-Minitee
-	8 Rock Hopper
-	8 Bristlehog
-	8 Trusty Ramhound
-	8 Midenstokke Henchmen
-	8 Rite of Negation
-	8 Flame Chompers
-	8 Ascended Traveler
-	8 Fear Beyond Death
-	8 The Cloven Way
-	8 Shaken Ground
-	8 Luminosprite
-	8 Aspiring Chronomancer
-	8 Curious Aviarist
-	8 Caretaker's Shrine
-	8 Solari Sunhawk
-	8 Amateur Aeronaut
-	8 The Skies Descend
-	8 Paddle Star
-	8 Sky Charge
-	8 Trail of Evidence
-	8 Rend
-	8 Bitsy Lizard
-	8 Against the Odds
-	8 Giga Gromp
-	8 Cull the Meek
-	8 Spotted Toad
-	8 Primordial Burst
-	8 Gust Monk
-	8 Statikk Shock
-	8 Astute Academic
-	8 Hoarder's Helper
-	8 Scattered Husk
-	8 Veiled Conjurer
-	8 Hidden Pathway
-	8 Yordle Squire
-	8 Silver Bolts
-	8 Ferromancy — Crash Down
-	8 Silent Stormcloud
-	8 Ruby-Eyed Conjurer
-	8 Rocket Blaster
-	8 Scrap Scuttler
-	8 Petricite Charger
-	8 Penitentiary Keys
-	8 Ascended's Gemstone
-	8 Carved Bladetwirler
-[wildcard(2)]
-	7 Blessed Hilltop
-	15 Blighted Ravine
-	7 Buried Armory
-	15 Chamber of Renewal
-	7 Crest of Insight
-	7 Darkin Altar
-	7 Emperor's Dais
-	15 Forge of Tomorrow
-	7 Ixaocan
-	15 Mistfallen Battlefield
-	15 Monastery of Hirana
-	15 Piltover & Zaun
-	6 Preservarium
-	6 Reaver's Row
-	15 Rockfall Path
-	15 Roiling Sands
-	6 Sandswept Tomb
-	7 Slaughter Docks
-	6 Spiral Stairs
-	7 Star Spring
-	6 Startipped Peak
-	15 Stormcarved Spire
-	6 Tree of Dreams
-	6 Trifarian Training Pits
-	15 Twisted Treeline
-	7 University of Piltover
-	7 Vault of Helia
-	6 Veiled Temple
-	6 Warlord's Palace
-	6 Windswept Hillock
-	7 Quinn, Winged Justice
-	15 Ambessa, Matriarch of War
-	15 Basilisk Bloodseeker
-	6 Basilisk Rider
-	15 Bear Stance — Berserking Strikes
-	6 Bloodthirsty Marauder
-	15 Boxtopus
-	15 Corrosive Charge
-	7 Darius, Hand of Noxus
-	7 Draven, Glorious Executioner
-	15 Fangs of the Stars
-	6 House Spider
-	7 Naafiri, Hound of a Hundred Bites
-	6 Noxian Battleaxe
-	6 Pakaa Protector
-	15 Ravenous Butcher
-	6 Scuttle Crab
-	15 Shrieking Spinner
-	6 Snowy Razorclaw
-	6 Spinning Spectacle
-	6 Strength of the Storm God
-	7 Talon, Blade's Shadow
-	7 Teemo, Bandle Scout
-	15 Thorn of the Black Rose
-	7 Tibbers, Mayhem's Guardian
-	7 Twitch, Plague Rat
-	6 Unrivaled Contender
-	7 Volibear, the Relentless Storm
-	4 Warwick, Uncaged Wrath of Zaun
-	15 Chembaron Mastermind
-	6 Chirean Sumpworker
-	6 Chump Whump
-	7 Renata Glasc, Chem-Baroness
-	4 Urgot, Vindictive Dreadnought
-	15 Blood Hunt
-	15 Annie, Tybaulk's Chosen
-	6 Rite of Diminance
-	6 Inspired by the Crowd
-	4 Aurelion Sol, Star Forger
-	4 Ripper's Bay
-	15 Solari Stellacorn
-	6 Cosmic Youngling
-	15 Winding Light
-	15 Stonebreaker
-	15 Chip, Little Pebble
-	6 Cliff Elemental
-	6 Herald of Spring
-	6 Xer'sai Dunebreaker
-	7 Taliyah, Stoneweaver
-	6 Friendly Messenger
-	15 Starry Scamp
-	15 Giddy Sparkleologist
-	7 Malphite, Shard of the Monolith
-	6 Golden Sister
-	6 Silver Sister
-	15 Oath of the Battlesister
-	15 Marai Songstress
-	6 Obelisk of Power
-	7 Jax, Grandmaster at Arms
-	7 The Light of Icathia
-	15 Blue Sentinel
-	6 Horrific Scavenger
-	4 Lunari Shadestalker
-	4 Morgana, Fallen Deliberate
-	7 Black Mist
-	6 Chains of Corruption
-	6 Black Shield
-	6 Dark Binding
-	7 Caitlyn, Sheriff of Piltover
-	7 Vi, Piltover Enforcer
-	6 Noxian Tactics
-	6 Love Tap
-	6 Carvings of Divination
-	15 Yuumi, Feline Friend
-	15 Strength in Numbers
-	6 Blooming Bud
-	6 Blooming Petal Pixie
-	6 Dream-Laden Bough
-	7 Lillia, Bashful Bloom
-	7 Lulu, Fae Sorceress
-	6 Funsmith
-	6 Beguiling Cobra
-	6 Brave the Freljord
-	15 Grizzled Ranger
-	15 Crystal Arrow
-	4 Ashe, Warmother of the Avarosa
-	7 Lissandra, Lady of Ice and Darkness
-	7 Sejuani, Fury of the North
-	6 Caught in the Cold
-	6 Succumb to the Iceborn
-	6 Rimefang Denmother
-	15 Ground Slam
-	15 Rockslide
-	6 Clash of Giants
-	15 Brutal Skirmish
-	4 Kha'Zix, Voidreaver
-	7 Rengar, Unseen Predator
-	15 Ritual of the Black Flame
-	7 Heimerdinger, Revered Inventor
-	15 Whispered Words
-	6 Voidling Adaptation
-	4 Mordekaiser, Iron Revenant
-	4 Ekko, the Boy Who Shattered Time
-	6 Called Shot
-	15 Smooth Soloist
-	6 Sunk Cost
-	6 Enveloping Shadowblade
-	6 Haunted Relic
-	4 Zed, Master of Shadows
-	6 Wharf Rat
-	15 Staggering Strikes
-	6 Salvaged Scrap
-	6 Towering Pairophant
-	15 Chimeslime
-	6 Rapid Deluge
-	15 Whiteflame Protector
-	4 Jinx, Loose Cannon
-	7 Skarner, Primordial Sovereign
-	4 Shaco, Malicious Marionette
-	7 Opportune Hijacking
-	7 Galio, Petricite Colossus
-	6 Petricite Broadwing
-	7 Citybreaker
-	7 Poppy, Keeper of the Hammer
-	4 Hammer of Orlon
-	15 Rell, Iron Maiden
-	15 Sivir, Battle Mistress
-	7 Soraka, the Starchild
-	6 Soul Shackles
-	6 Spiritual Rootling
-	7 Tristana, Yordle Gunner
-	6 Soul Sword
-	15 Ring of Frost
-	4 Thresh, Chain Warden
-	15 Wraith of Echoes
-	7 Crimson Pact
-	15 Curse of the Sad Mummy
-	6 Evelyn's Last Caress
-	6 Lamb's Respite
-	15 Imperial Demolitionist
-	6 Frenzied Skitterer
-	15 Nocturne, Eternal Nightmare
-	7 Fiddlesticks, the Ancient Fear
-	6 Desolate Husk
-	6 Concerted Strike
-	15 Smooth Mixologist
-	7 Leona, Radiant Dawn
-	15 Garen, the Might of Demacia
-	6 Blessing of Durand
-	6 Veteran Investigator
-	15 Brightsteel Protector
-	6 Seed of Strength
-	15 Arena Battlecaster
-	6 Vault Breaker
-	4 Ziggs, Hexplosives Expert
-	6 Denial of Shadow
-	7 Encore
-	6 Mystic Shot
-	4 Brand, Burning Vengeance
-	6 Pakaa Cub
-	6 Molten Breath
-	6 Heavy Metal
-	7 Orianna, Lady of Clockwork
-	6 Incandescence
-	4 Lux, Lady of Luminosity
-	15 Captive Greyback
-	6 All Out
-	6 Grasp of the Undying
-	4 Pantheon, Aspect of War
-	6 Mini-Minitee
-	15 Twisted Leech
-	4 Yasuo, Unforgiven Wanderer
-	7 LeBlanc, Matron of the Black Rose
-	7 Master Yi, Last of the Wuju
-	6 Rock Hopper
-	15 Song of the Meeps
-	15 Acceleration Gate
-	15 Divine Judgement
-	15 Falling Comet
-	7 Neeko, Curious Chameleon
-	4 Aphelios, Lunari Intertwined
-	7 Karthus, Deathsinger
-	7 Ezreal, Prodigal Explorer
-	7 Gangplank, Saltwater Scourge
-	15 Briar, Restrained Hunger
-	15 Hungry Owlcat
-	7 Ivern, Friend of the Forest
-	4 K'Sante, Pride of Nazumah
-	7 Jayce, Defender of Tomorrow
-	7 Shimmering Mirage
-	6 Bristlehog
-	6 Trusty Ramhound
-	6 Midenstokke Henchmen
-	15 Featherstorm
-	4 Proliferating Darkwraith
-	6 Rite of Negation
-	6 Flame Chompers
-	6 Ascended Traveler
-	4 Twisted Catalyzer
-	6 Fear Beyond Death
-	6 The Cloven Way
-	6 Shaken Ground
-	6 Luminosprite
-	6 Aspiring Chronomancer
-	6 Curious Aviarist
-	6 Caretaker's Shrine
-	6 Solari Sunhawk
-	6 Amateur Aeronaut
-	6 The Skies Descend
-	6 Paddle Star
-	6 Sky Charge
-	6 Trail of Evidence
-	15 Durand Protege
-	15 Trusty Adnere
-	15 Infinite Mindsplitter
-	15 Grand Starfall
-	7 Protective Broodfather
-	7 Birds of Study
-	7 Brush Growth
-	7 Aspect of the Warrior
-	7 Assembly Bot
-	4 Daisy, Green Father's Friend
-	4 Cell Division
-	4 Ancient Krug
-	7 Plaza Guardian
-	7 Moondreamer
-	4 Mountain Scryer
-	6 Rend
-	6 Bitsy Lizard
-	6 Against the Odds
-	6 Giga Gromp
-	6 Cull the Meek
-	6 Spotted Toad
-	6 Primordial Burst
-	6 Gust Monk
-	6 Statikk Shock
-	6 Astute Academic
-	6 Hoarder's Helper
-	15 Lizard Trainers
-	6 Scattered Husk
-	6 Veiled Conjurer
-	15 Veiled Scholar
-	6 Hidden Pathway
-	6 Yordle Squire
-	6 Silver Bolts
-	6 Ferromancy — Crash Down
-	6 Silent Stormcloud
-	15 Mageseeker Inquisitor
-	6 Ruby-Eyed Conjurer
-	15 Event Horizon
-	15 Field Promotion
-	15 Progress Day Celebration
-	6 Rocket Blaster
-	6 Scrap Scuttler
-	6 Petricite Charger
-	15 T-Hex
-	15 Electric Shredder
-	6 Penitentiary Keys
-	4 Petricite Behemoth
-	7 Cask Depot
-	7 Corki, Daring Bombardier
-	6 Ascended's Gemstone
-	15 Starfire Spellblade
-	6 Carved Bladetwirler
-	15 Scout's Bow
-	15 Death, Swift Release
-	15 Death, Violent Finality
+		2 Darius, Hand of Noxus
+		2 Draven, Glorious Executioner
+		2 Naafiri, Hound of a Hundred Bites
+		2 Talon, Blade's Shadow
+		2 Teemo, Bandle Scout
+		2 Tibbers, Mayhem's Guardian
+		2 Twitch, Plague Rat
+		2 Volibear, the Relentless Storm
+		2 Renata Glasc, Chem-Baroness
+		2 Taliyah, Stoneweaver
+		2 Malphite, Shard of the Monolith
+		2 Jax, Grandmaster at Arms
+		2 The Light of Icathia
+		2 Black Mist
+		2 Caitlyn, Sheriff of Piltover
+		2 Vi, Piltover Enforcer
+		2 Lillia, Bashful Bloom
+		2 Lulu, Fae Sorceress
+		2 Lissandra, Lady of Ice and Darkness
+		2 Sejuani, Fury of the North
+		2 Rengar, Unseen Predator
+		2 Heimerdinger, Revered Inventor
+		2 Skarner, Primordial Sovereign
+		2 Opportune Hijacking
+		2 Galio, Petricite Colossus
+		2 Citybreaker
+		2 Poppy, Keeper of the Hammer
+		2 Soraka, the Starchild
+		2 Tristana, Yordle Gunner
+		2 Crimson Pact
+		2 Fiddlesticks, the Ancient Fear
+		2 Leona, Radiant Dawn
+		2 Encore
+		2 Orianna, Lady of Clockwork
+		2 LeBlanc, Matron of the Black Rose
+		2 Master Yi, Last of the Wuju
+		2 Neeko, Curious Chameleon
+		2 Karthus, Deathsinger
+		2 Ezreal, Prodigal Explorer
+		2 Gangplank, Saltwater Scourge
+		2 Ivern, Friend of the Forest
+		2 Jayce, Defender of Tomorrow
+		2 Whirling Mirage
+		2 Protective Broodfather
+		2 Birds of Study
+		2 Brush Growth
+		2 Aspect of the Warrior
+		2 Assembly Bot
+		2 Plaza Guardian
+		2 Moondreamer
+		2 Cask Depot
+		2 Corki, Daring Bombardier
+		1 Warwick, Uncaged Wrath of Zaun
+		1 Urgot, Vindictive Dreadnought
+		1 Aurelion Sol, Star Forger
+		1 Lunari Shadestalker
+		1 Morgana, Fallen Deliberate
+		1 Ashe, Warmother of the Avarosa
+		1 Kha'Zix, Voidreaver
+		1 Mordekaiser, Iron Revenant
+		1 Ekko, the Boy Who Shattered Time
+		1 Zed, Master of Shadows
+		1 Jinx, Loose Cannon
+		1 Shaco, Malicious Marionette
+		1 Hammer of Orlon
+		1 Thresh, Chain Warden
+		1 Ziggs, Hexplosives Expert
+		1 Brand, Burning Vengeance
+		1 Lux, Lady of Luminosity
+		1 Pantheon, Aspect of War
+		1 Yasuo, Unforgiven Wanderer
+		1 Aphelios, Lunari Intertwined
+		1 K'Sante, Pride of Nazumah
+		1 Proliferating Darkwraith
+		1 Twisted Catalyzer
+		1 Daisy, Green Father's Friend
+		1 Cell Division
+		1 Ancient Krug
+		1 Mountain Scryer
+		1 Petricite Behemoth
+		[UncommonSlot(3)]
+	9 Ambessa, Matriarch of War
+		9 Basilisk Bloodseeker
+		9 Bear Stance â€” Berserking Strikes
+		9 Boxtopus
+		9 Corrosive Charge
+		9 Fangs of the Stars
+		9 Ravenous Butcher
+		9 Shrieking Spinner
+		9 Agent of the Black Rose
+		9 Chembaron Mastermind
+		9 Blood Hunt
+		9 Annie, Tybaulk's Chosen
+		9 Solari Stellacorn
+		9 Winding Light
+		9 Stonebreaker
+		9 Chip, Little Pebble
+		9 Starry Scamp
+		9 Giddy Sparkleologist
+		9 Oath of the Battlesister
+		9 Marai Songstress
+		9 Blue Sentinel
+		9 Yuumi, Feline Friend
+		9 Strength of Company
+		9 Grizzled Ranger
+		9 Crystal Arrow
+		9 Ground Slam
+		9 Rockslide
+		9 Brutal Skirmish
+		9 Ritual of the Black Flame
+		9 Whispered Words
+		9 Smooth Soloist
+		9 Staggering Strikes
+		9 Chimeslime
+		9 Whiteflame Protector
+		9 Rell, Iron Maiden
+		9 Sivir, Battle Mistress
+		9 Ring of Frost
+		9 Wraith of Echoes
+		9 Curse of the Sad Mummy
+		9 Imperial Demolitionist
+		9 Nocturne, Eternal Nightmare
+		9 Smooth Mixologist
+		9 Garen, the Might of Demacia
+		9 Brightsteel Protector
+		9 Arena Battlecaster
+		9 Captive Greyback
+		9 Twisted Leech
+		9 Song of the Meeps
+		9 Acceleration Gate
+		9 Divine Judgement
+		9 Falling Comet
+		9 Briar, Restrained Hunger
+		9 Hungry Owlcat
+		9 Featherstorm
+		9 Durand Protege
+		9 Trusty Adnere
+		9 Infinite Mindsplitter
+		9 Grand Starfall
+		9 Lizard Trainers
+		9 Veiled Scholar
+		9 Mageseeker Inquisitor
+		9 Event Horizon
+		9 Field Promotion
+		9 Progress Day Celebration
+		9 T-Hex
+		9 Electric Shredder
+		9 Starfire Spellblade
+		9 Scout's Bow
+		9 Death, Swift Release
+		9 Death, Violent Finality
+		[CommonSlot(10)]
+	30 Basilisk Rider
+		30 Bloodthirsty Marauder
+		30 House Spider
+		30 Noxian Battleaxe
+		30 Pakaa Protector
+		30 Scuttle Crab
+		30 Snowy Razorclaw
+		30 Spinning Spectacle
+		30 Strength of the Storm God
+		30 Unrivaled Contender
+		30 Chirean Sumpworker
+		30 Chump Whump
+		30 Rite of Diminance
+		30 Inspired by the Crowd
+		30 Cosmic Youngling
+		30 Cliff Elemental
+		30 Herald of Spring
+		30 Xer'sai Dunebreaker
+		30 Friendly Messenger
+		30 Golden Sister
+		30 Silver Sister
+		30 Obelisk of Power
+		30 Horrific Scavenger
+		30 Chains of Corruption
+		30 Black Shield
+		30 Dark Binding
+		30 Noxian Tactics
+		30 Love Tap
+		30 Carvings of Divination
+		30 Blooming Bud
+		30 Blooming Petal Pixie
+		30 Dream-Laden Bough
+		30 Funsmith
+		30 Beguiling Cobra
+		30 Brave the Freljord
+		30 Caught in the Cold
+		30 Succumb to the Iceborn
+		30 Rimefang Denmother
+		30 Clash of Giants
+		30 Voidling Adaptation
+		30 Called Shot
+		30 Sunk Cost
+		30 Enveloping Shadowblade
+		30 Haunted Relic
+		30 Wharf Rat
+		30 Salvaged Scrap
+		30 Towering Pairophant
+		30 Rapid Deluge
+		30 Petricite Broadwing
+		30 Soul Shackles
+		30 Spiritual Rootling
+		30 Soul Sword
+		30 Evelyn's Last Caress
+		30 Lamb's Respite
+		30 Frenzied Skitterer
+		30 Desolate Husk
+		30 Concerted Strike
+		30 Blessing of Durand
+		30 Veteran Investigator
+		30 Seed of Strength
+		30 Vault Breaker
+		30 Denial of Shadow
+		30 Mystic Shot
+		30 Pakaa Cub
+		30 Molten Breath
+		30 Heavy Metal
+		30 Incandescence
+		30 All Out
+		30 Grasp of the Undying
+		30 Mini-Minitee
+		30 Rock Hopper
+		30 Bristlehog
+		30 Trusty Ramhound
+		30 Midenstokke Henchmen
+		30 Rite of Negation
+		30 Flame Chompers
+		30 Ascended Traveler
+		30 Fear Beyond Death
+		30 The Cloven Way
+		30 Shaken Ground
+		30 Luminosprite
+		30 Aspiring Chronomancer
+		30 Curious Aviarist
+		30 Caretaker's Shrine
+		30 Solari Sunhawk
+		30 Amateur Aeronaut
+		30 The Skies Descend
+		30 Paddle Star
+		30 Sky Charge
+		30 Trail of Sump
+		30 Rend
+		30 Bitsy Lizard
+		30 Against the Odds
+		30 Giga Gromp
+		30 Cull the Meek
+		30 Spotted Toad
+		30 Primordial Burst
+		30 Gust Monk
+		30 Statikk Shock
+		30 Astute Academic
+		30 Hoarder's Helper
+		30 Scattered Husk
+		30 Veiled Conjurer
+		30 Hidden Pathway
+		30 Yordle Squire
+		30 Silver Bolts
+		30 Ferromancy â€” Crash Down
+		30 Silent Stormcloud
+		30 Ruby-Eyed Conjurer
+		30 Rocket Blaster
+		30 Scrap Scuttler
+		30 Petricite Charger
+		30 Penitentiary Keys
+		30 Ascended's Gemstone
+		30 Carved Bladetwirler
+		[WildcardSlot(1)]
+	10 Blessed Hilltop
+	10 Blighted Ravine
+	10 Buried Armory
+	10 Chamber of Renewal
+	10 Crest of Insight
+	10 Darkin Altar
+	10 Emperor's Dais
+	10 Forge of Tomorrow
+	10 Ixaocan
+	10 Mistfallen Battlefield
+	10 Monastery of Hirana
+	10 Piltover & Zaun
+	10 Preservarium
+	10 Reaver's Row
+	10 Rockfall Path
+	10 Roiling Sands
+	10 Sandswept Tomb
+	10 Slaughter Docks
+	10 Spiral Stairs
+	10 Star Spring
+	10 Startipped Peak
+	10 Stormcarved Spire
+	10 Tree of Dreams
+	10 Trifarian Training Pits
+	10 Twisted Treeline
+	10 University of Piltover
+	10 Vault of Helia
+	10 Veiled Temple
+	10 Warlord's Palace
+	10 Windswept Hillock
+	10 Quinn, Winged Justice
+	10 Ambessa, Matriarch of War
+	10 Basilisk Bloodseeker
+	10 Basilisk Rider
+	10 Bear Stance â€” Berserking Strikes
+	10 Bloodthirsty Marauder
+	10 Boxtopus
+	10 Corrosive Charge
+	10 Darius, Hand of Noxus
+	10 Draven, Glorious Executioner
+	10 Fangs of the Stars
+	10 House Spider
+	10 Naafiri, Hound of a Hundred Bites
+	10 Noxian Battleaxe
+	10 Pakaa Protector
+	10 Ravenous Butcher
+	10 Scuttle Crab
+	10 Shrieking Spinner
+	10 Snowy Razorclaw
+	10 Spinning Spectacle
+	10 Strength of the Storm God
+	10 Talon, Blade's Shadow
+	10 Teemo, Bandle Scout
+	10 Agent of the Black Rose
+	10 Tibbers, Mayhem's Guardian
+	10 Twitch, Plague Rat
+	10 Unrivaled Contender
+	10 Volibear, the Relentless Storm
+	10 Warwick, Uncaged Wrath of Zaun
+	10 Chembaron Mastermind
+	10 Chirean Sumpworker
+	10 Chump Whump
+	10 Renata Glasc, Chem-Baroness
+	10 Urgot, Vindictive Dreadnought
+	10 Blood Hunt
+	10 Annie, Tybaulk's Chosen
+	10 Rite of Diminance
+	10 Inspired by the Crowd
+	10 Aurelion Sol, Star Forger
+	10 Ripper's Bay
+	10 Solari Stellacorn
+	10 Cosmic Youngling
+	10 Winding Light
+	10 Stonebreaker
+	10 Chip, Little Pebble
+	10 Cliff Elemental
+	10 Herald of Spring
+	10 Xer'sai Dunebreaker
+	10 Taliyah, Stoneweaver
+	10 Friendly Messenger
+	10 Starry Scamp
+	10 Giddy Sparkleologist
+	10 Malphite, Shard of the Monolith
+	10 Golden Sister
+	10 Silver Sister
+	10 Oath of the Battlesister
+	10 Marai Songstress
+	10 Obelisk of Power
+	10 Jax, Grandmaster at Arms
+	10 The Light of Icathia
+	10 Blue Sentinel
+	10 Horrific Scavenger
+	10 Lunari Shadestalker
+	10 Morgana, Fallen Deliberate
+	10 Black Mist
+	10 Chains of Corruption
+	10 Black Shield
+	10 Dark Binding
+	10 Caitlyn, Sheriff of Piltover
+	10 Vi, Piltover Enforcer
+	10 Noxian Tactics
+	10 Love Tap
+	10 Carvings of Divination
+	10 Yuumi, Feline Friend
+	10 Strength of Company
+	10 Blooming Bud
+	10 Blooming Petal Pixie
+	10 Dream-Laden Bough
+	10 Lillia, Bashful Bloom
+	10 Lulu, Fae Sorceress
+	10 Funsmith
+	10 Beguiling Cobra
+	10 Brave the Freljord
+	10 Grizzled Ranger
+	10 Crystal Arrow
+	10 Ashe, Warmother of the Avarosa
+	10 Lissandra, Lady of Ice and Darkness
+	10 Sejuani, Fury of the North
+	10 Caught in the Cold
+	10 Succumb to the Iceborn
+	10 Rimefang Denmother
+	10 Ground Slam
+	10 Rockslide
+	10 Clash of Giants
+	10 Brutal Skirmish
+	10 Kha'Zix, Voidreaver
+	10 Rengar, Unseen Predator
+	10 Ritual of the Black Flame
+	10 Heimerdinger, Revered Inventor
+	10 Whispered Words
+	10 Voidling Adaptation
+	10 Mordekaiser, Iron Revenant
+	10 Ekko, the Boy Who Shattered Time
+	10 Called Shot
+	10 Smooth Soloist
+	10 Sunk Cost
+	10 Enveloping Shadowblade
+	10 Haunted Relic
+	10 Zed, Master of Shadows
+	10 Wharf Rat
+	10 Staggering Strikes
+	10 Salvaged Scrap
+	10 Towering Pairophant
+	10 Chimeslime
+	10 Rapid Deluge
+	10 Whiteflame Protector
+	10 Jinx, Loose Cannon
+	10 Skarner, Primordial Sovereign
+	10 Shaco, Malicious Marionette
+	10 Opportune Hijacking
+	10 Galio, Petricite Colossus
+	10 Petricite Broadwing
+	10 Citybreaker
+	10 Poppy, Keeper of the Hammer
+	10 Hammer of Orlon
+	10 Rell, Iron Maiden
+	10 Sivir, Battle Mistress
+	10 Soraka, the Starchild
+	10 Soul Shackles
+	10 Spiritual Rootling
+	10 Tristana, Yordle Gunner
+	10 Soul Sword
+	10 Ring of Frost
+	10 Thresh, Chain Warden
+	10 Wraith of Echoes
+	10 Crimson Pact
+	10 Curse of the Sad Mummy
+	10 Evelyn's Last Caress
+	10 Lamb's Respite
+	10 Imperial Demolitionist
+	10 Frenzied Skitterer
+	10 Nocturne, Eternal Nightmare
+	10 Fiddlesticks, the Ancient Fear
+	10 Desolate Husk
+	10 Concerted Strike
+	10 Smooth Mixologist
+	10 Leona, Radiant Dawn
+	10 Garen, the Might of Demacia
+	10 Blessing of Durand
+	10 Veteran Investigator
+	10 Brightsteel Protector
+	10 Seed of Strength
+	10 Arena Battlecaster
+	10 Vault Breaker
+	10 Ziggs, Hexplosives Expert
+	10 Denial of Shadow
+	10 Encore
+	10 Mystic Shot
+	10 Brand, Burning Vengeance
+	10 Pakaa Cub
+	10 Molten Breath
+	10 Heavy Metal
+	10 Orianna, Lady of Clockwork
+	10 Incandescence
+	10 Lux, Lady of Luminosity
+	10 Captive Greyback
+	10 All Out
+	10 Grasp of the Undying
+	10 Pantheon, Aspect of War
+	10 Mini-Minitee
+	10 Twisted Leech
+	10 Yasuo, Unforgiven Wanderer
+	10 LeBlanc, Matron of the Black Rose
+	10 Master Yi, Last of the Wuju
+	10 Rock Hopper
+	10 Song of the Meeps
+	10 Acceleration Gate
+	10 Divine Judgement
+	10 Falling Comet
+	10 Neeko, Curious Chameleon
+	10 Aphelios, Lunari Intertwined
+	10 Karthus, Deathsinger
+	10 Ezreal, Prodigal Explorer
+	10 Gangplank, Saltwater Scourge
+	10 Briar, Restrained Hunger
+	10 Hungry Owlcat
+	10 Ivern, Friend of the Forest
+	10 K'Sante, Pride of Nazumah
+	10 Jayce, Defender of Tomorrow
+	10 Whirling Mirage
+	10 Bristlehog
+	10 Trusty Ramhound
+	10 Midenstokke Henchmen
+	10 Featherstorm
+	10 Proliferating Darkwraith
+	10 Rite of Negation
+	10 Flame Chompers
+	10 Ascended Traveler
+	10 Twisted Catalyzer
+	10 Fear Beyond Death
+	10 The Cloven Way
+	10 Shaken Ground
+	10 Luminosprite
+	10 Aspiring Chronomancer
+	10 Curious Aviarist
+	10 Caretaker's Shrine
+	10 Solari Sunhawk
+	10 Amateur Aeronaut
+	10 The Skies Descend
+	10 Paddle Star
+	10 Sky Charge
+	10 Trail of Sump
+	10 Durand Protege
+	10 Trusty Adnere
+	10 Infinite Mindsplitter
+	10 Grand Starfall
+	10 Protective Broodfather
+	10 Birds of Study
+	10 Brush Growth
+	10 Aspect of the Warrior
+	10 Assembly Bot
+	10 Daisy, Green Father's Friend
+	10 Cell Division
+	10 Ancient Krug
+	10 Plaza Guardian
+	10 Moondreamer
+	10 Mountain Scryer
+	10 Rend
+	10 Bitsy Lizard
+	10 Against the Odds
+	10 Giga Gromp
+	10 Cull the Meek
+	10 Spotted Toad
+	10 Primordial Burst
+	10 Gust Monk
+	10 Statikk Shock
+	10 Astute Academic
+	10 Hoarder's Helper
+	10 Lizard Trainers
+	10 Scattered Husk
+	10 Veiled Conjurer
+	10 Veiled Scholar
+	10 Hidden Pathway
+	10 Yordle Squire
+	10 Silver Bolts
+	10 Ferromancy â€” Crash Down
+	10 Silent Stormcloud
+	10 Mageseeker Inquisitor
+	10 Ruby-Eyed Conjurer
+	10 Event Horizon
+	10 Field Promotion
+	10 Progress Day Celebration
+	10 Rocket Blaster
+	10 Scrap Scuttler
+	10 Petricite Charger
+	10 T-Hex
+	10 Electric Shredder
+	10 Penitentiary Keys
+	10 Petricite Behemoth
+	10 Cask Depot
+	10 Corki, Daring Bombardier
+	10 Ascended's Gemstone
+	10 Starfire Spellblade
+	10 Carved Bladetwirler
+	10 Scout's Bow
+	10 Death, Swift Release
+	10 Death, Violent Finality
+	[LandSlot(1)]
+	10 Forest
+		10 Island
+		10 Mountain
+		10 Plains
+		10 Swamp
+		10 Blessed Hilltop
+		10 Blighted Ravine
+		10 Buried Armory
+		10 Chamber of Renewal
+		10 Crest of Insight
+		10 Darkin Altar
+		10 Emperor's Dais
+		10 Forge of Tomorrow
+		10 Ixaocan
+		10 Mistfallen Battlefield
+		10 Monastery of Hirana
+		10 Piltover & Zaun
+		10 Preservarium
+		10 Reaver's Row
+		10 Rockfall Path
+		10 Roiling Sands
+		10 Sandswept Tomb
+		10 Slaughter Docks
+		10 Spiral Stairs
+		10 Star Spring
+		10 Startipped Peak
+		10 Stormcarved Spire
+		10 Tree of Dreams
+		10 Trifarian Training Pits
+		10 Twisted Treeline
+		10 University of Piltover
+		10 Vault of Helia
+		10 Veiled Temple
+		10 Warlord's Palace
+		10 Windswept Hillock
+		10 Ripper's Bay
+		
