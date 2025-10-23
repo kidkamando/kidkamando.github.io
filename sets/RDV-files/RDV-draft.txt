@@ -4,7 +4,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Forest.png"
 			}
@@ -14,7 +14,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Island.png"
 			}
@@ -24,7 +24,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mountain.png"
 			}
@@ -34,7 +34,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Plains.png"
 			}
@@ -44,7 +44,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Swamp.png"
 			}
@@ -54,7 +54,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains ",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blessed Hilltop.png"
 			}
@@ -64,7 +64,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain ",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blighted Ravine.png"
 			}
@@ -74,7 +74,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp ",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Buried Armory.png"
 			}
@@ -84,7 +84,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island ",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chamber of Renewal.png"
 			}
@@ -94,7 +94,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain ",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Crest of Insight.png"
 			}
@@ -104,7 +104,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest ",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Darkin Altar.png"
 			}
@@ -114,7 +114,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains ",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Emperor's Dais.png"
 			}
@@ -124,7 +124,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island ",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Forge of Tomorrow.png"
 			}
@@ -134,7 +134,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest ",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ixaocan.png"
 			}
@@ -144,7 +144,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mistfallen Battlefield.png"
 			}
@@ -154,7 +154,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains ",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Monastery of Hirana.png"
 			}
@@ -164,7 +164,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Plains ",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Piltover & Zaun.png"
 			}
@@ -174,7 +174,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Preservarium.png"
 			}
@@ -184,7 +184,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Reaver's Row.png"
 			}
@@ -194,7 +194,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest ",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rockfall Path.png"
 			}
@@ -204,7 +204,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains ",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Roiling Sands.png"
 			}
@@ -214,7 +214,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sandswept Tomb.png"
 			}
@@ -224,7 +224,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain ",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Slaughter Docks.png"
 			}
@@ -234,7 +234,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spiral Stairs.png"
 			}
@@ -244,7 +244,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Island ",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Star Spring.png"
 			}
@@ -254,7 +254,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Startipped Peak.png"
 			}
@@ -264,7 +264,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain ",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Stormcarved Spire.png"
 			}
@@ -274,7 +274,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Tree of Dreams.png"
 			}
@@ -284,7 +284,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Trifarian Training Pits.png"
 			}
@@ -294,7 +294,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest ",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twisted Treeline.png"
 			}
@@ -304,7 +304,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island ",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/University of Piltover.png"
 			}
@@ -314,7 +314,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Vault of Helia.png"
 			}
@@ -324,7 +324,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veiled Temple.png"
 			}
@@ -334,7 +334,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Warlord's Palace.png"
 			}
@@ -344,7 +344,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Windswept Hillock.png"
 			}
@@ -354,7 +354,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W/U}",
 			"type": "Legendary Creature — Human Ranger Knight ",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Quinn, Winged Justice.png"
 			}
@@ -364,7 +364,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Soldier ",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ambessa, Matriarch of War.png"
 			}
@@ -384,7 +384,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Lizard Soldier ",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Basilisk Rider.png"
 			}
@@ -394,7 +394,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bear Stance — Berserking Strikes.png"
 			}
@@ -404,7 +404,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Crocodile Warrior ",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bloodthirsty Marauder.png"
 			}
@@ -424,7 +424,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Corrosive Charge.png"
 			}
@@ -434,7 +434,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Human Knight ",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Darius, Hand of Noxus.png"
 			}
@@ -444,7 +444,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Warrior Performer ",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Draven, Glorious Executioner.png"
 			}
@@ -454,7 +454,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elemental Cat ",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Fangs of the Stars.png"
 			}
@@ -464,7 +464,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Spider ",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/House Spider.png"
 			}
@@ -474,7 +474,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Darkin Dog ",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Naafiri, Hound of a Hundred Bites.png"
 			}
@@ -484,7 +484,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Noxian Battleaxe.png"
 			}
@@ -494,7 +494,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Cat ",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pakaa Protector.png"
 			}
@@ -504,7 +504,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Beast Spirit ",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ravenous Butcher.png"
 			}
@@ -524,7 +524,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Spider ",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shrieking Spinner.png"
 			}
@@ -534,7 +534,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Bird Beast ",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Snowy Razorclaw.png"
 			}
@@ -544,7 +544,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spinning Spectacle.png"
 			}
@@ -554,7 +554,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Strength of the Storm God.png"
 			}
@@ -564,7 +564,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}{R}",
 			"type": "Legendary Creature — Human Assassin ",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Talon, Blade's Shadow.png"
 			}
@@ -574,7 +574,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Yordle Druid ",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Teemo, Bandle Scout.png"
 			}
@@ -584,7 +584,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Minotaur ",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Thorn of the Black Rose.png"
 			}
@@ -594,7 +594,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B/R}{B/R}",
 			"type": "Legendary Creature — Demon Bear Toy ",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Tibbers, Mayhem's Guardian.png"
 			}
@@ -604,7 +604,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Rat ",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twitch, Plague Rat.png"
 			}
@@ -614,7 +614,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Unrivaled Contender.png"
 			}
@@ -624,7 +624,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Elemental Bear God ",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Volibear, the Relentless Storm.png"
 			}
@@ -634,7 +634,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Werewolf ",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Warwick, Uncaged Wrath of Zaun.png"
 			}
@@ -654,7 +654,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Bat Peasant ",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chirean Sumpworker.png"
 			}
@@ -674,7 +674,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Citizen ",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Renata Glasc, Chem-Baroness.png"
 			}
@@ -684,7 +684,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Artifact Creature — Human Outlaw ",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Urgot, Vindictive Dreadnought.png"
 			}
@@ -704,7 +704,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Annie, Tybaulk's Chosen.png"
 			}
@@ -714,7 +714,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rite of Diminance.png"
 			}
@@ -724,7 +724,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Inspired by the Crowd.png"
 			}
@@ -734,7 +734,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Elder Dragon God ",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aurelion Sol, Star Forger.png"
 			}
@@ -744,7 +744,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ripper's Bay.png"
 			}
@@ -784,7 +784,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Beast ",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Stonebreaker.png"
 			}
@@ -794,7 +794,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Elemental ",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chip, Little Pebble.png"
 			}
@@ -804,7 +804,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Elemental ",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cliff Elemental.png"
 			}
@@ -814,7 +814,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental Elk ",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Herald of Spring.png"
 			}
@@ -824,7 +824,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Insect Horror ",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Xer'sai Dunebreaker.png"
 			}
@@ -834,7 +834,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Legendary Creature — Human Ranger ",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Taliyah, Stoneweaver.png"
 			}
@@ -864,7 +864,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Giddy Sparkleologist.png"
 			}
@@ -874,7 +874,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Legendary Creature — Elemental ",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Malphite, Shard of the Monolith.png"
 			}
@@ -914,7 +914,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Merfolk Bard ",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Marai Songstress.png"
 			}
@@ -924,7 +924,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Obelisk of Power.png"
 			}
@@ -934,7 +934,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Icathian Warrior ",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Jax, Grandmaster at Arms.png"
 			}
@@ -944,7 +944,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/The Light of Icathia.png"
 			}
@@ -954,7 +954,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Golem ",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blue Sentinel.png"
 			}
@@ -964,7 +964,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Crab Horror ",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Horrific Scavenger.png"
 			}
@@ -984,7 +984,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Angel Human Shaman ",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Morgana, Fallen Deliberate.png"
 			}
@@ -1000,28 +1000,11 @@
 			}
 		},
 		{
-			"name": "Death, Swift Release",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Beast Avatar ",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Swift Release_front.png"
-			},
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Swift Release_back.png"
-				}
-			}
-		},
-		{
 			"name": "Chains of Corruption",
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chains of Corruption.png"
 			}
@@ -1051,7 +1034,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Detective ",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Caitlyn, Sheriff of Piltover.png"
 			}
@@ -1061,7 +1044,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Vi, Piltover Enforcer.png"
 			}
@@ -1071,7 +1054,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Noxian Tactics.png"
 			}
@@ -1081,7 +1064,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Love Tap.png"
 			}
@@ -1091,7 +1074,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Carvings of Divination.png"
 			}
@@ -1101,7 +1084,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Enchantment Creature — Cat ",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Yuumi, Feline Friend.png"
 			}
@@ -1141,7 +1124,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Dream-Laden Bough.png"
 			}
@@ -1151,7 +1134,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Faerie Druid ",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lillia, Bashful Bloom.png"
 			}
@@ -1161,7 +1144,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Yordle Wizard ",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lulu, Fae Sorceress.png"
 			}
@@ -1171,7 +1154,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Artificer ",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Funsmith.png"
 			}
@@ -1181,7 +1164,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Snake ",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Beguiling Cobra.png"
 			}
@@ -1191,7 +1174,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brave the Freljord.png"
 			}
@@ -1201,7 +1184,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Yordle Ranger ",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Grizzled Ranger.png"
 			}
@@ -1221,7 +1204,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Human Ranger ",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ashe, Warmother of the Avarosa.png"
 			}
@@ -1231,7 +1214,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lissandra, Lady of Ice and Darkness.png"
 			}
@@ -1241,7 +1224,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Human Boar Warrior ",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sejuani, Fury of the North.png"
 			}
@@ -1261,7 +1244,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Succumb to the Iceborn.png"
 			}
@@ -1271,7 +1254,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Wolf ",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rimefang Denmother.png"
 			}
@@ -1281,7 +1264,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ground Slam.png"
 			}
@@ -1291,7 +1274,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rockslide.png"
 			}
@@ -1301,7 +1284,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Clash of Giants.png"
 			}
@@ -1311,7 +1294,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brutal Skirmish.png"
 			}
@@ -1321,7 +1304,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Horror Insect ",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Kha'Zix, Voidreaver.png"
 			}
@@ -1331,7 +1314,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Vastayan Ranger ",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rengar, Unseen Predator.png"
 			}
@@ -1371,7 +1354,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Voidling Adaptation.png"
 			}
@@ -1381,7 +1364,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{W}{B}",
 			"type": "Legendary Creature — Spirit Knight ",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mordekaiser, Iron Revenant.png"
 			}
@@ -1391,7 +1374,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ekko, the Boy Who Shattered Time.png"
 			}
@@ -1431,7 +1414,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Shade Cleric Assassin ",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Enveloping Shadowblade.png"
 			}
@@ -1441,7 +1424,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Haunted Relic.png"
 			}
@@ -1451,7 +1434,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Ninja ",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Zed, Master of Shadows.png"
 			}
@@ -1461,7 +1444,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Shark Rat ",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Wharf Rat.png"
 			}
@@ -1471,7 +1454,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Staggering Strikes.png"
 			}
@@ -1481,7 +1464,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Salvaged Scrap.png"
 			}
@@ -1491,7 +1474,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elephant ",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Towering Pairophant.png"
 			}
@@ -1501,7 +1484,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Artifact Creature — Zombie Ooze ",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chimeslime.png"
 			}
@@ -1531,7 +1514,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Jinx, Loose Cannon.png"
 			}
@@ -1541,7 +1524,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Scorpion Noble ",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Skarner, Primordial Sovereign.png"
 			}
@@ -1551,7 +1534,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Artifact Creature — Demon Clown Toy ",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shaco, Malicious Marionette.png"
 			}
@@ -1561,7 +1544,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Opportune Hijacking.png"
 			}
@@ -1581,7 +1564,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Bird Golem ",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Petricite Broadwing.png"
 			}
@@ -1591,7 +1574,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Vehicle ",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Citybreaker.png"
 			}
@@ -1601,7 +1584,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Yordle Knight ",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Poppy, Keeper of the Hammer.png"
 			}
@@ -1611,7 +1594,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hammer of Orlon.png"
 			}
@@ -1621,7 +1604,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Knight ",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rell, Iron Maiden.png"
 			}
@@ -1631,7 +1614,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sivir, Battle Mistress.png"
 			}
@@ -1641,7 +1624,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Druid Avatar  ",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Soraka, the Starchild.png"
 			}
@@ -1651,7 +1634,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Soul Shackles.png"
 			}
@@ -1661,7 +1644,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Treefolk ",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spiritual Rootling.png"
 			}
@@ -1671,7 +1654,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Yordle Soldier ",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Tristana, Yordle Gunner.png"
 			}
@@ -1681,7 +1664,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Soul Sword.png"
 			}
@@ -1691,7 +1674,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{X}{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ring of Frost.png"
 			}
@@ -1701,7 +1684,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Zombie Cleric ",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Thresh, Chain Warden.png"
 			}
@@ -1711,7 +1694,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Spirit Warlock ",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Wraith of Echoes.png"
 			}
@@ -1741,7 +1724,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Evelyn's Last Caress.png"
 			}
@@ -1751,7 +1734,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lamb's Respite.png"
 			}
@@ -1761,7 +1744,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Imperial Demolitionist.png"
 			}
@@ -1771,7 +1754,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spider ",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Frenzied Skitterer.png"
 			}
@@ -1781,7 +1764,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Demon Nightmare ",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Nocturne, Eternal Nightmare.png"
 			}
@@ -1791,7 +1774,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Enchantment Creature — Demon ",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Fiddlesticks, the Ancient Fear.png"
 			}
@@ -1881,7 +1864,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Seed of Strength.png"
 			}
@@ -1891,7 +1874,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Performer ",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Arena Battlecaster.png"
 			}
@@ -1901,7 +1884,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Vault Breaker.png"
 			}
@@ -1911,7 +1894,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Yordle Artificer ",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ziggs, Hexplosives Expert.png"
 			}
@@ -1931,7 +1914,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Encore.png"
 			}
@@ -1941,7 +1924,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mystic Shot.png"
 			}
@@ -1951,7 +1934,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Legendary Creature — Elemental ",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brand, Burning Vengeance.png"
 			}
@@ -1961,7 +1944,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Cat ",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pakaa Cub.png"
 			}
@@ -1971,7 +1954,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Molten Breath.png"
 			}
@@ -2001,7 +1984,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Instant",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Incandescence.png"
 			}
@@ -2011,7 +1994,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Creature — Human Shaman ",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lux, Lady of Luminosity.png"
 			}
@@ -2021,7 +2004,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Shark ",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Captive Greyback.png"
 			}
@@ -2031,7 +2014,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/All Out.png"
 			}
@@ -2041,7 +2024,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Instant",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Grasp of the Undying.png"
 			}
@@ -2051,7 +2034,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Soldier Avatar  ",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pantheon, Aspect of War_front.png"
 			},
@@ -2068,7 +2051,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Beast Fish ",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mini-Minitee.png"
 			}
@@ -2078,7 +2061,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Leech Horror ",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twisted Leech.png"
 			}
@@ -2088,7 +2071,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Yasuo, Unforgiven Wanderer.png"
 			}
@@ -2098,7 +2081,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/LeBlanc, Matron of the Black Rose.png"
 			}
@@ -2108,7 +2091,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Human Monk ",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Master Yi, Last of the Wuju.png"
 			}
@@ -2118,7 +2101,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rock Hopper.png"
 			}
@@ -2128,7 +2111,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Song of the Meeps.png"
 			}
@@ -2138,7 +2121,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Acceleration Gate.png"
 			}
@@ -2148,7 +2131,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Divine Judgement.png"
 			}
@@ -2158,7 +2141,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Falling Comet.png"
 			}
@@ -2178,7 +2161,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Human Cleric ",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aphelios, Lunari Intertwined.png"
 			}
@@ -2188,7 +2171,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Zombie Wizard ",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Karthus, Deathsinger.png"
 			}
@@ -2198,7 +2181,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Human Shaman Ranger ",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ezreal, Prodigal Explorer.png"
 			}
@@ -2208,7 +2191,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Human Pirate ",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Gangplank, Saltwater Scourge.png"
 			}
@@ -2218,7 +2201,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Vampire Berserker ",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Briar, Restrained Hunger.png"
 			}
@@ -2228,7 +2211,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Bird Cat ",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hungry Owlcat.png"
 			}
@@ -2238,7 +2221,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Treefolk Ally ",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ivern, Friend of the Forest.png"
 			}
@@ -2248,7 +2231,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/K'Sante, Pride of Nazumah.png"
 			}
@@ -2258,7 +2241,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Jayce, Defender of Tomorrow.png"
 			}
@@ -2268,7 +2251,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shimmering Mirage.png"
 			}
@@ -2278,7 +2261,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Beast ",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bristlehog.png"
 			}
@@ -2288,7 +2271,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Sheep Dog ",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Trusty Ramhound.png"
 			}
@@ -2298,7 +2281,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Midenstokke Henchmen.png"
 			}
@@ -2308,7 +2291,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Featherstorm.png"
 			}
@@ -2318,7 +2301,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Wraith ",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Proliferating Darkwraith.png"
 			}
@@ -2328,7 +2311,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rite of Negation.png"
 			}
@@ -2338,7 +2321,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Flame Chompers.png"
 			}
@@ -2358,7 +2341,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Yordle Wizard ",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twisted Catalyzer.png"
 			}
@@ -2368,7 +2351,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Fear Beyond Death.png"
 			}
@@ -2388,7 +2371,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shaken Ground.png"
 			}
@@ -2528,7 +2511,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Grand Starfall.png"
 			}
@@ -2538,7 +2521,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dragon ",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Protective Broodfather.png"
 			}
@@ -2548,7 +2531,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird ",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Birds of Study.png"
 			}
@@ -2558,7 +2541,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brush Growth.png"
 			}
@@ -2568,7 +2551,7 @@
 			"rarity": "rare",
 			"mana_cost": "{10}{R}{R}",
 			"type": "Creature — Avatar Warrior ",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aspect of the Warrior.png"
 			}
@@ -2598,7 +2581,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cell Division.png"
 			}
@@ -2608,7 +2591,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Elemental ",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ancient Krug.png"
 			}
@@ -2648,7 +2631,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rend.png"
 			}
@@ -2658,7 +2641,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}",
 			"type": "Creature — Lizard ",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bitsy Lizard.png"
 			}
@@ -2668,7 +2651,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Against the Odds.png"
 			}
@@ -2678,7 +2661,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Frog ",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Giga Gromp.png"
 			}
@@ -2688,7 +2671,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cull the Meek.png"
 			}
@@ -2698,7 +2681,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Frog ",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spotted Toad.png"
 			}
@@ -2708,7 +2691,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Primordial Burst.png"
 			}
@@ -2718,7 +2701,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Yordle Monk ",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Gust Monk.png"
 			}
@@ -2728,7 +2711,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Statikk Shock.png"
 			}
@@ -2738,7 +2721,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/R}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Astute Academic.png"
 			}
@@ -2748,7 +2731,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hoarder's Helper.png"
 			}
@@ -2758,7 +2741,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Yordle Druid ",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lizard Trainers.png"
 			}
@@ -2768,7 +2751,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Yordle Minion ",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scattered Husk.png"
 			}
@@ -2778,7 +2761,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veiled Conjurer.png"
 			}
@@ -2788,7 +2771,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veiled Scholar.png"
 			}
@@ -2798,7 +2781,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hidden Pathway.png"
 			}
@@ -2808,7 +2791,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Yordle Soldier ",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Yordle Squire.png"
 			}
@@ -2818,7 +2801,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Silver Bolts.png"
 			}
@@ -2828,7 +2811,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ferromancy — Crash Down.png"
 			}
@@ -2838,7 +2821,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Elemental ",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Silent Stormcloud.png"
 			}
@@ -2848,7 +2831,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mageseeker Inquisitor.png"
 			}
@@ -2858,7 +2841,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Shaman ",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ruby-Eyed Conjurer.png"
 			}
@@ -2868,7 +2851,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Event Horizon.png"
 			}
@@ -2878,7 +2861,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Field Promotion.png"
 			}
@@ -2888,7 +2871,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Progress Day Celebration.png"
 			}
@@ -2898,7 +2881,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rocket Blaster.png"
 			}
@@ -2908,7 +2891,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Crab Construct ",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scrap Scuttler.png"
 			}
@@ -2918,7 +2901,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Boar Golem ",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Petricite Charger.png"
 			}
@@ -2928,7 +2911,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Dinosaur Construct ",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/T-Hex.png"
 			}
@@ -2938,7 +2921,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Electric Shredder.png"
 			}
@@ -2948,7 +2931,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Penitentiary Keys.png"
 			}
@@ -2968,7 +2951,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cask Depot.png"
 			}
@@ -2978,7 +2961,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Yordle Pilot ",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Corki, Daring Bombardier.png"
 			}
@@ -2988,7 +2971,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ascended's Gemstone.png"
 			}
@@ -2998,7 +2981,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Starfire Spellblade.png"
 			}
@@ -3008,7 +2991,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct Soldier ",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Carved Bladetwirler.png"
 			}
@@ -3018,9 +3001,36 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scout's Bow.png"
+			}
+		},
+		{
+			"name": "Death, Swift Release",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Beast Avatar ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Swift Release_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Swift Release_back.png"
+				}
+			}
+		},
+		{
+			"name": "Death, Violent Finality",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Wolf Avatar ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Violent Finality.png"
 			}
 		},
 		]
@@ -3128,7 +3138,6 @@
 		9 Oath of the Battlesister
 		9 Marai Songstress
 		9 Blue Sentinel
-		9 Death, Swift Release
 		9 Yuumi, Feline Friend
 		9 Strength in Numbers
 		9 Grizzled Ranger
@@ -3176,6 +3185,8 @@
 		9 Electric Shredder
 		9 Starfire Spellblade
 		9 Scout's Bow
+		9 Death, Swift Release
+		9 Death, Violent Finality
 		[CommonSlot(10)]
 	30 Basilisk Rider
 		30 Bloodthirsty Marauder
@@ -3388,7 +3399,6 @@
 	10 Lunari Shadestalker
 	10 Morgana, Fallen Deliberate
 	10 Black Mist
-	10 Death, Swift Release
 	10 Chains of Corruption
 	10 Black Shield
 	10 Dark Binding
@@ -3589,6 +3599,8 @@
 	10 Starfire Spellblade
 	10 Carved Bladetwirler
 	10 Scout's Bow
+	10 Death, Swift Release
+	10 Death, Violent Finality
 	[LandSlot(1)]
 	10 Forest
 		10 Island
