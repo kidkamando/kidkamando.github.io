@@ -1370,14 +1370,14 @@
             "notes": ""
         },
         {
-            "card_name": "Darkin Ageis",
+            "card_name": "Darkin Aegis",
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Darkin Equipment",
             "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Equipped creature has indestructible.\nWhenever a player casts their second spell this turn, transform Darkin Ageis and unite equipped creature to it. [i](Unite this permanent with equipped creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, becomes a creature in addition to its other types, and has the abilities of all united permanents.)[/i]\nEquip {1}{W}",
+            "rules_text": "Equipped creature has indestructible.\nWhenever a player casts their second spell this turn, transform Darkin Aegis and unite equipped creature to it. [i](Unite this permanent with equipped creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, becomes a creature in addition to its other types, and has the abilities of all united permanents.)[/i]\nEquip {1}{W}",
             "flavor_text": "[i]\u201cIt waited in the dark, the Void.\u201d[/i]",
             "pt": "",
             "special_text": "",
