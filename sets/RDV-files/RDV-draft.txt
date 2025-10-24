@@ -1763,7 +1763,7 @@
 			"name": "Nocturne, Eternal Nightmare",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Demon Nightmare ",
+			"type": "Legendary Enchantment Creature — Demon Nightmare ",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Nocturne, Eternal Nightmare.png"
