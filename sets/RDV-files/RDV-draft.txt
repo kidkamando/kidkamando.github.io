@@ -6,7 +6,7 @@
 			"type": "Basic Land — Forest ",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Forest.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Forest.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "Basic Land — Island ",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Island.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Island.png"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 			"type": "Basic Land — Mountain ",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mountain.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mountain.png"
 			}
 		},
 		{
@@ -36,7 +36,7 @@
 			"type": "Basic Land — Plains ",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Plains.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Plains.png"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"type": "Basic Land — Swamp ",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Swamp.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Swamp.png"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 			"type": "Land — Forest Plains ",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blessed Hilltop.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blessed Hilltop.png"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"type": "Land — Swamp Mountain ",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blighted Ravine.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blighted Ravine.png"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 			"type": "Land — Plains Swamp ",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Buried Armory.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Buried Armory.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"type": "Land — Forest Island ",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chamber of Renewal.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chamber of Renewal.png"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"type": "Land — Island Mountain ",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Crest of Insight.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Crest of Insight.png"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"type": "Land — Swamp Forest ",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darkin Altar.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Darkin Altar.png"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"type": "Land — Mountain Plains ",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Emperor's Dais.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Emperor's Dais.png"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			"type": "Land — Plains Island ",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Forge of Tomorrow.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Forge of Tomorrow.png"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			"type": "Land — Mountain Forest ",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ixaocan.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ixaocan.png"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			"type": "Land — Island Swamp ",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mistfallen Battlefield.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mistfallen Battlefield.png"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"type": "Land — Mountain Plains ",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Monastery of Hirana.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Monastery of Hirana.png"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			"type": "Land — Swamp Plains ",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Piltover & Zaun.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Piltover & Zaun.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Preservarium.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Preservarium.png"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Reaver's Row.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Reaver's Row.png"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"type": "Land — Mountain Forest ",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rockfall Path.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rockfall Path.png"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"type": "Land — Forest Plains ",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Roiling Sands.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Roiling Sands.png"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sandswept Tomb.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sandswept Tomb.png"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"type": "Land — Swamp Mountain ",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Slaughter Docks.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Slaughter Docks.png"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spiral Stairs.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spiral Stairs.png"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 			"type": "Land — Forest Island ",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Star Spring.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Star Spring.png"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"type": "Land",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Startipped Peak.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Startipped Peak.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"type": "Land — Island Mountain ",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Stormcarved Spire.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Stormcarved Spire.png"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 			"type": "Land",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Tree of Dreams.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Tree of Dreams.png"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 			"type": "Land",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trifarian Training Pits.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Trifarian Training Pits.png"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 			"type": "Land — Swamp Forest ",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twisted Treeline.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twisted Treeline.png"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 			"type": "Land — Plains Island ",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/University of Piltover.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/University of Piltover.png"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 			"type": "Land — Island Swamp ",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Vault of Helia.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Vault of Helia.png"
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 			"type": "Land",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veiled Temple.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veiled Temple.png"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 			"type": "Land",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Warlord's Palace.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Warlord's Palace.png"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Windswept Hillock.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Windswept Hillock.png"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"type": "Legendary Creature — Human Ranger Knight ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Quinn, Winged Justice.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Quinn, Winged Justice.png"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"type": "Legendary Creature — Human Soldier ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ambessa, Matriarch of War.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ambessa, Matriarch of War.png"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"type": "Creature — Human Lizard Soldier ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Basilisk Bloodseeker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Basilisk Bloodseeker.png"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"type": "Creature — Human Lizard Soldier ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Basilisk Rider.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Basilisk Rider.png"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bear Stance — Berserking Strikes.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bear Stance — Berserking Strikes.png"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"type": "Creature — Human Crocodile Warrior ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bloodthirsty Marauder.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bloodthirsty Marauder.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "Creature — Octopus ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Boxtopus.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Boxtopus.png"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 			"type": "Sorcery",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Corrosive Charge.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Corrosive Charge.png"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 			"type": "Legendary Creature — Human Knight ",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darius, Hand of Noxus.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Darius, Hand of Noxus.png"
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 			"type": "Legendary Creature — Human Warrior Performer ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Draven, Glorious Executioner.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Draven, Glorious Executioner.png"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 			"type": "Creature — Elemental Cat ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Fangs of the Stars.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Fangs of the Stars.png"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/House Spider.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/House Spider.png"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 			"type": "Legendary Creature — Darkin Dog ",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Naafiri, Hound of a Hundred Bites.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Naafiri, Hound of a Hundred Bites.png"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Noxian Battleaxe.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Noxian Battleaxe.png"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pakaa Protector.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pakaa Protector.png"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 			"type": "Creature — Beast Spirit ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ravenous Butcher.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ravenous Butcher.png"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 			"type": "Creature — Crab ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scuttle Crab.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scuttle Crab.png"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Shrieking Spinner.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shrieking Spinner.png"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			"type": "Creature — Bird Beast ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Snowy Razorclaw.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Snowy Razorclaw.png"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"type": "Instant",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spinning Spectacle.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spinning Spectacle.png"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Strength of the Storm God.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Strength of the Storm God.png"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"type": "Legendary Creature — Human Assassin ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Talon, Blade's Shadow.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Talon, Blade's Shadow.png"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"type": "Legendary Creature — Yordle Druid ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Teemo, Bandle Scout.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Teemo, Bandle Scout.png"
 			}
 		},
 		{
@@ -586,7 +586,7 @@
 			"type": "Creature — Minotaur ",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Agent of the Black Rose.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Agent of the Black Rose.png"
 			}
 		},
 		{
@@ -596,7 +596,7 @@
 			"type": "Legendary Creature — Demon Bear Toy ",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Tibbers, Mayhem's Guardian.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Tibbers, Mayhem's Guardian.png"
 			}
 		},
 		{
@@ -606,7 +606,7 @@
 			"type": "Legendary Creature — Rat Rogue ",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twitch, Plague Rat.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twitch, Plague Rat.png"
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Unrivaled Contender.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Unrivaled Contender.png"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 			"type": "Legendary Creature — Elemental Bear God ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Volibear, the Relentless Storm.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Volibear, the Relentless Storm.png"
 			}
 		},
 		{
@@ -636,7 +636,7 @@
 			"type": "Legendary Creature — Werewolf ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Warwick, Uncaged Wrath of Zaun.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Warwick, Uncaged Wrath of Zaun.png"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 			"type": "Creature — Human Citizen ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chembaron Mastermind.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chembaron Mastermind.png"
 			}
 		},
 		{
@@ -656,7 +656,7 @@
 			"type": "Creature — Bat Peasant ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chirean Sumpworker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chirean Sumpworker.png"
 			}
 		},
 		{
@@ -666,7 +666,7 @@
 			"type": "Creature — Yordle ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chump Whump.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chump Whump.png"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 			"type": "Legendary Creature — Human Citizen ",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Renata Glasc, Chem-Baroness.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Renata Glasc, Chem-Baroness.png"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 			"type": "Legendary Artifact Creature — Human Outlaw ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Urgot, Vindictive Dreadnought.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Urgot, Vindictive Dreadnought.png"
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blood Hunt.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blood Hunt.png"
 			}
 		},
 		{
@@ -706,17 +706,17 @@
 			"type": "Legendary Creature — Human Warlock ",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Annie, Tybaulk's Chosen.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Annie, Tybaulk's Chosen.png"
 			}
 		},
 		{
-			"name": "Rite of Diminance",
+			"name": "Rite of Dominance",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rite of Diminance.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rite of Dominance.png"
 			}
 		},
 		{
@@ -726,7 +726,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Inspired by the Crowd.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Inspired by the Crowd.png"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 			"type": "Legendary Creature — Elder Dragon God ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aurelion Sol, Star Forger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aurelion Sol, Star Forger.png"
 			}
 		},
 		{
@@ -746,7 +746,7 @@
 			"type": "Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ripper's Bay.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ripper's Bay.png"
 			}
 		},
 		{
@@ -756,7 +756,7 @@
 			"type": "Creature — Elemental Pegasus Unicorn ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Solari Stellacorn.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Solari Stellacorn.png"
 			}
 		},
 		{
@@ -766,7 +766,7 @@
 			"type": "Creature — Elemental Pegasus Unicorn ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cosmic Youngling.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cosmic Youngling.png"
 			}
 		},
 		{
@@ -776,7 +776,7 @@
 			"type": "Creature — Elemental Beast ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Winding Light.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Winding Light.png"
 			}
 		},
 		{
@@ -786,7 +786,7 @@
 			"type": "Creature — Elemental Beast ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Stonebreaker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Stonebreaker.png"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 			"type": "Legendary Creature — Elemental ",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chip, Little Pebble.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chip, Little Pebble.png"
 			}
 		},
 		{
@@ -806,7 +806,7 @@
 			"type": "Creature — Elemental ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cliff Elemental.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cliff Elemental.png"
 			}
 		},
 		{
@@ -816,7 +816,7 @@
 			"type": "Creature — Elemental Elk ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Herald of Spring.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Herald of Spring.png"
 			}
 		},
 		{
@@ -826,7 +826,7 @@
 			"type": "Creature — Insect Horror ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Xer'sai Dunebreaker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Xer'sai Dunebreaker.png"
 			}
 		},
 		{
@@ -836,7 +836,7 @@
 			"type": "Legendary Creature — Human Ranger ",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Taliyah, Stoneweaver.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Taliyah, Stoneweaver.png"
 			}
 		},
 		{
@@ -846,7 +846,7 @@
 			"type": "Creature — Elemental Dog ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Friendly Messenger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Friendly Messenger.png"
 			}
 		},
 		{
@@ -856,7 +856,7 @@
 			"type": "Creature — Human Rogue ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Starry Scamp.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Starry Scamp.png"
 			}
 		},
 		{
@@ -866,7 +866,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Giddy Sparkleologist.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Giddy Sparkleologist.png"
 			}
 		},
 		{
@@ -876,7 +876,7 @@
 			"type": "Legendary Creature — Elemental ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Malphite, Shard of the Monolith.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Malphite, Shard of the Monolith.png"
 			}
 		},
 		{
@@ -886,7 +886,7 @@
 			"type": "Creature — Elemental Shaman ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Golden Sister.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Golden Sister.png"
 			}
 		},
 		{
@@ -896,7 +896,7 @@
 			"type": "Creature — Elemental Shaman ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Silver Sister.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Silver Sister.png"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Oath of the Battlesister.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Oath of the Battlesister.png"
 			}
 		},
 		{
@@ -916,7 +916,7 @@
 			"type": "Creature — Merfolk Bard ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Marai Songstress.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Marai Songstress.png"
 			}
 		},
 		{
@@ -926,7 +926,7 @@
 			"type": "Artifact",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Obelisk of Power.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Obelisk of Power.png"
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 			"type": "Legendary Creature — Icathian Warrior ",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Jax, Grandmaster at Arms.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Jax, Grandmaster at Arms.png"
 			}
 		},
 		{
@@ -946,7 +946,7 @@
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/The Light of Icathia.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/The Light of Icathia.png"
 			}
 		},
 		{
@@ -956,7 +956,7 @@
 			"type": "Creature — Golem ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blue Sentinel.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blue Sentinel.png"
 			}
 		},
 		{
@@ -966,7 +966,7 @@
 			"type": "Creature — Crab Horror ",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Horrific Scavenger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Horrific Scavenger.png"
 			}
 		},
 		{
@@ -976,7 +976,7 @@
 			"type": "Creature — Human Assassin ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lunari Shadestalker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lunari Shadestalker.png"
 			}
 		},
 		{
@@ -986,7 +986,7 @@
 			"type": "Legendary Creature — Angel Human Shaman ",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Morgana, Fallen Deliberate.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Morgana, Fallen Deliberate.png"
 			}
 		},
 		{
@@ -996,7 +996,7 @@
 			"type": "Enchantment",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Black Mist.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Black Mist.png"
 			}
 		},
 		{
@@ -1006,7 +1006,7 @@
 			"type": "Instant",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chains of Corruption.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chains of Corruption.png"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Black Shield.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Black Shield.png"
 			}
 		},
 		{
@@ -1026,7 +1026,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Dark Binding.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Dark Binding.png"
 			}
 		},
 		{
@@ -1036,7 +1036,7 @@
 			"type": "Legendary Creature — Human Detective ",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Caitlyn, Sheriff of Piltover.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Caitlyn, Sheriff of Piltover.png"
 			}
 		},
 		{
@@ -1046,7 +1046,7 @@
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Vi, Piltover Enforcer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Vi, Piltover Enforcer.png"
 			}
 		},
 		{
@@ -1056,7 +1056,7 @@
 			"type": "Sorcery",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Noxian Tactics.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Noxian Tactics.png"
 			}
 		},
 		{
@@ -1066,7 +1066,7 @@
 			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Love Tap.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Love Tap.png"
 			}
 		},
 		{
@@ -1076,7 +1076,7 @@
 			"type": "Artifact",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Carvings of Divination.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Carvings of Divination.png"
 			}
 		},
 		{
@@ -1086,7 +1086,7 @@
 			"type": "Legendary Enchantment Creature — Cat ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Yuumi, Feline Friend.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Yuumi, Feline Friend.png"
 			}
 		},
 		{
@@ -1096,7 +1096,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Strength of Company.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Strength of Company.png"
 			}
 		},
 		{
@@ -1106,7 +1106,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blooming Bud.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blooming Bud.png"
 			}
 		},
 		{
@@ -1116,7 +1116,7 @@
 			"type": "Creature — Faerie ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blooming Petal Pixie.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blooming Petal Pixie.png"
 			}
 		},
 		{
@@ -1126,7 +1126,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Dream-Laden Bough.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Dream-Laden Bough.png"
 			}
 		},
 		{
@@ -1136,7 +1136,7 @@
 			"type": "Legendary Creature — Faerie Druid ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lillia, Bashful Bloom.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lillia, Bashful Bloom.png"
 			}
 		},
 		{
@@ -1146,7 +1146,7 @@
 			"type": "Legendary Creature — Yordle Wizard ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lulu, Fae Sorceress.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lulu, Fae Sorceress.png"
 			}
 		},
 		{
@@ -1156,7 +1156,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Funsmith.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Funsmith.png"
 			}
 		},
 		{
@@ -1166,7 +1166,7 @@
 			"type": "Creature — Snake ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Beguiling Cobra.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Beguiling Cobra.png"
 			}
 		},
 		{
@@ -1176,7 +1176,7 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brave the Freljord.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brave the Freljord.png"
 			}
 		},
 		{
@@ -1186,7 +1186,7 @@
 			"type": "Creature — Yordle Ranger ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Grizzled Ranger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Grizzled Ranger.png"
 			}
 		},
 		{
@@ -1196,7 +1196,7 @@
 			"type": "Sorcery",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Crystal Arrow.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Crystal Arrow.png"
 			}
 		},
 		{
@@ -1206,7 +1206,7 @@
 			"type": "Legendary Creature — Human Ranger ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ashe, Warmother of the Avarosa.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ashe, Warmother of the Avarosa.png"
 			}
 		},
 		{
@@ -1216,7 +1216,7 @@
 			"type": "Legendary Creature — Human Warlock ",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lissandra, Lady of Ice and Darkness.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lissandra, Lady of Ice and Darkness.png"
 			}
 		},
 		{
@@ -1226,7 +1226,7 @@
 			"type": "Legendary Creature — Human Boar Warrior ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sejuani, Fury of the North.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sejuani, Fury of the North.png"
 			}
 		},
 		{
@@ -1236,7 +1236,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Caught in the Cold.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Caught in the Cold.png"
 			}
 		},
 		{
@@ -1246,7 +1246,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Succumb to the Iceborn.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Succumb to the Iceborn.png"
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			"type": "Creature — Wolf ",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rimefang Denmother.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rimefang Denmother.png"
 			}
 		},
 		{
@@ -1266,7 +1266,7 @@
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ground Slam.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ground Slam.png"
 			}
 		},
 		{
@@ -1276,7 +1276,7 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rockslide.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rockslide.png"
 			}
 		},
 		{
@@ -1286,7 +1286,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Clash of Giants.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Clash of Giants.png"
 			}
 		},
 		{
@@ -1296,7 +1296,7 @@
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brutal Skirmish.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brutal Skirmish.png"
 			}
 		},
 		{
@@ -1306,7 +1306,7 @@
 			"type": "Legendary Creature — Horror Insect ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Kha'Zix, Voidreaver.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Kha'Zix, Voidreaver.png"
 			}
 		},
 		{
@@ -1316,7 +1316,7 @@
 			"type": "Legendary Creature — Vastayan Ranger ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rengar, Unseen Predator.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rengar, Unseen Predator.png"
 			}
 		},
 		{
@@ -1326,7 +1326,7 @@
 			"type": "Enchantment",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ritual of the Black Flame.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ritual of the Black Flame.png"
 			}
 		},
 		{
@@ -1336,7 +1336,7 @@
 			"type": "Legendary Creature — Yordle Artificer ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Heimerdinger, Revered Inventor.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Heimerdinger, Revered Inventor.png"
 			}
 		},
 		{
@@ -1346,7 +1346,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Whispered Words.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Whispered Words.png"
 			}
 		},
 		{
@@ -1356,7 +1356,7 @@
 			"type": "Sorcery",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Voidling Adaptation.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Voidling Adaptation.png"
 			}
 		},
 		{
@@ -1366,7 +1366,7 @@
 			"type": "Legendary Creature — Spirit Knight ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mordekaiser, Iron Revenant.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mordekaiser, Iron Revenant.png"
 			}
 		},
 		{
@@ -1376,7 +1376,7 @@
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ekko, the Boy Who Shattered Time.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ekko, the Boy Who Shattered Time.png"
 			}
 		},
 		{
@@ -1386,7 +1386,7 @@
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Called Shot.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Called Shot.png"
 			}
 		},
 		{
@@ -1396,7 +1396,7 @@
 			"type": "Creature — Vastayan Bard ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Smooth Soloist.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Smooth Soloist.png"
 			}
 		},
 		{
@@ -1406,7 +1406,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sunk Cost.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sunk Cost.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"type": "Creature — Shade Cleric Assassin ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Enveloping Shadowblade.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Enveloping Shadowblade.png"
 			}
 		},
 		{
@@ -1426,7 +1426,7 @@
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Haunted Relic.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Haunted Relic.png"
 			}
 		},
 		{
@@ -1436,7 +1436,7 @@
 			"type": "Legendary Creature — Human Ninja ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Zed, Master of Shadows.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Zed, Master of Shadows.png"
 			}
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"type": "Creature — Shark Rat ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Wharf Rat.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Wharf Rat.png"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Staggering Strikes.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Staggering Strikes.png"
 			}
 		},
 		{
@@ -1466,7 +1466,7 @@
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Salvaged Scrap.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Salvaged Scrap.png"
 			}
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"type": "Creature — Elephant ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Towering Pairophant.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Towering Pairophant.png"
 			}
 		},
 		{
@@ -1486,7 +1486,7 @@
 			"type": "Artifact Creature — Zombie Ooze ",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Chimeslime.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Chimeslime.png"
 			}
 		},
 		{
@@ -1496,7 +1496,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rapid Deluge.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rapid Deluge.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"type": "Creature — Elemental Dragon ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Whiteflame Protector.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Whiteflame Protector.png"
 			}
 		},
 		{
@@ -1516,7 +1516,7 @@
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Jinx, Loose Cannon.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Jinx, Loose Cannon.png"
 			}
 		},
 		{
@@ -1526,7 +1526,7 @@
 			"type": "Legendary Creature — Scorpion Noble ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Skarner, Primordial Sovereign.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Skarner, Primordial Sovereign.png"
 			}
 		},
 		{
@@ -1536,7 +1536,7 @@
 			"type": "Legendary Artifact Creature — Demon Clown Toy ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Shaco, Malicious Marionette.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shaco, Malicious Marionette.png"
 			}
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Opportune Hijacking.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Opportune Hijacking.png"
 			}
 		},
 		{
@@ -1556,7 +1556,7 @@
 			"type": "Legendary Artifact Creature — Golem Warrior ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Galio, Petricite Colossus.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Galio, Petricite Colossus.png"
 			}
 		},
 		{
@@ -1566,7 +1566,7 @@
 			"type": "Artifact Creature — Bird Golem ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Petricite Broadwing.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Petricite Broadwing.png"
 			}
 		},
 		{
@@ -1576,7 +1576,7 @@
 			"type": "Artifact Creature — Vehicle ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Citybreaker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Citybreaker.png"
 			}
 		},
 		{
@@ -1586,7 +1586,7 @@
 			"type": "Legendary Creature — Yordle Knight ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Poppy, Keeper of the Hammer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Poppy, Keeper of the Hammer.png"
 			}
 		},
 		{
@@ -1596,7 +1596,7 @@
 			"type": "Legendary Artifact — Equipment ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hammer of Orlon.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hammer of Orlon.png"
 			}
 		},
 		{
@@ -1606,7 +1606,7 @@
 			"type": "Legendary Creature — Human Knight ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rell, Iron Maiden.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rell, Iron Maiden.png"
 			}
 		},
 		{
@@ -1616,7 +1616,7 @@
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sivir, Battle Mistress.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sivir, Battle Mistress.png"
 			}
 		},
 		{
@@ -1626,7 +1626,7 @@
 			"type": "Legendary Creature — Druid Avatar  ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Soraka, the Starchild.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Soraka, the Starchild.png"
 			}
 		},
 		{
@@ -1636,7 +1636,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Soul Shackles.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Soul Shackles.png"
 			}
 		},
 		{
@@ -1646,7 +1646,7 @@
 			"type": "Creature — Treefolk ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spiritual Rootling.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spiritual Rootling.png"
 			}
 		},
 		{
@@ -1656,7 +1656,7 @@
 			"type": "Legendary Creature — Yordle Soldier ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Tristana, Yordle Gunner.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Tristana, Yordle Gunner.png"
 			}
 		},
 		{
@@ -1666,7 +1666,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Soul Sword.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Soul Sword.png"
 			}
 		},
 		{
@@ -1676,7 +1676,7 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ring of Frost.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ring of Frost.png"
 			}
 		},
 		{
@@ -1686,7 +1686,7 @@
 			"type": "Legendary Creature — Zombie Cleric ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Thresh, Chain Warden.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Thresh, Chain Warden.png"
 			}
 		},
 		{
@@ -1696,7 +1696,7 @@
 			"type": "Creature — Spirit Warlock ",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Wraith of Echoes.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Wraith of Echoes.png"
 			}
 		},
 		{
@@ -1706,7 +1706,7 @@
 			"type": "Enchantment",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Crimson Pact.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Crimson Pact.png"
 			}
 		},
 		{
@@ -1716,7 +1716,7 @@
 			"type": "Enchantment — Aura Curse ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Curse of the Sad Mummy.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Curse of the Sad Mummy.png"
 			}
 		},
 		{
@@ -1726,7 +1726,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Evelyn's Last Caress.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Evelyn's Last Caress.png"
 			}
 		},
 		{
@@ -1736,7 +1736,7 @@
 			"type": "Instant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lamb's Respite.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lamb's Respite.png"
 			}
 		},
 		{
@@ -1746,7 +1746,7 @@
 			"type": "Creature — Human Soldier ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Imperial Demolitionist.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Imperial Demolitionist.png"
 			}
 		},
 		{
@@ -1756,7 +1756,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Frenzied Skitterer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Frenzied Skitterer.png"
 			}
 		},
 		{
@@ -1766,7 +1766,7 @@
 			"type": "Legendary Creature — Demon Nightmare ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Nocturne, Eternal Nightmare.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Nocturne, Eternal Nightmare.png"
 			}
 		},
 		{
@@ -1776,7 +1776,7 @@
 			"type": "Legendary Enchantment Creature — Demon ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Fiddlesticks, the Ancient Fear.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Fiddlesticks, the Ancient Fear.png"
 			}
 		},
 		{
@@ -1786,7 +1786,7 @@
 			"type": "Creature — Human Minion ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Desolate Husk.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Desolate Husk.png"
 			}
 		},
 		{
@@ -1796,7 +1796,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Concerted Strike.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Concerted Strike.png"
 			}
 		},
 		{
@@ -1806,7 +1806,7 @@
 			"type": "Creature — Vastayan Citizen ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Smooth Mixologist.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Smooth Mixologist.png"
 			}
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"type": "Legendary Creature — Avatar Knight ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Leona, Radiant Dawn.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Leona, Radiant Dawn.png"
 			}
 		},
 		{
@@ -1826,7 +1826,7 @@
 			"type": "Legendary Creature — Human Knight ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Garen, the Might of Demacia.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Garen, the Might of Demacia.png"
 			}
 		},
 		{
@@ -1836,7 +1836,7 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Blessing of Durand.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Blessing of Durand.png"
 			}
 		},
 		{
@@ -1846,7 +1846,7 @@
 			"type": "Creature — Yordle Detective ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veteran Investigator.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veteran Investigator.png"
 			}
 		},
 		{
@@ -1856,7 +1856,7 @@
 			"type": "Creature — Human Soldier ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brightsteel Protector.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brightsteel Protector.png"
 			}
 		},
 		{
@@ -1866,7 +1866,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Seed of Strength.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Seed of Strength.png"
 			}
 		},
 		{
@@ -1876,7 +1876,7 @@
 			"type": "Creature — Human Performer ",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Arena Battlecaster.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Arena Battlecaster.png"
 			}
 		},
 		{
@@ -1886,7 +1886,7 @@
 			"type": "Instant",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Vault Breaker.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Vault Breaker.png"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 			"type": "Legendary Creature — Yordle Artificer ",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ziggs, Hexplosives Expert.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ziggs, Hexplosives Expert.png"
 			}
 		},
 		{
@@ -1906,7 +1906,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Denial of Shadow.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Denial of Shadow.png"
 			}
 		},
 		{
@@ -1916,7 +1916,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Encore.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Encore.png"
 			}
 		},
 		{
@@ -1926,7 +1926,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mystic Shot.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mystic Shot.png"
 			}
 		},
 		{
@@ -1936,7 +1936,7 @@
 			"type": "Legendary Creature — Elemental ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brand, Burning Vengeance.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brand, Burning Vengeance.png"
 			}
 		},
 		{
@@ -1946,7 +1946,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pakaa Cub.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pakaa Cub.png"
 			}
 		},
 		{
@@ -1956,7 +1956,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Molten Breath.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Molten Breath.png"
 			}
 		},
 		{
@@ -1966,7 +1966,7 @@
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Heavy Metal.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Heavy Metal.png"
 			}
 		},
 		{
@@ -1976,7 +1976,7 @@
 			"type": "Legendary Creature — Construct Performer ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Orianna, Lady of Clockwork.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Orianna, Lady of Clockwork.png"
 			}
 		},
 		{
@@ -1986,7 +1986,7 @@
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Incandescence.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Incandescence.png"
 			}
 		},
 		{
@@ -1996,7 +1996,7 @@
 			"type": "Legendary Creature — Human Shaman ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lux, Lady of Luminosity.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lux, Lady of Luminosity.png"
 			}
 		},
 		{
@@ -2006,7 +2006,7 @@
 			"type": "Creature — Shark ",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Captive Greyback.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Captive Greyback.png"
 			}
 		},
 		{
@@ -2016,7 +2016,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/All Out.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/All Out.png"
 			}
 		},
 		{
@@ -2026,7 +2026,7 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Grasp of the Undying.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Grasp of the Undying.png"
 			}
 		},
 		{
@@ -2036,13 +2036,13 @@
 			"type": "Legendary Creature — Soldier Avatar  ",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pantheon, Aspect of War_front.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pantheon, Aspect of War_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Pantheon, Aspect of War_back.png"
+					"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Pantheon, Aspect of War_back.png"
 				}
 			}
 		},
@@ -2053,7 +2053,7 @@
 			"type": "Creature — Beast Fish ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mini-Minitee.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mini-Minitee.png"
 			}
 		},
 		{
@@ -2063,7 +2063,7 @@
 			"type": "Creature — Leech Horror ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twisted Leech.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twisted Leech.png"
 			}
 		},
 		{
@@ -2073,7 +2073,7 @@
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Yasuo, Unforgiven Wanderer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Yasuo, Unforgiven Wanderer.png"
 			}
 		},
 		{
@@ -2083,7 +2083,7 @@
 			"type": "Legendary Creature — Human Wizard ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/LeBlanc, Matron of the Black Rose.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/LeBlanc, Matron of the Black Rose.png"
 			}
 		},
 		{
@@ -2093,7 +2093,7 @@
 			"type": "Legendary Creature — Human Monk ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Master Yi, Last of the Wuju.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Master Yi, Last of the Wuju.png"
 			}
 		},
 		{
@@ -2103,7 +2103,7 @@
 			"type": "Creature — Human Citizen ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rock Hopper.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rock Hopper.png"
 			}
 		},
 		{
@@ -2113,7 +2113,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Song of the Meeps.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Song of the Meeps.png"
 			}
 		},
 		{
@@ -2123,7 +2123,7 @@
 			"type": "Enchantment",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Acceleration Gate.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Acceleration Gate.png"
 			}
 		},
 		{
@@ -2133,7 +2133,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Divine Judgement.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Divine Judgement.png"
 			}
 		},
 		{
@@ -2143,7 +2143,7 @@
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Falling Comet.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Falling Comet.png"
 			}
 		},
 		{
@@ -2153,7 +2153,7 @@
 			"type": "Legendary Creature — Vastayan Shapeshifter ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Neeko, Curious Chameleon.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Neeko, Curious Chameleon.png"
 			}
 		},
 		{
@@ -2163,7 +2163,7 @@
 			"type": "Legendary Creature — Human Cleric ",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aphelios, Lunari Intertwined.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aphelios, Lunari Intertwined.png"
 			}
 		},
 		{
@@ -2173,7 +2173,7 @@
 			"type": "Legendary Creature — Zombie Wizard ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Karthus, Deathsinger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Karthus, Deathsinger.png"
 			}
 		},
 		{
@@ -2183,7 +2183,7 @@
 			"type": "Legendary Creature — Human Shaman Ranger ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ezreal, Prodigal Explorer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ezreal, Prodigal Explorer.png"
 			}
 		},
 		{
@@ -2193,7 +2193,7 @@
 			"type": "Legendary Creature — Human Pirate ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Gangplank, Saltwater Scourge.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Gangplank, Saltwater Scourge.png"
 			}
 		},
 		{
@@ -2203,7 +2203,7 @@
 			"type": "Legendary Creature — Vampire Berserker ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Briar, Restrained Hunger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Briar, Restrained Hunger.png"
 			}
 		},
 		{
@@ -2213,7 +2213,7 @@
 			"type": "Creature — Bird Cat ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hungry Owlcat.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hungry Owlcat.png"
 			}
 		},
 		{
@@ -2223,7 +2223,7 @@
 			"type": "Legendary Creature — Treefolk Ally ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ivern, Friend of the Forest.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ivern, Friend of the Forest.png"
 			}
 		},
 		{
@@ -2233,7 +2233,7 @@
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/K'Sante, Pride of Nazumah.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/K'Sante, Pride of Nazumah.png"
 			}
 		},
 		{
@@ -2243,7 +2243,7 @@
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Jayce, Defender of Tomorrow.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Jayce, Defender of Tomorrow.png"
 			}
 		},
 		{
@@ -2253,7 +2253,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Whirling Mirage.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Whirling Mirage.png"
 			}
 		},
 		{
@@ -2263,7 +2263,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bristlehog.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bristlehog.png"
 			}
 		},
 		{
@@ -2273,7 +2273,7 @@
 			"type": "Creature — Sheep Dog ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trusty Ramhound.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Trusty Ramhound.png"
 			}
 		},
 		{
@@ -2283,7 +2283,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Midenstokke Henchmen.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Midenstokke Henchmen.png"
 			}
 		},
 		{
@@ -2293,7 +2293,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Featherstorm.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Featherstorm.png"
 			}
 		},
 		{
@@ -2303,7 +2303,7 @@
 			"type": "Creature — Wraith ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Proliferating Darkwraith.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Proliferating Darkwraith.png"
 			}
 		},
 		{
@@ -2313,7 +2313,7 @@
 			"type": "Instant",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rite of Negation.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rite of Negation.png"
 			}
 		},
 		{
@@ -2323,7 +2323,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Flame Chompers.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Flame Chompers.png"
 			}
 		},
 		{
@@ -2333,7 +2333,7 @@
 			"type": "Creature — Avatar Ranger ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ascended Traveler.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ascended Traveler.png"
 			}
 		},
 		{
@@ -2343,7 +2343,7 @@
 			"type": "Creature — Yordle Wizard ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Twisted Catalyzer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Twisted Catalyzer.png"
 			}
 		},
 		{
@@ -2353,7 +2353,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Fear Beyond Death.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Fear Beyond Death.png"
 			}
 		},
 		{
@@ -2363,7 +2363,7 @@
 			"type": "Creature — Elemental Sheep ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/The Cloven Way.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/The Cloven Way.png"
 			}
 		},
 		{
@@ -2373,7 +2373,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Shaken Ground.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Shaken Ground.png"
 			}
 		},
 		{
@@ -2383,7 +2383,7 @@
 			"type": "Creature — Spirit ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Luminosprite.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Luminosprite.png"
 			}
 		},
 		{
@@ -2393,7 +2393,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aspiring Chronomancer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aspiring Chronomancer.png"
 			}
 		},
 		{
@@ -2403,7 +2403,7 @@
 			"type": "Creature — Vastayan Druid ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Curious Aviarist.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Curious Aviarist.png"
 			}
 		},
 		{
@@ -2413,7 +2413,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Caretaker's Shrine.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Caretaker's Shrine.png"
 			}
 		},
 		{
@@ -2423,7 +2423,7 @@
 			"type": "Creature — Elemental Bird ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Solari Sunhawk.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Solari Sunhawk.png"
 			}
 		},
 		{
@@ -2433,7 +2433,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Amateur Aeronaut.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Amateur Aeronaut.png"
 			}
 		},
 		{
@@ -2443,7 +2443,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/The Skies Descend.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/The Skies Descend.png"
 			}
 		},
 		{
@@ -2453,7 +2453,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Paddle Star.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Paddle Star.png"
 			}
 		},
 		{
@@ -2463,7 +2463,7 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Sky Charge.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Sky Charge.png"
 			}
 		},
 		{
@@ -2473,7 +2473,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trail of Sump.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Trail of Sump.png"
 			}
 		},
 		{
@@ -2483,7 +2483,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Durand Protege.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Durand Protege.png"
 			}
 		},
 		{
@@ -2493,7 +2493,7 @@
 			"type": "Creature — Vastayan Druid ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Trusty Adnere.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Trusty Adnere.png"
 			}
 		},
 		{
@@ -2503,7 +2503,7 @@
 			"type": "Creature — Elemental Dragon ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Infinite Mindsplitter.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Infinite Mindsplitter.png"
 			}
 		},
 		{
@@ -2513,7 +2513,7 @@
 			"type": "Instant",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Grand Starfall.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Grand Starfall.png"
 			}
 		},
 		{
@@ -2523,7 +2523,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Protective Broodfather.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Protective Broodfather.png"
 			}
 		},
 		{
@@ -2533,7 +2533,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Birds of Study.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Birds of Study.png"
 			}
 		},
 		{
@@ -2543,7 +2543,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Brush Growth.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Brush Growth.png"
 			}
 		},
 		{
@@ -2553,7 +2553,7 @@
 			"type": "Creature — Avatar Warrior ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Aspect of the Warrior.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Aspect of the Warrior.png"
 			}
 		},
 		{
@@ -2563,7 +2563,7 @@
 			"type": "Artifact Creature — Assembly-Worker Construct ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Assembly Bot.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Assembly Bot.png"
 			}
 		},
 		{
@@ -2573,7 +2573,7 @@
 			"type": "Legendary Creature — Golem Ally ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Daisy, Green Father's Friend.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Daisy, Green Father's Friend.png"
 			}
 		},
 		{
@@ -2583,7 +2583,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cell Division.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cell Division.png"
 			}
 		},
 		{
@@ -2593,7 +2593,7 @@
 			"type": "Creature — Elemental ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ancient Krug.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ancient Krug.png"
 			}
 		},
 		{
@@ -2603,7 +2603,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Plaza Guardian.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Plaza Guardian.png"
 			}
 		},
 		{
@@ -2613,7 +2613,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Moondreamer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Moondreamer.png"
 			}
 		},
 		{
@@ -2623,7 +2623,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mountain Scryer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mountain Scryer.png"
 			}
 		},
 		{
@@ -2633,7 +2633,7 @@
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rend.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rend.png"
 			}
 		},
 		{
@@ -2643,7 +2643,7 @@
 			"type": "Creature — Lizard ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Bitsy Lizard.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Bitsy Lizard.png"
 			}
 		},
 		{
@@ -2653,7 +2653,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Against the Odds.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Against the Odds.png"
 			}
 		},
 		{
@@ -2663,7 +2663,7 @@
 			"type": "Creature — Frog ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Giga Gromp.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Giga Gromp.png"
 			}
 		},
 		{
@@ -2673,7 +2673,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cull the Meek.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cull the Meek.png"
 			}
 		},
 		{
@@ -2683,7 +2683,7 @@
 			"type": "Creature — Frog ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Spotted Toad.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Spotted Toad.png"
 			}
 		},
 		{
@@ -2693,7 +2693,7 @@
 			"type": "Sorcery",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Primordial Burst.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Primordial Burst.png"
 			}
 		},
 		{
@@ -2703,7 +2703,7 @@
 			"type": "Creature — Yordle Monk ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Gust Monk.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Gust Monk.png"
 			}
 		},
 		{
@@ -2713,7 +2713,7 @@
 			"type": "Instant",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Statikk Shock.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Statikk Shock.png"
 			}
 		},
 		{
@@ -2723,7 +2723,7 @@
 			"type": "Creature — Human Citizen ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Astute Academic.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Astute Academic.png"
 			}
 		},
 		{
@@ -2733,7 +2733,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hoarder's Helper.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hoarder's Helper.png"
 			}
 		},
 		{
@@ -2743,7 +2743,7 @@
 			"type": "Creature — Yordle Druid ",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Lizard Trainers.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Lizard Trainers.png"
 			}
 		},
 		{
@@ -2753,7 +2753,7 @@
 			"type": "Creature — Yordle Minion ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scattered Husk.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scattered Husk.png"
 			}
 		},
 		{
@@ -2763,7 +2763,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veiled Conjurer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veiled Conjurer.png"
 			}
 		},
 		{
@@ -2773,7 +2773,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Veiled Scholar.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Veiled Scholar.png"
 			}
 		},
 		{
@@ -2783,7 +2783,7 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Hidden Pathway.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Hidden Pathway.png"
 			}
 		},
 		{
@@ -2793,7 +2793,7 @@
 			"type": "Creature — Yordle Soldier ",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Yordle Squire.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Yordle Squire.png"
 			}
 		},
 		{
@@ -2803,7 +2803,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Silver Bolts.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Silver Bolts.png"
 			}
 		},
 		{
@@ -2813,7 +2813,7 @@
 			"type": "Instant",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ferromancy — Crash Down.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ferromancy — Crash Down.png"
 			}
 		},
 		{
@@ -2823,7 +2823,7 @@
 			"type": "Creature — Elemental ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Silent Stormcloud.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Silent Stormcloud.png"
 			}
 		},
 		{
@@ -2833,7 +2833,7 @@
 			"type": "Creature — Human Soldier ",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Mageseeker Inquisitor.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Mageseeker Inquisitor.png"
 			}
 		},
 		{
@@ -2843,7 +2843,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ruby-Eyed Conjurer.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ruby-Eyed Conjurer.png"
 			}
 		},
 		{
@@ -2853,7 +2853,7 @@
 			"type": "Enchantment",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Event Horizon.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Event Horizon.png"
 			}
 		},
 		{
@@ -2863,7 +2863,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Field Promotion.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Field Promotion.png"
 			}
 		},
 		{
@@ -2873,7 +2873,7 @@
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Progress Day Celebration.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Progress Day Celebration.png"
 			}
 		},
 		{
@@ -2883,7 +2883,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Rocket Blaster.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Rocket Blaster.png"
 			}
 		},
 		{
@@ -2893,7 +2893,7 @@
 			"type": "Artifact Creature — Crab Construct ",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scrap Scuttler.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scrap Scuttler.png"
 			}
 		},
 		{
@@ -2903,7 +2903,7 @@
 			"type": "Artifact Creature — Boar Golem ",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Petricite Charger.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Petricite Charger.png"
 			}
 		},
 		{
@@ -2913,7 +2913,7 @@
 			"type": "Artifact Creature — Dinosaur Construct ",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/T-Hex.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/T-Hex.png"
 			}
 		},
 		{
@@ -2923,7 +2923,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Electric Shredder.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Electric Shredder.png"
 			}
 		},
 		{
@@ -2933,7 +2933,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Penitentiary Keys.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Penitentiary Keys.png"
 			}
 		},
 		{
@@ -2943,7 +2943,7 @@
 			"type": "Artifact Creature — Beast Golem ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Petricite Behemoth.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Petricite Behemoth.png"
 			}
 		},
 		{
@@ -2953,7 +2953,7 @@
 			"type": "Enchantment",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Cask Depot.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Cask Depot.png"
 			}
 		},
 		{
@@ -2963,7 +2963,7 @@
 			"type": "Legendary Creature — Yordle Pilot ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Corki, Daring Bombardier.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Corki, Daring Bombardier.png"
 			}
 		},
 		{
@@ -2973,7 +2973,7 @@
 			"type": "Artifact",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Ascended's Gemstone.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Ascended's Gemstone.png"
 			}
 		},
 		{
@@ -2983,7 +2983,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Starfire Spellblade.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Starfire Spellblade.png"
 			}
 		},
 		{
@@ -2993,7 +2993,7 @@
 			"type": "Artifact Creature — Construct Soldier ",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Carved Bladetwirler.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Carved Bladetwirler.png"
 			}
 		},
 		{
@@ -3003,7 +3003,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Scout's Bow.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Scout's Bow.png"
 			}
 		},
 		{
@@ -3013,13 +3013,13 @@
 			"type": "Legendary Creature — Beast Avatar ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Death, Swift Release_front.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Swift Release_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Death, Swift Release_back.png"
+					"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Swift Release_back.png"
 				}
 			}
 		},
@@ -3030,7 +3030,7 @@
 			"type": "Legendary Creature — Wolf Avatar ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Death, Violent Finality.png"
+				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Death, Violent Finality.png"
 			}
 		},
 		]
@@ -3200,7 +3200,7 @@
 		30 Unrivaled Contender
 		30 Chirean Sumpworker
 		30 Chump Whump
-		30 Rite of Diminance
+		30 Rite of Dominance
 		30 Inspired by the Crowd
 		30 Cosmic Youngling
 		30 Cliff Elemental
@@ -3370,7 +3370,7 @@
 	10 Urgot, Vindictive Dreadnought
 	10 Blood Hunt
 	10 Annie, Tybaulk's Chosen
-	10 Rite of Diminance
+	10 Rite of Dominance
 	10 Inspired by the Crowd
 	10 Aurelion Sol, Star Forger
 	10 Ripper's Bay
