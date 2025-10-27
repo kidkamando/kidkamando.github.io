@@ -1,0 +1,3552 @@
+[CustomCards]
+	[	{
+			"name": "The Ruination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/The Ruination.png"
+			}
+		},
+		{
+			"name": "Ruined Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wraith Dragon ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ruined Dragon.png"
+			}
+		},
+		{
+			"name": "Ruined Dragonguard",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Wraith Soldier ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ruined Dragonguard.png"
+			}
+		},
+		{
+			"name": "Ruined Reckoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wraith Minotaur ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ruined Reckoner.png"
+			}
+		},
+		{
+			"name": "The Harrowing",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/The Harrowing.png"
+			}
+		},
+		{
+			"name": "Viego, Ruined King",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Zombie Wraith Noble ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Viego, Ruined King.png"
+			}
+		},
+		{
+			"name": "Knight of the Iron Order",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Spirit Knight ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Knight of the Iron Order.png"
+			}
+		},
+		{
+			"name": "Blade of the Ruined King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Blade of the Ruined King.png"
+			}
+		},
+		{
+			"name": "Akshan, Rogue Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Akshan, Rogue Sentinel.png"
+			}
+		},
+		{
+			"name": "Burgeoning Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Burgeoning Sentinel.png"
+			}
+		},
+		{
+			"name": "Dawning Shadow",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Dawning Shadow.png"
+			}
+		},
+		{
+			"name": "Senna, Mist-Mage Freed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Spirit Cleric ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Senna, Mist-Mage Freed.png"
+			}
+		},
+		{
+			"name": "Lucian, Merciless Purifier",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Lucian, Merciless Purifier.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Swamp.png"
+			}
+		},
+		{
+			"name": "Blessed Hilltop",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Blessed Hilltop.png"
+			}
+		},
+		{
+			"name": "Blighted Ravine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Blighted Ravine.png"
+			}
+		},
+		{
+			"name": "Buried Armory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Buried Armory.png"
+			}
+		},
+		{
+			"name": "Chamber of Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Chamber of Renewal.png"
+			}
+		},
+		{
+			"name": "Crest of Insight",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crest of Insight.png"
+			}
+		},
+		{
+			"name": "Darkin Altar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Darkin Altar.png"
+			}
+		},
+		{
+			"name": "Emperor's Dais",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Emperor's Dais.png"
+			}
+		},
+		{
+			"name": "Forge of Tomorrow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Forge of Tomorrow.png"
+			}
+		},
+		{
+			"name": "Ixaocan",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ixaocan.png"
+			}
+		},
+		{
+			"name": "Mistfallen Battlefield",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mistfallen Battlefield.png"
+			}
+		},
+		{
+			"name": "Monastery of Hirana",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Monastery of Hirana.png"
+			}
+		},
+		{
+			"name": "Piltover & Zaun",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Plains ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Piltover & Zaun.png"
+			}
+		},
+		{
+			"name": "Preservarium",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Preservarium.png"
+			}
+		},
+		{
+			"name": "Reaver's Row",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Reaver's Row.png"
+			}
+		},
+		{
+			"name": "Rockfall Path",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Rockfall Path.png"
+			}
+		},
+		{
+			"name": "Roiling Sands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Roiling Sands.png"
+			}
+		},
+		{
+			"name": "Sandswept Tomb",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sandswept Tomb.png"
+			}
+		},
+		{
+			"name": "Slaughter Docks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Slaughter Docks.png"
+			}
+		},
+		{
+			"name": "Spiral Stairs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Spiral Stairs.png"
+			}
+		},
+		{
+			"name": "Star Spring",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Star Spring.png"
+			}
+		},
+		{
+			"name": "Startipped Peak",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Startipped Peak.png"
+			}
+		},
+		{
+			"name": "Stormcarved Spire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Stormcarved Spire.png"
+			}
+		},
+		{
+			"name": "Tree of Dreams",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tree of Dreams.png"
+			}
+		},
+		{
+			"name": "Trifarian Training Pits",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Trifarian Training Pits.png"
+			}
+		},
+		{
+			"name": "Twisted Treeline",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Twisted Treeline.png"
+			}
+		},
+		{
+			"name": "University of Piltover",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/University of Piltover.png"
+			}
+		},
+		{
+			"name": "Vault of Helia",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Vault of Helia.png"
+			}
+		},
+		{
+			"name": "Veiled Temple",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Veiled Temple.png"
+			}
+		},
+		{
+			"name": "Warlord's Palace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Warlord's Palace.png"
+			}
+		},
+		{
+			"name": "Windswept Hillock",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Windswept Hillock.png"
+			}
+		},
+		{
+			"name": "Affectionate Poro",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Poro ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Affectionate Poro.png"
+			}
+		},
+		{
+			"name": "Braum, Heart of the Freljord",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Braum, Heart of the Freljord.png"
+			}
+		},
+		{
+			"name": "Courageous Poro",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Poro Warrior ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Courageous Poro.png"
+			}
+		},
+		{
+			"name": "Daring Poro",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Poro ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Daring Poro.png"
+			}
+		},
+		{
+			"name": "Dragon Prince Grinzo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dragon Noble ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Dragon Prince Grinzo.png"
+			}
+		},
+		{
+			"name": "Ingvar the Younger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Ranger ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ingvar the Younger.png"
+			}
+		},
+		{
+			"name": "Mighty Poro",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Poro ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mighty Poro.png"
+			}
+		},
+		{
+			"name": "Nimble Poro",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Poro Monk ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Nimble Poro.png"
+			}
+		},
+		{
+			"name": "Patchwork Porobot",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Poro Construct ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Patchwork Porobot.png"
+			}
+		},
+		{
+			"name": "Plundering Poro",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Poro Pirate ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Plundering Poro.png"
+			}
+		},
+		{
+			"name": "Poro Herder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Poro Herder.png"
+			}
+		},
+		{
+			"name": "Poro Metalsmith",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Poro Artificer ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Poro Metalsmith.png"
+			}
+		},
+		{
+			"name": "Poro Sled",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Poro ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Poro Sled.png"
+			}
+		},
+		{
+			"name": "Pouty Poro",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Poro ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Pouty Poro.png"
+			}
+		},
+		{
+			"name": "Prototype Porobot",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Poro Construct ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Prototype Porobot.png"
+			}
+		},
+		{
+			"name": "Sinister Poro",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Poro ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sinister Poro.png"
+			}
+		},
+		{
+			"name": "The Poro King",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Poro Noble ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/The Poro King.png"
+			}
+		},
+		{
+			"name": "The Poro Parade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/The Poro Parade.png"
+			}
+		},
+		{
+			"name": "Ultrasoft Poro",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Poro ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ultrasoft Poro.png"
+			}
+		},
+		{
+			"name": "Valiant Poro",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Poro Knight ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Valiant Poro.png"
+			}
+		},
+		{
+			"name": "Voracious Poro",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Poro ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Voracious Poro.png"
+			}
+		},
+		{
+			"name": "Invasive Hydravine",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{G}{G}",
+			"type": "Creature — Plant Hydra ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Invasive Hydravine.png"
+			}
+		},
+		{
+			"name": "Maokai, Twisted Treant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Treefolk Druid ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Maokai, Twisted Treant.png"
+			}
+		},
+		{
+			"name": "Sap Magic",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sap Magic.png"
+			}
+		},
+		{
+			"name": "Yorick, Shepherd of Souls",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Zombie Monk ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Yorick, Shepherd of Souls.png"
+			}
+		},
+		{
+			"name": "Gwen, Hallowed Seamstress",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Human Toy ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Gwen, Hallowed Seamstress.png"
+			}
+		},
+		{
+			"name": "Duskpetal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Duskpetal.png"
+			}
+		},
+		{
+			"name": "The Elder Dragon, Aspect of the Primeval",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Dragon Avatar ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/The Elder Dragon, Aspect of the Primeval.png"
+			}
+		},
+		{
+			"name": "Howling Abyss",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Howling Abyss.png"
+			}
+		},
+		{
+			"name": "Anivia, the Cryophoenix",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Elemental Phoenix God ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Anivia, the Cryophoenix_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Anivia, the Cryophoenix_back.png"
+				}
+			}
+		},
+		{
+			"name": "Zoe, Aspect of Twilight",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Shaman Avatar  ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Zoe, Aspect of Twilight.png"
+			}
+		},
+		{
+			"name": "Sleepy Trouble Bubble",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sleepy Trouble Bubble.png"
+			}
+		},
+		{
+			"name": "Deadbloom Sapling",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Deadbloom Sapling.png"
+			}
+		},
+		{
+			"name": "Karma, Enlightened One",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Karma, Enlightened One.png"
+			}
+		},
+		{
+			"name": "Shark Chariot",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Shark Chariot.png"
+			}
+		},
+		{
+			"name": "Powder Monkey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Monkey ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Powder Monkey.png"
+			}
+		},
+		{
+			"name": "Void Swarm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Void Swarm.png"
+			}
+		},
+		{
+			"name": "Call the Xer'sai",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Call the Xer'sai.png"
+			}
+		},
+		{
+			"name": "Malzahar, Prophet of the Void",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Malzahar, Prophet of the Void.png"
+			}
+		},
+		{
+			"name": "Kassadin, Void Walker",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kassadin, Void Walker.png"
+			}
+		},
+		{
+			"name": "Cassiopeia, Serpent's Embrace",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Snake Noble ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Cassiopeia, Serpent's Embrace.png"
+			}
+		},
+		{
+			"name": "Rek'Sai, Void Burrower",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Horror Shark ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Rek'Sai, Void Burrower.png"
+			}
+		},
+		{
+			"name": "Camille, Steel Shadow",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Detective ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Camille, Steel Shadow.png"
+			}
+		},
+		{
+			"name": "Nopeify",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Nopeify.png"
+			}
+		},
+		{
+			"name": "Rune Prison",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Rune Prison.png"
+			}
+		},
+		{
+			"name": "Duskrider",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Pegasus Nightmare ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Duskrider.png"
+			}
+		},
+		{
+			"name": "Fiora, Grand Duelist",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Fiora, Grand Duelist.png"
+			}
+		},
+		{
+			"name": "Riposte",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{B}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Riposte.png"
+			}
+		},
+		{
+			"name": "Irelia, Blade Dancer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Monk ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Irelia, Blade Dancer.png"
+			}
+		},
+		{
+			"name": "Vanguard's Edge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Vanguard's Edge.png"
+			}
+		},
+		{
+			"name": "Navori Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Equipment Construct ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Navori Blade.png"
+			}
+		},
+		{
+			"name": "Zaunite Urchin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Zaunite Urchin.png"
+			}
+		},
+		{
+			"name": "Champion's Reckoning",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Champion's Reckoning.png"
+			}
+		},
+		{
+			"name": "Roar of the Primordial",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Roar of the Primordial.png"
+			}
+		},
+		{
+			"name": "Battle of Kin",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Battle of Kin.png"
+			}
+		},
+		{
+			"name": "Gragas, Rabble Rouser",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Gragas, Rabble Rouser.png"
+			}
+		},
+		{
+			"name": "Lead and Follow",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Lead and Follow.png"
+			}
+		},
+		{
+			"name": "Tag Out",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tag Out.png"
+			}
+		},
+		{
+			"name": "Whimsical Transformation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Whimsical Transformation.png"
+			}
+		},
+		{
+			"name": "Vel'Koz, Eye of the Void",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Eye Horror ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Vel'Koz, Eye of the Void.png"
+			}
+		},
+		{
+			"name": "Kai'Sa, Daughter of the Void",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kai'Sa, Daughter of the Void.png"
+			}
+		},
+		{
+			"name": "Flight of the Fledgeling",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Flight of the Fledgeling.png"
+			}
+		},
+		{
+			"name": "Otterpus",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Otter Octopus ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Otterpus.png"
+			}
+		},
+		{
+			"name": "Spacey Sketcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Spacey Sketcher.png"
+			}
+		},
+		{
+			"name": "Warning Shot",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Warning Shot.png"
+			}
+		},
+		{
+			"name": "Deadwood Barkbeast",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Deadwood Barkbeast.png"
+			}
+		},
+		{
+			"name": "Enraged Grellfeen",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Serpent ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Enraged Grellfeen.png"
+			}
+		},
+		{
+			"name": "Rift Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Crab Horror ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Rift Herald.png"
+			}
+		},
+		{
+			"name": "Grumbleslug",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Slug ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Grumbleslug.png"
+			}
+		},
+		{
+			"name": "Hungry Longtooth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Shark ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Hungry Longtooth.png"
+			}
+		},
+		{
+			"name": "Conquering Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Human Crocodile Warrior ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Conquering Marauder.png"
+			}
+		},
+		{
+			"name": "Noble Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Rebel ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Noble Rebel.png"
+			}
+		},
+		{
+			"name": "Resilient Brawler",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Vastayan Warrior ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Resilient Brawler.png"
+			}
+		},
+		{
+			"name": "Swiftwing Lancer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Bird Soldier ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Swiftwing Lancer.png"
+			}
+		},
+		{
+			"name": "Clock Hand",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Clock Hand.png"
+			}
+		},
+		{
+			"name": "Rejuvenating Breeze",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Rejuvenating Breeze.png"
+			}
+		},
+		{
+			"name": "Towering Stonehorn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elk ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Towering Stonehorn.png"
+			}
+		},
+		{
+			"name": "Seraphic Wyvern",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elemental Dragon ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Seraphic Wyvern.png"
+			}
+		},
+		{
+			"name": "Sparkling Serpent",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Snake ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sparkling Serpent.png"
+			}
+		},
+		{
+			"name": "Olaf, Berserker of the Winter's Claw",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Berserker ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Olaf, Berserker of the Winter's Claw.png"
+			}
+		},
+		{
+			"name": "Taric, Shield of Valoran",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Avatar Knight ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Taric, Shield of Valoran.png"
+			}
+		},
+		{
+			"name": "Sylas, Revolutionary Unshackled",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sylas, Revolutionary Unshackled.png"
+			}
+		},
+		{
+			"name": "Syndra, Dark Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Syndra, Dark Sovereign.png"
+			}
+		},
+		{
+			"name": "Petricite Hound",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Dog Golem ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Petricite Hound.png"
+			}
+		},
+		{
+			"name": "Altar to Unity",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Altar to Unity.png"
+			}
+		},
+		{
+			"name": "Shen, Eye of Twilight",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Ninja ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Shen, Eye of Twilight.png"
+			}
+		},
+		{
+			"name": "Singed, Mad Chemist",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{B}{B}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Singed, Mad Chemist.png"
+			}
+		},
+		{
+			"name": "Sion, Undead Juggernaut",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Legendary Creature — Zombie Barbarian ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sion, Undead Juggernaut.png"
+			}
+		},
+		{
+			"name": "Swain, Grand General",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Swain, Grand General.png"
+			}
+		},
+		{
+			"name": "Tahm Kench, River King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Fish Demon ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tahm Kench, River King.png"
+			}
+		},
+		{
+			"name": "Trundle, Troll King",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Troll Warrior ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Trundle, Troll King.png"
+			}
+		},
+		{
+			"name": "Haunted Tomb",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Haunted Tomb.png"
+			}
+		},
+		{
+			"name": "Hexite Crystal",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Hexite Crystal.png"
+			}
+		},
+		{
+			"name": "Noxian Warship",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Noxian Warship.png"
+			}
+		},
+		{
+			"name": "Fearsome Etherfiend",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Fearsome Etherfiend.png"
+			}
+		},
+		{
+			"name": "Writhing Sensation",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Writhing Sensation.png"
+			}
+		},
+		{
+			"name": "Felicitous Rewind",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Felicitous Rewind.png"
+			}
+		},
+		{
+			"name": "Crimson Banquet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crimson Banquet.png"
+			}
+		},
+		{
+			"name": "Death's Grasp",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Death's Grasp.png"
+			}
+		},
+		{
+			"name": "Enthralling Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vastayan Performer ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Enthralling Guide.png"
+			}
+		},
+		{
+			"name": "Jack in the Box",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Jack in the Box.png"
+			}
+		},
+		{
+			"name": "Kalista, Spear of Vengeance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Spirit Warrior ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kalista, Spear of Vengeance.png"
+			}
+		},
+		{
+			"name": "Noxian Fervor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Noxian Fervor.png"
+			}
+		},
+		{
+			"name": "Evelyn, Agony's Embrace",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Enchantment Creature — Demon ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Evelyn, Agony's Embrace.png"
+			}
+		},
+		{
+			"name": "Dancing Droplet",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit Bird ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Dancing Droplet.png"
+			}
+		},
+		{
+			"name": "Illaoi, Kraken Priestess",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Illaoi, Kraken Priestess.png"
+			}
+		},
+		{
+			"name": "Buhru Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Buhru Leader.png"
+			}
+		},
+		{
+			"name": "Stalking Broodmother",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dragon ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Stalking Broodmother.png"
+			}
+		},
+		{
+			"name": "Unyielding Spirit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Unyielding Spirit.png"
+			}
+		},
+		{
+			"name": "Greenfang Warden",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Dog Ranger Scout ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Greenfang Warden.png"
+			}
+		},
+		{
+			"name": "Spirit of the Thousand Tails",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Fox Spirit ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Spirit of the Thousand Tails.png"
+			}
+		},
+		{
+			"name": "Udyr, Spirit Walker",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Udyr, Spirit Walker.png"
+			}
+		},
+		{
+			"name": "Boar Stance — Iron Mantle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Boar Stance — Iron Mantle.png"
+			}
+		},
+		{
+			"name": "Phoenix Stance — Wingborne Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Phoenix Stance — Wingborne Storm.png"
+			}
+		},
+		{
+			"name": "Ram Stance — Blazing Stampede",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ram Stance — Blazing Stampede.png"
+			}
+		},
+		{
+			"name": "Wildclaw Stance — Wilding Claw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Wildclaw Stance — Wilding Claw.png"
+			}
+		},
+		{
+			"name": "Pix, Faerie Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Faerie ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Pix, Faerie Companion.png"
+			}
+		},
+		{
+			"name": "Bolstering Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Bolstering Charge.png"
+			}
+		},
+		{
+			"name": "Icathian Surprise",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Icathian Surprise.png"
+			}
+		},
+		{
+			"name": "Pit Professional",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Vastayan Warrior ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Pit Professional.png"
+			}
+		},
+		{
+			"name": "Tryndamere, Barbarian King",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Berserker ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tryndamere, Barbarian King.png"
+			}
+		},
+		{
+			"name": "Parasitic Transfusion",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Parasitic Transfusion.png"
+			}
+		},
+		{
+			"name": "Shock Blast",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Shock Blast.png"
+			}
+		},
+		{
+			"name": "Spirit of the Ram",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Sheep Spirit ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Spirit of the Ram.png"
+			}
+		},
+		{
+			"name": "Hextech Ray",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Hextech Ray.png"
+			}
+		},
+		{
+			"name": "Crawling Viperwyrm",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Snake Drake ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crawling Viperwyrm.png"
+			}
+		},
+		{
+			"name": "Avenging Vastaya",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Vastayan Warrior ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Avenging Vastaya.png"
+			}
+		},
+		{
+			"name": "Shell of the World",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Creature — Dragon Turtle ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Shell of the World.png"
+			}
+		},
+		{
+			"name": "Aurora, Witch Between Worlds",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Vastayan Wizard ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Aurora, Witch Between Worlds.png"
+			}
+		},
+		{
+			"name": "Sprite Mother",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Faerie ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sprite Mother.png"
+			}
+		},
+		{
+			"name": "Secluded Spiritseer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Secluded Spiritseer.png"
+			}
+		},
+		{
+			"name": "Zeri, Spark of Zaun",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Zeri, Spark of Zaun.png"
+			}
+		},
+		{
+			"name": "Nami, Chosen Tidecaller",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Merfolk ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Nami, Chosen Tidecaller.png"
+			}
+		},
+		{
+			"name": "Minitee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Beast Fish ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Minitee.png"
+			}
+		},
+		{
+			"name": "Molten Shield",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Molten Shield.png"
+			}
+		},
+		{
+			"name": "Smolder, Fiery Fledgling",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Smolder, Fiery Fledgling.png"
+			}
+		},
+		{
+			"name": "Riptide Sermon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Riptide Sermon.png"
+			}
+		},
+		{
+			"name": "Ritual of Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ritual of Renewal.png"
+			}
+		},
+		{
+			"name": "Mel, Soul's Reflection",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mel, Soul's Reflection.png"
+			}
+		},
+		{
+			"name": "Crystal Ibex",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elk ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crystal Ibex.png"
+			}
+		},
+		{
+			"name": "Alistar, Unbreakable Reckoner",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Minotaur Warrior ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Alistar, Unbreakable Reckoner.png"
+			}
+		},
+		{
+			"name": "Stone Stackers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Yordle Citizen ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Stone Stackers.png"
+			}
+		},
+		{
+			"name": "Mentor of the Stones",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Yordle Wizard ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mentor of the Stones.png"
+			}
+		},
+		{
+			"name": "Winter's Resilience",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Winter's Resilience.png"
+			}
+		},
+		{
+			"name": "Dauntless Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Dauntless Reinforcements.png"
+			}
+		},
+		{
+			"name": "Stand United",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Stand United.png"
+			}
+		},
+		{
+			"name": "Transcend One's Self",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Transcend One's Self.png"
+			}
+		},
+		{
+			"name": "Kog'Maw, Mouth of the Abyss",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Beast Horror ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kog'Maw, Mouth of the Abyss.png"
+			}
+		},
+		{
+			"name": "Katarina, Sinister Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Human Assassin ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Katarina, Sinister Blade.png"
+			}
+		},
+		{
+			"name": "Gnar, the Missing Link",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Yordle Warrior ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Gnar, the Missing Link_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Gnar, the Missing Link_back.png"
+				}
+			}
+		},
+		{
+			"name": "Jarvan IV, Exemplar of Demacia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Jarvan IV, Exemplar of Demacia.png"
+			}
+		},
+		{
+			"name": "Vladimir, Crimson Reaper",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Vampire Noble ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Vladimir, Crimson Reaper.png"
+			}
+		},
+		{
+			"name": "Kayle, Sword of Starfire",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Angel Knight ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kayle, Sword of Starfire.png"
+			}
+		},
+		{
+			"name": "Akali, Rogue Assassin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Ninja ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Akali, Rogue Assassin.png"
+			}
+		},
+		{
+			"name": "Kennen, Heart of the Tempest",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Yordle Ninja ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kennen, Heart of the Tempest.png"
+			}
+		},
+		{
+			"name": "Wounded Whiteflame",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elemental Dragon ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Wounded Whiteflame.png"
+			}
+		},
+		{
+			"name": "Rummage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Rummage.png"
+			}
+		},
+		{
+			"name": "Seraphine, Starry-Eyed Songstress",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Seraphine, Starry-Eyed Songstress.png"
+			}
+		},
+		{
+			"name": "Pokey Stick",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Pokey Stick.png"
+			}
+		},
+		{
+			"name": "Fleeting Fawn",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Vastayan ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Fleeting Fawn.png"
+			}
+		},
+		{
+			"name": "Ceaseless Sentry",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Soldier ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ceaseless Sentry.png"
+			}
+		},
+		{
+			"name": "Zeeble's Mischief",
+			"rarity": "common",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Zeeble's Mischief.png"
+			}
+		},
+		{
+			"name": "Terror of the Tides",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Wraith Serpent ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Terror of the Tides.png"
+			}
+		},
+		{
+			"name": "Mark of the Isles",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mark of the Isles.png"
+			}
+		},
+		{
+			"name": "Fortune Croaker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Frog Shaman ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Fortune Croaker.png"
+			}
+		},
+		{
+			"name": "Harrowing Return",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Harrowing Return.png"
+			}
+		},
+		{
+			"name": "Encroaching Mist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Encroaching Mist.png"
+			}
+		},
+		{
+			"name": "Journeying Sandhopper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Journeying Sandhopper.png"
+			}
+		},
+		{
+			"name": "Spriteling",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie Spirit ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Spriteling.png"
+			}
+		},
+		{
+			"name": "Navori Longtail",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lemur Bat ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Navori Longtail.png"
+			}
+		},
+		{
+			"name": "Mountain Sojourners",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mountain Sojourners.png"
+			}
+		},
+		{
+			"name": "Trifarian Assesor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Trifarian Assesor.png"
+			}
+		},
+		{
+			"name": "Arena Kingpin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Yordle Citizen ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Arena Kingpin.png"
+			}
+		},
+		{
+			"name": "Crimson Disciple",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crimson Disciple.png"
+			}
+		},
+		{
+			"name": "Tusk Speaker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tusk Speaker.png"
+			}
+		},
+		{
+			"name": "Tidal Invocation",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tidal Invocation.png"
+			}
+		},
+		{
+			"name": "Risen Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Lizard Soldier ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Risen Rider.png"
+			}
+		},
+		{
+			"name": "Reborn Grenadier",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Zombie Soldier ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Reborn Grenadier.png"
+			}
+		},
+		{
+			"name": "Megatusk",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Walrus ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Megatusk.png"
+			}
+		},
+		{
+			"name": "March of the Sentinels",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/March of the Sentinels.png"
+			}
+		},
+		{
+			"name": "Incisive Tactician",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Incisive Tactician.png"
+			}
+		},
+		{
+			"name": "Sinner's Vice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sinner's Vice.png"
+			}
+		},
+		{
+			"name": "Night Harvest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Night Harvest.png"
+			}
+		},
+		{
+			"name": "Snow Hare",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Rabbit ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Snow Hare.png"
+			}
+		},
+		{
+			"name": "Feral Mystic",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}{U}",
+			"type": "Creature — Human Beast Shaman ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Feral Mystic.png"
+			}
+		},
+		{
+			"name": "Heedless Resurrection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Heedless Resurrection.png"
+			}
+		},
+		{
+			"name": "Kytheran Soulspinner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Spider Shaman ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Kytheran Soulspinner.png"
+			}
+		},
+		{
+			"name": "Troll Gifts",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Troll Gifts.png"
+			}
+		},
+		{
+			"name": "Crimson Bloodletter",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Beast ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crimson Bloodletter.png"
+			}
+		},
+		{
+			"name": "Entrancing Lure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Entrancing Lure.png"
+			}
+		},
+		{
+			"name": "Mischievous Marai",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Merfolk Artificer ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mischievous Marai.png"
+			}
+		},
+		{
+			"name": "Ruined Mako",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Shark Wraith Pirate ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ruined Mako.png"
+			}
+		},
+		{
+			"name": "Swindle",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Swindle.png"
+			}
+		},
+		{
+			"name": "Ancient Warmonger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Soldier ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ancient Warmonger.png"
+			}
+		},
+		{
+			"name": "Death of Unlife",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Death of Unlife.png"
+			}
+		},
+		{
+			"name": "Lord's Despair",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Lord's Despair.png"
+			}
+		},
+		{
+			"name": "Darkin Halberd",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact — Darkin Equipment ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Darkin Halberd_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Darkin Halberd_back.png"
+				}
+			}
+		},
+		{
+			"name": "Empyreal Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Dragon ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Empyreal Dragon.png"
+			}
+		},
+		{
+			"name": "Radiant Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}{U}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Radiant Guardian.png"
+			}
+		},
+		{
+			"name": "Alpha Wildclaw",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Cat ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Alpha Wildclaw.png"
+			}
+		},
+		{
+			"name": "Dragonsong Dreamer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Dragonsong Dreamer.png"
+			}
+		},
+		{
+			"name": "Ruthless Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Barbarian ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ruthless Raider.png"
+			}
+		},
+		{
+			"name": "Crimson Raptor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bird ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crimson Raptor.png"
+			}
+		},
+		{
+			"name": "Liminal Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact Creature — Vastayan Monk ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Liminal Guardian.png"
+			}
+		},
+		{
+			"name": "Winter's Breath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Winter's Breath.png"
+			}
+		},
+		{
+			"name": "Iron Ballista",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Iron Ballista.png"
+			}
+		},
+		{
+			"name": "Cosmic Starfall",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Cosmic Starfall.png"
+			}
+		},
+		{
+			"name": "Wuju Style",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Wuju Style.png"
+			}
+		},
+		{
+			"name": "Blinding Crest",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Blinding Crest.png"
+			}
+		},
+		{
+			"name": "Ethereal Remitter",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Wraith ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ethereal Remitter.png"
+			}
+		},
+		{
+			"name": "Greathorn Rider",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Elk Ranger ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Greathorn Rider.png"
+			}
+		},
+		{
+			"name": "Memory's Cloak",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Memory's Cloak.png"
+			}
+		},
+		{
+			"name": "Keeper of the Box",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Keeper of the Box.png"
+			}
+		},
+		{
+			"name": "Chronicler of Ruin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wraith Noble ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Chronicler of Ruin.png"
+			}
+		},
+		{
+			"name": "Mind Meld",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mind Meld.png"
+			}
+		},
+		{
+			"name": "Porofly",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Poro Faerie ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Porofly.png"
+			}
+		},
+		{
+			"name": "Atakhan, Bringer of Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Enchantment Creature — Demon ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Atakhan, Bringer of Ruin.png"
+			}
+		},
+		{
+			"name": "Mammoth Rager",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Human Shaman Warrior ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mammoth Rager.png"
+			}
+		},
+		{
+			"name": "Cosmic Call",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Cosmic Call.png"
+			}
+		},
+		{
+			"name": "Onslaught of Shadows",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Onslaught of Shadows.png"
+			}
+		},
+		{
+			"name": "Encroaching Shadows",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Creature — Shade Nightmare ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Encroaching Shadows.png"
+			}
+		},
+		{
+			"name": "Explorer's Refreshments",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Explorer's Refreshments.png"
+			}
+		},
+		{
+			"name": "Sumpworks Map",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sumpworks Map.png"
+			}
+		},
+		{
+			"name": "Targonian Alpinist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Targonian Alpinist.png"
+			}
+		},
+		{
+			"name": "Syren",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Syren.png"
+			}
+		},
+		{
+			"name": "Crackshot Corsair",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Yordle Pirate ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Crackshot Corsair.png"
+			}
+		},
+		{
+			"name": "Ice Pillar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Ice Pillar.png"
+			}
+		},
+		{
+			"name": "Stygian Onlooker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Demon ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Stygian Onlooker.png"
+			}
+		},
+		{
+			"name": "Mumblesprite",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Gremlin ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mumblesprite.png"
+			}
+		},
+		{
+			"name": "Undying Martyr",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wraith Soldier ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Undying Martyr.png"
+			}
+		},
+		{
+			"name": "Noxian Defector",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Noxian Defector.png"
+			}
+		},
+		{
+			"name": "Krug",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Krug.png"
+			}
+		},
+		{
+			"name": "Watcher on the Isles",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Watcher on the Isles.png"
+			}
+		},
+		{
+			"name": "Unworthy Soul",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Unworthy Soul.png"
+			}
+		},
+		{
+			"name": "Shape of Fear",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Shape of Fear.png"
+			}
+		},
+		{
+			"name": "Watcher's Companion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Dog ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Watcher's Companion.png"
+			}
+		},
+		{
+			"name": "Tail-Cloak Matiarch",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Vastayan Elder ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tail-Cloak Matiarch.png"
+			}
+		},
+		{
+			"name": "Jack, Brash Brawler",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Vastayan Warrior ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Jack, Brash Brawler.png"
+			}
+		},
+		{
+			"name": "Skyward Strikes",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Skyward Strikes.png"
+			}
+		},
+		{
+			"name": "Sneaky Zeebles",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie Weasel ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sneaky Zeebles.png"
+			}
+		},
+		{
+			"name": "Grave Companion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Dog ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Grave Companion.png"
+			}
+		},
+		{
+			"name": "Raptorling",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Bird ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Raptorling.png"
+			}
+		},
+		{
+			"name": "Grasp of Terror",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Grasp of Terror.png"
+			}
+		},
+		{
+			"name": "Starbone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Starbone.png"
+			}
+		},
+		{
+			"name": "Buhru Crossbow",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Buhru Crossbow.png"
+			}
+		},
+		{
+			"name": "Steel Gale",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Steel Gale.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Viego, Ruined King
+		2 Akshan, Rogue Sentinel
+		2 Lucian, Merciless Purifier
+		2 Braum, Heart of the Freljord
+		2 The Poro King
+		2 Maokai, Twisted Treant
+		2 Gwen, Hallowed Seamstress
+		2 Anivia, the Cryophoenix
+		2 Malzahar, Prophet of the Void
+		2 Cassiopeia, Serpent's Embrace
+		2 Rek'Sai, Void Burrower
+		2 Champion's Reckoning
+		2 Gragas, Rabble Rouser
+		2 Vel'Koz, Eye of the Void
+		2 Taric, Shield of Valoran
+		2 Sylas, Revolutionary Unshackled
+		2 Syndra, Dark Sovereign
+		2 Altar to Unity
+		2 Shen, Eye of Twilight
+		2 Swain, Grand General
+		2 Trundle, Troll King
+		2 Haunted Tomb
+		2 Jack in the Box
+		2 Evelyn, Agony's Embrace
+		2 Illaoi, Kraken Priestess
+		2 Udyr, Spirit Walker
+		2 Icathian Surprise
+		2 Tryndamere, Barbarian King
+		2 Shell of the World
+		2 Zeri, Spark of Zaun
+		2 Nami, Chosen Tidecaller
+		2 Smolder, Fiery Fledgling
+		2 Mel, Soul's Reflection
+		2 Alistar, Unbreakable Reckoner
+		2 Transcend One's Self
+		2 Kog'Maw, Mouth of the Abyss
+		2 Katarina, Sinister Blade
+		2 Vladimir, Crimson Reaper
+		2 Akali, Rogue Assassin
+		2 Seraphine, Starry-Eyed Songstress
+		2 Death of Unlife
+		2 Alpha Wildclaw
+		2 Dragonsong Dreamer
+		2 Ethereal Remitter
+		2 Greathorn Rider
+		2 Memory's Cloak
+		2 Chronicler of Ruin
+		2 Mind Meld
+		2 Syren
+		2 Watcher on the Isles
+		1 The Harrowing
+		1 Blade of the Ruined King
+		1 Senna, Mist-Mage Freed
+		1 Yorick, Shepherd of Souls
+		1 The Elder Dragon, Aspect of the Primeval
+		1 Zoe, Aspect of Twilight
+		1 Karma, Enlightened One
+		1 Kassadin, Void Walker
+		1 Camille, Steel Shadow
+		1 Fiora, Grand Duelist
+		1 Irelia, Blade Dancer
+		1 Kai'Sa, Daughter of the Void
+		1 Singed, Mad Chemist
+		1 Tahm Kench, River King
+		1 Hextech Ray
+		1 Aurora, Witch Between Worlds
+		1 Gnar, the Missing Link
+		1 Kayle, Sword of Starfire
+		1 Mountain Sojourners
+		1 Porofly
+		1 Atakhan, Bringer of Ruin
+		1 Cosmic Call
+		1 Onslaught of Shadows
+		1 Encroaching Shadows
+		1 Tail-Cloak Matiarch
+		1 Jack, Brash Brawler
+		[UncommonSlot(3)]
+	9 The Ruination
+		9 Ruined Reckoner
+		9 Knight of the Iron Order
+		9 Burgeoning Sentinel
+		9 Courageous Poro
+		9 Dragon Prince Grinzo
+		9 Ingvar the Younger
+		9 Poro Herder
+		9 Poro Sled
+		9 Prototype Porobot
+		9 The Poro Parade
+		9 Ultrasoft Poro
+		9 Invasive Hydravine
+		9 Duskpetal
+		9 Sleepy Trouble Bubble
+		9 Powder Monkey
+		9 Duskrider
+		9 Riposte
+		9 Vanguard's Edge
+		9 Roar of the Primordial
+		9 Spacey Sketcher
+		9 Rift Herald
+		9 Grumbleslug
+		9 Conquering Marauder
+		9 Noble Rebel
+		9 Clock Hand
+		9 Towering Stonehorn
+		9 Olaf, Berserker of the Winter's Claw
+		9 Sion, Undead Juggernaut
+		9 Noxian Warship
+		9 Crimson Banquet
+		9 Death's Grasp
+		9 Kalista, Spear of Vengeance
+		9 Noxian Fervor
+		9 Buhru Leader
+		9 Stalking Broodmother
+		9 Phoenix Stance — Wingborne Storm
+		9 Ram Stance — Blazing Stampede
+		9 Pix, Faerie Companion
+		9 Secluded Spiritseer
+		9 Minitee
+		9 Riptide Sermon
+		9 Ritual of Renewal
+		9 Crystal Ibex
+		9 Winter's Resilience
+		9 Dauntless Reinforcements
+		9 Jarvan IV, Exemplar of Demacia
+		9 Kennen, Heart of the Tempest
+		9 Encroaching Mist
+		9 Sinner's Vice
+		9 Heedless Resurrection
+		9 Kytheran Soulspinner
+		9 Troll Gifts
+		9 Crimson Bloodletter
+		9 Entrancing Lure
+		9 Mischievous Marai
+		9 Ruined Mako
+		9 Swindle
+		9 Ancient Warmonger
+		9 Darkin Halberd
+		9 Empyreal Dragon
+		9 Radiant Guardian
+		9 Ruthless Raider
+		9 Crimson Raptor
+		9 Liminal Guardian
+		9 Winter's Breath
+		9 Iron Ballista
+		9 Cosmic Starfall
+		9 Wuju Style
+		9 Blinding Crest
+		9 Explorer's Refreshments
+		9 Crackshot Corsair
+		9 Ice Pillar
+		9 Noxian Defector
+		[CommonSlot(10)]
+	30 Ruined Dragon
+		30 Ruined Dragonguard
+		30 Dawning Shadow
+		30 Affectionate Poro
+		30 Daring Poro
+		30 Mighty Poro
+		30 Nimble Poro
+		30 Patchwork Porobot
+		30 Plundering Poro
+		30 Poro Metalsmith
+		30 Pouty Poro
+		30 Sinister Poro
+		30 Valiant Poro
+		30 Voracious Poro
+		30 Sap Magic
+		30 Deadbloom Sapling
+		30 Shark Chariot
+		30 Void Swarm
+		30 Call the Xer'sai
+		30 Nopeify
+		30 Rune Prison
+		30 Navori Blade
+		30 Zaunite Urchin
+		30 Battle of Kin
+		30 Lead and Follow
+		30 Tag Out
+		30 Whimsical Transformation
+		30 Flight of the Fledgeling
+		30 Otterpus
+		30 Warning Shot
+		30 Deadwood Barkbeast
+		30 Enraged Grellfeen
+		30 Hungry Longtooth
+		30 Resilient Brawler
+		30 Swiftwing Lancer
+		30 Rejuvenating Breeze
+		30 Seraphic Wyvern
+		30 Sparkling Serpent
+		30 Petricite Hound
+		30 Hexite Crystal
+		30 Fearsome Etherfiend
+		30 Writhing Sensation
+		30 Felicitous Rewind
+		30 Enthralling Guide
+		30 Dancing Droplet
+		30 Unyielding Spirit
+		30 Greenfang Warden
+		30 Spirit of the Thousand Tails
+		30 Boar Stance — Iron Mantle
+		30 Wildclaw Stance — Wilding Claw
+		30 Bolstering Charge
+		30 Pit Professional
+		30 Parasitic Transfusion
+		30 Shock Blast
+		30 Spirit of the Ram
+		30 Crawling Viperwyrm
+		30 Avenging Vastaya
+		30 Sprite Mother
+		30 Molten Shield
+		30 Stone Stackers
+		30 Mentor of the Stones
+		30 Stand United
+		30 Wounded Whiteflame
+		30 Rummage
+		30 Pokey Stick
+		30 Fleeting Fawn
+		30 Ceaseless Sentry
+		30 Zeeble's Mischief
+		30 Terror of the Tides
+		30 Mark of the Isles
+		30 Fortune Croaker
+		30 Harrowing Return
+		30 Journeying Sandhopper
+		30 Spriteling
+		30 Navori Longtail
+		30 Trifarian Assesor
+		30 Arena Kingpin
+		30 Crimson Disciple
+		30 Tusk Speaker
+		30 Tidal Invocation
+		30 Risen Rider
+		30 Reborn Grenadier
+		30 Megatusk
+		30 March of the Sentinels
+		30 Incisive Tactician
+		30 Night Harvest
+		30 Snow Hare
+		30 Feral Mystic
+		30 Lord's Despair
+		30 Keeper of the Box
+		30 Mammoth Rager
+		30 Sumpworks Map
+		30 Targonian Alpinist
+		30 Stygian Onlooker
+		30 Mumblesprite
+		30 Undying Martyr
+		30 Krug
+		30 Unworthy Soul
+		30 Shape of Fear
+		30 Watcher's Companion
+		30 Skyward Strikes
+		30 Sneaky Zeebles
+		30 Grave Companion
+		30 Raptorling
+		30 Grasp of Terror
+		30 Starbone
+		30 Buhru Crossbow
+		30 Steel Gale
+		[WildcardSlot(1)]
+	10 The Ruination
+	10 Ruined Dragon
+	10 Ruined Dragonguard
+	10 Ruined Reckoner
+	10 The Harrowing
+	10 Viego, Ruined King
+	10 Knight of the Iron Order
+	10 Blade of the Ruined King
+	10 Akshan, Rogue Sentinel
+	10 Burgeoning Sentinel
+	10 Dawning Shadow
+	10 Senna, Mist-Mage Freed
+	10 Lucian, Merciless Purifier
+	10 Blessed Hilltop
+	10 Blighted Ravine
+	10 Buried Armory
+	10 Chamber of Renewal
+	10 Crest of Insight
+	10 Darkin Altar
+	10 Emperor's Dais
+	10 Forge of Tomorrow
+	10 Ixaocan
+	10 Mistfallen Battlefield
+	10 Monastery of Hirana
+	10 Piltover & Zaun
+	10 Preservarium
+	10 Reaver's Row
+	10 Rockfall Path
+	10 Roiling Sands
+	10 Sandswept Tomb
+	10 Slaughter Docks
+	10 Spiral Stairs
+	10 Star Spring
+	10 Startipped Peak
+	10 Stormcarved Spire
+	10 Tree of Dreams
+	10 Trifarian Training Pits
+	10 Twisted Treeline
+	10 University of Piltover
+	10 Vault of Helia
+	10 Veiled Temple
+	10 Warlord's Palace
+	10 Windswept Hillock
+	10 Affectionate Poro
+	10 Braum, Heart of the Freljord
+	10 Courageous Poro
+	10 Daring Poro
+	10 Dragon Prince Grinzo
+	10 Ingvar the Younger
+	10 Mighty Poro
+	10 Nimble Poro
+	10 Patchwork Porobot
+	10 Plundering Poro
+	10 Poro Herder
+	10 Poro Metalsmith
+	10 Poro Sled
+	10 Pouty Poro
+	10 Prototype Porobot
+	10 Sinister Poro
+	10 The Poro King
+	10 The Poro Parade
+	10 Ultrasoft Poro
+	10 Valiant Poro
+	10 Voracious Poro
+	10 Invasive Hydravine
+	10 Maokai, Twisted Treant
+	10 Sap Magic
+	10 Yorick, Shepherd of Souls
+	10 Gwen, Hallowed Seamstress
+	10 Duskpetal
+	10 The Elder Dragon, Aspect of the Primeval
+	10 Howling Abyss
+	10 Anivia, the Cryophoenix
+	10 Zoe, Aspect of Twilight
+	10 Sleepy Trouble Bubble
+	10 Deadbloom Sapling
+	10 Karma, Enlightened One
+	10 Shark Chariot
+	10 Powder Monkey
+	10 Void Swarm
+	10 Call the Xer'sai
+	10 Malzahar, Prophet of the Void
+	10 Kassadin, Void Walker
+	10 Cassiopeia, Serpent's Embrace
+	10 Rek'Sai, Void Burrower
+	10 Camille, Steel Shadow
+	10 Nopeify
+	10 Rune Prison
+	10 Duskrider
+	10 Fiora, Grand Duelist
+	10 Riposte
+	10 Irelia, Blade Dancer
+	10 Vanguard's Edge
+	10 Navori Blade
+	10 Zaunite Urchin
+	10 Champion's Reckoning
+	10 Roar of the Primordial
+	10 Battle of Kin
+	10 Gragas, Rabble Rouser
+	10 Lead and Follow
+	10 Tag Out
+	10 Whimsical Transformation
+	10 Vel'Koz, Eye of the Void
+	10 Kai'Sa, Daughter of the Void
+	10 Flight of the Fledgeling
+	10 Otterpus
+	10 Spacey Sketcher
+	10 Warning Shot
+	10 Deadwood Barkbeast
+	10 Enraged Grellfeen
+	10 Rift Herald
+	10 Grumbleslug
+	10 Hungry Longtooth
+	10 Conquering Marauder
+	10 Noble Rebel
+	10 Resilient Brawler
+	10 Swiftwing Lancer
+	10 Clock Hand
+	10 Rejuvenating Breeze
+	10 Towering Stonehorn
+	10 Seraphic Wyvern
+	10 Sparkling Serpent
+	10 Olaf, Berserker of the Winter's Claw
+	10 Taric, Shield of Valoran
+	10 Sylas, Revolutionary Unshackled
+	10 Syndra, Dark Sovereign
+	10 Petricite Hound
+	10 Altar to Unity
+	10 Shen, Eye of Twilight
+	10 Singed, Mad Chemist
+	10 Sion, Undead Juggernaut
+	10 Swain, Grand General
+	10 Tahm Kench, River King
+	10 Trundle, Troll King
+	10 Haunted Tomb
+	10 Hexite Crystal
+	10 Noxian Warship
+	10 Fearsome Etherfiend
+	10 Writhing Sensation
+	10 Felicitous Rewind
+	10 Crimson Banquet
+	10 Death's Grasp
+	10 Enthralling Guide
+	10 Jack in the Box
+	10 Kalista, Spear of Vengeance
+	10 Noxian Fervor
+	10 Evelyn, Agony's Embrace
+	10 Dancing Droplet
+	10 Illaoi, Kraken Priestess
+	10 Buhru Leader
+	10 Stalking Broodmother
+	10 Unyielding Spirit
+	10 Greenfang Warden
+	10 Spirit of the Thousand Tails
+	10 Udyr, Spirit Walker
+	10 Boar Stance — Iron Mantle
+	10 Phoenix Stance — Wingborne Storm
+	10 Ram Stance — Blazing Stampede
+	10 Wildclaw Stance — Wilding Claw
+	10 Pix, Faerie Companion
+	10 Bolstering Charge
+	10 Icathian Surprise
+	10 Pit Professional
+	10 Tryndamere, Barbarian King
+	10 Parasitic Transfusion
+	10 Shock Blast
+	10 Spirit of the Ram
+	10 Hextech Ray
+	10 Crawling Viperwyrm
+	10 Avenging Vastaya
+	10 Shell of the World
+	10 Aurora, Witch Between Worlds
+	10 Sprite Mother
+	10 Secluded Spiritseer
+	10 Zeri, Spark of Zaun
+	10 Nami, Chosen Tidecaller
+	10 Minitee
+	10 Molten Shield
+	10 Smolder, Fiery Fledgling
+	10 Riptide Sermon
+	10 Ritual of Renewal
+	10 Mel, Soul's Reflection
+	10 Crystal Ibex
+	10 Alistar, Unbreakable Reckoner
+	10 Stone Stackers
+	10 Mentor of the Stones
+	10 Winter's Resilience
+	10 Dauntless Reinforcements
+	10 Stand United
+	10 Transcend One's Self
+	10 Kog'Maw, Mouth of the Abyss
+	10 Katarina, Sinister Blade
+	10 Gnar, the Missing Link
+	10 Jarvan IV, Exemplar of Demacia
+	10 Vladimir, Crimson Reaper
+	10 Kayle, Sword of Starfire
+	10 Akali, Rogue Assassin
+	10 Kennen, Heart of the Tempest
+	10 Wounded Whiteflame
+	10 Rummage
+	10 Seraphine, Starry-Eyed Songstress
+	10 Pokey Stick
+	10 Fleeting Fawn
+	10 Ceaseless Sentry
+	10 Zeeble's Mischief
+	10 Terror of the Tides
+	10 Mark of the Isles
+	10 Fortune Croaker
+	10 Harrowing Return
+	10 Encroaching Mist
+	10 Journeying Sandhopper
+	10 Spriteling
+	10 Navori Longtail
+	10 Mountain Sojourners
+	10 Trifarian Assesor
+	10 Arena Kingpin
+	10 Crimson Disciple
+	10 Tusk Speaker
+	10 Tidal Invocation
+	10 Risen Rider
+	10 Reborn Grenadier
+	10 Megatusk
+	10 March of the Sentinels
+	10 Incisive Tactician
+	10 Sinner's Vice
+	10 Night Harvest
+	10 Snow Hare
+	10 Feral Mystic
+	10 Heedless Resurrection
+	10 Kytheran Soulspinner
+	10 Troll Gifts
+	10 Crimson Bloodletter
+	10 Entrancing Lure
+	10 Mischievous Marai
+	10 Ruined Mako
+	10 Swindle
+	10 Ancient Warmonger
+	10 Death of Unlife
+	10 Lord's Despair
+	10 Darkin Halberd
+	10 Empyreal Dragon
+	10 Radiant Guardian
+	10 Alpha Wildclaw
+	10 Dragonsong Dreamer
+	10 Ruthless Raider
+	10 Crimson Raptor
+	10 Liminal Guardian
+	10 Winter's Breath
+	10 Iron Ballista
+	10 Cosmic Starfall
+	10 Wuju Style
+	10 Blinding Crest
+	10 Ethereal Remitter
+	10 Greathorn Rider
+	10 Memory's Cloak
+	10 Keeper of the Box
+	10 Chronicler of Ruin
+	10 Mind Meld
+	10 Porofly
+	10 Atakhan, Bringer of Ruin
+	10 Mammoth Rager
+	10 Cosmic Call
+	10 Onslaught of Shadows
+	10 Encroaching Shadows
+	10 Explorer's Refreshments
+	10 Sumpworks Map
+	10 Targonian Alpinist
+	10 Syren
+	10 Crackshot Corsair
+	10 Ice Pillar
+	10 Stygian Onlooker
+	10 Mumblesprite
+	10 Undying Martyr
+	10 Noxian Defector
+	10 Krug
+	10 Watcher on the Isles
+	10 Unworthy Soul
+	10 Shape of Fear
+	10 Watcher's Companion
+	10 Tail-Cloak Matiarch
+	10 Jack, Brash Brawler
+	10 Skyward Strikes
+	10 Sneaky Zeebles
+	10 Grave Companion
+	10 Raptorling
+	10 Grasp of Terror
+	10 Starbone
+	10 Buhru Crossbow
+	10 Steel Gale
+	[LandSlot(1)]
+	10 Forest
+		10 Island
+		10 Mountain
+		10 Plains
+		10 Swamp
+		10 Blessed Hilltop
+		10 Blighted Ravine
+		10 Buried Armory
+		10 Chamber of Renewal
+		10 Crest of Insight
+		10 Darkin Altar
+		10 Emperor's Dais
+		10 Forge of Tomorrow
+		10 Ixaocan
+		10 Mistfallen Battlefield
+		10 Monastery of Hirana
+		10 Piltover & Zaun
+		10 Preservarium
+		10 Reaver's Row
+		10 Rockfall Path
+		10 Roiling Sands
+		10 Sandswept Tomb
+		10 Slaughter Docks
+		10 Spiral Stairs
+		10 Star Spring
+		10 Startipped Peak
+		10 Stormcarved Spire
+		10 Tree of Dreams
+		10 Trifarian Training Pits
+		10 Twisted Treeline
+		10 University of Piltover
+		10 Vault of Helia
+		10 Veiled Temple
+		10 Warlord's Palace
+		10 Windswept Hillock
+		10 Howling Abyss
+		

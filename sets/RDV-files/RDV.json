@@ -2821,7 +2821,7 @@
             "number": 119,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Impart 0\u2014{R} [i]({R}, Discard this card: Draw a card and put zero +1/+1 counters on target creature. It gains the following abilities until end of turn.)[/i]\nWhenever you deal combat damage to a player, put a +1/+1 counter on Wharf Rat.",
+            "rules_text": "Impart 0\u2014{R} [i]({R}, Discard this card: Draw a card and put zero +1/+1 counters on target creature. It gains the following abilities until end of turn.)[/i]\nWhenever one or more creatures you control deal combat damage to a player, put a +1/+1 counter on Wharf Rat.",
             "flavor_text": "[i]\u201cAin't no place bloodier in Bilgewater than the bay. Just look at them rats. Reared on blood, they are. Can't get enough o' the stuff. Creepy little scrits.\u201d [/i]",
             "pt": "0/3",
             "special_text": "",
