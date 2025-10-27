@@ -1270,7 +1270,7 @@
 			"name": "Sparkling Serpent",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Snake ",
+			"type": "Creature — Snake Elemental ",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sparkling Serpent.png"
@@ -2204,13 +2204,13 @@
 			}
 		},
 		{
-			"name": "Trifarian Assesor",
+			"name": "Trifarian Assessor",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Soldier ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Trifarian Assesor.png"
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Trifarian Assessor.png"
 			}
 		},
 		{
@@ -2861,13 +2861,13 @@
 			}
 		},
 		{
-			"name": "Tail-Cloak Matiarch",
+			"name": "Tail-Cloak Matriarch",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Vastayan Elder ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tail-Cloak Matiarch.png"
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Tail-Cloak Matriarch.png"
 			}
 		},
 		{
@@ -2960,6 +2960,16 @@
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Steel Gale.png"
 			}
 		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Copy.png"
+			}
+		},
 		]
 	[RareSlot(1)]
 	2 Viego, Ruined King
@@ -3036,7 +3046,7 @@
 		1 Cosmic Call
 		1 Onslaught of Shadows
 		1 Encroaching Shadows
-		1 Tail-Cloak Matiarch
+		1 Tail-Cloak Matriarch
 		1 Jack, Brash Brawler
 		[UncommonSlot(3)]
 	9 The Ruination
@@ -3189,7 +3199,7 @@
 		30 Journeying Sandhopper
 		30 Spriteling
 		30 Navori Longtail
-		30 Trifarian Assesor
+		30 Trifarian Assessor
 		30 Arena Kingpin
 		30 Crimson Disciple
 		30 Tusk Speaker
@@ -3437,7 +3447,7 @@
 	10 Spriteling
 	10 Navori Longtail
 	10 Mountain Sojourners
-	10 Trifarian Assesor
+	10 Trifarian Assessor
 	10 Arena Kingpin
 	10 Crimson Disciple
 	10 Tusk Speaker
@@ -3502,7 +3512,7 @@
 	10 Unworthy Soul
 	10 Shape of Fear
 	10 Watcher's Companion
-	10 Tail-Cloak Matiarch
+	10 Tail-Cloak Matriarch
 	10 Jack, Brash Brawler
 	10 Skyward Strikes
 	10 Sneaky Zeebles
