@@ -22,7 +22,7 @@
 		{
 			"name": "Ruined Dragonguard",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Wraith Soldier ",
 			"collector_number": "80",
 			"image_uris": {
@@ -1780,7 +1780,7 @@
 			"name": "Sprite Mother",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Faerie ",
+			"type": "Creature — Faerie Elder ",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Sprite Mother.png"
@@ -2741,13 +2741,13 @@
 			}
 		},
 		{
-			"name": "Syren",
+			"name": "Syren, Fortune's Flagship",
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Vehicle ",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Syren.png"
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Syren, Fortune's Flagship.png"
 			}
 		},
 		{
@@ -3010,7 +3010,7 @@
 		2 Memory's Cloak
 		2 Chronicler of Ruin
 		2 Mind Meld
-		2 Syren
+		2 Syren, Fortune's Flagship
 		2 Watcher on the Isles
 		1 The Harrowing
 		1 Blade of the Ruined King
@@ -3490,7 +3490,7 @@
 	10 Explorer's Refreshments
 	10 Sumpworks Map
 	10 Targonian Alpinist
-	10 Syren
+	10 Syren, Fortune's Flagship
 	10 Crackshot Corsair
 	10 Ice Pillar
 	10 Stygian Onlooker
