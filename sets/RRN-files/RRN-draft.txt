@@ -1907,13 +1907,13 @@
 			}
 		},
 		{
-			"name": "Mentor of the Stones",
+			"name": "Gift Giver",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Yordle Wizard ",
-			"collector_number": "134",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mentor of the Stones.png"
+				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Gift Giver.png"
 			}
 		},
 		{
@@ -2168,7 +2168,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Merfolk ",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Journeying Sandhopper.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Vastayan Monk ",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Liminal Guardian.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Human Shaman Warrior ",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Mammoth Rager.png"
 			}
@@ -2815,7 +2815,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Elemental ",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Krug.png"
 			}
@@ -2925,7 +2925,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Grasp of Terror.png"
 			}
@@ -2958,16 +2958,6 @@
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Steel Gale.png"
-			}
-		},
-		{
-			"name": "Copy",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Copy.png"
 			}
 		},
 		]
@@ -3184,7 +3174,7 @@
 		30 Sprite Mother
 		30 Molten Shield
 		30 Stone Stackers
-		30 Mentor of the Stones
+		30 Gift Giver
 		30 Stand United
 		30 Wounded Whiteflame
 		30 Rummage
@@ -3418,7 +3408,7 @@
 	10 Crystal Ibex
 	10 Alistar, Unbreakable Reckoner
 	10 Stone Stackers
-	10 Mentor of the Stones
+	10 Gift Giver
 	10 Winter's Resilience
 	10 Dauntless Reinforcements
 	10 Stand United
