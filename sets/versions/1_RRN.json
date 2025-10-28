@@ -4227,7 +4227,7 @@
             "number": 231,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Multikicker {U}{R} [i](You may pay an additional {U}{R} any number of times as you cast this spell.)[/i]\nChoose one. For each time this spell was kicked, choose one. You may choose the same mode more any number of times. \u2014 \n\u2022 Tidal Invocation deals 4 damage to any target.\n\u2022 Destroy target artifact.\n\u2022 Counter target spell unless its controller pays {3}.",
+            "rules_text": "Multikicker {U}{R} [i](You may pay an additional {U}{R} any number of times as you cast this spell.)[/i]\nChoose one. For each time this spell was kicked, choose one. You may choose the same mode any number of times. \u2014 \n\u2022 Tidal Invocation deals 4 damage to any target.\n\u2022 Destroy target artifact.\n\u2022 Counter target spell unless its controller pays {3}.",
             "flavor_text": "[i]Only the most learned can bend the elements to their will.[/i]",
             "pt": "",
             "special_text": "",
