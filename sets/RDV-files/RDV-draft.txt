@@ -1573,7 +1573,7 @@
 			"name": "Citybreaker",
 			"rarity": "rare",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Vehicle ",
+			"type": "Artifact — Vehicle ",
 			"collector_number": "252",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RDV-files/RDV-files/Citybreaker.png"

@@ -3353,7 +3353,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{7}{G}{G}{G}",
-            "rules_text": "The first spell you cast each turn with mana value less than Shell of the World's power costs {0} to cast.",
+            "rules_text": "Once each turn, you may pay {0} rather than pay the mana cost for a spell you cast with mana value less than Shell of the World's power.",
             "flavor_text": "[i]For the inhabitants of this Ionian village, Heisho is both honored caretaker and friend. Having carried their homes on his back from time immemorial, they can trust their village bearer to seek peaceful shores in times of trouble. [/i]",
             "pt": "9/9",
             "special_text": "",
