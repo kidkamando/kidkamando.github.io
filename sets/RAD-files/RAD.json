@@ -3199,7 +3199,7 @@
             "number": 197,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "Partner with Xayah [i](When this creature enters, target player may put Xayah into their hand from their library, then shuffle.)[/i]\nSacrifice an artifact or creature you control: Tap target untapped creature.\nWhenever a creature you don't control dies, exile the top card of that player's library. Any player may play that card and may spend mana as though it were mana of any type to cast it.",
+            "rules_text": "Partner with Xayah [i](When this creature enters, target player may put Xayah into their hand from their library, then shuffle.)[/i]\nSacrifice an artifact or creature you control: Tap target untapped creature.\nWhenever a creature you don't control dies, exile the top card of that player's library. As long as you control Rakan, any player may play that card and may spend mana as though it were mana of any type to cast it.",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",
