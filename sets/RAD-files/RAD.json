@@ -2911,7 +2911,7 @@
             "number": 216,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "[i]Gloom[/i] \u2014 Whenever an opponent casts a spell during an opponent's turn, they lose 1 life.\nAt the beginning of your upkeep, put a -1/-1 counter on the creature you don't control with the greatest power.",
+            "rules_text": "[i]Gloom[/i] \u2014 Whenever an opponent casts a spell during another player's turn, they lose 1 life.\nAt the beginning of your upkeep, put a -1/-1 counter on the creature you don't control with the greatest power.",
             "flavor_text": "[i]Before I met the Black Mist, I lived in a world of color and happiness. I was so lost.[/i]",
             "pt": "2/2",
             "special_text": "",
