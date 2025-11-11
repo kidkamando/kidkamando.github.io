@@ -1,0 +1,243 @@
+[CustomCards]
+	[	{
+			"name": "Ashe, Frost Archer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Human Ranger ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Ashe, Frost Archer.png"
+			}
+		},
+		{
+			"name": "Jhin, the Stunning Performer",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Legendary Creature — Human Assassin ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Jhin, the Stunning Performer.png"
+			}
+		},
+		{
+			"name": "Zaahen, the Unsundered",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Darkin Soldier ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Zaahen, the Unsundered.png"
+			}
+		},
+		{
+			"name": "K'Sante, Dauntless Hunter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/K'Sante, Dauntless Hunter.png"
+			}
+		},
+		{
+			"name": "Baron Nashor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}{G}{G}",
+			"type": "Legendary Creature — Wurm Horror ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Baron Nashor.png"
+			}
+		},
+		{
+			"name": "Scourge of the Stars",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Elemental Wurm ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Scourge of the Stars.png"
+			}
+		},
+		{
+			"name": "Starsurge",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Starsurge.png"
+			}
+		},
+		{
+			"name": "Vile Feast",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Vile Feast.png"
+			}
+		},
+		{
+			"name": "Precious Pet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spider ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Precious Pet.png"
+			}
+		},
+		{
+			"name": "Arachnoid Host",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{R}",
+			"type": "Creature — Spider ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Arachnoid Host.png"
+			}
+		},
+		{
+			"name": "Elise, Coveted Predator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Elise, Coveted Predator_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Elise, Coveted Predator_back.png"
+				}
+			}
+		},
+		{
+			"name": "Vilemaw, Twisted Harbinger",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}{R}",
+			"type": "Legendary Creature — Spider God ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Vilemaw, Twisted Harbinger.png"
+			}
+		},
+		{
+			"name": "Nightmarish Trap",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Nightmarish Trap.png"
+			}
+		},
+		{
+			"name": "Luxanna, Illuminated",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Luxanna, Illuminated.png"
+			}
+		},
+		{
+			"name": "Mel, Searing Brilliance",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Mel, Searing Brilliance.png"
+			}
+		},
+		{
+			"name": "Ambessa, Medarda Maxim",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Ambessa, Medarda Maxim.png"
+			}
+		},
+		{
+			"name": "Ekko, Timewinder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Ekko, Timewinder.png"
+			}
+		},
+		{
+			"name": "Spectral Lancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Horse Soldier ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Spectral Lancer.png"
+			}
+		},
+		{
+			"name": "Splinter Soul",
+			"rarity": "rare",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Splinter Soul.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Scourge of the Stars
+		2 Starsurge
+		2 Arachnoid Host
+		2 Luxanna, Illuminated
+		2 Ambessa, Medarda Maxim
+		2 Splinter Soul
+		1 Ashe, Frost Archer
+		1 Jhin, the Stunning Performer
+		1 Zaahen, the Unsundered
+		1 K'Sante, Dauntless Hunter
+		1 Baron Nashor
+		1 Elise, Coveted Predator
+		1 Vilemaw, Twisted Harbinger
+		1 Mel, Searing Brilliance
+		1 Ekko, Timewinder
+		[UncommonSlot(3)]
+	9 Precious Pet
+		9 Nightmarish Trap
+		9 Spectral Lancer
+		[CommonSlot(10)]
+	30 Vile Feast
+		[WildcardSlot(1)]
+	10 Ashe, Frost Archer
+	10 Jhin, the Stunning Performer
+	10 Zaahen, the Unsundered
+	10 K'Sante, Dauntless Hunter
+	10 Baron Nashor
+	10 Scourge of the Stars
+	10 Starsurge
+	10 Vile Feast
+	10 Precious Pet
+	10 Arachnoid Host
+	10 Elise, Coveted Predator
+	10 Vilemaw, Twisted Harbinger
+	10 Nightmarish Trap
+	10 Luxanna, Illuminated
+	10 Mel, Searing Brilliance
+	10 Ambessa, Medarda Maxim
+	10 Ekko, Timewinder
+	10 Spectral Lancer
+	10 Splinter Soul
+	[LandSlot(1)]
+	
