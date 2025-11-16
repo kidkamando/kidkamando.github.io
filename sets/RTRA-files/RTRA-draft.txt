@@ -14,7 +14,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{R}{R}",
 			"type": "Legendary Creature — Human Assassin ",
-			"collector_number": "14",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Jhin, the Stunning Performer.png"
 			}
@@ -24,7 +24,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Darkin Soldier ",
-			"collector_number": "18",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Zaahen, the Unsundered.png"
 			}
@@ -34,7 +34,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "15",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/K'Sante, Dauntless Hunter.png"
 			}
@@ -64,7 +64,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "17",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Starsurge.png"
 			}
@@ -151,7 +151,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "16",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Mel, Searing Brilliance.png"
 			}
@@ -191,9 +191,39 @@
 			"rarity": "rare",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Splinter Soul.png"
+			}
+		},
+		{
+			"name": "Nocturne, Duskbringer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Demon Nightmare ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Nocturne, Duskbringer.png"
+			}
+		},
+		{
+			"name": "Fiddlesticks, Ageless Horror",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Fiddlesticks, Ageless Horror.png"
+			}
+		},
+		{
+			"name": "Evelyn, Dark Seductress",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/RTRA-files/RTRA-files/Evelyn, Dark Seductress.png"
 			}
 		},
 		]
@@ -204,6 +234,8 @@
 		2 Luxanna, Illuminated
 		2 Ambessa, Medarda Maxim
 		2 Splinter Soul
+		2 Nocturne, Duskbringer
+		2 Evelyn, Dark Seductress
 		1 Ashe, Frost Archer
 		1 Jhin, the Stunning Performer
 		1 Zaahen, the Unsundered
@@ -213,6 +245,7 @@
 		1 Vilemaw, Twisted Harbinger
 		1 Mel, Searing Brilliance
 		1 Ekko, Timewinder
+		1 Fiddlesticks, Ageless Horror
 		[UncommonSlot(3)]
 	9 Precious Pet
 		9 Nightmarish Trap
@@ -239,5 +272,8 @@
 	10 Ekko, Timewinder
 	10 Spectral Lancer
 	10 Splinter Soul
+	10 Nocturne, Duskbringer
+	10 Fiddlesticks, Ageless Horror
+	10 Evelyn, Dark Seductress
 	[LandSlot(1)]
 	
