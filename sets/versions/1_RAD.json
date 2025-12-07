@@ -4389,7 +4389,7 @@
             "number": 132,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Sprout 2, sprout 2 [i](To sprout 2, create an Incubator token with two +1/+1 counters on it and \u201c{2}: Transform this enchantment.\u201d It transforms into a 0/0 Plant enchantment creature.)[/i]\nWhenever a permanent you control transforms, surveil 1 and sprout 2. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "When this creature enters, sprout 2, sprout 2 [i](To sprout 2, create an Incubator token with two +1/+1 counters on it and \u201c{2}: Transform this enchantment.\u201d It transforms into a 0/0 Plant enchantment creature.)[/i]\nWhenever a permanent you control transforms, surveil 1 and sprout 2. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i]Far from the Shadow Isles' shores are copses of trees thought long-dead, crooked and unmoving to all but the most keen observer--who will note that in that moon-drenched soil, new life stirs.[/i]",
             "pt": "1/2",
             "special_text": "",

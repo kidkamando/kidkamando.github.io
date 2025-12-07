@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/LSL-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>LSL visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/LSL-files/logo.png" />
+	<img class="preload-hidden" src="/sets/LSL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PWR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RAD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RDV-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RRN-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RTRA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VLC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VRG-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VWT-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="LSL"><img src="/sets/LSL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PWR"><img src="/sets/PWR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RAD"><img src="/sets/RAD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RDV"><img src="/sets/RDV-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RRN"><img src="/sets/RRN-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RTRA"><img src="/sets/RTRA-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VLC"><img src="/sets/VLC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VLD"><img src="/sets/VLD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VRG"><img src="/sets/VRG-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VWT"><img src="/sets/VWT-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/LSL-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\LSL-files\img\15_Memoriam Station.png" id="15_Memoriam Station" data-flag="@X" onclick="openSidebar('15_Memoriam Station',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\41_Allusions to Choice.png" id="41_Allusions to Choice" data-flag="@X" onclick="openSidebar('41_Allusions to Choice',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\104_Resource Raid.png" id="104_Resource Raid" data-flag="@X" onclick="openSidebar('104_Resource Raid',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\123_Chaotic Clamor.png" id="123_Chaotic Clamor" data-flag="@X" onclick="openSidebar('123_Chaotic Clamor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\169_Darkwurm Researchcraft.png" id="169_Darkwurm Researchcraft" data-flag="@X" onclick="openSidebar('169_Darkwurm Researchcraft',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\29_Rhosha, Time's Prisoner.png" id="29_Rhosha, Times Prisoner" data-flag="@X" onclick="openSidebar('29_Rhosha, Times Prisoner',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\53_Federation Advisor.png" id="53_Federation Advisor" data-flag="@X" onclick="openSidebar('53_Federation Advisor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\112_Thaxian Voidstone.png" id="112_Thaxian Voidstone" data-flag="@X" onclick="openSidebar('112_Thaxian Voidstone',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\131_Flechette Munitions.png" id="131_Flechette Munitions" data-flag="@X" onclick="openSidebar('131_Flechette Munitions',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\181_Kai'Kellon, Fragmented Forebear.png" id="181_KaiKellon, Fragmented Forebear" data-flag="@X" onclick="openSidebar('181_KaiKellon, Fragmented Forebear',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\31_Static Sequence.png" id="31_Static Sequence" data-flag="@X" onclick="openSidebar('31_Static Sequence',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\63_Preservation, Sentient Directive.png" id="63_Preservation, Sentient Directive" data-flag="@X" onclick="openSidebar('63_Preservation, Sentient Directive',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\113_Unak, Exo Manipulator.png" id="113_Unak, Exo Manipulator" data-flag="@X" onclick="openSidebar('113_Unak, Exo Manipulator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\135_Jaster, Zionnoth's Second.png" id="135_Jaster, Zionnoths Second" data-flag="@X" onclick="openSidebar('135_Jaster, Zionnoths Second',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\198_Wurmtaming.png" id="198_Wurmtaming" data-flag="@X" onclick="openSidebar('198_Wurmtaming',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\7_Curator's Intevention.png" id="7_Curators Intevention" data-flag="@X" onclick="openSidebar('7_Curators Intevention',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\52_Fate-Linked Twilightborn.png" id="52_Fate-Linked Twilightborn" data-flag="@X" onclick="openSidebar('52_Fate-Linked Twilightborn',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\85_Death of the Dawn.png" id="85_Death of the Dawn" data-flag="@X" onclick="openSidebar('85_Death of the Dawn',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\130_Flame-Tongue Feline.png" id="130_Flame-Tongue Feline" data-flag="@X" onclick="openSidebar('130_Flame-Tongue Feline',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\165_Catalytic Processor.png" id="165_Catalytic Processor" data-flag="@X" onclick="openSidebar('165_Catalytic Processor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\11_Habitat Architect.png" id="11_Habitat Architect" data-flag="@X" onclick="openSidebar('11_Habitat Architect',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\54_Fleetwide Engineer.png" id="54_Fleetwide Engineer" data-flag="@X" onclick="openSidebar('54_Fleetwide Engineer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\89_Exovitalize.png" id="89_Exovitalize" data-flag="@X" onclick="openSidebar('89_Exovitalize',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\142_Otherworld Assault Team.png" id="142_Otherworld Assault Team" data-flag="@X" onclick="openSidebar('142_Otherworld Assault Team',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\179_Infested Wurmgrounds.png" id="179_Infested Wurmgrounds" data-flag="@X" onclick="openSidebar('179_Infested Wurmgrounds',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\19_Otherworld Veteran.png" id="19_Otherworld Veteran" data-flag="@X" onclick="openSidebar('19_Otherworld Veteran',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\64_Quantum Terror.png" id="64_Quantum Terror" data-flag="@X" onclick="openSidebar('64_Quantum Terror',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\92_Macabre Prisonship.png" id="92_Macabre Prisonship" data-flag="@X" onclick="openSidebar('92_Macabre Prisonship',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\149_Scrapper's Lightcutter.png" id="149_Scrappers Lightcutter" data-flag="@X" onclick="openSidebar('149_Scrappers Lightcutter',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\184_Mycellic Propagator.png" id="184_Mycellic Propagator" data-flag="@X" onclick="openSidebar('184_Mycellic Propagator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\26_Prisonworld's Sentence.png" id="26_Prisonworlds Sentence" data-flag="@X" onclick="openSidebar('26_Prisonworlds Sentence',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\67_Reverse Engineering.png" id="67_Reverse Engineering" data-flag="@X" onclick="openSidebar('67_Reverse Engineering',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\116_Voracious Cosmipillar.png" id="116_Voracious Cosmipillar" data-flag="@X" onclick="openSidebar('116_Voracious Cosmipillar',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\153_Station Raider.png" id="153_Station Raider" data-flag="@X" onclick="openSidebar('153_Station Raider',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\186_Phaselight Colonyship.png" id="186_Phaselight Colonyship" data-flag="@X" onclick="openSidebar('186_Phaselight Colonyship',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\36_Twilight Darkwurm.png" id="36_Twilight Darkwurm" data-flag="@X" onclick="openSidebar('36_Twilight Darkwurm',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\80_Wurmguard Commandcraft.png" id="80_Wurmguard Commandcraft" data-flag="@X" onclick="openSidebar('80_Wurmguard Commandcraft',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\118_Wurmtamer's Stone.png" id="118_Wurmtamers Stone" data-flag="@X" onclick="openSidebar('118_Wurmtamers Stone',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\157_Twilightborn Scavenger.png" id="157_Twilightborn Scavenger" data-flag="@X" onclick="openSidebar('157_Twilightborn Scavenger',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\197_Wurmhole Exploration.png" id="197_Wurmhole Exploration" data-flag="@X" onclick="openSidebar('197_Wurmhole Exploration',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\1_Active Shielding.png" id="1_Active Shielding" data-flag="@X" onclick="openSidebar('1_Active Shielding',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\42_Ancient Starsquid.png" id="42_Ancient Starsquid" data-flag="@X" onclick="openSidebar('42_Ancient Starsquid',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\82_Artificial Ace.png" id="82_Artificial Ace" data-flag="@X" onclick="openSidebar('82_Artificial Ace',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\127_Emergency Preparations.png" id="127_Emergency Preparations" data-flag="@X" onclick="openSidebar('127_Emergency Preparations',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\162_Ancient Darkwurm.png" id="162_Ancient Darkwurm" data-flag="@X" onclick="openSidebar('162_Ancient Darkwurm',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\6_Crashed Transport.png" id="6_Crashed Transport" data-flag="@X" onclick="openSidebar('6_Crashed Transport',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\43_Anomolous Study.png" id="43_Anomolous Study" data-flag="@X" onclick="openSidebar('43_Anomolous Study',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\86_Demise Evader.png" id="86_Demise Evader" data-flag="@X" onclick="openSidebar('86_Demise Evader',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\132_Havoc Seer.png" id="132_Havoc Seer" data-flag="@X" onclick="openSidebar('132_Havoc Seer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\163_Armorback Specimen.png" id="163_Armorback Specimen" data-flag="@X" onclick="openSidebar('163_Armorback Specimen',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\8_Curator's Talent.png" id="8_Curators Talent" data-flag="@X" onclick="openSidebar('8_Curators Talent',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\44_Collection Compiler.png" id="44_Collection Compiler" data-flag="@X" onclick="openSidebar('44_Collection Compiler',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\87_Exoskeletal Operator.png" id="87_Exoskeletal Operator" data-flag="@X" onclick="openSidebar('87_Exoskeletal Operator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\134_Improvised Craftwelder.png" id="134_Improvised Craftwelder" data-flag="@X" onclick="openSidebar('134_Improvised Craftwelder',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\164_Backwards Burrowbeast.png" id="164_Backwards Burrowbeast" data-flag="@X" onclick="openSidebar('164_Backwards Burrowbeast',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\9_Forced Emigration.png" id="9_Forced Emigration" data-flag="@X" onclick="openSidebar('9_Forced Emigration',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\48_Engineer's Talent.png" id="48_Engineers Talent" data-flag="@X" onclick="openSidebar('48_Engineers Talent',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\91_Lone Curse-Linked.png" id="91_Lone Curse-Linked" data-flag="@X" onclick="openSidebar('91_Lone Curse-Linked',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\136_Junker's Talent.png" id="136_Junkers Talent" data-flag="@X" onclick="openSidebar('136_Junkers Talent',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\166_Colony Pioneer.png" id="166_Colony Pioneer" data-flag="@X" onclick="openSidebar('166_Colony Pioneer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\12_Inspiring Sergeant.png" id="12_Inspiring Sergeant" data-flag="@X" onclick="openSidebar('12_Inspiring Sergeant',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\49_Entanglement Engineer.png" id="49_Entanglement Engineer" data-flag="@X" onclick="openSidebar('49_Entanglement Engineer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\94_Nihilistic Revelation.png" id="94_Nihilistic Revelation" data-flag="@X" onclick="openSidebar('94_Nihilistic Revelation',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\137_Last-Second Exchange.png" id="137_Last-Second Exchange" data-flag="@X" onclick="openSidebar('137_Last-Second Exchange',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\170_Deadworld Terraformer.png" id="170_Deadworld Terraformer" data-flag="@X" onclick="openSidebar('170_Deadworld Terraformer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\14_Mechanized Croptender.png" id="14_Mechanized Croptender" data-flag="@X" onclick="openSidebar('14_Mechanized Croptender',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\50_Escort Oracle.png" id="50_Escort Oracle" data-flag="@X" onclick="openSidebar('50_Escort Oracle',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\96_Otherworldly Advantage.png" id="96_Otherworldly Advantage" data-flag="@X" onclick="openSidebar('96_Otherworldly Advantage',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\139_Mid-Warp Collision.png" id="139_Mid-Warp Collision" data-flag="@X" onclick="openSidebar('139_Mid-Warp Collision',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\171_Domebound Ecologist.png" id="171_Domebound Ecologist" data-flag="@X" onclick="openSidebar('171_Domebound Ecologist',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\18_Otherworld Banishment.png" id="18_Otherworld Banishment" data-flag="@X" onclick="openSidebar('18_Otherworld Banishment',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\55_Glimpse of Hope.png" id="55_Glimpse of Hope" data-flag="@X" onclick="openSidebar('55_Glimpse of Hope',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\97_Overwhelming Loss.png" id="97_Overwhelming Loss" data-flag="@X" onclick="openSidebar('97_Overwhelming Loss',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\144_Phasic Barrage.png" id="144_Phasic Barrage" data-flag="@X" onclick="openSidebar('144_Phasic Barrage',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\172_Ecologist's Talent.png" id="172_Ecologists Talent" data-flag="@X" onclick="openSidebar('172_Ecologists Talent',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\21_Phasebound Duelist.png" id="21_Phasebound Duelist" data-flag="@X" onclick="openSidebar('21_Phasebound Duelist',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\56_Hangar Bay Serviceman.png" id="56_Hangar Bay Serviceman" data-flag="@X" onclick="openSidebar('56_Hangar Bay Serviceman',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\100_Ransacker's Talent.png" id="100_Ransackers Talent" data-flag="@X" onclick="openSidebar('100_Ransackers Talent',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\145_Quantum Sightstone.png" id="145_Quantum Sightstone" data-flag="@X" onclick="openSidebar('145_Quantum Sightstone',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\173_Escape into Oasis.png" id="173_Escape into Oasis" data-flag="@X" onclick="openSidebar('173_Escape into Oasis',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\22_Phaselight Engine.png" id="22_Phaselight Engine" data-flag="@X" onclick="openSidebar('22_Phaselight Engine',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\57_Hypothermic Reaction.png" id="57_Hypothermic Reaction" data-flag="@X" onclick="openSidebar('57_Hypothermic Reaction',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\102_Ravenous Cosmipede.png" id="102_Ravenous Cosmipede" data-flag="@X" onclick="openSidebar('102_Ravenous Cosmipede',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\146_Rampage Scorcher.png" id="146_Rampage Scorcher" data-flag="@X" onclick="openSidebar('146_Rampage Scorcher',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\177_Gravitic Crush.png" id="177_Gravitic Crush" data-flag="@X" onclick="openSidebar('177_Gravitic Crush',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\24_Philanthropic Pathfinder.png" id="24_Philanthropic Pathfinder" data-flag="@X" onclick="openSidebar('24_Philanthropic Pathfinder',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\62_Practiced Replicaster.png" id="62_Practiced Replicaster" data-flag="@X" onclick="openSidebar('62_Practiced Replicaster',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\103_Regenerating Exosoldier.png" id="103_Regenerating Exosoldier" data-flag="@X" onclick="openSidebar('103_Regenerating Exosoldier',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\147_Reactive Magnetoad.png" id="147_Reactive Magnetoad" data-flag="@X" onclick="openSidebar('147_Reactive Magnetoad',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\178_Harmonic Darkwurm.png" id="178_Harmonic Darkwurm" data-flag="@X" onclick="openSidebar('178_Harmonic Darkwurm',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\25_Planet Settler.png" id="25_Planet Settler" data-flag="@X" onclick="openSidebar('25_Planet Settler',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\66_Retraction Beam.png" id="66_Retraction Beam" data-flag="@X" onclick="openSidebar('66_Retraction Beam',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\106_Shockfly Swarm.png" id="106_Shockfly Swarm" data-flag="@X" onclick="openSidebar('106_Shockfly Swarm',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\150_Shattering Cometcraft.png" id="150_Shattering Cometcraft" data-flag="@X" onclick="openSidebar('150_Shattering Cometcraft',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\180_Interplanetary Trader.png" id="180_Interplanetary Trader" data-flag="@X" onclick="openSidebar('180_Interplanetary Trader',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\30_Soul Archivist.png" id="30_Soul Archivist" data-flag="@X" onclick="openSidebar('30_Soul Archivist',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\69_Scrap Engineer.png" id="69_Scrap Engineer" data-flag="@X" onclick="openSidebar('69_Scrap Engineer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\108_Spark Siphon.png" id="108_Spark Siphon" data-flag="@X" onclick="openSidebar('108_Spark Siphon',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\152_Stampeding Sergeant.png" id="152_Stampeding Sergeant" data-flag="@X" onclick="openSidebar('152_Stampeding Sergeant',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\185_Otherworldly Blow.png" id="185_Otherworldly Blow" data-flag="@X" onclick="openSidebar('185_Otherworldly Blow',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\33_Tactical Communicator.png" id="33_Tactical Communicator" data-flag="@X" onclick="openSidebar('33_Tactical Communicator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\72_Star Ward.png" id="72_Star Ward" data-flag="@X" onclick="openSidebar('72_Star Ward',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\109_Stray Bombardment.png" id="109_Stray Bombardment" data-flag="@X" onclick="openSidebar('109_Stray Bombardment',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\154_Targeted Termination.png" id="154_Targeted Termination" data-flag="@X" onclick="openSidebar('154_Targeted Termination',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\187_Phaselight Tellurcraft.png" id="187_Phaselight Tellurcraft" data-flag="@X" onclick="openSidebar('187_Phaselight Tellurcraft',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\34_Territory Pillager.png" id="34_Territory Pillager" data-flag="@X" onclick="openSidebar('34_Territory Pillager',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\75_Supercooled Suspension.png" id="75_Supercooled Suspension" data-flag="@X" onclick="openSidebar('75_Supercooled Suspension',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\111_Thaxian Phaseblade.png" id="111_Thaxian Phaseblade" data-flag="@X" onclick="openSidebar('111_Thaxian Phaseblade',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\155_Thiris Crystal.png" id="155_Thiris Crystal" data-flag="@X" onclick="openSidebar('155_Thiris Crystal',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\192_Vagrant Fruitbearer.png" id="192_Vagrant Fruitbearer" data-flag="@X" onclick="openSidebar('192_Vagrant Fruitbearer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\37_Twilight Starsearcher.png" id="37_Twilight Starsearcher" data-flag="@X" onclick="openSidebar('37_Twilight Starsearcher',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\76_Twilight Disruption.png" id="76_Twilight Disruption" data-flag="@X" onclick="openSidebar('76_Twilight Disruption',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\114_Vaserian Apostle.png" id="114_Vaserian Apostle" data-flag="@X" onclick="openSidebar('114_Vaserian Apostle',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\156_Thrashing Cragwolf.png" id="156_Thrashing Cragwolf" data-flag="@X" onclick="openSidebar('156_Thrashing Cragwolf',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\194_Voidhab Fabricator.png" id="194_Voidhab Fabricator" data-flag="@X" onclick="openSidebar('194_Voidhab Fabricator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\40_Wurmhole Surveyor.png" id="40_Wurmhole Surveyor" data-flag="@X" onclick="openSidebar('40_Wurmhole Surveyor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\79_Veer Off Course.png" id="79_Veer Off Course" data-flag="@X" onclick="openSidebar('79_Veer Off Course',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\120_Xenogenic Bloodghoul.png" id="120_Xenogenic Bloodghoul" data-flag="@X" onclick="openSidebar('120_Xenogenic Bloodghoul',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\158_Unstable Stormhound.png" id="158_Unstable Stormhound" data-flag="@X" onclick="openSidebar('158_Unstable Stormhound',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\200_Yutaran Vigor.png" id="200_Yutaran Vigor" data-flag="@X" onclick="openSidebar('200_Yutaran Vigor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\2_Augur's Assistant.png" id="2_Augurs Assistant" data-flag="@X" onclick="openSidebar('2_Augurs Assistant',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\45_Destabilize.png" id="45_Destabilize" data-flag="@X" onclick="openSidebar('45_Destabilize',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\81_Archpriest of Twilight.png" id="81_Archpriest of Twilight" data-flag="@X" onclick="openSidebar('81_Archpriest of Twilight',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\121_Breakyard Salvager.png" id="121_Breakyard Salvager" data-flag="@X" onclick="openSidebar('121_Breakyard Salvager',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\161_Aggressive Phasewurm.png" id="161_Aggressive Phasewurm" data-flag="@X" onclick="openSidebar('161_Aggressive Phasewurm',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\3_Behavioral Analyst.png" id="3_Behavioral Analyst" data-flag="@X" onclick="openSidebar('3_Behavioral Analyst',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\46_Dire Departure.png" id="46_Dire Departure" data-flag="@X" onclick="openSidebar('46_Dire Departure',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\83_Bloody Exosoldier.png" id="83_Bloody Exosoldier" data-flag="@X" onclick="openSidebar('83_Bloody Exosoldier',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\122_Chaos Reader.png" id="122_Chaos Reader" data-flag="@X" onclick="openSidebar('122_Chaos Reader',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\167_Darkwurm Hatchling.png" id="167_Darkwurm Hatchling" data-flag="@X" onclick="openSidebar('167_Darkwurm Hatchling',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\4_Blockade Eluder.png" id="4_Blockade Eluder" data-flag="@X" onclick="openSidebar('4_Blockade Eluder',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\47_Elusive Starsquid.png" id="47_Elusive Starsquid" data-flag="@X" onclick="openSidebar('47_Elusive Starsquid',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\84_Costly Position.png" id="84_Costly Position" data-flag="@X" onclick="openSidebar('84_Costly Position',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\124_Curation Envoy.png" id="124_Curation Envoy" data-flag="@X" onclick="openSidebar('124_Curation Envoy',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\168_Darkwurm Light-Hunt.png" id="168_Darkwurm Light-Hunt" data-flag="@X" onclick="openSidebar('168_Darkwurm Light-Hunt',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\5_Colony Surveyor.png" id="5_Colony Surveyor" data-flag="@X" onclick="openSidebar('5_Colony Surveyor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\51_Exhibit Keeper.png" id="51_Exhibit Keeper" data-flag="@X" onclick="openSidebar('51_Exhibit Keeper',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\88_Exoskeletal Puppeteering.png" id="88_Exoskeletal Puppeteering" data-flag="@X" onclick="openSidebar('88_Exoskeletal Puppeteering',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\125_Electromagnetic Disruption.png" id="125_Electromagnetic Disruption" data-flag="@X" onclick="openSidebar('125_Electromagnetic Disruption',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\174_Force Multiplier.png" id="174_Force Multiplier" data-flag="@X" onclick="openSidebar('174_Force Multiplier',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\10_Fresh Reinforcements.png" id="10_Fresh Reinforcements" data-flag="@X" onclick="openSidebar('10_Fresh Reinforcements',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\58_Lightborn Ace.png" id="58_Lightborn Ace" data-flag="@X" onclick="openSidebar('58_Lightborn Ace',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\90_Legacy of the Phasebound.png" id="90_Legacy of the Phasebound" data-flag="@X" onclick="openSidebar('90_Legacy of the Phasebound',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\126_Electrostorm.png" id="126_Electrostorm" data-flag="@X" onclick="openSidebar('126_Electrostorm',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\175_Formicat Scout.png" id="175_Formicat Scout" data-flag="@X" onclick="openSidebar('175_Formicat Scout',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\13_Last Ditch Maneuver.png" id="13_Last Ditch Maneuver" data-flag="@X" onclick="openSidebar('13_Last Ditch Maneuver',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\59_Lost In Space.png" id="59_Lost In Space" data-flag="@X" onclick="openSidebar('59_Lost In Space',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\93_Manufactured Incident.png" id="93_Manufactured Incident" data-flag="@X" onclick="openSidebar('93_Manufactured Incident',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\128_Fanatical Rage.png" id="128_Fanatical Rage" data-flag="@X" onclick="openSidebar('128_Fanatical Rage',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\176_Geoengineer's Multitool.png" id="176_Geoengineers Multitool" data-flag="@X" onclick="openSidebar('176_Geoengineers Multitool',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\16_Missing No Longer.png" id="16_Missing No Longer" data-flag="@X" onclick="openSidebar('16_Missing No Longer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\60_Phaselight Recalibration.png" id="60_Phaselight Recalibration" data-flag="@X" onclick="openSidebar('60_Phaselight Recalibration',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\95_Orbital Droptroop.png" id="95_Orbital Droptroop" data-flag="@X" onclick="openSidebar('95_Orbital Droptroop',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\129_Federation Twilightborn.png" id="129_Federation Twilightborn" data-flag="@X" onclick="openSidebar('129_Federation Twilightborn',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\182_Lightborn Ecologist.png" id="182_Lightborn Ecologist" data-flag="@X" onclick="openSidebar('182_Lightborn Ecologist',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\17_Omnidirectional Assault Gear.png" id="17_Omnidirectional Assault Gear" data-flag="@X" onclick="openSidebar('17_Omnidirectional Assault Gear',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\61_Plans For Development.png" id="61_Plans For Development" data-flag="@X" onclick="openSidebar('61_Plans For Development',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\98_Phasebound Hunter.png" id="98_Phasebound Hunter" data-flag="@X" onclick="openSidebar('98_Phasebound Hunter',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\133_Hotshot Aeronaut.png" id="133_Hotshot Aeronaut" data-flag="@X" onclick="openSidebar('133_Hotshot Aeronaut',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\183_Mycellic Crasher.png" id="183_Mycellic Crasher" data-flag="@X" onclick="openSidebar('183_Mycellic Crasher',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\20_Otherworld Vigil.png" id="20_Otherworld Vigil" data-flag="@X" onclick="openSidebar('20_Otherworld Vigil',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\65_Researcher's Shuttlecraft.png" id="65_Researchers Shuttlecraft" data-flag="@X" onclick="openSidebar('65_Researchers Shuttlecraft',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\99_Phaseshred.png" id="99_Phaseshred" data-flag="@X" onclick="openSidebar('99_Phaseshred',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\138_Lifestation Scout.png" id="138_Lifestation Scout" data-flag="@X" onclick="openSidebar('138_Lifestation Scout',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\188_Relicworld Colonization.png" id="188_Relicworld Colonization" data-flag="@X" onclick="openSidebar('188_Relicworld Colonization',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\23_Phaselight Rupture.png" id="23_Phaselight Rupture" data-flag="@X" onclick="openSidebar('23_Phaselight Rupture',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\68_Roving Starsquid.png" id="68_Roving Starsquid" data-flag="@X" onclick="openSidebar('68_Roving Starsquid',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\101_Ration Nibbler.png" id="101_Ration Nibbler" data-flag="@X" onclick="openSidebar('101_Ration Nibbler',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\140_Nebula Stormship.png" id="140_Nebula Stormship" data-flag="@X" onclick="openSidebar('140_Nebula Stormship',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\189_Rocket Punch.png" id="189_Rocket Punch" data-flag="@X" onclick="openSidebar('189_Rocket Punch',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\27_Rapidfire Lightcutter.png" id="27_Rapidfire Lightcutter" data-flag="@X" onclick="openSidebar('27_Rapidfire Lightcutter',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\70_Soarnith Commando.png" id="70_Soarnith Commando" data-flag="@X" onclick="openSidebar('70_Soarnith Commando',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\105_Salvage Equipment.png" id="105_Salvage Equipment" data-flag="@X" onclick="openSidebar('105_Salvage Equipment',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\141_Orbital Shocktroop.png" id="141_Orbital Shocktroop" data-flag="@X" onclick="openSidebar('141_Orbital Shocktroop',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\190_Roving Barkcrusher.png" id="190_Roving Barkcrusher" data-flag="@X" onclick="openSidebar('190_Roving Barkcrusher',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\28_Re-Energize.png" id="28_Re-Energize" data-flag="@X" onclick="openSidebar('28_Re-Energize',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\71_Solar Search.png" id="71_Solar Search" data-flag="@X" onclick="openSidebar('71_Solar Search',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\107_Solitary Captain.png" id="107_Solitary Captain" data-flag="@X" onclick="openSidebar('107_Solitary Captain',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\143_Overthrow Defenders.png" id="143_Overthrow Defenders" data-flag="@X" onclick="openSidebar('143_Overthrow Defenders',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\191_Soilless Tiller.png" id="191_Soilless Tiller" data-flag="@X" onclick="openSidebar('191_Soilless Tiller',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\32_Stereoscopic Tactician.png" id="32_Stereoscopic Tactician" data-flag="@X" onclick="openSidebar('32_Stereoscopic Tactician',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\73_Stranded Adrift.png" id="73_Stranded Adrift" data-flag="@X" onclick="openSidebar('73_Stranded Adrift',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\110_Summoned Cosmipede.png" id="110_Summoned Cosmipede" data-flag="@X" onclick="openSidebar('110_Summoned Cosmipede',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\148_Roving Garrison.png" id="148_Roving Garrison" data-flag="@X" onclick="openSidebar('148_Roving Garrison',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\193_Veiled Idyll.png" id="193_Veiled Idyll" data-flag="@X" onclick="openSidebar('193_Veiled Idyll',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\35_Tumultuous Exhibit.png" id="35_Tumultuous Exhibit" data-flag="@X" onclick="openSidebar('35_Tumultuous Exhibit',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\74_Suit Puncture.png" id="74_Suit Puncture" data-flag="@X" onclick="openSidebar('74_Suit Puncture',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\115_Vaserian Chanter.png" id="115_Vaserian Chanter" data-flag="@X" onclick="openSidebar('115_Vaserian Chanter',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\151_Soarnith Squaddie.png" id="151_Soarnith Squaddie" data-flag="@X" onclick="openSidebar('151_Soarnith Squaddie',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\195_Voidmage's Blessing.png" id="195_Voidmages Blessing" data-flag="@X" onclick="openSidebar('195_Voidmages Blessing',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\38_Weapons Calibrator.png" id="38_Weapons Calibrator" data-flag="@X" onclick="openSidebar('38_Weapons Calibrator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\77_Twilight Stalker.png" id="77_Twilight Stalker" data-flag="@X" onclick="openSidebar('77_Twilight Stalker',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\117_Writhing Bogbeast.png" id="117_Writhing Bogbeast" data-flag="@X" onclick="openSidebar('117_Writhing Bogbeast',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\159_Uproarious Sorcerer.png" id="159_Uproarious Sorcerer" data-flag="@X" onclick="openSidebar('159_Uproarious Sorcerer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\196_Wing Entangler.png" id="196_Wing Entangler" data-flag="@X" onclick="openSidebar('196_Wing Entangler',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\39_Wildlife Preservator.png" id="39_Wildlife Preservator" data-flag="@X" onclick="openSidebar('39_Wildlife Preservator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\78_Untangle Fate.png" id="78_Untangle Fate" data-flag="@X" onclick="openSidebar('78_Untangle Fate',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\119_Xenogen Exposure.png" id="119_Xenogen Exposure" data-flag="@X" onclick="openSidebar('119_Xenogen Exposure',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\160_Vaserian Stormstone.png" id="160_Vaserian Stormstone" data-flag="@X" onclick="openSidebar('160_Vaserian Stormstone',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\199_Yutaran Hunter.png" id="199_Yutaran Hunter" data-flag="@X" onclick="openSidebar('199_Yutaran Hunter',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\202_Archive Lifestation.png" id="202_Archive Lifestation" data-flag="@X" onclick="openSidebar('202_Archive Lifestation',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\228_Deadworld Archaeologist.png" id="228_Deadworld Archaeologist" data-flag="@X" onclick="openSidebar('228_Deadworld Archaeologist',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\210_Havoc Render.png" id="210_Havoc Render" data-flag="@X" onclick="openSidebar('210_Havoc Render',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\203_Charging Phasebound.png" id="203_Charging Phasebound" data-flag="@X" onclick="openSidebar('203_Charging Phasebound',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\204_Enclosed Hydroponics.png" id="204_Enclosed Hydroponics" data-flag="@X" onclick="openSidebar('204_Enclosed Hydroponics',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\220_Possibility Oracle.png" id="220_Possibility Oracle" data-flag="@X" onclick="openSidebar('220_Possibility Oracle',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\213_Light Tracker.png" id="213_Light Tracker" data-flag="@X" onclick="openSidebar('213_Light Tracker',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\216_Otherworld Orders.png" id="216_Otherworld Orders" data-flag="@X" onclick="openSidebar('216_Otherworld Orders',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\209_Forward Scout.png" id="209_Forward Scout" data-flag="@X" onclick="openSidebar('209_Forward Scout',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\225_Twilight Starsnake.png" id="225_Twilight Starsnake" data-flag="@X" onclick="openSidebar('225_Twilight Starsnake',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\201_Advanced Observation Post.png" id="201_Advanced Observation Post" data-flag="@X" onclick="openSidebar('201_Advanced Observation Post',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\221_Rhest Ko, Brutal Subjugator.png" id="221_Rhest Ko, Brutal Subjugator" data-flag="@X" onclick="openSidebar('221_Rhest Ko, Brutal Subjugator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\215_Lio, Fate Binder.png" id="215_Lio, Fate Binder" data-flag="@X" onclick="openSidebar('215_Lio, Fate Binder',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\223_Thaxian Phasecrasher.png" id="223_Thaxian Phasecrasher" data-flag="@X" onclick="openSidebar('223_Thaxian Phasecrasher',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\212_Lae Sard, Baron of the Stars.png" id="212_Lae Sard, Baron of the Stars" data-flag="@X" onclick="openSidebar('212_Lae Sard, Baron of the Stars',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\214_Lightborn Agrariator.png" id="214_Lightborn Agrariator" data-flag="@X" onclick="openSidebar('214_Lightborn Agrariator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\219_Phasebound Voidmage.png" id="219_Phasebound Voidmage" data-flag="@X" onclick="openSidebar('219_Phasebound Voidmage',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\207_Fighter Fabricator.png" id="207_Fighter Fabricator" data-flag="@X" onclick="openSidebar('207_Fighter Fabricator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\218_Otherworld Wurmtamer.png" id="218_Otherworld Wurmtamer" data-flag="@X" onclick="openSidebar('218_Otherworld Wurmtamer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\206_Fauna Abductor.png" id="206_Fauna Abductor" data-flag="@X" onclick="openSidebar('206_Fauna Abductor',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\208_Flora Behemoth.png" id="208_Flora Behemoth" data-flag="@X" onclick="openSidebar('208_Flora Behemoth',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\217_Otherworld Resonator.png" id="217_Otherworld Resonator" data-flag="@X" onclick="openSidebar('217_Otherworld Resonator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\205_Escape Pod.png" id="205_Escape Pod" data-flag="@X" onclick="openSidebar('205_Escape Pod',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\211_Hotshot Space Ace.png" id="211_Hotshot Space Ace" data-flag="@X" onclick="openSidebar('211_Hotshot Space Ace',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\224_The Twilight Darkbeast.png" id="224_The Twilight Darkbeast" data-flag="@X" onclick="openSidebar('224_The Twilight Darkbeast',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\226_Voya, Fate-Linked Savior.png" id="226_Voya, Fate-Linked Savior" data-flag="@X" onclick="openSidebar('226_Voya, Fate-Linked Savior',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\227_Zionnoth, Planet Conquerer.png" id="227_Zionnoth, Planet Conquerer" data-flag="@X" onclick="openSidebar('227_Zionnoth, Planet Conquerer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\222_Shara, Luck-Linked.png" id="222_Shara, Luck-Linked" data-flag="@X" onclick="openSidebar('222_Shara, Luck-Linked',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\237_Entanglement Engine.png" id="237_Entanglement Engine" data-flag="@X" onclick="openSidebar('237_Entanglement Engine',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\231_Darkworld Monument.png" id="231_Darkworld Monument" data-flag="@X" onclick="openSidebar('231_Darkworld Monument',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\235_Dyson Colossus.png" id="235_Dyson Colossus" data-flag="@X" onclick="openSidebar('235_Dyson Colossus',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\243_Phaselight Starforge.png" id="243_Phaselight Starforge" data-flag="@X" onclick="openSidebar('243_Phaselight Starforge',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\246_Swarmlaunch Carrier.png" id="246_Swarmlaunch Carrier" data-flag="@X" onclick="openSidebar('246_Swarmlaunch Carrier',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\236_Enclosure Caretaker.png" id="236_Enclosure Caretaker" data-flag="@X" onclick="openSidebar('236_Enclosure Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\238_Fleetwide Repairbot.png" id="238_Fleetwide Repairbot" data-flag="@X" onclick="openSidebar('238_Fleetwide Repairbot',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\241_Phase Cannon.png" id="241_Phase Cannon" data-flag="@X" onclick="openSidebar('241_Phase Cannon',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\242_Phaselight Fighter.png" id="242_Phaselight Fighter" data-flag="@X" onclick="openSidebar('242_Phaselight Fighter',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\245_Specimen Savior.png" id="245_Specimen Savior" data-flag="@X" onclick="openSidebar('245_Specimen Savior',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\247_Terrestrial Scouter.png" id="247_Terrestrial Scouter" data-flag="@X" onclick="openSidebar('247_Terrestrial Scouter',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\229_Allied Shredder-Class Frigate.png" id="229_Allied Shredder-Class Frigate" data-flag="@X" onclick="openSidebar('229_Allied Shredder-Class Frigate',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\232_Darkworld Relic.png" id="232_Darkworld Relic" data-flag="@X" onclick="openSidebar('232_Darkworld Relic',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\233_Deadworld Dome.png" id="233_Deadworld Dome" data-flag="@X" onclick="openSidebar('233_Deadworld Dome',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\234_Deadworld Precolonizer.png" id="234_Deadworld Precolonizer" data-flag="@X" onclick="openSidebar('234_Deadworld Precolonizer',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\239_Lost Cargo.png" id="239_Lost Cargo" data-flag="@X" onclick="openSidebar('239_Lost Cargo',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\240_Microstar Generator.png" id="240_Microstar Generator" data-flag="@X" onclick="openSidebar('240_Microstar Generator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\244_Solar Emulator.png" id="244_Solar Emulator" data-flag="@X" onclick="openSidebar('244_Solar Emulator',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\248_Twilight Voidvessel.png" id="248_Twilight Voidvessel" data-flag="@X" onclick="openSidebar('248_Twilight Voidvessel',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\249_Waste Recycler.png" id="249_Waste Recycler" data-flag="@X" onclick="openSidebar('249_Waste Recycler',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\258_Ovas III, Shrouded Moon.png" id="258_Ovas III, Shrouded Moon" data-flag="@X" onclick="openSidebar('258_Ovas III, Shrouded Moon',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\251_Estevia, Otherworld Nebula.png" id="251_Estevia, Otherworld Nebula" data-flag="@X" onclick="openSidebar('251_Estevia, Otherworld Nebula',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\263_Thellex, Phasic Warworld.png" id="263_Thellex, Phasic Warworld" data-flag="@X" onclick="openSidebar('263_Thellex, Phasic Warworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\259_Rukka, Comet Aurora.png" id="259_Rukka, Comet Aurora" data-flag="@X" onclick="openSidebar('259_Rukka, Comet Aurora',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\250_Distar, Celestial Egg.png" id="250_Distar, Celestial Egg" data-flag="@X" onclick="openSidebar('250_Distar, Celestial Egg',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\256_Moonless Plageworld.png" id="256_Moonless Plageworld" data-flag="@X" onclick="openSidebar('256_Moonless Plageworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\254_Inclement Brineworld.png" id="254_Inclement Brineworld" data-flag="@X" onclick="openSidebar('254_Inclement Brineworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\255_Juvenile Slagworld.png" id="255_Juvenile Slagworld" data-flag="@X" onclick="openSidebar('255_Juvenile Slagworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\260_Savage Wildworld.png" id="260_Savage Wildworld" data-flag="@X" onclick="openSidebar('260_Savage Wildworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\253_Harmonic Farmworld.png" id="253_Harmonic Farmworld" data-flag="@X" onclick="openSidebar('253_Harmonic Farmworld',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\252_Expired Gloomworld.png" id="252_Expired Gloomworld" data-flag="@X" onclick="openSidebar('252_Expired Gloomworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\266_Turbulent Stormworld.png" id="266_Turbulent Stormworld" data-flag="@X" onclick="openSidebar('266_Turbulent Stormworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\261_Slough Wetworld.png" id="261_Slough Wetworld" data-flag="@X" onclick="openSidebar('261_Slough Wetworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\265_Torrid Dustworld.png" id="265_Torrid Dustworld" data-flag="@X" onclick="openSidebar('265_Torrid Dustworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\262_Teeming Lushworld.png" id="262_Teeming Lushworld" data-flag="@X" onclick="openSidebar('262_Teeming Lushworld',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\257_Nabarro, Glassworld.png" id="257_Nabarro, Glassworld" data-flag="@X" onclick="openSidebar('257_Nabarro, Glassworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\230_Ark Epsilon, Ringworld.png" id="230_Ark Epsilon, Ringworld" data-flag="@X" onclick="openSidebar('230_Ark Epsilon, Ringworld',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\264_Thiris Mine.png" id="264_Thiris Mine" data-flag="@X" onclick="openSidebar('264_Thiris Mine',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\267_Plains.png" id="267_Plains" data-flag="@X" onclick="openSidebar('267_Plains',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\268_Island.png" id="268_Island" data-flag="@X" onclick="openSidebar('268_Island',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\269_Swamp.png" id="269_Swamp" data-flag="@X" onclick="openSidebar('269_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\270_Mountain.png" id="270_Mountain" data-flag="@X" onclick="openSidebar('270_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\271_Forest.png" id="271_Forest" data-flag="@X" onclick="openSidebar('271_Forest',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\5t_Clue.png" id="5t_Clue" data-flag="@X" onclick="openSidebar('5t_Clue',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\6t_Food.png" id="6t_Food" data-flag="@X" onclick="openSidebar('6t_Food',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\7t_Habitat.png" id="7t_Habitat" data-flag="@X" onclick="openSidebar('7t_Habitat',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\8t_Junk.png" id="8t_Junk" data-flag="@X" onclick="openSidebar('8t_Junk',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\9t_Spacecraft.png" id="9t_Spacecraft" data-flag="@X" onclick="openSidebar('9t_Spacecraft',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\10t_Wastes.png" id="10t_Wastes" data-flag="@X" onclick="openSidebar('10t_Wastes',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\1t_Pangolin.png" id="1t_Pangolin" data-flag="@X" onclick="openSidebar('1t_Pangolin',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\2t_Starsquid.png" id="2t_Starsquid" data-flag="@X" onclick="openSidebar('2t_Starsquid',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\3t_Thax Soldier.png" id="3t_Thax Soldier" data-flag="@X" onclick="openSidebar('3t_Thax Soldier',false)"></div>
+			<div class="container"><img alt="/sets\LSL-files\img\4t_Darkwurm.png" id="4t_Darkwurm" data-flag="@X" onclick="openSidebar('4t_Darkwurm',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
