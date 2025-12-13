@@ -178,7 +178,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever this Spacecraft is stationed, put a charge counter on target artifact.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 14+] Flying, vigilance\nWhenever this spacecraft attacks, proliferate. [4/4]",
+            "special_text": "Whenever this Spacecraft is stationed, put a charge counter on target artifact.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 14+] Flying, vigilance\nWhenever this spacecraft attacks, proliferate. [4/4]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -322,7 +322,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this artifact enters, scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 5+] Flying, vigilance\n{T}: Scry 1. [4/4]",
+            "special_text": "When this artifact enters, scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 5+] Flying, vigilance\n{T}: Scry 1. [4/4]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -340,7 +340,7 @@
             "rules_text": "\nWhenever this spacecraft enters or attacks, exile the top card of your library and put an entanglement counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever this Spacecraft enters or attacks, exile the top card of your library and put an entanglement counter on it.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 6+] Flying\nYou may play lands from your graveyard or lands you own in exile with an entanglement counter on them. [3/5]",
+            "special_text": "Whenever this Spacecraft enters or attacks, exile the top card of your library and put an entanglement counter on it.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] Flying\nYou may play lands from your graveyard or lands you own in exile with an entanglement counter on them. [3/5]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -520,7 +520,7 @@
             "rules_text": "[i]Void[/i] \u2014 At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 1/2 white Pangolin creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i]Void[/i] \u2014 At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 1/2 white Pangolin creature token.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 9+] Flying, double strike [2/4]",
+            "special_text": "[i]Void[/i] \u2014 At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 1/2 white Pangolin creature token.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 9+] Flying, double strike [2/4]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -723,7 +723,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Island",
@@ -741,7 +741,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Swamp",
@@ -759,7 +759,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Mountain",
@@ -777,7 +777,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Forest",
@@ -795,7 +795,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Otherworld Orders",
@@ -862,7 +862,7 @@
             "rules_text": "{T}: Untap target permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "{T}: Untap another target permanent.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 5+] Flying\nWhen this artifact becomes tapped, scry 1. [2/2]",
+            "special_text": "{T}: Untap another target permanent.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 5+] Flying\nWhen this artifact becomes tapped, scry 1. [2/2]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -880,7 +880,7 @@
             "rules_text": "{U}, {T}: The next spell you cast this turn has improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this artifact enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 5+] Flying\n{U}, {T}: The next spell you cast this turn has improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i] [2/3]",
+            "special_text": "When this artifact enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 5+] Flying\n{U}, {T}: The next spell you cast this turn has improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i] [2/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -934,7 +934,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "The first time a creature stations this Spacecraft, it gains superposition until end of turn. Untap it. [i](Whenever this creature blocks or becomes blocked, this creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 10+] Flying\nWhenever a creature stations this Spacecraft, it gains lifelink until end of turn. [3/3]",
+            "special_text": "The first time a creature stations this Spacecraft, it gains superposition until end of turn. Untap it. [i](Whenever this creature blocks or becomes blocked, this creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 10+] Flying\nWhenever a creature stations this Spacecraft, it gains lifelink until end of turn. [3/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -952,7 +952,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever a creature stations this Spacecraft, scry 1.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 20+] Flying\nOther permanents you control have indestructible. [8/12]",
+            "special_text": "Whenever a creature stations this Spacecraft, scry 1.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 20+] Flying\nOther permanents you control have indestructible. [8/12]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -1150,7 +1150,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever this Spacecraft is stationed by a nontoken creature, create a green 3/3 Wurm creature token with trample named Darkwurm.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 13+] Flying, trample\nOther creatures you control get +2/+2. [8/8]",
+            "special_text": "Whenever this Spacecraft is stationed by a nontoken creature, create a green 3/3 Wurm creature token with trample named Darkwurm.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 13+] Flying, trample\nOther creatures you control get +2/+2. [8/8]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -1183,7 +1183,7 @@
             "number": 245,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]Once the Lifestation arrived, it would dispatch innumerable units to store as many specimens from the system as it could.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1204,7 +1204,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 1+] Flying [3/2]",
+            "special_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 1+] Flying [3/2]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -1371,7 +1371,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Ovas III, Shrouded Moon",
@@ -1389,7 +1389,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Rukka, Comet Aurora",
@@ -1407,7 +1407,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Thellex, Phasic Warworld",
@@ -1425,7 +1425,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Distar, Celestial Egg",
@@ -1443,7 +1443,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Teeming Lushworld",
@@ -1456,12 +1456,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Forests and/or Islands.\n{T}: Add {G} or {U}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {G}{G}, {U}{U}, or {G}{U}.",
+            "special_text": "This land enters tapped unless you control three Forests and/or Islands.\n{T}: Add {G} or {U}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {G}{G}, {U}{U}, or {G}{U}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Moonless Plageworld",
@@ -1474,12 +1474,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Plains and/or Islands.\n{T}: Add {W} or {U}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {W}{W}, {U}{U}, or {W}{U}.",
+            "special_text": "This land enters tapped unless you control three Plains and/or Islands.\n{T}: Add {W} or {U}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {W}{W}, {U}{U}, or {W}{U}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Inclement Brineworld",
@@ -1492,12 +1492,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Islands and/or Swamps.\n{T}: Add {U} or {B}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {U}{U}, {B}{B}, or {U}{B}.",
+            "special_text": "This land enters tapped unless you control three Islands and/or Swamps.\n{T}: Add {U} or {B}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {U}{U}, {B}{B}, or {U}{B}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Turbulent Stormworld",
@@ -1510,12 +1510,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Islands and/or Mountains.\n{T}: Add {U} or {R}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {U}{U}, {R}{R}, or {U}{R}.",
+            "special_text": "This land enters tapped unless you control three Islands and/or Mountains.\n{T}: Add {U} or {R}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {U}{U}, {R}{R}, or {U}{R}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Juvenile Slagworld",
@@ -1528,12 +1528,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Swamps and/or Mountains.\n{T}: Add {B} or {R}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {B}{B}, {R}{R}, or {B}{R}.",
+            "special_text": "This land enters tapped unless you control three Swamps and/or Mountains.\n{T}: Add {B} or {R}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {B}{B}, {R}{R}, or {B}{R}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Savage Wildworld",
@@ -1546,12 +1546,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Mountains and/or Forests.\n{T}: Add {R} or {G}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {R}{R}, {G}{G}, or {R}{G}.",
+            "special_text": "This land enters tapped unless you control three Mountains and/or Forests.\n{T}: Add {R} or {G}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {R}{R}, {G}{G}, or {R}{G}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Harmonic Farmworld",
@@ -1564,12 +1564,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Forests and/or Plains.\n{T}: Add {G} or {W}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {G}{G}, {W}{W}, or {G}{W}.",
+            "special_text": "This land enters tapped unless you control three Forests and/or Plains.\n{T}: Add {G} or {W}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {G}{G}, {W}{W}, or {G}{W}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Expired Gloomworld",
@@ -1582,12 +1582,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Plains and/or Swamps.\n{T}: Add {W} or {B}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {W}{W}, {B}{B}, or {W}{B}.",
+            "special_text": "This land enters tapped unless you control three Plains and/or Swamps.\n{T}: Add {W} or {B}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {W}{W}, {B}{B}, or {W}{B}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Slough Wetworld",
@@ -1600,12 +1600,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Swamps and/or Forests.\n{T}: Add {B} or {G}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {B}{B}, {G}{G}, or {B}{G}.",
+            "special_text": "This land enters tapped unless you control three Swamps and/or Forests.\n{T}: Add {B} or {G}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {B}{B}, {G}{G}, or {B}{G}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Torrid Dustworld",
@@ -1618,12 +1618,12 @@
             "rules_text": "This land enters tapped unless you control three other Forests and/or Islands.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This land enters tapped unless you control three Mountains and/or Plains.\n{T}: Add {R} or {W}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {R}{R}, {W}{W}, or {R}{W}.",
+            "special_text": "This land enters tapped unless you control three Mountains and/or Plains.\n{T}: Add {R} or {W}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] {T}: Add {R}{R}, {W}{W}, or {R}{W}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Ark Epsilon, Ringworld",
@@ -1636,12 +1636,12 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "{T}: Add {C}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 14+] You may spend mana as if it were mana of any color.\n{T}, Remove twice X charge counters from Ark Epsilon: Add X {C}.",
+            "special_text": "{T}: Add {C}.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 14+] You may spend mana as if it were mana of any color.\n{T}, Remove twice X charge counters from Ark Epsilon: Add X {C}.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Wastes",
@@ -1672,12 +1672,12 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a land: Draw a card.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]\n[level 16+] Spells you cast cost {1} less to cast for each type among land cards in your graveyard.",
+            "special_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a land: Draw a card.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 16+] Spells you cast cost {1} less to cast for each type among land cards in your graveyard.",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Wildlife Preservator",
@@ -1803,7 +1803,7 @@
             "set": "LSL",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Phase Cannon",
@@ -1852,7 +1852,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Tunneling {W}{W}\n{T}, Shuffle target nonland permanent you control into your library: Draw a card.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 7+] Flying, vigilance [4/4]",
+            "special_text": "Tunneling {W}{W}\n{T}, Shuffle target nonland permanent you control into your library: Draw a card.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 7+] Flying, vigilance [4/4]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -2011,7 +2011,7 @@
             "number": 179,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.\nWarp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.\nWarp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]The comet was infested with eggs, each awaiting but the faintest light to hatch and feed upon.[/i]",
             "pt": "",
             "special_text": "",
@@ -2644,7 +2644,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever this artifact enters, each opponent discards a card and loses 3 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 12+] Flying\nWhen this creature attacks, each opponent sacrifices a creature and you draw a card. [4/8]",
+            "special_text": "Whenever this artifact enters, each opponent discards a card and loses 3 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 12+] Flying\nWhen this creature attacks, each opponent sacrifices a creature and you draw a card. [4/8]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -3058,7 +3058,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this artifact enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 10+] Flying\nWhenever a nontoken creature you control dies, you may pay {1}. When you do, create a 1/2 white Pangolin creature token. [3/3]",
+            "special_text": "When this artifact enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 10+] Flying\nWhenever a nontoken creature you control dies, you may pay {1}. When you do, create a 1/2 white Pangolin creature token. [3/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -3274,7 +3274,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this artifact enters, exile up to one target creature, enchantment, or Spacecraft. Its controller creates a tapped Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 12+] Flying [9/9]",
+            "special_text": "When this artifact enters, exile up to one target creature, enchantment, or Spacecraft. Its controller creates a tapped Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 12+] Flying [9/9]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -3379,7 +3379,7 @@
             "number": 238,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]Most Twilightborn fleets could only afford a single repairbot, but their capacity for mid-warp maintenance was second-to-none.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3469,7 +3469,7 @@
             "number": 246,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "If one or more artifact tokens would be created under your control, those tokens plus an additional 3/2 colorless Spacecraft artifact token with station 1+ and flying are created instead. [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]",
+            "rules_text": "If one or more artifact tokens would be created under your control, those tokens plus an additional 3/2 colorless Spacecraft artifact token with station 1+ and flying are created instead. [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's a creature at 12+.)[/i]\n[level 2+] If one or more artifact tokens would be created under your control, those tokens plus an additional 3/2 colorless Spacecraft artifact token with station 1+ and flying are created instead.\n[level 12+] Flying\nOther artifact creatures you control get +2/+2. [2/5]",
@@ -3598,7 +3598,7 @@
             "rules_text": "Flash\nWhen Crashed Transport enters, target creature you control gains hexproof until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Flash\nWhen Crashed Transport enters, target creature you control gains hexproof and indestructible until end of turn.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 4+] Flying\nAs long as you have seven or more cards in your graveyard, this creature gets +2/+0. [1/3]",
+            "special_text": "Flash\nWhen Crashed Transport enters, target creature you control gains hexproof and indestructible until end of turn.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 4+] Flying\nAs long as you have seven or more cards in your graveyard, this creature gets +2/+0. [1/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -3634,7 +3634,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 3+] Flying, haste [5/5]\n[level 15+] At the beginning of combat on your turn, Nebula Stormship deals 2 damage to each creature you don't control. [8/8]",
+            "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 3+] Flying, haste [5/5]\n[level 15+] At the beginning of combat on your turn, Nebula Stormship deals 2 damage to each creature you don't control. [8/8]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -3778,7 +3778,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this Spacecraft enters, return up to one instant, sorcery, or artifact card from your graveyard to your hand.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 5+] Whenever this creature attacks or blocks, draw a card then discard a card. [3/3]",
+            "special_text": "When this Spacecraft enters, return up to one instant, sorcery, or artifact card from your graveyard to your hand.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 5+] Whenever this creature attacks or blocks, draw a card then discard a card. [3/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -3940,7 +3940,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "This artifact enters with a +1/+1 counter on it for create and/or artifact you control.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 7+] Flying\nWhen this creature dies, put its counters on up to one target creature you control. [3/2]",
+            "special_text": "This artifact enters with a +1/+1 counter on it for create and/or artifact you control.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 7+] Flying\nWhen this creature dies, put its counters on up to one target creature you control. [3/2]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -4102,7 +4102,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this artifact enters or the first time it's stationed each turn, you may put up to one land card from your hand onto the battlefield tapped.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 8+] Flying\nAt the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control. [3/3]",
+            "special_text": "When this artifact enters or the first time it's stationed each turn, you may put up to one land card from your hand onto the battlefield tapped.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 8+] Flying\nAt the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control. [3/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -4516,7 +4516,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 1+] Flying [3/2]\n[level 10+] First strike, deathtouch, lifelink [6/3]",
+            "special_text": "Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 1+] Flying [3/2]\n[level 10+] First strike, deathtouch, lifelink [6/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",
@@ -4894,7 +4894,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i]Landfall[/i] \u2014 Whenever a land enters the battlefield under your control, target opponent loses 1 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 6+] Flying\nWhen this creature attacks, target opponent may have you create a Habitat token. Otherwise, put two +1/+1 counters on this creature. [3/3]",
+            "special_text": "[i]Landfall[/i] \u2014 Whenever a land enters the battlefield under your control, target opponent loses 1 life.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 6+] Flying\nWhen this creature attacks, target opponent may have you create a Habitat token. Otherwise, put two +1/+1 counters on this creature. [3/3]",
             "shape": "leveler",
             "set": "LSL",
             "loyalty": "",

@@ -863,7 +863,7 @@
 			"name": "Nabarro, Glassworld",
 			"rarity": "mythic",
 			"mana_cost": "",
-			"type": "Legendary Land — Wastes Planet ",
+			"type": "Legendary Land — Planet ",
 			"collector_number": "257",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Nabarro, Glassworld.png"
@@ -1360,13 +1360,13 @@
 			}
 		},
 		{
-			"name": "Curator's Intevention",
+			"name": "Curator's Intervention",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment — Saga ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Curator's Intevention.png"
+				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Curator's Intervention.png"
 			}
 		},
 		{
@@ -1653,7 +1653,7 @@
 			"name": "Domebound Ecologist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Druid ",
+			"type": "Creature — Human Druid ",
 			"collector_number": "171",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Domebound Ecologist.png"
@@ -1872,7 +1872,7 @@
 		{
 			"name": "Soarnith Squaddie",
 			"rarity": "common",
-			"mana_cost": "{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Bird Soldier ",
 			"collector_number": "151",
 			"image_uris": {
@@ -2722,12 +2722,6 @@
 		2 Fate-Linked Twilightborn
 		2 Voracious Cosmipillar
 		2 Otherworld Assault Team
-		2 Estevia, Otherworld Nebula
-		2 Ovas III, Shrouded Moon
-		2 Rukka, Comet Aurora
-		2 Thellex, Phasic Warworld
-		2 Distar, Celestial Egg
-		2 Ark Epsilon, Ringworld
 		2 Otherworld Veteran
 		2 Fleetwide Engineer
 		2 Exovitalize
@@ -2735,7 +2729,7 @@
 		2 Infested Wurmgrounds
 		2 Shara, Luck-Linked
 		2 Quantum Terror
-		2 Curator's Intevention
+		2 Curator's Intervention
 		2 Macabre Prisonship
 		2 Scrapper's Lightcutter
 		2 Reverse Engineering
@@ -2755,7 +2749,6 @@
 		1 Rhest Ko, Brutal Subjugator
 		1 Flechette Munitions
 		1 Darkwurm Researchcraft
-		1 Nabarro, Glassworld
 		1 Lio, Fate Binder
 		1 Memoriam Station
 		1 Lae Sard, Baron of the Stars
@@ -2794,16 +2787,6 @@
 		9 Lightborn Agrariator
 		9 Specimen Savior
 		9 Phaselight Fighter
-		9 Teeming Lushworld
-		9 Moonless Plageworld
-		9 Inclement Brineworld
-		9 Turbulent Stormworld
-		9 Juvenile Slagworld
-		9 Savage Wildworld
-		9 Harmonic Farmworld
-		9 Expired Gloomworld
-		9 Slough Wetworld
-		9 Torrid Dustworld
 		9 Retraction Beam
 		9 Phase Cannon
 		9 Wurmhole Surveyor
@@ -2907,7 +2890,6 @@
 		30 Salvage Equipment
 		30 Federation Twilightborn
 		30 Darkwurm Light-Hunt
-		30 Thiris Mine
 		30 Xenogen Exposure
 		30 Weapons Calibrator
 		30 Roving Starsquid
@@ -3111,7 +3093,7 @@
 	10 Regenerating Exosoldier
 	10 Last-Second Exchange
 	10 Voidhab Fabricator
-	10 Curator's Intevention
+	10 Curator's Intervention
 	10 Phaselight Recalibration
 	10 Macabre Prisonship
 	10 Scrapper's Lightcutter
@@ -3247,4 +3229,27 @@
 	10 Zionnoth, Planet Conquerer
 	10 Terrestrial Scouter
 	[LandSlot(1)]
-	
+	10 Plains
+		10 Island
+		10 Swamp
+		10 Mountain
+		10 Forest
+		10 Estevia, Otherworld Nebula
+		10 Ovas III, Shrouded Moon
+		10 Rukka, Comet Aurora
+		10 Thellex, Phasic Warworld
+		10 Distar, Celestial Egg
+		10 Teeming Lushworld
+		10 Moonless Plageworld
+		10 Inclement Brineworld
+		10 Turbulent Stormworld
+		10 Juvenile Slagworld
+		10 Savage Wildworld
+		10 Harmonic Farmworld
+		10 Expired Gloomworld
+		10 Slough Wetworld
+		10 Torrid Dustworld
+		10 Ark Epsilon, Ringworld
+		10 Nabarro, Glassworld
+		10 Thiris Mine
+		
