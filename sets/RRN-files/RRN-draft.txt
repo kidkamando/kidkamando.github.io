@@ -103,7 +103,7 @@
 			"name": "Dawning Shadow",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RRN-files/RRN-files/Dawning Shadow.png"
@@ -1649,7 +1649,7 @@
 		{
 			"name": "Pix, Faerie Companion",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Faerie ",
 			"collector_number": "40",
 			"image_uris": {
@@ -2105,7 +2105,7 @@
 		},
 		{
 			"name": "Zeeble's Mischief",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "57",
@@ -2612,7 +2612,7 @@
 		},
 		{
 			"name": "Memory's Cloak",
-			"rarity": "rare",
+			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
 			"collector_number": "35",
@@ -3002,12 +3002,12 @@
 		2 Vladimir, Crimson Reaper
 		2 Akali, Rogue Assassin
 		2 Seraphine, Starry-Eyed Songstress
+		2 Zeeble's Mischief
 		2 Death of Unlife
 		2 Alpha Wildclaw
 		2 Dragonsong Dreamer
 		2 Ethereal Remitter
 		2 Greathorn Rider
-		2 Memory's Cloak
 		2 Chronicler of Ruin
 		2 Mind Meld
 		2 Syren, Fortune's Flagship
@@ -3181,7 +3181,6 @@
 		30 Pokey Stick
 		30 Fleeting Fawn
 		30 Ceaseless Sentry
-		30 Zeeble's Mischief
 		30 Terror of the Tides
 		30 Mark of the Isles
 		30 Fortune Croaker
@@ -3203,6 +3202,7 @@
 		30 Snow Hare
 		30 Feral Mystic
 		30 Lord's Despair
+		30 Memory's Cloak
 		30 Keeper of the Box
 		30 Mammoth Rager
 		30 Sumpworks Map
