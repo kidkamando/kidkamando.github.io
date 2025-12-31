@@ -3731,7 +3731,7 @@
             "number": 185,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
-            "rules_text": "First strike, haste\nWhen Katarina attacks, she deals 1 damage to each blocking creature.\n[i]Last hit[/i] \u2014 Whenever this creature deals lethal damage to another permanent, you may return her to your hand. Otherwise, exile the top card of your library. During any turn Katarina has dealt lethal damage to another permanent, you may play that card.",
+            "rules_text": "First strike, flash\nWhen Katarina enters, if you're attacking, she enters tapped and attacking and deals 1 damage to each blocking creature.\n[i]Last hit[/i] \u2014 Whenever this creature deals lethal damage to another permanent, you may return her to your hand. Otherwise, exile the top card of your library. During any turn Katarina has dealt lethal damage to another permanent, you may play that card.",
             "flavor_text": "[i]\u201cNo sir! Just a flash of red. Next thing I know, I look up and it... it was like a slaughterhouse in there.\u201d [/i]",
             "pt": "3/3",
             "special_text": "",

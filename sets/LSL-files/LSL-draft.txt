@@ -1832,7 +1832,7 @@
 		{
 			"name": "Swarmlaunch Carrier",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{2}",
 			"type": "Artifact — Spacecraft ",
 			"collector_number": "246",
 			"image_uris": {
