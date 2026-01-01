@@ -1519,7 +1519,7 @@
 		{
 			"name": "Evelyn, Agony's Embrace",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Enchantment Creature — Demon ",
 			"collector_number": "167",
 			"image_uris": {

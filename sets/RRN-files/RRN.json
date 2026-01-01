@@ -2920,7 +2920,7 @@
             "type": "Legendary Enchantment Creature \u2014 Demon",
             "number": 167,
             "color_identity": "BR",
-            "cost": "{B}{R}",
+            "cost": "{2}{B}{R}",
             "rules_text": "Impending 2\u2014{B}{R} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]\nAs long as Evelyn isn't a creature, she has hexproof.\nWhen Evelyn attacks, she deals damage equal to her power to another target creature.\n[i]Last hit[/i] \u2014 Whenever Evelyn deals lethal damage to another permanent, she deals damage equal to her power to that creature's controller. Then, put two time counters on her and impend her.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
