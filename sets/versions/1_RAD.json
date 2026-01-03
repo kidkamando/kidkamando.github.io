@@ -1717,11 +1717,11 @@
             "card_name": "World Ender, Darkin Blade",
             "color": "WBR",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2014 Darkin",
+            "type": "Legendary Artifact \u2014 Darkin Equipment",
             "number": 219,
             "color_identity": "WBR",
             "cost": "{2}{R}{W}{B}",
-            "rules_text": "Equipped creature gets +5/+5 and has haste.\nAt the beginning of your upkeep, you may transform target Darkin you control. If it's equipped, unite its equipped creature to it.\nEquip {2}",
+            "rules_text": "World Ender can be your commander.\nEquipped creature gets +5/+5 and has haste.\nAt the beginning of your upkeep, you may transform target Darkin you control. If it's equipped, unite its equipped creature to it.\nEquip {2}",
             "flavor_text": "[i]\u201cOnly war can bring me peace!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -2734,7 +2734,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw a card, then discard a card.\nII, III \u2014 You may return a permanent you control to its owner's hand. If you do, target instant or sorcery card in your graveyard with mana value less than that permanent gains flashback {0} until end of turn.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Draw a card, then discard a card.\nIII \u2014 You may return a permanent you control to its owner's hand. If you do, target instant or sorcery card in your graveyard with mana value less than that permanent gains flashback {0} until end of turn.\n\u200b",
             "shape": "saga",
             "set": "RAD",
             "loyalty": "",
@@ -5387,7 +5387,7 @@
             "set": "RAD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Sacred Shears",

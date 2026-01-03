@@ -618,19 +618,19 @@
 			}
 		},
 		{
-			"name": "Darkin Ageis",
+			"name": "Darkin Aegis",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Darkin Equipment ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darkin Ageis_front.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darkin Aegis_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darkin Ageis_back.png"
+					"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Darkin Aegis_back.png"
 				}
 			}
 		},
@@ -828,7 +828,7 @@
 			"name": "World Ender, Darkin Blade",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}{B}",
-			"type": "Legendary Artifact — Darkin ",
+			"type": "Legendary Artifact — Darkin Equipment ",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/World Ender, Darkin Blade_front.png"
@@ -2593,13 +2593,13 @@
 			}
 		},
 		{
-			"name": "Camoflaged Horror",
+			"name": "Camouflaged Horror",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{G}",
 			"type": "Creature — Beast Horror ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Camoflaged Horror.png"
+				"en": "https://kidkamando.github.io/sets/RAD-files/RAD-files/Camouflaged Horror.png"
 			}
 		},
 		{
@@ -3002,7 +3002,6 @@
 		2 Taloned Strike
 		2 Stoneweaving
 		2 Marai Greatmother
-		2 Lavender Sea
 		2 Loaded Dice
 		1 Azir, Golden Legacy
 		1 World Ender, Darkin Blade
@@ -3045,7 +3044,7 @@
 		9 Soldiers' Summons
 		9 Thorn Spitter
 		9 Deadbloom Wanderer
-		9 Darkin Ageis
+		9 Darkin Aegis
 		9 Darkin Fan
 		9 Darkin Harp
 		9 Darkin Harpoon
@@ -3105,7 +3104,7 @@
 		9 Curse of the Tomb
 		9 Study of Supression
 		9 Hex Core Calculations
-		9 Camoflaged Horror
+		9 Camouflaged Horror
 		9 Wiggly Burblefish
 		9 Endless Banquet
 		9 Absolution
@@ -3257,7 +3256,7 @@
 	10 Zyra, Rise of the Thorns
 	10 Deadbloom Wanderer
 	10 Ambitious Cultist
-	10 Darkin Ageis
+	10 Darkin Aegis
 	10 Darkin Bloodletters
 	10 Darkin Bow, Living Vengeance
 	10 Darkin Fan
@@ -3444,7 +3443,7 @@
 	10 Hex Core Calculations
 	10 Siphon Power
 	10 Death's Hand
-	10 Camoflaged Horror
+	10 Camouflaged Horror
 	10 Feed the Void
 	10 All-Terrain Trooper
 	10 Icevale Cultist
@@ -3517,4 +3516,5 @@
 		10 Warlord's Palace
 		10 Windswept Hillock
 		10 The Bandle Tree
+		10 Lavender Sea
 		
