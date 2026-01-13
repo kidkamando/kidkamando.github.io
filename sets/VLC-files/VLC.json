@@ -1,6 +1,6 @@
 ﻿{
     "name": "Velesta Discovered Commander",
-    "formats": "Commander",
+    "formats": "Eternal,Commander",
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
