@@ -3603,7 +3603,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Scrambler Satellite",
@@ -4341,7 +4341,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Genetic Goopworld",
@@ -4359,7 +4359,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Obstructing Asteroid",
@@ -4377,7 +4377,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Shifting Polycore",
@@ -4629,7 +4629,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Thirisene Condenser",
@@ -4755,7 +4755,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Raised in Twilight",
@@ -4791,7 +4791,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Baelis Prime, Lorren Homeworld",
@@ -4809,7 +4809,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Osuna, Starsquid Homeworld",
@@ -4827,7 +4827,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Voidchasm, Darkbeast's Ingress",
@@ -4845,7 +4845,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Eln-4, Alliance Homeworld",
@@ -4863,7 +4863,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Hollow Exhibit",
@@ -4881,7 +4881,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Computation Deck",
@@ -4899,7 +4899,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Scorching Barrow",
@@ -4917,7 +4917,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Zoetic Pool",
@@ -4935,7 +4935,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Impact Site",
@@ -4953,7 +4953,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Gentle Pasture",
@@ -4971,7 +4971,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Basking Rock",
@@ -4989,7 +4989,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Nihil Graveyard",
@@ -5007,7 +5007,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Creophagous Wood",
@@ -5025,7 +5025,7 @@
             "set": "FCD",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Mercantile Guildstation",
@@ -5188,6 +5188,96 @@
             "loyalty": "",
             "artist": "",
             "notes": ""
+        },
+        {
+            "card_name": "Plains",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Plains",
+            "number": 281,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FCD",
+            "loyalty": "",
+            "artist": "",
+            "notes": "!landslot"
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Island",
+            "number": 282,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FCD",
+            "loyalty": "",
+            "artist": "",
+            "notes": "!landslot"
+        },
+        {
+            "card_name": "Swamp",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Swamp",
+            "number": 283,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FCD",
+            "loyalty": "",
+            "artist": "",
+            "notes": "!landslot"
+        },
+        {
+            "card_name": "Mountain",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Mountain",
+            "number": 284,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FCD",
+            "loyalty": "",
+            "artist": "",
+            "notes": "!landslot"
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 285,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FCD",
+            "loyalty": "",
+            "artist": "",
+            "notes": "!landslot"
         }
     ]
 }

@@ -160,13 +160,13 @@
 			}
 		},
 		{
-			"name": "Uncollapsable State",
+			"name": "Uncollapsible State",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Uncollapsable State.png"
+				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Uncollapsible State.png"
 			}
 		},
 		{
@@ -773,7 +773,7 @@
 			"name": "Tranquil Slime",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature",
+			"type": "Creature — Ooze ",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Tranquil Slime.png"
@@ -1283,7 +1283,7 @@
 			"name": "Planetoid Miner",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature",
+			"type": "Creature — Human Citizen ",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Planetoid Miner.png"
@@ -1723,7 +1723,7 @@
 			"name": "Dread Ambusher",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Creature",
+			"type": "Creature — Horror ",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Dread Ambusher.png"
@@ -2523,7 +2523,7 @@
 			"name": "Fas Ellor, Unak's Successor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature",
+			"type": "Legendary Creature — Thax Knight ",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Fas Ellor, Unak's Successor.png"
@@ -2799,6 +2799,56 @@
 				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Debate Further.png"
 			}
 		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/FCD-files/FCD-files/Forest.png"
+			}
+		},
 		]
 	[RareSlot(1)]
 	2 Stellas Honor Guard
@@ -2857,14 +2907,7 @@
 		2 Amelioration
 		2 Darklight Replication
 		2 Thirisene Depot
-		2 Exotic Utopia
 		2 Birth of Starlight
-		2 Wandering Comet
-		2 Kol, Thaxian Homeworld
-		2 Baelis Prime, Lorren Homeworld
-		2 Osuna, Starsquid Homeworld
-		2 Voidchasm, Darkbeast's Ingress
-		2 Eln-4, Alliance Homeworld
 		2 Grim Massman
 		2 Aeronautic Psycho
 		2 Swelling Jelly
@@ -2950,7 +2993,6 @@
 		9 Bloodbraid Darkwurm
 		9 Personal Phaselight Generator
 		9 Hull Plater
-		9 Silent Tower
 		9 Scrambler Satellite
 		9 Wurmway Watcher
 		9 Coalition Tradeship
@@ -2960,7 +3002,6 @@
 		9 Energy Clag
 		9 Curated Seedpod
 		9 Leeching Voidmite
-		9 Obstructing Asteroid
 		9 Curation Scoutprobe
 		9 Duskborn Vendor
 		9 Thirisene Condenser
@@ -2969,16 +3010,6 @@
 		9 Fas Ellor, Unak's Successor
 		9 Amelioration Factory
 		9 Domed Crofter
-		9 Sequestered Sanctuary
-		9 Hollow Exhibit
-		9 Computation Deck
-		9 Scorching Barrow
-		9 Zoetic Pool
-		9 Impact Site
-		9 Gentle Pasture
-		9 Basking Rock
-		9 Nihil Graveyard
-		9 Creophagous Wood
 		[CommonSlot(10)]
 	30 Logistics Runner
 		30 Habitat Constructor
@@ -2996,7 +3027,7 @@
 		30 Phasic Return
 		30 Phaselight Barrier
 		30 Transiate
-		30 Uncollapsable State
+		30 Uncollapsible State
 		30 Enlisted Ordnance
 		30 Cosmic Study
 		30 Voidchasm Emergence
@@ -3080,7 +3111,6 @@
 		30 Catalystic Caretaker
 		30 Deepspace Scanner
 		30 Duskborn Dwelling
-		30 Genetic Goopworld
 		30 Mercantile Guildstation
 		30 Curated Surveillance Unit
 		[WildcardSlot(1)]
@@ -3100,7 +3130,7 @@
 	10 Phasic Return
 	10 Phaselight Barrier
 	10 Transiate
-	10 Uncollapsable State
+	10 Uncollapsible State
 	10 Enlisted Ordnance
 	10 Thought Feeder
 	10 Cosmic Study
@@ -3365,4 +3395,29 @@
 	10 Relentless Assailant
 	10 Debate Further
 	[LandSlot(1)]
-	
+	10 Silent Tower
+		10 Exotic Utopia
+		10 Genetic Goopworld
+		10 Obstructing Asteroid
+		10 Wandering Comet
+		10 Sequestered Sanctuary
+		10 Kol, Thaxian Homeworld
+		10 Baelis Prime, Lorren Homeworld
+		10 Osuna, Starsquid Homeworld
+		10 Voidchasm, Darkbeast's Ingress
+		10 Eln-4, Alliance Homeworld
+		10 Hollow Exhibit
+		10 Computation Deck
+		10 Scorching Barrow
+		10 Zoetic Pool
+		10 Impact Site
+		10 Gentle Pasture
+		10 Basking Rock
+		10 Nihil Graveyard
+		10 Creophagous Wood
+		10 Plains
+		10 Island
+		10 Swamp
+		10 Mountain
+		10 Forest
+		
