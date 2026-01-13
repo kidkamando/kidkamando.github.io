@@ -1,1 +1,1 @@
-﻿{"": ["LSL", "PWR", "RAD", "RDV", "RRN", "RTRA", "VLC", "VLD", "VRG", "VWT"]}
+﻿{"VBC": ["VLD", "VWT", "VRG"], "RRI": ["RAD", "RDV", "RRN", "RTRA"], "SLC": ["LSL", "FCD"], "Other": ["PWR", "VLC"]}

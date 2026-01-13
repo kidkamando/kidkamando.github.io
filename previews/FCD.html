@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/FCD-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>FCD visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/FCD-files/logo.png" />
+	<img class="preload-hidden" src="/sets/FCD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/LSL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PWR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RAD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RDV-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RRN-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RTRA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VLC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VRG-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VWT-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="FCD"><img src="/sets/FCD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="LSL"><img src="/sets/LSL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PWR"><img src="/sets/PWR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RAD"><img src="/sets/RAD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RDV"><img src="/sets/RDV-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RRN"><img src="/sets/RRN-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="RTRA"><img src="/sets/RTRA-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VLC"><img src="/sets/VLC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VLD"><img src="/sets/VLD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VRG"><img src="/sets/VRG-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VWT"><img src="/sets/VWT-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/FCD-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\FCD-files\img\40_Unnatural Stabilization.png" id="40_Unnatural Stabilization" data-flag="@X" onclick="openSidebar('40_Unnatural Stabilization',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\50_Conman's Wurmway.png" id="50_Conmans Wurmway" data-flag="@X" onclick="openSidebar('50_Conmans Wurmway',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\88_Caustic Darkbeast.png" id="88_Caustic Darkbeast" data-flag="@X" onclick="openSidebar('88_Caustic Darkbeast',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\131_Breach Reality.png" id="131_Breach Reality" data-flag="@X" onclick="openSidebar('131_Breach Reality',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\182_Kai'Kellon, Spacetime Protector.png" id="182_KaiKellon, Spacetime Protector" data-flag="@X" onclick="openSidebar('182_KaiKellon, Spacetime Protector',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\3_Attentive Voidwatcher.png" id="3_Attentive Voidwatcher" data-flag="@X" onclick="openSidebar('3_Attentive Voidwatcher',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\67_Nebula Harvester.png" id="67_Nebula Harvester" data-flag="@X" onclick="openSidebar('67_Nebula Harvester',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\120_Void Harvester.png" id="120_Void Harvester" data-flag="@X" onclick="openSidebar('120_Void Harvester',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\146_Matter Harvester.png" id="146_Matter Harvester" data-flag="@X" onclick="openSidebar('146_Matter Harvester',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\189_Planet-Cracker, World Harvester.png" id="189_Planet-Cracker, World Harvester" data-flag="@X" onclick="openSidebar('189_Planet-Cracker, World Harvester',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\5_Birth of Starlight.png" id="5_Birth of Starlight" data-flag="@X" onclick="openSidebar('5_Birth of Starlight',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\47_Antimaterial Reflection.png" id="47_Antimaterial Reflection" data-flag="@X" onclick="openSidebar('47_Antimaterial Reflection',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\93_Dread Ambusher.png" id="93_Dread Ambusher" data-flag="@X" onclick="openSidebar('93_Dread Ambusher',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\127_Amelioration.png" id="127_Amelioration" data-flag="@X" onclick="openSidebar('127_Amelioration',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\167_Biosphere Monitor.png" id="167_Biosphere Monitor" data-flag="@X" onclick="openSidebar('167_Biosphere Monitor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\6_Charismatic Chaplain.png" id="6_Charismatic Chaplain" data-flag="@X" onclick="openSidebar('6_Charismatic Chaplain',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\55_Disconnected Relay.png" id="55_Disconnected Relay" data-flag="@X" onclick="openSidebar('55_Disconnected Relay',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\102_Exopuppet Fabricator.png" id="102_Exopuppet Fabricator" data-flag="@X" onclick="openSidebar('102_Exopuppet Fabricator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\132_Combat Replicator.png" id="132_Combat Replicator" data-flag="@X" onclick="openSidebar('132_Combat Replicator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\177_Force of Stability.png" id="177_Force of Stability" data-flag="@X" onclick="openSidebar('177_Force of Stability',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\8_Conscript's Prisonstation.png" id="8_Conscripts Prisonstation" data-flag="@X" onclick="openSidebar('8_Conscripts Prisonstation',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\57_Dock Inspector.png" id="57_Dock Inspector" data-flag="@X" onclick="openSidebar('57_Dock Inspector',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\104_Force of Spite.png" id="104_Force of Spite" data-flag="@X" onclick="openSidebar('104_Force of Spite',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\133_Combustible Colossus.png" id="133_Combustible Colossus" data-flag="@X" onclick="openSidebar('133_Combustible Colossus',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\178_Genetic Germination.png" id="178_Genetic Germination" data-flag="@X" onclick="openSidebar('178_Genetic Germination',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\12_Force of Honor.png" id="12_Force of Honor" data-flag="@X" onclick="openSidebar('12_Force of Honor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\60_Force of Ingenuity.png" id="60_Force of Ingenuity" data-flag="@X" onclick="openSidebar('60_Force of Ingenuity',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\111_Propagating Darkbeast.png" id="111_Propagating Darkbeast" data-flag="@X" onclick="openSidebar('111_Propagating Darkbeast',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\135_Darklight Elemental.png" id="135_Darklight Elemental" data-flag="@X" onclick="openSidebar('135_Darklight Elemental',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\179_Gloop Thrower.png" id="179_Gloop Thrower" data-flag="@X" onclick="openSidebar('179_Gloop Thrower',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\17_Memory of a Friend.png" id="17_Memory of a Friend" data-flag="@X" onclick="openSidebar('17_Memory of a Friend',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\65_Involuntary Gifts.png" id="65_Involuntary Gifts" data-flag="@X" onclick="openSidebar('65_Involuntary Gifts',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\115_Swirling Voidcore.png" id="115_Swirling Voidcore" data-flag="@X" onclick="openSidebar('115_Swirling Voidcore',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\136_Darklight Replication.png" id="136_Darklight Replication" data-flag="@X" onclick="openSidebar('136_Darklight Replication',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\186_Origin, Engineered Entity.png" id="186_Origin, Engineered Entity" data-flag="@X" onclick="openSidebar('186_Origin, Engineered Entity',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\29_Stellas Honor Guard.png" id="29_Stellas Honor Guard" data-flag="@X" onclick="openSidebar('29_Stellas Honor Guard',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\66_Lifestation, Emptied.png" id="66_Lifestation, Emptied" data-flag="@X" onclick="openSidebar('66_Lifestation, Emptied',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\117_Twilight Madness.png" id="117_Twilight Madness" data-flag="@X" onclick="openSidebar('117_Twilight Madness',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\139_Force of Passion.png" id="139_Force of Passion" data-flag="@X" onclick="openSidebar('139_Force of Passion',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\191_Reseeded Biosphere.png" id="191_Reseeded Biosphere" data-flag="@X" onclick="openSidebar('191_Reseeded Biosphere',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\39_Unlikely Outcome.png" id="39_Unlikely Outcome" data-flag="@X" onclick="openSidebar('39_Unlikely Outcome',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\71_Starsquid Voidling.png" id="71_Starsquid Voidling" data-flag="@X" onclick="openSidebar('71_Starsquid Voidling',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\118_Twilight Malediction.png" id="118_Twilight Malediction" data-flag="@X" onclick="openSidebar('118_Twilight Malediction',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\140_Fractured Horizon.png" id="140_Fractured Horizon" data-flag="@X" onclick="openSidebar('140_Fractured Horizon',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\193_Runic Darkwurm.png" id="193_Runic Darkwurm" data-flag="@X" onclick="openSidebar('193_Runic Darkwurm',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\4_Battery Scrounger.png" id="4_Battery Scrounger" data-flag="@X" onclick="openSidebar('4_Battery Scrounger',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\81_Wurmway Collapse.png" id="81_Wurmway Collapse" data-flag="@X" onclick="openSidebar('81_Wurmway Collapse',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\122_Zionnoth, Corrupted.png" id="122_Zionnoth, Corrupted" data-flag="@X" onclick="openSidebar('122_Zionnoth, Corrupted',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\157_Squadron Leader.png" id="157_Squadron Leader" data-flag="@X" onclick="openSidebar('157_Squadron Leader',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\205_Weft-Taught Strength.png" id="205_Weft-Taught Strength" data-flag="@X" onclick="openSidebar('205_Weft-Taught Strength',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\9_Coordinated Offensive.png" id="9_Coordinated Offensive" data-flag="@X" onclick="openSidebar('9_Coordinated Offensive',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\45_Advanced Overwatch.png" id="45_Advanced Overwatch" data-flag="@X" onclick="openSidebar('45_Advanced Overwatch',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\90_Corruptive Rebirth.png" id="90_Corruptive Rebirth" data-flag="@X" onclick="openSidebar('90_Corruptive Rebirth',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\126_Alliance Searslicer.png" id="126_Alliance Searslicer" data-flag="@X" onclick="openSidebar('126_Alliance Searslicer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\171_Coney Commando.png" id="171_Coney Commando" data-flag="@X" onclick="openSidebar('171_Coney Commando',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\10_Covenant Transportship.png" id="10_Covenant Transportship" data-flag="@X" onclick="openSidebar('10_Covenant Transportship',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\49_Calculated Maneuver.png" id="49_Calculated Maneuver" data-flag="@X" onclick="openSidebar('49_Calculated Maneuver',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\92_Distorted Volunteer.png" id="92_Distorted Volunteer" data-flag="@X" onclick="openSidebar('92_Distorted Volunteer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\128_Amelioration Factory.png" id="128_Amelioration Factory" data-flag="@X" onclick="openSidebar('128_Amelioration Factory',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\173_Curated Reshaper.png" id="173_Curated Reshaper" data-flag="@X" onclick="openSidebar('173_Curated Reshaper',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\14_Hangar Marshall.png" id="14_Hangar Marshall" data-flag="@X" onclick="openSidebar('14_Hangar Marshall',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\53_Curated Corvette.png" id="53_Curated Corvette" data-flag="@X" onclick="openSidebar('53_Curated Corvette',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\96_Duskborn Constructor.png" id="96_Duskborn Constructor" data-flag="@X" onclick="openSidebar('96_Duskborn Constructor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\142_Heroic Bombardment.png" id="142_Heroic Bombardment" data-flag="@X" onclick="openSidebar('142_Heroic Bombardment',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\174_Domed Crofter.png" id="174_Domed Crofter" data-flag="@X" onclick="openSidebar('174_Domed Crofter',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\15_Imperfect Imitation.png" id="15_Imperfect Imitation" data-flag="@X" onclick="openSidebar('15_Imperfect Imitation',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\58_Echoed Price.png" id="58_Echoed Price" data-flag="@X" onclick="openSidebar('58_Echoed Price',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\97_Duskborn Corvette.png" id="97_Duskborn Corvette" data-flag="@X" onclick="openSidebar('97_Duskborn Corvette',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\143_Immediate Deployment.png" id="143_Immediate Deployment" data-flag="@X" onclick="openSidebar('143_Immediate Deployment',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\176_Energy Clag.png" id="176_Energy Clag" data-flag="@X" onclick="openSidebar('176_Energy Clag',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\20_Perfidous Gambit.png" id="20_Perfidous Gambit" data-flag="@X" onclick="openSidebar('20_Perfidous Gambit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\63_Idiom Robber.png" id="63_Idiom Robber" data-flag="@X" onclick="openSidebar('63_Idiom Robber',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\98_Duskborn Vendor.png" id="98_Duskborn Vendor" data-flag="@X" onclick="openSidebar('98_Duskborn Vendor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\145_Lunar Explorer.png" id="145_Lunar Explorer" data-flag="@X" onclick="openSidebar('145_Lunar Explorer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\181_Instinctive Aim.png" id="181_Instinctive Aim" data-flag="@X" onclick="openSidebar('181_Instinctive Aim',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\25_Serraphic Furybringer.png" id="25_Serraphic Furybringer" data-flag="@X" onclick="openSidebar('25_Serraphic Furybringer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\68_Oppose.png" id="68_Oppose" data-flag="@X" onclick="openSidebar('68_Oppose',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\103_Fas Ellor, Unak's Successor.png" id="103_Fas Ellor, Unaks Successor" data-flag="@X" onclick="openSidebar('103_Fas Ellor, Unaks Successor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\147_Orbital Deployment Railcannon.png" id="147_Orbital Deployment Railcannon" data-flag="@X" onclick="openSidebar('147_Orbital Deployment Railcannon',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\187_Origin's Slimebinder.png" id="187_Origins Slimebinder" data-flag="@X" onclick="openSidebar('187_Origins Slimebinder',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\27_Simulated Exisistence.png" id="27_Simulated Exisistence" data-flag="@X" onclick="openSidebar('27_Simulated Exisistence',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\72_Stellar Rift.png" id="72_Stellar Rift" data-flag="@X" onclick="openSidebar('72_Stellar Rift',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\107_Ominous Pull.png" id="107_Ominous Pull" data-flag="@X" onclick="openSidebar('107_Ominous Pull',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\148_Osuna Stormwaker.png" id="148_Osuna Stormwaker" data-flag="@X" onclick="openSidebar('148_Osuna Stormwaker',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\194_Shielded Brawl.png" id="194_Shielded Brawl" data-flag="@X" onclick="openSidebar('194_Shielded Brawl',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\31_Stellas Umbra.png" id="31_Stellas Umbra" data-flag="@X" onclick="openSidebar('31_Stellas Umbra',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\73_Stellas Revelation.png" id="73_Stellas Revelation" data-flag="@X" onclick="openSidebar('73_Stellas Revelation',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\108_Ore-rich Asteroid.png" id="108_Ore-rich Asteroid" data-flag="@X" onclick="openSidebar('108_Ore-rich Asteroid',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\150_Planetoid Miner.png" id="150_Planetoid Miner" data-flag="@X" onclick="openSidebar('150_Planetoid Miner',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\195_Shielded Priority.png" id="195_Shielded Priority" data-flag="@X" onclick="openSidebar('195_Shielded Priority',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\35_Thrust Booster.png" id="35_Thrust Booster" data-flag="@X" onclick="openSidebar('35_Thrust Booster',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\74_Tank Repletion.png" id="74_Tank Repletion" data-flag="@X" onclick="openSidebar('74_Tank Repletion',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\109_Perverted Raptor.png" id="109_Perverted Raptor" data-flag="@X" onclick="openSidebar('109_Perverted Raptor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\151_Rapid Deployment.png" id="151_Rapid Deployment" data-flag="@X" onclick="openSidebar('151_Rapid Deployment',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\196_Sire of Origin.png" id="196_Sire of Origin" data-flag="@X" onclick="openSidebar('196_Sire of Origin',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\36_Tideskimmer Silkfisher.png" id="36_Tideskimmer Silkfisher" data-flag="@X" onclick="openSidebar('36_Tideskimmer Silkfisher',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\75_Thought Feeder.png" id="75_Thought Feeder" data-flag="@X" onclick="openSidebar('75_Thought Feeder',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\112_Sanity Spiral.png" id="112_Sanity Spiral" data-flag="@X" onclick="openSidebar('112_Sanity Spiral',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\155_Scoric Instigator.png" id="155_Scoric Instigator" data-flag="@X" onclick="openSidebar('155_Scoric Instigator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\197_Sown Rewards.png" id="197_Sown Rewards" data-flag="@X" onclick="openSidebar('197_Sown Rewards',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\41_Virtuous Strike.png" id="41_Virtuous Strike" data-flag="@X" onclick="openSidebar('41_Virtuous Strike',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\78_Time-Stretched Riddlemaker.png" id="78_Time-Stretched Riddlemaker" data-flag="@X" onclick="openSidebar('78_Time-Stretched Riddlemaker',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\116_Terrors of the Twilight.png" id="116_Terrors of the Twilight" data-flag="@X" onclick="openSidebar('116_Terrors of the Twilight',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\162_Uncovered Worlds.png" id="162_Uncovered Worlds" data-flag="@X" onclick="openSidebar('162_Uncovered Worlds',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\198_Spell Gunger.png" id="198_Spell Gunger" data-flag="@X" onclick="openSidebar('198_Spell Gunger',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\7_Coalition Combatant.png" id="7_Coalition Combatant" data-flag="@X" onclick="openSidebar('7_Coalition Combatant',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\82_Wurmway Stabilizer.png" id="82_Wurmway Stabilizer" data-flag="@X" onclick="openSidebar('82_Wurmway Stabilizer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\84_Antimaterial Aberration.png" id="84_Antimaterial Aberration" data-flag="@X" onclick="openSidebar('84_Antimaterial Aberration',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\163_Weapons Inspector.png" id="163_Weapons Inspector" data-flag="@X" onclick="openSidebar('163_Weapons Inspector',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\204_Weather Satellite.png" id="204_Weather Satellite" data-flag="@X" onclick="openSidebar('204_Weather Satellite',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\11_Enlisted Ordnance.png" id="11_Enlisted Ordnance" data-flag="@X" onclick="openSidebar('11_Enlisted Ordnance',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\43_Absent Archive.png" id="43_Absent Archive" data-flag="@X" onclick="openSidebar('43_Absent Archive',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\85_Asteroid Excavator.png" id="85_Asteroid Excavator" data-flag="@X" onclick="openSidebar('85_Asteroid Excavator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\124_Ace's Assistant.png" id="124_Aces Assistant" data-flag="@X" onclick="openSidebar('124_Aces Assistant',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\165_Accelerated Terraformation.png" id="165_Accelerated Terraformation" data-flag="@X" onclick="openSidebar('165_Accelerated Terraformation',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\13_Habitat Constructor.png" id="13_Habitat Constructor" data-flag="@X" onclick="openSidebar('13_Habitat Constructor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\44_Accumulated Insight.png" id="44_Accumulated Insight" data-flag="@X" onclick="openSidebar('44_Accumulated Insight',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\86_Bloodborn Witherer.png" id="86_Bloodborn Witherer" data-flag="@X" onclick="openSidebar('86_Bloodborn Witherer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\125_Afterburner Dogfighter.png" id="125_Afterburner Dogfighter" data-flag="@X" onclick="openSidebar('125_Afterburner Dogfighter',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\166_Astral Expansion.png" id="166_Astral Expansion" data-flag="@X" onclick="openSidebar('166_Astral Expansion',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\16_Logistics Runner.png" id="16_Logistics Runner" data-flag="@X" onclick="openSidebar('16_Logistics Runner',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\46_Agile Cosmagician.png" id="46_Agile Cosmagician" data-flag="@X" onclick="openSidebar('46_Agile Cosmagician',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\87_Calamitous Dreadmaw.png" id="87_Calamitous Dreadmaw" data-flag="@X" onclick="openSidebar('87_Calamitous Dreadmaw',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\129_Ancillary Operator.png" id="129_Ancillary Operator" data-flag="@X" onclick="openSidebar('129_Ancillary Operator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\168_Blooming Nuisance.png" id="168_Blooming Nuisance" data-flag="@X" onclick="openSidebar('168_Blooming Nuisance',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\18_Old-Era Starsuit.png" id="18_Old-Era Starsuit" data-flag="@X" onclick="openSidebar('18_Old-Era Starsuit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\48_Battlefront Sentinel.png" id="48_Battlefront Sentinel" data-flag="@X" onclick="openSidebar('48_Battlefront Sentinel',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\89_Concept Scraper.png" id="89_Concept Scraper" data-flag="@X" onclick="openSidebar('89_Concept Scraper',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\130_Autonomous Combat Protocol.png" id="130_Autonomous Combat Protocol" data-flag="@X" onclick="openSidebar('130_Autonomous Combat Protocol',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\169_Branch Awner.png" id="169_Branch Awner" data-flag="@X" onclick="openSidebar('169_Branch Awner',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\19_Overburdened Packbot.png" id="19_Overburdened Packbot" data-flag="@X" onclick="openSidebar('19_Overburdened Packbot',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\51_Coolant Injector System.png" id="51_Coolant Injector System" data-flag="@X" onclick="openSidebar('51_Coolant Injector System',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\91_Darkwurm Voidling.png" id="91_Darkwurm Voidling" data-flag="@X" onclick="openSidebar('91_Darkwurm Voidling',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\134_Corrupted Mauler.png" id="134_Corrupted Mauler" data-flag="@X" onclick="openSidebar('134_Corrupted Mauler',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\170_Catalystic Caretaker.png" id="170_Catalystic Caretaker" data-flag="@X" onclick="openSidebar('170_Catalystic Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\21_Phasebound Lookout.png" id="21_Phasebound Lookout" data-flag="@X" onclick="openSidebar('21_Phasebound Lookout',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\52_Cosmic Study.png" id="52_Cosmic Study" data-flag="@X" onclick="openSidebar('52_Cosmic Study',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\94_Duskborn Arrival.png" id="94_Duskborn Arrival" data-flag="@X" onclick="openSidebar('94_Duskborn Arrival',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\137_Destructive Stereolithograph.png" id="137_Destructive Stereolithograph" data-flag="@X" onclick="openSidebar('137_Destructive Stereolithograph',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\172_Curated Modification.png" id="172_Curated Modification" data-flag="@X" onclick="openSidebar('172_Curated Modification',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\22_Phaselight Barrier.png" id="22_Phaselight Barrier" data-flag="@X" onclick="openSidebar('22_Phaselight Barrier',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\54_Dire Ejection.png" id="54_Dire Ejection" data-flag="@X" onclick="openSidebar('54_Dire Ejection',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\95_Duskborn Commando.png" id="95_Duskborn Commando" data-flag="@X" onclick="openSidebar('95_Duskborn Commando',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\138_Excited Specialist.png" id="138_Excited Specialist" data-flag="@X" onclick="openSidebar('138_Excited Specialist',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\175_Duskborn Envoy.png" id="175_Duskborn Envoy" data-flag="@X" onclick="openSidebar('175_Duskborn Envoy',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\23_Phasic Return.png" id="23_Phasic Return" data-flag="@X" onclick="openSidebar('23_Phasic Return',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\56_Disruptor Field.png" id="56_Disruptor Field" data-flag="@X" onclick="openSidebar('56_Disruptor Field',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\99_Duskborn Wayfinder.png" id="99_Duskborn Wayfinder" data-flag="@X" onclick="openSidebar('99_Duskborn Wayfinder',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\141_Grounded Pilot.png" id="141_Grounded Pilot" data-flag="@X" onclick="openSidebar('141_Grounded Pilot',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\180_Infrared Camouflage.png" id="180_Infrared Camouflage" data-flag="@X" onclick="openSidebar('180_Infrared Camouflage',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\24_Promising Charge.png" id="24_Promising Charge" data-flag="@X" onclick="openSidebar('24_Promising Charge',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\59_Emergency Summit.png" id="59_Emergency Summit" data-flag="@X" onclick="openSidebar('59_Emergency Summit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\100_Edict Eater.png" id="100_Edict Eater" data-flag="@X" onclick="openSidebar('100_Edict Eater',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\144_Lightborn Shockspitter.png" id="144_Lightborn Shockspitter" data-flag="@X" onclick="openSidebar('144_Lightborn Shockspitter',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\183_Lightweft Meteorologist.png" id="183_Lightweft Meteorologist" data-flag="@X" onclick="openSidebar('183_Lightweft Meteorologist',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\26_Shatter the Void.png" id="26_Shatter the Void" data-flag="@X" onclick="openSidebar('26_Shatter the Void',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\61_Gusting Wavemaker.png" id="61_Gusting Wavemaker" data-flag="@X" onclick="openSidebar('61_Gusting Wavemaker',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\101_Exo Voidling.png" id="101_Exo Voidling" data-flag="@X" onclick="openSidebar('101_Exo Voidling',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\149_Planet Blazer.png" id="149_Planet Blazer" data-flag="@X" onclick="openSidebar('149_Planet Blazer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\184_Lorren Cultivator.png" id="184_Lorren Cultivator" data-flag="@X" onclick="openSidebar('184_Lorren Cultivator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\28_Starship Weaponsmith.png" id="28_Starship Weaponsmith" data-flag="@X" onclick="openSidebar('28_Starship Weaponsmith',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\62_Hack.png" id="62_Hack" data-flag="@X" onclick="openSidebar('62_Hack',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\105_Fuel Leak.png" id="105_Fuel Leak" data-flag="@X" onclick="openSidebar('105_Fuel Leak',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\152_Reckless Maneuver.png" id="152_Reckless Maneuver" data-flag="@X" onclick="openSidebar('152_Reckless Maneuver',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\185_Non-Newtonian Slime.png" id="185_Non-Newtonian Slime" data-flag="@X" onclick="openSidebar('185_Non-Newtonian Slime',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\30_Stellas Lightblade.png" id="30_Stellas Lightblade" data-flag="@X" onclick="openSidebar('30_Stellas Lightblade',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\64_Indelidan.png" id="64_Indelidan" data-flag="@X" onclick="openSidebar('64_Indelidan',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\106_Hyperburn Exo-Trooper.png" id="106_Hyperburn Exo-Trooper" data-flag="@X" onclick="openSidebar('106_Hyperburn Exo-Trooper',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\153_Reduce Load.png" id="153_Reduce Load" data-flag="@X" onclick="openSidebar('153_Reduce Load',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\188_Phasic Amp Hammer.png" id="188_Phasic Amp Hammer" data-flag="@X" onclick="openSidebar('188_Phasic Amp Hammer',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\32_Targeted Barrage.png" id="32_Targeted Barrage" data-flag="@X" onclick="openSidebar('32_Targeted Barrage',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\69_Refuel.png" id="69_Refuel" data-flag="@X" onclick="openSidebar('69_Refuel',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\110_Phasebound Voidling.png" id="110_Phasebound Voidling" data-flag="@X" onclick="openSidebar('110_Phasebound Voidling',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\154_Retrofit.png" id="154_Retrofit" data-flag="@X" onclick="openSidebar('154_Retrofit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\190_Quenching Ooze.png" id="190_Quenching Ooze" data-flag="@X" onclick="openSidebar('190_Quenching Ooze',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\33_Tenuous Ally.png" id="33_Tenuous Ally" data-flag="@X" onclick="openSidebar('33_Tenuous Ally',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\70_Spurning Starsquid.png" id="70_Spurning Starsquid" data-flag="@X" onclick="openSidebar('70_Spurning Starsquid',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\113_Shielded Assault Troop.png" id="113_Shielded Assault Troop" data-flag="@X" onclick="openSidebar('113_Shielded Assault Troop',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\156_Short-Circuit.png" id="156_Short-Circuit" data-flag="@X" onclick="openSidebar('156_Short-Circuit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\192_Rip From Orbit.png" id="192_Rip From Orbit" data-flag="@X" onclick="openSidebar('192_Rip From Orbit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\34_Thaxian Mentor.png" id="34_Thaxian Mentor" data-flag="@X" onclick="openSidebar('34_Thaxian Mentor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\76_Thought Inverter.png" id="76_Thought Inverter" data-flag="@X" onclick="openSidebar('76_Thought Inverter',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\114_Soarnith Surveyor.png" id="114_Soarnith Surveyor" data-flag="@X" onclick="openSidebar('114_Soarnith Surveyor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\158_Stabilized Darklight.png" id="158_Stabilized Darklight" data-flag="@X" onclick="openSidebar('158_Stabilized Darklight',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\199_Swelling Swarm.png" id="199_Swelling Swarm" data-flag="@X" onclick="openSidebar('199_Swelling Swarm',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\37_Transiate.png" id="37_Transiate" data-flag="@X" onclick="openSidebar('37_Transiate',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\77_Thoughtless Descent.png" id="77_Thoughtless Descent" data-flag="@X" onclick="openSidebar('77_Thoughtless Descent',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\119_Unak's Tragic Descent.png" id="119_Unaks Tragic Descent" data-flag="@X" onclick="openSidebar('119_Unaks Tragic Descent',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\159_Starry-Eyed Preacher.png" id="159_Starry-Eyed Preacher" data-flag="@X" onclick="openSidebar('159_Starry-Eyed Preacher',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\200_Thaxian Accomodation.png" id="200_Thaxian Accomodation" data-flag="@X" onclick="openSidebar('200_Thaxian Accomodation',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\38_Uncollapsable State.png" id="38_Uncollapsable State" data-flag="@X" onclick="openSidebar('38_Uncollapsable State',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\79_Voidchasm Emergence.png" id="79_Voidchasm Emergence" data-flag="@X" onclick="openSidebar('79_Voidchasm Emergence',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\121_Void's Whisper.png" id="121_Voids Whisper" data-flag="@X" onclick="openSidebar('121_Voids Whisper',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\160_Stellastorm Knight.png" id="160_Stellastorm Knight" data-flag="@X" onclick="openSidebar('160_Stellastorm Knight',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\201_Tranquil Slime.png" id="201_Tranquil Slime" data-flag="@X" onclick="openSidebar('201_Tranquil Slime',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\42_Voidic Channeler.png" id="42_Voidic Channeler" data-flag="@X" onclick="openSidebar('42_Voidic Channeler',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\80_Voidling Nourishment.png" id="80_Voidling Nourishment" data-flag="@X" onclick="openSidebar('80_Voidling Nourishment',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\123_Zionnoth Undone.png" id="123_Zionnoth Undone" data-flag="@X" onclick="openSidebar('123_Zionnoth Undone',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\161_Twilight Founder.png" id="161_Twilight Founder" data-flag="@X" onclick="openSidebar('161_Twilight Founder',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\202_Twinhead Tyrant.png" id="202_Twinhead Tyrant" data-flag="@X" onclick="openSidebar('202_Twinhead Tyrant',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\83_Young Neoline.png" id="83_Young Neoline" data-flag="@X" onclick="openSidebar('83_Young Neoline',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\164_Wurmway Electrowave.png" id="164_Wurmway Electrowave" data-flag="@X" onclick="openSidebar('164_Wurmway Electrowave',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\203_Wall Strider.png" id="203_Wall Strider" data-flag="@X" onclick="openSidebar('203_Wall Strider',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\224_Rhosha, Unbound Researcher.png" id="224_Rhosha, Unbound Researcher" data-flag="@X" onclick="openSidebar('224_Rhosha, Unbound Researcher',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\217_Grim Massman.png" id="217_Grim Massman" data-flag="@X" onclick="openSidebar('217_Grim Massman',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\218_Jaster, Zionnoth's Successor.png" id="218_Jaster, Zionnoths Successor" data-flag="@X" onclick="openSidebar('218_Jaster, Zionnoths Successor',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\210_Cleansing Clag.png" id="210_Cleansing Clag" data-flag="@X" onclick="openSidebar('210_Cleansing Clag',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\220_Phaselight Captain.png" id="220_Phaselight Captain" data-flag="@X" onclick="openSidebar('220_Phaselight Captain',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\213_Debate Further.png" id="213_Debate Further" data-flag="@X" onclick="openSidebar('213_Debate Further',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\230_Unak, Twisted Duskborn.png" id="230_Unak, Twisted Duskborn" data-flag="@X" onclick="openSidebar('230_Unak, Twisted Duskborn',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\212_Darklight Mirrorship.png" id="212_Darklight Mirrorship" data-flag="@X" onclick="openSidebar('212_Darklight Mirrorship',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\232_Vaserian Darkwurm.png" id="232_Vaserian Darkwurm" data-flag="@X" onclick="openSidebar('232_Vaserian Darkwurm',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\240_Starlight Shaman.png" id="240_Starlight Shaman" data-flag="@X" onclick="openSidebar('240_Starlight Shaman',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\227_Stellas Caretaker.png" id="227_Stellas Caretaker" data-flag="@X" onclick="openSidebar('227_Stellas Caretaker',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\233_Voidling Sanighoyf.png" id="233_Voidling Sanighoyf" data-flag="@X" onclick="openSidebar('233_Voidling Sanighoyf',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\238_Relentless Assailant.png" id="238_Relentless Assailant" data-flag="@X" onclick="openSidebar('238_Relentless Assailant',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\208_Bloodbraid Darkwurm.png" id="208_Bloodbraid Darkwurm" data-flag="@X" onclick="openSidebar('208_Bloodbraid Darkwurm',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\216_Farmworld Altruist.png" id="216_Farmworld Altruist" data-flag="@X" onclick="openSidebar('216_Farmworld Altruist',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\207_Augur of Preparation.png" id="207_Augur of Preparation" data-flag="@X" onclick="openSidebar('207_Augur of Preparation',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\214_Encroaching Twilight.png" id="214_Encroaching Twilight" data-flag="@X" onclick="openSidebar('214_Encroaching Twilight',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\223_Rhest Ko, Vaserian Dissenter.png" id="223_Rhest Ko, Vaserian Dissenter" data-flag="@X" onclick="openSidebar('223_Rhest Ko, Vaserian Dissenter',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\206_Aeronautic Psycho.png" id="206_Aeronautic Psycho" data-flag="@X" onclick="openSidebar('206_Aeronautic Psycho',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\228_Swelling Jelly.png" id="228_Swelling Jelly" data-flag="@X" onclick="openSidebar('228_Swelling Jelly',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\211_Coalition Commander.png" id="211_Coalition Commander" data-flag="@X" onclick="openSidebar('211_Coalition Commander',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\219_Osuna Stormserpent.png" id="219_Osuna Stormserpent" data-flag="@X" onclick="openSidebar('219_Osuna Stormserpent',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\237_Mass Desertion.png" id="237_Mass Desertion" data-flag="@X" onclick="openSidebar('237_Mass Desertion',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\231_Unstable Replication.png" id="231_Unstable Replication" data-flag="@X" onclick="openSidebar('231_Unstable Replication',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\235_Wetworld Behemoth.png" id="235_Wetworld Behemoth" data-flag="@X" onclick="openSidebar('235_Wetworld Behemoth',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\239_Rhest's Reinforcements.png" id="239_Rhests Reinforcements" data-flag="@X" onclick="openSidebar('239_Rhests Reinforcements',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\221_Reefcovered Serpent.png" id="221_Reefcovered Serpent" data-flag="@X" onclick="openSidebar('221_Reefcovered Serpent',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\226_Siege Charger.png" id="226_Siege Charger" data-flag="@X" onclick="openSidebar('226_Siege Charger',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\241_Voya's Apprentice.png" id="241_Voyas Apprentice" data-flag="@X" onclick="openSidebar('241_Voyas Apprentice',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\209_Caustic Goop.png" id="209_Caustic Goop" data-flag="@X" onclick="openSidebar('209_Caustic Goop',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\222_Resourceful Skipper.png" id="222_Resourceful Skipper" data-flag="@X" onclick="openSidebar('222_Resourceful Skipper',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\215_Fabricate Biosphere.png" id="215_Fabricate Biosphere" data-flag="@X" onclick="openSidebar('215_Fabricate Biosphere',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\225_Shara, Chance Multiplied.png" id="225_Shara, Chance Multiplied" data-flag="@X" onclick="openSidebar('225_Shara, Chance Multiplied',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\236_Lio, Fate Unsure.png" id="236_Lio, Fate Unsure" data-flag="@X" onclick="openSidebar('236_Lio, Fate Unsure',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\229_The Twilight Voidchasm.png" id="229_The Twilight Voidchasm" data-flag="@X" onclick="openSidebar('229_The Twilight Voidchasm',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\234_Voya, Rejector of Prophecy.png" id="234_Voya, Rejector of Prophecy" data-flag="@X" onclick="openSidebar('234_Voya, Rejector of Prophecy',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\1_Raised in Twilight.png" id="1_Raised in Twilight" data-flag="@X" onclick="openSidebar('1_Raised in Twilight',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\255_Shifting Polycore.png" id="255_Shifting Polycore" data-flag="@X" onclick="openSidebar('255_Shifting Polycore',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\256_Soul Harvester.png" id="256_Soul Harvester" data-flag="@X" onclick="openSidebar('256_Soul Harvester',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\248_Infinite Mass Cannon.png" id="248_Infinite Mass Cannon" data-flag="@X" onclick="openSidebar('248_Infinite Mass Cannon',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\258_Thirisene Depot.png" id="258_Thirisene Depot" data-flag="@X" onclick="openSidebar('258_Thirisene Depot',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\2_UX05.png" id="2_UX05" data-flag="@X" onclick="openSidebar('2_UX05',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\242_Curated Seedpod.png" id="242_Curated Seedpod" data-flag="@X" onclick="openSidebar('242_Curated Seedpod',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\244_Curation Scoutprobe.png" id="244_Curation Scoutprobe" data-flag="@X" onclick="openSidebar('244_Curation Scoutprobe',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\247_Hull Plater.png" id="247_Hull Plater" data-flag="@X" onclick="openSidebar('247_Hull Plater',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\249_Leeching Voidmite.png" id="249_Leeching Voidmite" data-flag="@X" onclick="openSidebar('249_Leeching Voidmite',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\251_Personal Phaselight Generator.png" id="251_Personal Phaselight Generator" data-flag="@X" onclick="openSidebar('251_Personal Phaselight Generator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\254_Scrambler Satellite.png" id="254_Scrambler Satellite" data-flag="@X" onclick="openSidebar('254_Scrambler Satellite',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\257_Thirisene Condenser.png" id="257_Thirisene Condenser" data-flag="@X" onclick="openSidebar('257_Thirisene Condenser',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\260_Wurmway Watcher.png" id="260_Wurmway Watcher" data-flag="@X" onclick="openSidebar('260_Wurmway Watcher',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\243_Curated Surveillance Unit.png" id="243_Curated Surveillance Unit" data-flag="@X" onclick="openSidebar('243_Curated Surveillance Unit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\245_Deepspace Scanner.png" id="245_Deepspace Scanner" data-flag="@X" onclick="openSidebar('245_Deepspace Scanner',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\246_Duskborn Dwelling.png" id="246_Duskborn Dwelling" data-flag="@X" onclick="openSidebar('246_Duskborn Dwelling',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\252_Phaselight Converter.png" id="252_Phaselight Converter" data-flag="@X" onclick="openSidebar('252_Phaselight Converter',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\253_Scatterblaster.png" id="253_Scatterblaster" data-flag="@X" onclick="openSidebar('253_Scatterblaster',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\259_Vaserian Jetboots.png" id="259_Vaserian Jetboots" data-flag="@X" onclick="openSidebar('259_Vaserian Jetboots',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\271_Kol, Thaxian Homeworld.png" id="271_Kol, Thaxian Homeworld" data-flag="@X" onclick="openSidebar('271_Kol, Thaxian Homeworld',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\274_Osuna, Starsquid Homeworld.png" id="274_Osuna, Starsquid Homeworld" data-flag="@X" onclick="openSidebar('274_Osuna, Starsquid Homeworld',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\278_Voidchasm, Darkbeast's Ingress.png" id="278_Voidchasm, Darkbeasts Ingress" data-flag="@X" onclick="openSidebar('278_Voidchasm, Darkbeasts Ingress',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\265_Eln-4, Alliance Homeworld.png" id="265_Eln-4, Alliance Homeworld" data-flag="@X" onclick="openSidebar('265_Eln-4, Alliance Homeworld',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\261_Baelis Prime, Lorren Homeworld.png" id="261_Baelis Prime, Lorren Homeworld" data-flag="@X" onclick="openSidebar('261_Baelis Prime, Lorren Homeworld',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\263_Computation Deck.png" id="263_Computation Deck" data-flag="@X" onclick="openSidebar('263_Computation Deck',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\277_Silent Tower.png" id="277_Silent Tower" data-flag="@X" onclick="openSidebar('277_Silent Tower',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\275_Scorching Barrow.png" id="275_Scorching Barrow" data-flag="@X" onclick="openSidebar('275_Scorching Barrow',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\264_Creophagous Wood.png" id="264_Creophagous Wood" data-flag="@X" onclick="openSidebar('264_Creophagous Wood',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\268_Gentle Pasture.png" id="268_Gentle Pasture" data-flag="@X" onclick="openSidebar('268_Gentle Pasture',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\269_Hollow Exhibit.png" id="269_Hollow Exhibit" data-flag="@X" onclick="openSidebar('269_Hollow Exhibit',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\270_Impact Site.png" id="270_Impact Site" data-flag="@X" onclick="openSidebar('270_Impact Site',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\272_Nihil Graveyard.png" id="272_Nihil Graveyard" data-flag="@X" onclick="openSidebar('272_Nihil Graveyard',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\262_Basking Rock.png" id="262_Basking Rock" data-flag="@X" onclick="openSidebar('262_Basking Rock',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\280_Zoetic Pool.png" id="280_Zoetic Pool" data-flag="@X" onclick="openSidebar('280_Zoetic Pool',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\266_Exotic Utopia.png" id="266_Exotic Utopia" data-flag="@X" onclick="openSidebar('266_Exotic Utopia',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\279_Wandering Comet.png" id="279_Wandering Comet" data-flag="@X" onclick="openSidebar('279_Wandering Comet',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\273_Obstructing Asteroid.png" id="273_Obstructing Asteroid" data-flag="@X" onclick="openSidebar('273_Obstructing Asteroid',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\276_Sequestered Sanctuary.png" id="276_Sequestered Sanctuary" data-flag="@X" onclick="openSidebar('276_Sequestered Sanctuary',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\250_Mercantile Guildstation.png" id="250_Mercantile Guildstation" data-flag="@X" onclick="openSidebar('250_Mercantile Guildstation',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\267_Genetic Goopworld.png" id="267_Genetic Goopworld" data-flag="@X" onclick="openSidebar('267_Genetic Goopworld',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\4t_Ameliorator.png" id="4t_Ameliorator" data-flag="@X" onclick="openSidebar('4t_Ameliorator',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\5t_Habitat.png" id="5t_Habitat" data-flag="@X" onclick="openSidebar('5t_Habitat',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\6t_Spacecraft.png" id="6t_Spacecraft" data-flag="@X" onclick="openSidebar('6t_Spacecraft',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\7t_Treasure.png" id="7t_Treasure" data-flag="@X" onclick="openSidebar('7t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\8t_Wastes.png" id="8t_Wastes" data-flag="@X" onclick="openSidebar('8t_Wastes',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\1t_Thax Soldier Ally.png" id="1t_Thax Soldier Ally" data-flag="@X" onclick="openSidebar('1t_Thax Soldier Ally',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\2t_Ooze.png" id="2t_Ooze" data-flag="@X" onclick="openSidebar('2t_Ooze',false)"></div>
+			<div class="container"><img alt="/sets\FCD-files\img\3t_Horror.png" id="3t_Horror" data-flag="@X" onclick="openSidebar('3t_Horror',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
