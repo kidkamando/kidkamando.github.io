@@ -259,7 +259,7 @@
             "color2": "BR",
             "type2": "Legendary Creature \u2014 Spider Noble",
             "cost2": "",
-            "rules_text2": "Reach, deathtouch, and lifelink\nElise cannot be blocked by more than one non-Spider creature.\n[i]Last hit[/i] \u2014 Whenever this creature deals lethal damage to another permanent, you gain life equal to the damage dealt and create a tapped 1/1 black Spider creature token.\n{B}{R}, Sacrifice a creature you control: Elise deals 1 damage to target creature. Transform Elise. Activate only once each turn.",
+            "rules_text2": "Reach, deathtouch, lifelink\nElise cannot be blocked by more than one non-Spider creature.\n[i]Last hit[/i] \u2014 Whenever this creature deals lethal damage to another permanent, create a tapped 1/1 black Spider creature token.\n{B}{R}, Sacrifice a creature you control: Elise deals 1 damage to target creature. Transform Elise. Activate only once each turn.",
             "flavor_text2": "[i]\u201cOnly the spider is safe in her web.\u201d[/i]",
             "pt2": "3/3",
             "special_text2": "",
