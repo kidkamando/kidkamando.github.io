@@ -2803,7 +2803,7 @@
             "number": 243,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Shadow Ninjutsu {1}{U}{B} [i]({1}{U}{B}, Return an unblocked Shadow you control to hand: Put this card onto the battlefield from your hand or command zone tapped and attacking.)[/i]\n{U}{B}: Reveal this card from your hand or command zone, then discard a card. Create a 2/2 black Shade creature token with shadow. Activate only during your turn.\nWhenever Zed or one or more Shades you control deal combat damage to a player, you may return up to one target card from your graveyard to your hand.",
+            "rules_text": "Shadow Ninjutsu {1}{U}{B} [i]({1}{U}{B}, Return an unblocked creature with shadow you control to its owner's hand: Put this card onto the battlefield from your hand or command zone tapped and attacking.)[/i]\n{U}{B}: Reveal this card from your hand or command zone, then discard a card. Create a 2/2 black Shade creature token with shadow. Activate only during your turn.\nWhenever Zed or one or more Shades you control deal combat damage to a player, you may return up to one target card from your graveyard to your hand.",
             "flavor_text": "[i]\u201cNo technique is forbidden.\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
