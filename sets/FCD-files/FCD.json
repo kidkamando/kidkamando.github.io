@@ -1,8 +1,8 @@
 ﻿{
     "name": "Fractured Darkness",
-    "formats": "Standard,Commander,SLC",
-    "trimmed": "y",
-    "image_type": "png",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -103,7 +103,7 @@
             "number": 18,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "This spell costs {1} less to cast for each creature you control.\nWhen Overburdened Packbot enters, draw a card.\nWarp {4}{W}{W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "This spell costs {1} less to cast for each creature you control.\nWhen Overburdened Packbot enters, draw a card.\nWarp {4}{W}{W} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -373,7 +373,7 @@
             "number": 78,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "When this enchantment enters, draw two cards, then discard a card. Then if this spell was cast from exile, create two 1/1 blue and black Horror creature tokens with \u201cWhenever one or more cards an opponent owns enters exile, put a +1/+1 counter on this creature.\u201d\nWarp {1}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this enchantment enters, draw two cards, then discard a card. Then if this spell was cast from exile, create two 1/1 blue and black Horror creature tokens with \u201cWhenever one or more cards an opponent owns enters exile, put a +1/+1 counter on this creature.\u201d\nWarp {1}{U} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -715,7 +715,7 @@
             "number": 118,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this enchantment enters, target creature gets -2/-2 until end of turn. Then if this spell was cast from exile, draw a card and you lose 1 life.\nWarp {B} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this enchantment enters, target creature gets -2/-2 until end of turn. Then if this spell was cast from exile, draw a card and you lose 1 life.\nWarp {B} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]After freeing his people, a blast of the corruption touched him, stealing his body and mind for the Darkbeast's purposes.[/i]",
             "pt": "",
             "special_text": "",
@@ -985,7 +985,7 @@
             "number": 157,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When this artifact enters, you may discard a card. When you do, draw two cards.\nWarp {1}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this artifact enters, you may discard a card. When you do, draw two cards.\nWarp {1}{R} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]The antimatter rumbled, eager to escape its contrasting prison. That energy sparked and sizzled, a new source of power for the alliance to use to survive.[/i]",
             "pt": "",
             "special_text": "",
@@ -1309,7 +1309,7 @@
             "number": 164,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "When this enchantment enters, choose one \u2014 \n\u2022 Search your library for a basic land or Planet card, put it into your hand, then shuffle.\n\u2022 Put a land from your hand onto the battlefield tapped.\nWarp {G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this enchantment enters, choose one \u2014 \n\u2022 Search your library for a basic land or Planet card, put it into your hand, then shuffle.\n\u2022 Put a land from your hand onto the battlefield tapped.\nWarp {G} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2155,7 +2155,7 @@
             "number": 161,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "When this enchantment enters, discover 5. [i](Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\nWarp {2}{R}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this enchantment enters, discover 5. [i](Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]\nWarp {2}{R}{R} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3649,7 +3649,7 @@
             "number": 238,
             "color_identity": "WR",
             "cost": "{2}{RW}",
-            "rules_text": "Tunneling {2}{R}{W} [i](Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)[/i]\nWhen this enchantment enters, create four 1/1 white Thax Soldier Ally creature tokens.\nAt the beginning of each end step, if this creature's tunneling cost was paid this turn, shuffle it into its owner's library.",
+            "rules_text": "Tunneling {2}{R}{W} [i](Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)[/i]\nWhen this enchantment enters, create four 1/1 white Thax Soldier Ally creature tokens.\nAt the beginning of each end step, if this enchantment's tunneling cost was paid this turn, shuffle it into its owner's library.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5280,5 +5280,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 1
+    "version": 2
 }

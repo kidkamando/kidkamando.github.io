@@ -1,4 +1,44 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Necrolegacy
+rules_text: Skip your draw step.
+Whenever you discard a card, exile that card from your graveyard.
+Pay {B} and 1 life: Exile the top card of your library face-down. Put it into your hand at the beginning of your end step. => Skip your draw step.
+Whenever you discard a card, exile that card from your graveyard.
+{B}, Pay 1 life: Exile the top card of your library face-down. At the beginning of your end step, put that card into your hand.
+
+Caravan Runner
+rules_text: While this card is in your graveyard, you may pay {1}{B}. If you do, return it to your hand.
+When you discard this card, you may pay {U}. If you do, draw a card. => {1}{B}: Return this card from your graveyard to your hand.
+When you discard this card, you may pay {U}. If you do, draw a card.
+
+Gigafaunize
+rules_text: All creatures you control with base power and toughness less than 3/3 have base power and toughness 3/3.
+[i]Desperate[/i] — If you have no cards in hand, you may sacrifice this enchantment. If you do, put two +1/+1 counters on each creature you control. => All creatures you control with base power and toughness less than 3/3 have base power and toughness 3/3.
+[i]Desperate[/i] — Sacrifice this enchantment: Put two +1/+1 counters on each creature you control. Activate only if you have no cards in hand.
+
+Profound Ooze
+rules_text: {G}: Exile a card from a graveyard. If it was a creature from your graveyard, you may pay {X}, where X is its mana value. If you do, plot it. => {G}: Exile target card from a graveyard. If it was a creature from your graveyard, you may pay {X}, where X is its mana value. If you do, plot it.
+
+The Conquest of Alvaest
+special_text: 
+I — Create two 1/1 white Elf creature token.
+II — For each opponent exile target nonland permanent.
+III — Draw a card for each creature you control with power 3 or less, then discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Elf creature token.
+II — For each opponent exile target nonland permanent.
+III — Draw a card for each creature you control with power 3 or less, then discard two cards.
+
+Rush of Replication
+rules_text: Create a token that's a copy of copy target creature you control.
+[i]Burst[/i] — When you cast this spell, if you've cast three or more spells this turn, create an additional token of that creature, except those tokens aren't legendary if that creature is legendary. Otherwise, sacrifice it at the beginning of the next end step. => Create a token that's a copy of target creature you control.
+[i]Burst[/i] — When you cast this spell, if you've cast three or more spells this turn, create an additional token of that creature, except those tokens aren't legendary if that creature is legendary. Otherwise, sacrifice it at the beginning of the next end step.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

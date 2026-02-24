@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/ACS-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>ACS visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/ACS-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ACS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FCD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PWR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RAD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RDV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RRN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RTRA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VWT-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/ACS"><img src="../sets/ACS-files/icon.png">Aramyth: Crimes in Shadow</a>
+	
+		<a class="set-bar inactive" href="../previews/FCD"><img src="../sets/FCD-files/icon.png">Fractured Darkness</a>
+	
+		<a class="set-bar inactive" href="../previews/LSL"><img src="../sets/LSL-files/icon.png">Last Starlight</a>
+	
+		<a class="set-bar inactive" href="../previews/PWR"><img src="../sets/PWR-files/icon.png">Power Rangers</a>
+	
+		<a class="set-bar inactive" href="../previews/RAD"><img src="../sets/RAD-files/icon.png">Runeterra Ascended</a>
+	
+		<a class="set-bar inactive" href="../previews/RDV"><img src="../sets/RDV-files/icon.png">Runeterra Divided</a>
+	
+		<a class="set-bar inactive" href="../previews/RRN"><img src="../sets/RRN-files/icon.png">Runeterra in Ruination</a>
+	
+		<a class="set-bar inactive" href="../previews/RTRA"><img src="../sets/RTRA-files/icon.png">Runeterra Reimagined Addendum</a>
+	
+		<a class="set-bar inactive" href="../previews/VLC"><img src="../sets/VLC-files/icon.png">Velesta Discovered Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Velesta Discovered</a>
+	
+		<a class="set-bar inactive" href="../previews/VRG"><img src="../sets/VRG-files/icon.png">Velesta Reforged</a>
+	
+		<a class="set-bar inactive" href="../previews/VWT"><img src="../sets/VWT-files/icon.png">Velesta Wartorn</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/ACS-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\ACS-files\img\14_Flawless Graven.jpg" id="ACS_14_Flawless Graven" data-flag="@X" onclick="openSidebar('ACS_14_Flawless Graven',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\47_Auriel, Changed by Luck.jpg" id="ACS_47_Auriel, Changed by Luck" data-flag="@X" onclick="openSidebar('ACS_47_Auriel, Changed by Luck',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\110_Forgotten Significance.jpg" id="ACS_110_Forgotten Significance" data-flag="@X" onclick="openSidebar('ACS_110_Forgotten Significance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\139_Awakened Anger.jpg" id="ACS_139_Awakened Anger" data-flag="@X" onclick="openSidebar('ACS_139_Awakened Anger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\195_Licium, Living Funghive.jpg" id="ACS_195_Licium, Living Funghive" data-flag="@X" onclick="openSidebar('ACS_195_Licium, Living Funghive',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\43_Wolanne, Spiretop Comrade.jpg" id="ACS_43_Wolanne, Spiretop Comrade" data-flag="@X" onclick="openSidebar('ACS_43_Wolanne, Spiretop Comrade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\67_Magistrate of the Final Word.jpg" id="ACS_67_Magistrate of the Final Word" data-flag="@X" onclick="openSidebar('ACS_67_Magistrate of the Final Word',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\123_Restra, Accused Vengeance.jpg" id="ACS_123_Restra, Accused Vengeance" data-flag="@X" onclick="openSidebar('ACS_123_Restra, Accused Vengeance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\156_Gilban, Impulsive Electromancer.jpg" id="ACS_156_Gilban, Impulsive Electromancer" data-flag="@X" onclick="openSidebar('ACS_156_Gilban, Impulsive Electromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\213_Thrive Twofold.jpg" id="ACS_213_Thrive Twofold" data-flag="@X" onclick="openSidebar('ACS_213_Thrive Twofold',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\44_Wolanne Tosshorn, Peacemaker.jpg" id="ACS_44_Wolanne Tosshorn, Peacemaker" data-flag="@X" onclick="openSidebar('ACS_44_Wolanne Tosshorn, Peacemaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\76_Resplendent Archmage.jpg" id="ACS_76_Resplendent Archmage" data-flag="@X" onclick="openSidebar('ACS_76_Resplendent Archmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\129_Swirling Thoughtstone.jpg" id="ACS_129_Swirling Thoughtstone" data-flag="@X" onclick="openSidebar('ACS_129_Swirling Thoughtstone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\157_Gilban, Vengeful Dealmaker.jpg" id="ACS_157_Gilban, Vengeful Dealmaker" data-flag="@X" onclick="openSidebar('ACS_157_Gilban, Vengeful Dealmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\219_Waxley, Union Chief.jpg" id="ACS_219_Waxley, Union Chief" data-flag="@X" onclick="openSidebar('ACS_219_Waxley, Union Chief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\2_Adan's Regiment.jpg" id="ACS_2_Adans Regiment" data-flag="@X" onclick="openSidebar('ACS_2_Adans Regiment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\51_Dictate of Splendor.jpg" id="ACS_51_Dictate of Splendor" data-flag="@X" onclick="openSidebar('ACS_51_Dictate of Splendor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\115_Internest Socialite.jpg" id="ACS_115_Internest Socialite" data-flag="@X" onclick="openSidebar('ACS_115_Internest Socialite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\143_Circular Investment.jpg" id="ACS_143_Circular Investment" data-flag="@X" onclick="openSidebar('ACS_143_Circular Investment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\188_Emule's Gift.jpg" id="ACS_188_Emules Gift" data-flag="@X" onclick="openSidebar('ACS_188_Emules Gift',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\5_Atteli Yewtooth, Crown's Tactician.jpg" id="ACS_5_Atteli Yewtooth, Crowns Tactician" data-flag="@X" onclick="openSidebar('ACS_5_Atteli Yewtooth, Crowns Tactician',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\55_Egocentric Lawmaker.jpg" id="ACS_55_Egocentric Lawmaker" data-flag="@X" onclick="openSidebar('ACS_55_Egocentric Lawmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\116_Joint Excavation.jpg" id="ACS_116_Joint Excavation" data-flag="@X" onclick="openSidebar('ACS_116_Joint Excavation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\145_Conspired Assault.jpg" id="ACS_145_Conspired Assault" data-flag="@X" onclick="openSidebar('ACS_145_Conspired Assault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\190_Growing Colony.jpg" id="ACS_190_Growing Colony" data-flag="@X" onclick="openSidebar('ACS_190_Growing Colony',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\6_Balan, Citizen's Surrogate.jpg" id="ACS_6_Balan, Citizens Surrogate" data-flag="@X" onclick="openSidebar('ACS_6_Balan, Citizens Surrogate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\61_Ingenius Advisor.jpg" id="ACS_61_Ingenius Advisor" data-flag="@X" onclick="openSidebar('ACS_61_Ingenius Advisor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\117_Knight of Stormspire.jpg" id="ACS_117_Knight of Stormspire" data-flag="@X" onclick="openSidebar('ACS_117_Knight of Stormspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\151_Devil Spirehawk.jpg" id="ACS_151_Devil Spirehawk" data-flag="@X" onclick="openSidebar('ACS_151_Devil Spirehawk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\191_Gutter Ambusher.jpg" id="ACS_191_Gutter Ambusher" data-flag="@X" onclick="openSidebar('ACS_191_Gutter Ambusher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\10_Contracted Companion.jpg" id="ACS_10_Contracted Companion" data-flag="@X" onclick="openSidebar('ACS_10_Contracted Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\62_Insider Sabotage.jpg" id="ACS_62_Insider Sabotage" data-flag="@X" onclick="openSidebar('ACS_62_Insider Sabotage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\120_Malicious Confluence.jpg" id="ACS_120_Malicious Confluence" data-flag="@X" onclick="openSidebar('ACS_120_Malicious Confluence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\152_Dualcaster Devil.jpg" id="ACS_152_Dualcaster Devil" data-flag="@X" onclick="openSidebar('ACS_152_Dualcaster Devil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\193_Joint Aquisition.jpg" id="ACS_193_Joint Aquisition" data-flag="@X" onclick="openSidebar('ACS_193_Joint Aquisition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\20_Joint Enterprise.jpg" id="ACS_20_Joint Enterprise" data-flag="@X" onclick="openSidebar('ACS_20_Joint Enterprise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\63_Joint Research.jpg" id="ACS_63_Joint Research" data-flag="@X" onclick="openSidebar('ACS_63_Joint Research',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\121_Quest For Remembrance.jpg" id="ACS_121_Quest For Remembrance" data-flag="@X" onclick="openSidebar('ACS_121_Quest For Remembrance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\158_Gilban's Electroblast.jpg" id="ACS_158_Gilbans Electroblast" data-flag="@X" onclick="openSidebar('ACS_158_Gilbans Electroblast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\194_Lessor's Log.jpg" id="ACS_194_Lessors Log" data-flag="@X" onclick="openSidebar('ACS_194_Lessors Log',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\25_Reddened Seal.jpg" id="ACS_25_Reddened Seal" data-flag="@X" onclick="openSidebar('ACS_25_Reddened Seal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\66_Lumi, Deepspire Representative.jpg" id="ACS_66_Lumi, Deepspire Representative" data-flag="@X" onclick="openSidebar('ACS_66_Lumi, Deepspire Representative',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\125_Sikka's Plot.jpg" id="ACS_125_Sikkas Plot" data-flag="@X" onclick="openSidebar('ACS_125_Sikkas Plot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\162_Joint Sabotage.jpg" id="ACS_162_Joint Sabotage" data-flag="@X" onclick="openSidebar('ACS_162_Joint Sabotage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\196_Martyr's Moment.jpg" id="ACS_196_Martyrs Moment" data-flag="@X" onclick="openSidebar('ACS_196_Martyrs Moment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\26_Resplendent Intervention.jpg" id="ACS_26_Resplendent Intervention" data-flag="@X" onclick="openSidebar('ACS_26_Resplendent Intervention',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\74_Political Manipulator.jpg" id="ACS_74_Political Manipulator" data-flag="@X" onclick="openSidebar('ACS_74_Political Manipulator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\126_Siyzol, Restra's Chosen.jpg" id="ACS_126_Siyzol, Restras Chosen" data-flag="@X" onclick="openSidebar('ACS_126_Siyzol, Restras Chosen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\167_Quick-Handed Marksman.jpg" id="ACS_167_Quick-Handed Marksman" data-flag="@X" onclick="openSidebar('ACS_167_Quick-Handed Marksman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\203_Rage of the Recruited.jpg" id="ACS_203_Rage of the Recruited" data-flag="@X" onclick="openSidebar('ACS_203_Rage of the Recruited',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\31_Spiretop Watcher.jpg" id="ACS_31_Spiretop Watcher" data-flag="@X" onclick="openSidebar('ACS_31_Spiretop Watcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\83_Stormwood's Will.jpg" id="ACS_83_Stormwoods Will" data-flag="@X" onclick="openSidebar('ACS_83_Stormwoods Will',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\127_Skeletony, Boney Butler.jpg" id="ACS_127_Skeletony, Boney Butler" data-flag="@X" onclick="openSidebar('ACS_127_Skeletony, Boney Butler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\168_Quick-Response Policy.jpg" id="ACS_168_Quick-Response Policy" data-flag="@X" onclick="openSidebar('ACS_168_Quick-Response Policy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\205_Rykkon, Resident Recruiter.jpg" id="ACS_205_Rykkon, Resident Recruiter" data-flag="@X" onclick="openSidebar('ACS_205_Rykkon, Resident Recruiter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\38_Unfavorable Obligation.jpg" id="ACS_38_Unfavorable Obligation" data-flag="@X" onclick="openSidebar('ACS_38_Unfavorable Obligation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\84_Sublime Compromise.jpg" id="ACS_84_Sublime Compromise" data-flag="@X" onclick="openSidebar('ACS_84_Sublime Compromise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\134_Untreated Fadestone.jpg" id="ACS_134_Untreated Fadestone" data-flag="@X" onclick="openSidebar('ACS_134_Untreated Fadestone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\170_Root Retailer.jpg" id="ACS_170_Root Retailer" data-flag="@X" onclick="openSidebar('ACS_170_Root Retailer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\209_Spire Titan.jpg" id="ACS_209_Spire Titan" data-flag="@X" onclick="openSidebar('ACS_209_Spire Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\1_Acquisition Equalator.jpg" id="ACS_1_Acquisition Equalator" data-flag="@X" onclick="openSidebar('ACS_1_Acquisition Equalator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\46_Age of Inspiration.jpg" id="ACS_46_Age of Inspiration" data-flag="@X" onclick="openSidebar('ACS_46_Age of Inspiration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\91_Arranged Betrayal.jpg" id="ACS_91_Arranged Betrayal" data-flag="@X" onclick="openSidebar('ACS_91_Arranged Betrayal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\136_Abrasive Blast.jpg" id="ACS_136_Abrasive Blast" data-flag="@X" onclick="openSidebar('ACS_136_Abrasive Blast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\185_Coalition Courage.jpg" id="ACS_185_Coalition Courage" data-flag="@X" onclick="openSidebar('ACS_185_Coalition Courage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\3_Allied Tosshorn.jpg" id="ACS_3_Allied Tosshorn" data-flag="@X" onclick="openSidebar('ACS_3_Allied Tosshorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\48_Busted Scheme.jpg" id="ACS_48_Busted Scheme" data-flag="@X" onclick="openSidebar('ACS_48_Busted Scheme',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\95_Concealed Dagger.jpg" id="ACS_95_Concealed Dagger" data-flag="@X" onclick="openSidebar('ACS_95_Concealed Dagger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\137_Aerial Sentinel.jpg" id="ACS_137_Aerial Sentinel" data-flag="@X" onclick="openSidebar('ACS_137_Aerial Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\187_Corporate Landloaner.jpg" id="ACS_187_Corporate Landloaner" data-flag="@X" onclick="openSidebar('ACS_187_Corporate Landloaner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\7_Bulk Recruitment.jpg" id="ACS_7_Bulk Recruitment" data-flag="@X" onclick="openSidebar('ACS_7_Bulk Recruitment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\52_Discount Dignitary.jpg" id="ACS_52_Discount Dignitary" data-flag="@X" onclick="openSidebar('ACS_52_Discount Dignitary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\99_Dead Investment.jpg" id="ACS_99_Dead Investment" data-flag="@X" onclick="openSidebar('ACS_99_Dead Investment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\141_Bellicose Boss.jpg" id="ACS_141_Bellicose Boss" data-flag="@X" onclick="openSidebar('ACS_141_Bellicose Boss',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\192_Headbutting Skullbasher.jpg" id="ACS_192_Headbutting Skullbasher" data-flag="@X" onclick="openSidebar('ACS_192_Headbutting Skullbasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\11_Drawn to Success.jpg" id="ACS_11_Drawn to Success" data-flag="@X" onclick="openSidebar('ACS_11_Drawn to Success',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\58_Glimmerjelly Spellweaver.jpg" id="ACS_58_Glimmerjelly Spellweaver" data-flag="@X" onclick="openSidebar('ACS_58_Glimmerjelly Spellweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\100_Debt Catchpole.jpg" id="ACS_100_Debt Catchpole" data-flag="@X" onclick="openSidebar('ACS_100_Debt Catchpole',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\142_Canoid Captain.jpg" id="ACS_142_Canoid Captain" data-flag="@X" onclick="openSidebar('ACS_142_Canoid Captain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\199_Personal Protection Check.jpg" id="ACS_199_Personal Protection Check" data-flag="@X" onclick="openSidebar('ACS_199_Personal Protection Check',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\24_Purge From Within.jpg" id="ACS_24_Purge From Within" data-flag="@X" onclick="openSidebar('ACS_24_Purge From Within',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\64_Keep to Contract.jpg" id="ACS_64_Keep to Contract" data-flag="@X" onclick="openSidebar('ACS_64_Keep to Contract',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\105_Executive Assassination.jpg" id="ACS_105_Executive Assassination" data-flag="@X" onclick="openSidebar('ACS_105_Executive Assassination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\144_Colluded Scheme.jpg" id="ACS_144_Colluded Scheme" data-flag="@X" onclick="openSidebar('ACS_144_Colluded Scheme',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\201_Property Monopoly.jpg" id="ACS_201_Property Monopoly" data-flag="@X" onclick="openSidebar('ACS_201_Property Monopoly',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\27_Resplendent Trainings.jpg" id="ACS_27_Resplendent Trainings" data-flag="@X" onclick="openSidebar('ACS_27_Resplendent Trainings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\68_Mimicked Movements.jpg" id="ACS_68_Mimicked Movements" data-flag="@X" onclick="openSidebar('ACS_68_Mimicked Movements',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\107_Exploitative Worklog.jpg" id="ACS_107_Exploitative Worklog" data-flag="@X" onclick="openSidebar('ACS_107_Exploitative Worklog',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\149_Crown's Sharpshooter.jpg" id="ACS_149_Crowns Sharpshooter" data-flag="@X" onclick="openSidebar('ACS_149_Crowns Sharpshooter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\202_Protection Educator.jpg" id="ACS_202_Protection Educator" data-flag="@X" onclick="openSidebar('ACS_202_Protection Educator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\28_Scant Survival.jpg" id="ACS_28_Scant Survival" data-flag="@X" onclick="openSidebar('ACS_28_Scant Survival',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\70_Muscled Finbasher.jpg" id="ACS_70_Muscled Finbasher" data-flag="@X" onclick="openSidebar('ACS_70_Muscled Finbasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\108_Foraged Feast.jpg" id="ACS_108_Foraged Feast" data-flag="@X" onclick="openSidebar('ACS_108_Foraged Feast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\160_Hostile Buyout.jpg" id="ACS_160_Hostile Buyout" data-flag="@X" onclick="openSidebar('ACS_160_Hostile Buyout',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\208_Spire Slammer.jpg" id="ACS_208_Spire Slammer" data-flag="@X" onclick="openSidebar('ACS_208_Spire Slammer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\29_Serrated Glasswings.jpg" id="ACS_29_Serrated Glasswings" data-flag="@X" onclick="openSidebar('ACS_29_Serrated Glasswings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\79_Slinking Stabber.jpg" id="ACS_79_Slinking Stabber" data-flag="@X" onclick="openSidebar('ACS_79_Slinking Stabber',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\111_Gnashing Blooddrinker.jpg" id="ACS_111_Gnashing Blooddrinker" data-flag="@X" onclick="openSidebar('ACS_111_Gnashing Blooddrinker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\164_Manaleech Devil.jpg" id="ACS_164_Manaleech Devil" data-flag="@X" onclick="openSidebar('ACS_164_Manaleech Devil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\212_Stormspire Grovewarden.jpg" id="ACS_212_Stormspire Grovewarden" data-flag="@X" onclick="openSidebar('ACS_212_Stormspire Grovewarden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\32_Suborned Overseer.jpg" id="ACS_32_Suborned Overseer" data-flag="@X" onclick="openSidebar('ACS_32_Suborned Overseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\81_Splashback.jpg" id="ACS_81_Splashback" data-flag="@X" onclick="openSidebar('ACS_81_Splashback',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\112_Grinning Menace.jpg" id="ACS_112_Grinning Menace" data-flag="@X" onclick="openSidebar('ACS_112_Grinning Menace',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\166_Population Explosion.jpg" id="ACS_166_Population Explosion" data-flag="@X" onclick="openSidebar('ACS_166_Population Explosion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\214_Tosshorn Crasher.jpg" id="ACS_214_Tosshorn Crasher" data-flag="@X" onclick="openSidebar('ACS_214_Tosshorn Crasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\33_Summary Predictor.jpg" id="ACS_33_Summary Predictor" data-flag="@X" onclick="openSidebar('ACS_33_Summary Predictor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\82_Splendid Speaker.jpg" id="ACS_82_Splendid Speaker" data-flag="@X" onclick="openSidebar('ACS_82_Splendid Speaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\118_Laid Off for Life.jpg" id="ACS_118_Laid Off for Life" data-flag="@X" onclick="openSidebar('ACS_118_Laid Off for Life',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\169_Rallying Officer.jpg" id="ACS_169_Rallying Officer" data-flag="@X" onclick="openSidebar('ACS_169_Rallying Officer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\215_Tosshorn Trustee.jpg" id="ACS_215_Tosshorn Trustee" data-flag="@X" onclick="openSidebar('ACS_215_Tosshorn Trustee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\34_Tirading Perorator.jpg" id="ACS_34_Tirading Perorator" data-flag="@X" onclick="openSidebar('ACS_34_Tirading Perorator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\85_Thought Inhibitor.jpg" id="ACS_85_Thought Inhibitor" data-flag="@X" onclick="openSidebar('ACS_85_Thought Inhibitor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\130_Undercity Network.jpg" id="ACS_130_Undercity Network" data-flag="@X" onclick="openSidebar('ACS_130_Undercity Network',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\174_Spirebound Disaster.jpg" id="ACS_174_Spirebound Disaster" data-flag="@X" onclick="openSidebar('ACS_174_Spirebound Disaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\216_Tribute From the Families.jpg" id="ACS_216_Tribute From the Families" data-flag="@X" onclick="openSidebar('ACS_216_Tribute From the Families',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\35_Tosshorn Enforcer.jpg" id="ACS_35_Tosshorn Enforcer" data-flag="@X" onclick="openSidebar('ACS_35_Tosshorn Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\86_Tricked Twice.jpg" id="ACS_86_Tricked Twice" data-flag="@X" onclick="openSidebar('ACS_86_Tricked Twice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\131_Underhanded Fink.jpg" id="ACS_131_Underhanded Fink" data-flag="@X" onclick="openSidebar('ACS_131_Underhanded Fink',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\175_Spire's Collapse.jpg" id="ACS_175_Spires Collapse" data-flag="@X" onclick="openSidebar('ACS_175_Spires Collapse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\218_United Anthem.jpg" id="ACS_218_United Anthem" data-flag="@X" onclick="openSidebar('ACS_218_United Anthem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\39_Up For Lease.jpg" id="ACS_39_Up For Lease" data-flag="@X" onclick="openSidebar('ACS_39_Up For Lease',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\88_Variant Runemaker.jpg" id="ACS_88_Variant Runemaker" data-flag="@X" onclick="openSidebar('ACS_88_Variant Runemaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\132_Undetected Spy.jpg" id="ACS_132_Undetected Spy" data-flag="@X" onclick="openSidebar('ACS_132_Undetected Spy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\177_Staggering Strike.jpg" id="ACS_177_Staggering Strike" data-flag="@X" onclick="openSidebar('ACS_177_Staggering Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\224_Withstand Atrocity.jpg" id="ACS_224_Withstand Atrocity" data-flag="@X" onclick="openSidebar('ACS_224_Withstand Atrocity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\4_Amoral Auditor.jpg" id="ACS_4_Amoral Auditor" data-flag="@X" onclick="openSidebar('ACS_4_Amoral Auditor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\49_Confine.jpg" id="ACS_49_Confine" data-flag="@X" onclick="openSidebar('ACS_49_Confine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\92_Bartered Passage.jpg" id="ACS_92_Bartered Passage" data-flag="@X" onclick="openSidebar('ACS_92_Bartered Passage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\138_Arsonize.jpg" id="ACS_138_Arsonize" data-flag="@X" onclick="openSidebar('ACS_138_Arsonize',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\181_Binate Bash.jpg" id="ACS_181_Binate Bash" data-flag="@X" onclick="openSidebar('ACS_181_Binate Bash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\8_Cabinet's Taskmaster.jpg" id="ACS_8_Cabinets Taskmaster" data-flag="@X" onclick="openSidebar('ACS_8_Cabinets Taskmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\50_Deepspire Spellcarver.jpg" id="ACS_50_Deepspire Spellcarver" data-flag="@X" onclick="openSidebar('ACS_50_Deepspire Spellcarver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\93_Bone Crash.jpg" id="ACS_93_Bone Crash" data-flag="@X" onclick="openSidebar('ACS_93_Bone Crash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\140_Battle-Hardened Reflexes.jpg" id="ACS_140_Battle-Hardened Reflexes" data-flag="@X" onclick="openSidebar('ACS_140_Battle-Hardened Reflexes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\182_Bond of Brothers.jpg" id="ACS_182_Bond of Brothers" data-flag="@X" onclick="openSidebar('ACS_182_Bond of Brothers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\9_Caring Host.jpg" id="ACS_9_Caring Host" data-flag="@X" onclick="openSidebar('ACS_9_Caring Host',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\53_Disorienting Didact.jpg" id="ACS_53_Disorienting Didact" data-flag="@X" onclick="openSidebar('ACS_53_Disorienting Didact',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\94_Bonesight.jpg" id="ACS_94_Bonesight" data-flag="@X" onclick="openSidebar('ACS_94_Bonesight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\146_Corporate Race.jpg" id="ACS_146_Corporate Race" data-flag="@X" onclick="openSidebar('ACS_146_Corporate Race',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\183_Bucktooth Spirecarver.jpg" id="ACS_183_Bucktooth Spirecarver" data-flag="@X" onclick="openSidebar('ACS_183_Bucktooth Spirecarver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\12_Expel From the Commune.jpg" id="ACS_12_Expel From the Commune" data-flag="@X" onclick="openSidebar('ACS_12_Expel From the Commune',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\54_Double-Dealing Senator.jpg" id="ACS_54_Double-Dealing Senator" data-flag="@X" onclick="openSidebar('ACS_54_Double-Dealing Senator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\96_Conspicuous Disappearance.jpg" id="ACS_96_Conspicuous Disappearance" data-flag="@X" onclick="openSidebar('ACS_96_Conspicuous Disappearance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\147_Creative Arsonist.jpg" id="ACS_147_Creative Arsonist" data-flag="@X" onclick="openSidebar('ACS_147_Creative Arsonist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\184_Canoid Commando.jpg" id="ACS_184_Canoid Commando" data-flag="@X" onclick="openSidebar('ACS_184_Canoid Commando',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\13_Factory Soulgifter.jpg" id="ACS_13_Factory Soulgifter" data-flag="@X" onclick="openSidebar('ACS_13_Factory Soulgifter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\56_Forgotten Spellcarver.jpg" id="ACS_56_Forgotten Spellcarver" data-flag="@X" onclick="openSidebar('ACS_56_Forgotten Spellcarver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\97_Contract Contact.jpg" id="ACS_97_Contract Contact" data-flag="@X" onclick="openSidebar('ACS_97_Contract Contact',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\148_Creative Canoid.jpg" id="ACS_148_Creative Canoid" data-flag="@X" onclick="openSidebar('ACS_148_Creative Canoid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\186_Coilhorn Crusader.jpg" id="ACS_186_Coilhorn Crusader" data-flag="@X" onclick="openSidebar('ACS_186_Coilhorn Crusader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\15_Fullfillment of Fortune.jpg" id="ACS_15_Fullfillment of Fortune" data-flag="@X" onclick="openSidebar('ACS_15_Fullfillment of Fortune',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\57_Fullfillment of Knowledge.jpg" id="ACS_57_Fullfillment of Knowledge" data-flag="@X" onclick="openSidebar('ACS_57_Fullfillment of Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\98_Crumbling Worker.jpg" id="ACS_98_Crumbling Worker" data-flag="@X" onclick="openSidebar('ACS_98_Crumbling Worker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\150_Determination.jpg" id="ACS_150_Determination" data-flag="@X" onclick="openSidebar('ACS_150_Determination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\189_Favored Growth.jpg" id="ACS_189_Favored Growth" data-flag="@X" onclick="openSidebar('ACS_189_Favored Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\16_Health Inspector.jpg" id="ACS_16_Health Inspector" data-flag="@X" onclick="openSidebar('ACS_16_Health Inspector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\59_Improvised Distraction.jpg" id="ACS_59_Improvised Distraction" data-flag="@X" onclick="openSidebar('ACS_59_Improvised Distraction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\101_Dip in Venom.jpg" id="ACS_101_Dip in Venom" data-flag="@X" onclick="openSidebar('ACS_101_Dip in Venom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\153_Emergency Landlord.jpg" id="ACS_153_Emergency Landlord" data-flag="@X" onclick="openSidebar('ACS_153_Emergency Landlord',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\197_Militia Sniper.jpg" id="ACS_197_Militia Sniper" data-flag="@X" onclick="openSidebar('ACS_197_Militia Sniper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\17_Hope.jpg" id="ACS_17_Hope" data-flag="@X" onclick="openSidebar('ACS_17_Hope',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\60_Indebted Acrobat.jpg" id="ACS_60_Indebted Acrobat" data-flag="@X" onclick="openSidebar('ACS_60_Indebted Acrobat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\102_Dismissive Hit.jpg" id="ACS_102_Dismissive Hit" data-flag="@X" onclick="openSidebar('ACS_102_Dismissive Hit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\154_Exchange for Might.jpg" id="ACS_154_Exchange for Might" data-flag="@X" onclick="openSidebar('ACS_154_Exchange for Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\198_People's Envoy.jpg" id="ACS_198_Peoples Envoy" data-flag="@X" onclick="openSidebar('ACS_198_Peoples Envoy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\18_Induced Immurement.jpg" id="ACS_18_Induced Immurement" data-flag="@X" onclick="openSidebar('ACS_18_Induced Immurement',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\65_Liberating Clause.jpg" id="ACS_65_Liberating Clause" data-flag="@X" onclick="openSidebar('ACS_65_Liberating Clause',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\103_Double-Jointed Double-Agent.jpg" id="ACS_103_Double-Jointed Double-Agent" data-flag="@X" onclick="openSidebar('ACS_103_Double-Jointed Double-Agent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\155_Experienced Crownguard.jpg" id="ACS_155_Experienced Crownguard" data-flag="@X" onclick="openSidebar('ACS_155_Experienced Crownguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\200_Plentitude.jpg" id="ACS_200_Plentitude" data-flag="@X" onclick="openSidebar('ACS_200_Plentitude',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\19_Investment Broker.jpg" id="ACS_19_Investment Broker" data-flag="@X" onclick="openSidebar('ACS_19_Investment Broker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\69_Momentary Counsel.jpg" id="ACS_69_Momentary Counsel" data-flag="@X" onclick="openSidebar('ACS_69_Momentary Counsel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\104_Eventide Enforcer.jpg" id="ACS_104_Eventide Enforcer" data-flag="@X" onclick="openSidebar('ACS_104_Eventide Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\159_Hireling Muscle.jpg" id="ACS_159_Hireling Muscle" data-flag="@X" onclick="openSidebar('ACS_159_Hireling Muscle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\204_Rubble Rescuer.jpg" id="ACS_204_Rubble Rescuer" data-flag="@X" onclick="openSidebar('ACS_204_Rubble Rescuer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\21_Keen-Eared Publican.jpg" id="ACS_21_Keen-Eared Publican" data-flag="@X" onclick="openSidebar('ACS_21_Keen-Eared Publican',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\71_Parapet Protector.jpg" id="ACS_71_Parapet Protector" data-flag="@X" onclick="openSidebar('ACS_71_Parapet Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\106_Executive's Executor.jpg" id="ACS_106_Executives Executor" data-flag="@X" onclick="openSidebar('ACS_106_Executives Executor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\161_Hustling Hireling.jpg" id="ACS_161_Hustling Hireling" data-flag="@X" onclick="openSidebar('ACS_161_Hustling Hireling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\206_Social Pressure.jpg" id="ACS_206_Social Pressure" data-flag="@X" onclick="openSidebar('ACS_206_Social Pressure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\22_Paid Off.jpg" id="ACS_22_Paid Off" data-flag="@X" onclick="openSidebar('ACS_22_Paid Off',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\72_Perfection.jpg" id="ACS_72_Perfection" data-flag="@X" onclick="openSidebar('ACS_72_Perfection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\109_Forceful Request.jpg" id="ACS_109_Forceful Request" data-flag="@X" onclick="openSidebar('ACS_109_Forceful Request',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\163_Lightning Salvo.jpg" id="ACS_163_Lightning Salvo" data-flag="@X" onclick="openSidebar('ACS_163_Lightning Salvo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\207_Spire Habitation.jpg" id="ACS_207_Spire Habitation" data-flag="@X" onclick="openSidebar('ACS_207_Spire Habitation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\23_Paladin of the People.jpg" id="ACS_23_Paladin of the People" data-flag="@X" onclick="openSidebar('ACS_23_Paladin of the People',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\73_Plan a Scheme.jpg" id="ACS_73_Plan a Scheme" data-flag="@X" onclick="openSidebar('ACS_73_Plan a Scheme',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\113_Harkland Bonebrute.jpg" id="ACS_113_Harkland Bonebrute" data-flag="@X" onclick="openSidebar('ACS_113_Harkland Bonebrute',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\165_Political Promise.jpg" id="ACS_165_Political Promise" data-flag="@X" onclick="openSidebar('ACS_165_Political Promise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\210_Splendorspire Champion.jpg" id="ACS_210_Splendorspire Champion" data-flag="@X" onclick="openSidebar('ACS_210_Splendorspire Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\30_Spire Crier.jpg" id="ACS_30_Spire Crier" data-flag="@X" onclick="openSidebar('ACS_30_Spire Crier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\75_Pursuit of Technicality.jpg" id="ACS_75_Pursuit of Technicality" data-flag="@X" onclick="openSidebar('ACS_75_Pursuit of Technicality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\114_Iniquitous Informant.jpg" id="ACS_114_Iniquitous Informant" data-flag="@X" onclick="openSidebar('ACS_114_Iniquitous Informant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\171_Skytop Investigator.jpg" id="ACS_171_Skytop Investigator" data-flag="@X" onclick="openSidebar('ACS_171_Skytop Investigator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\211_Splendorspire Training.jpg" id="ACS_211_Splendorspire Training" data-flag="@X" onclick="openSidebar('ACS_211_Splendorspire Training',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\36_Tosshorn Immunity.jpg" id="ACS_36_Tosshorn Immunity" data-flag="@X" onclick="openSidebar('ACS_36_Tosshorn Immunity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\77_Restless Agent.jpg" id="ACS_77_Restless Agent" data-flag="@X" onclick="openSidebar('ACS_77_Restless Agent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\119_Leaping Finslasher.jpg" id="ACS_119_Leaping Finslasher" data-flag="@X" onclick="openSidebar('ACS_119_Leaping Finslasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\172_Spellcarved Furygem.jpg" id="ACS_172_Spellcarved Furygem" data-flag="@X" onclick="openSidebar('ACS_172_Spellcarved Furygem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\217_Uneven Exchange.jpg" id="ACS_217_Uneven Exchange" data-flag="@X" onclick="openSidebar('ACS_217_Uneven Exchange',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\37_Tosshorn Intervention.jpg" id="ACS_37_Tosshorn Intervention" data-flag="@X" onclick="openSidebar('ACS_37_Tosshorn Intervention',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\78_Separated by Disaster.jpg" id="ACS_78_Separated by Disaster" data-flag="@X" onclick="openSidebar('ACS_78_Separated by Disaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\122_Raised Muscle.jpg" id="ACS_122_Raised Muscle" data-flag="@X" onclick="openSidebar('ACS_122_Raised Muscle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\173_Spire Surge.jpg" id="ACS_173_Spire Surge" data-flag="@X" onclick="openSidebar('ACS_173_Spire Surge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\220_Welcoming Community.jpg" id="ACS_220_Welcoming Community" data-flag="@X" onclick="openSidebar('ACS_220_Welcoming Community',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\40_Vault Sentinel.jpg" id="ACS_40_Vault Sentinel" data-flag="@X" onclick="openSidebar('ACS_40_Vault Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\80_Special Interest Activist.jpg" id="ACS_80_Special Interest Activist" data-flag="@X" onclick="openSidebar('ACS_80_Special Interest Activist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\124_Ruthlessness.jpg" id="ACS_124_Ruthlessness" data-flag="@X" onclick="openSidebar('ACS_124_Ruthlessness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\176_Spontaneous Sharpshooter.jpg" id="ACS_176_Spontaneous Sharpshooter" data-flag="@X" onclick="openSidebar('ACS_176_Spontaneous Sharpshooter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\221_Winding Nest.jpg" id="ACS_221_Winding Nest" data-flag="@X" onclick="openSidebar('ACS_221_Winding Nest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\41_Watchful Innkeeper.jpg" id="ACS_41_Watchful Innkeeper" data-flag="@X" onclick="openSidebar('ACS_41_Watchful Innkeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\87_Underground Dead Drop.jpg" id="ACS_87_Underground Dead Drop" data-flag="@X" onclick="openSidebar('ACS_87_Underground Dead Drop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\128_Sleep in the Deep.jpg" id="ACS_128_Sleep in the Deep" data-flag="@X" onclick="openSidebar('ACS_128_Sleep in the Deep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\178_Storeroom Raider.jpg" id="ACS_178_Storeroom Raider" data-flag="@X" onclick="openSidebar('ACS_178_Storeroom Raider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\222_Wing Shatter.jpg" id="ACS_222_Wing Shatter" data-flag="@X" onclick="openSidebar('ACS_222_Wing Shatter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\42_Winding Bureau.jpg" id="ACS_42_Winding Bureau" data-flag="@X" onclick="openSidebar('ACS_42_Winding Bureau',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\89_Venal Lawmaker.jpg" id="ACS_89_Venal Lawmaker" data-flag="@X" onclick="openSidebar('ACS_89_Venal Lawmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\133_Unending Service.jpg" id="ACS_133_Unending Service" data-flag="@X" onclick="openSidebar('ACS_133_Unending Service',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\179_Winding Camp.jpg" id="ACS_179_Winding Camp" data-flag="@X" onclick="openSidebar('ACS_179_Winding Camp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\223_Wingless Watcher.jpg" id="ACS_223_Wingless Watcher" data-flag="@X" onclick="openSidebar('ACS_223_Wingless Watcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\45_Woolen Advisor.jpg" id="ACS_45_Woolen Advisor" data-flag="@X" onclick="openSidebar('ACS_45_Woolen Advisor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\90_Winding Archive.jpg" id="ACS_90_Winding Archive" data-flag="@X" onclick="openSidebar('ACS_90_Winding Archive',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\135_Winding Cemetary.jpg" id="ACS_135_Winding Cemetary" data-flag="@X" onclick="openSidebar('ACS_135_Winding Cemetary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\180_Workaholic Workdog.jpg" id="ACS_180_Workaholic Workdog" data-flag="@X" onclick="openSidebar('ACS_180_Workaholic Workdog',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\225_Wooly Pierceshot.jpg" id="ACS_225_Wooly Pierceshot" data-flag="@X" onclick="openSidebar('ACS_225_Wooly Pierceshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\237_Lord Stormwood XVI.jpg" id="ACS_237_Lord Stormwood XVI" data-flag="@X" onclick="openSidebar('ACS_237_Lord Stormwood XVI',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\241_Sikka, Skeletony Unmasked.jpg" id="ACS_241_Sikka, Skeletony Unmasked" data-flag="@X" onclick="openSidebar('ACS_241_Sikka, Skeletony Unmasked',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\236_Lord Restra, Malicious Patriarch.jpg" id="ACS_236_Lord Restra, Malicious Patriarch" data-flag="@X" onclick="openSidebar('ACS_236_Lord Restra, Malicious Patriarch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\235_Lord Maxspire, Skytop Sovereign.jpg" id="ACS_235_Lord Maxspire, Skytop Sovereign" data-flag="@X" onclick="openSidebar('ACS_235_Lord Maxspire, Skytop Sovereign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\230_Emule Tosshorn, Philanthropist.jpg" id="ACS_230_Emule Tosshorn, Philanthropist" data-flag="@X" onclick="openSidebar('ACS_230_Emule Tosshorn, Philanthropist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\252_Charming Duke.jpg" id="ACS_252_Charming Duke" data-flag="@X" onclick="openSidebar('ACS_252_Charming Duke',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\250_Auriel, Professional Chantageé.jpg" id="ACS_250_Auriel, Professional Chantageé" data-flag="@X" onclick="openSidebar('ACS_250_Auriel, Professional Chantageé',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\262_Restra Enforcer.jpg" id="ACS_262_Restra Enforcer" data-flag="@X" onclick="openSidebar('ACS_262_Restra Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\248_Accomodating Lessor.jpg" id="ACS_248_Accomodating Lessor" data-flag="@X" onclick="openSidebar('ACS_248_Accomodating Lessor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\256_Form a Union!.jpg" id="ACS_256_Form a Union!" data-flag="@X" onclick="openSidebar('ACS_256_Form a Union!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\263_Revelation of Synergy.jpg" id="ACS_263_Revelation of Synergy" data-flag="@X" onclick="openSidebar('ACS_263_Revelation of Synergy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\249_Anamnomancer.jpg" id="ACS_249_Anamnomancer" data-flag="@X" onclick="openSidebar('ACS_249_Anamnomancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\258_Mayhem Rallier.jpg" id="ACS_258_Mayhem Rallier" data-flag="@X" onclick="openSidebar('ACS_258_Mayhem Rallier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\257_Interior Designer.jpg" id="ACS_257_Interior Designer" data-flag="@X" onclick="openSidebar('ACS_257_Interior Designer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\264_Safety Inspector.jpg" id="ACS_264_Safety Inspector" data-flag="@X" onclick="openSidebar('ACS_264_Safety Inspector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\231_Extortion Envoy.jpg" id="ACS_231_Extortion Envoy" data-flag="@X" onclick="openSidebar('ACS_231_Extortion Envoy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\245_Splendor Spoiler.jpg" id="ACS_245_Splendor Spoiler" data-flag="@X" onclick="openSidebar('ACS_245_Splendor Spoiler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\244_Somatic Negotiator.jpg" id="ACS_244_Somatic Negotiator" data-flag="@X" onclick="openSidebar('ACS_244_Somatic Negotiator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\242_Skytop Lessor.jpg" id="ACS_242_Skytop Lessor" data-flag="@X" onclick="openSidebar('ACS_242_Skytop Lessor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\243_Social Guide.jpg" id="ACS_243_Social Guide" data-flag="@X" onclick="openSidebar('ACS_243_Social Guide',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\247_Undrix, Executive Investor.jpg" id="ACS_247_Undrix, Executive Investor" data-flag="@X" onclick="openSidebar('ACS_247_Undrix, Executive Investor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\234_Lector Varden, Party Leader.jpg" id="ACS_234_Lector Varden, Party Leader" data-flag="@X" onclick="openSidebar('ACS_234_Lector Varden, Party Leader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\228_Calan Harkland, Chief Executive.jpg" id="ACS_228_Calan Harkland, Chief Executive" data-flag="@X" onclick="openSidebar('ACS_228_Calan Harkland, Chief Executive',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\226_Adan, Revenue Restrictor.jpg" id="ACS_226_Adan, Revenue Restrictor" data-flag="@X" onclick="openSidebar('ACS_226_Adan, Revenue Restrictor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\233_Harold Hoardmoor, Curio Collector.jpg" id="ACS_233_Harold Hoardmoor, Curio Collector" data-flag="@X" onclick="openSidebar('ACS_233_Harold Hoardmoor, Curio Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\267_Torrix, Heir to Internest.jpg" id="ACS_267_Torrix, Heir to Internest" data-flag="@X" onclick="openSidebar('ACS_267_Torrix, Heir to Internest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\260_Practiced Persecutor.jpg" id="ACS_260_Practiced Persecutor" data-flag="@X" onclick="openSidebar('ACS_260_Practiced Persecutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\261_Product Conversion.jpg" id="ACS_261_Product Conversion" data-flag="@X" onclick="openSidebar('ACS_261_Product Conversion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\259_Official Exciser.jpg" id="ACS_259_Official Exciser" data-flag="@X" onclick="openSidebar('ACS_259_Official Exciser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\254_Deepspire Caretaker.jpg" id="ACS_254_Deepspire Caretaker" data-flag="@X" onclick="openSidebar('ACS_254_Deepspire Caretaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\253_Coin's Motivation.jpg" id="ACS_253_Coins Motivation" data-flag="@X" onclick="openSidebar('ACS_253_Coins Motivation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\265_Slick Official.jpg" id="ACS_265_Slick Official" data-flag="@X" onclick="openSidebar('ACS_265_Slick Official',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\266_Sludge Scrounger.jpg" id="ACS_266_Sludge Scrounger" data-flag="@X" onclick="openSidebar('ACS_266_Sludge Scrounger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\255_Dynamic Storm.jpg" id="ACS_255_Dynamic Storm" data-flag="@X" onclick="openSidebar('ACS_255_Dynamic Storm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\251_Birthing Roepod.jpg" id="ACS_251_Birthing Roepod" data-flag="@X" onclick="openSidebar('ACS_251_Birthing Roepod',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\238_Prospect Scout.jpg" id="ACS_238_Prospect Scout" data-flag="@X" onclick="openSidebar('ACS_238_Prospect Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\229_Debt Hunter.jpg" id="ACS_229_Debt Hunter" data-flag="@X" onclick="openSidebar('ACS_229_Debt Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\240_Shady Hireling.jpg" id="ACS_240_Shady Hireling" data-flag="@X" onclick="openSidebar('ACS_240_Shady Hireling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\246_Splendorspire Protector.jpg" id="ACS_246_Splendorspire Protector" data-flag="@X" onclick="openSidebar('ACS_246_Splendorspire Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\239_Roe Protector.jpg" id="ACS_239_Roe Protector" data-flag="@X" onclick="openSidebar('ACS_239_Roe Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\227_Barkley, Union Head.jpg" id="ACS_227_Barkley, Union Head" data-flag="@X" onclick="openSidebar('ACS_227_Barkley, Union Head',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\232_Fable, Catastrophic Manipulator.jpg" id="ACS_232_Fable, Catastrophic Manipulator" data-flag="@X" onclick="openSidebar('ACS_232_Fable, Catastrophic Manipulator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\268_Zevuth, Barracks Commander.jpg" id="ACS_268_Zevuth, Barracks Commander" data-flag="@X" onclick="openSidebar('ACS_268_Zevuth, Barracks Commander',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\278_Embargo List.jpg" id="ACS_278_Embargo List" data-flag="@X" onclick="openSidebar('ACS_278_Embargo List',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\281_Lattice Stillstone.jpg" id="ACS_281_Lattice Stillstone" data-flag="@X" onclick="openSidebar('ACS_281_Lattice Stillstone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\272_Bracers of Reverberation.jpg" id="ACS_272_Bracers of Reverberation" data-flag="@X" onclick="openSidebar('ACS_272_Bracers of Reverberation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\279_Fable's Gift.jpg" id="ACS_279_Fables Gift" data-flag="@X" onclick="openSidebar('ACS_279_Fables Gift',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\280_Festival Chimes.jpg" id="ACS_280_Festival Chimes" data-flag="@X" onclick="openSidebar('ACS_280_Festival Chimes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\271_Blessed Spirekeeper.jpg" id="ACS_271_Blessed Spirekeeper" data-flag="@X" onclick="openSidebar('ACS_271_Blessed Spirekeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\273_Cityscape Glidegear.jpg" id="ACS_273_Cityscape Glidegear" data-flag="@X" onclick="openSidebar('ACS_273_Cityscape Glidegear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\274_Construct Castleguard.jpg" id="ACS_274_Construct Castleguard" data-flag="@X" onclick="openSidebar('ACS_274_Construct Castleguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\275_Corded Net.jpg" id="ACS_275_Corded Net" data-flag="@X" onclick="openSidebar('ACS_275_Corded Net',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\276_District Borderpost.jpg" id="ACS_276_District Borderpost" data-flag="@X" onclick="openSidebar('ACS_276_District Borderpost',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\284_Spire Overseer.jpg" id="ACS_284_Spire Overseer" data-flag="@X" onclick="openSidebar('ACS_284_Spire Overseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\287_Unionback Walker.jpg" id="ACS_287_Unionback Walker" data-flag="@X" onclick="openSidebar('ACS_287_Unionback Walker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\269_Autonomous Messenger.jpg" id="ACS_269_Autonomous Messenger" data-flag="@X" onclick="openSidebar('ACS_269_Autonomous Messenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\270_Bladesinger's Polyfocus.jpg" id="ACS_270_Bladesingers Polyfocus" data-flag="@X" onclick="openSidebar('ACS_270_Bladesingers Polyfocus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\277_Dreaded Letter.jpg" id="ACS_277_Dreaded Letter" data-flag="@X" onclick="openSidebar('ACS_277_Dreaded Letter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\282_Relic of Secrets.jpg" id="ACS_282_Relic of Secrets" data-flag="@X" onclick="openSidebar('ACS_282_Relic of Secrets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\283_Restless Guardian.jpg" id="ACS_283_Restless Guardian" data-flag="@X" onclick="openSidebar('ACS_283_Restless Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\285_Spiretop Bell.jpg" id="ACS_285_Spiretop Bell" data-flag="@X" onclick="openSidebar('ACS_285_Spiretop Bell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\286_Transport Automaton.jpg" id="ACS_286_Transport Automaton" data-flag="@X" onclick="openSidebar('ACS_286_Transport Automaton',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\290_Crowded Skyspire.jpg" id="ACS_290_Crowded Skyspire" data-flag="@X" onclick="openSidebar('ACS_290_Crowded Skyspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\294_Innovative Deepspire.jpg" id="ACS_294_Innovative Deepspire" data-flag="@X" onclick="openSidebar('ACS_294_Innovative Deepspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\304_Underway Deepspire.jpg" id="ACS_304_Underway Deepspire" data-flag="@X" onclick="openSidebar('ACS_304_Underway Deepspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\297_Rennovating Skyspire.jpg" id="ACS_297_Rennovating Skyspire" data-flag="@X" onclick="openSidebar('ACS_297_Rennovating Skyspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\288_Biophilic Skyspire.jpg" id="ACS_288_Biophilic Skyspire" data-flag="@X" onclick="openSidebar('ACS_288_Biophilic Skyspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\298_Resplendent Crown Public Office.jpg" id="ACS_298_Resplendent Crown Public Office" data-flag="@X" onclick="openSidebar('ACS_298_Resplendent Crown Public Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\301_Restless Eyes Meeting Point.jpg" id="ACS_301_Restless Eyes Meeting Point" data-flag="@X" onclick="openSidebar('ACS_301_Restless Eyes Meeting Point',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\302_Restra Mercenary Agency.jpg" id="ACS_302_Restra Mercenary Agency" data-flag="@X" onclick="openSidebar('ACS_302_Restra Mercenary Agency',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\303_Skytop Leasing Firm Office.jpg" id="ACS_303_Skytop Leasing Firm Office" data-flag="@X" onclick="openSidebar('ACS_303_Skytop Leasing Firm Office',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\296_People's Trade Union Branch.jpg" id="ACS_296_Peoples Trade Union Branch" data-flag="@X" onclick="openSidebar('ACS_296_Peoples Trade Union Branch',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\295_Internest Investments Division.jpg" id="ACS_295_Internest Investments Division" data-flag="@X" onclick="openSidebar('ACS_295_Internest Investments Division',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\305_Varden Party Donation Center.jpg" id="ACS_305_Varden Party Donation Center" data-flag="@X" onclick="openSidebar('ACS_305_Varden Party Donation Center',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\292_Harkland Distribution Center.jpg" id="ACS_292_Harkland Distribution Center" data-flag="@X" onclick="openSidebar('ACS_292_Harkland Distribution Center',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\299_Resplendent Revenue Service Bureau.jpg" id="ACS_299_Resplendent Revenue Service Bureau" data-flag="@X" onclick="openSidebar('ACS_299_Resplendent Revenue Service Bureau',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\293_Hoardmoor Investement Department.jpg" id="ACS_293_Hoardmoor Investement Department" data-flag="@X" onclick="openSidebar('ACS_293_Hoardmoor Investement Department',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\300_Resplendent Stormspire.jpg" id="ACS_300_Resplendent Stormspire" data-flag="@X" onclick="openSidebar('ACS_300_Resplendent Stormspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\289_Condemned Skyspire.jpg" id="ACS_289_Condemned Skyspire" data-flag="@X" onclick="openSidebar('ACS_289_Condemned Skyspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\291_Crumbled Skyspire.jpg" id="ACS_291_Crumbled Skyspire" data-flag="@X" onclick="openSidebar('ACS_291_Crumbled Skyspire',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\4t_Favor.jpg" id="ACS_4t_Favor" data-flag="@X" onclick="openSidebar('ACS_4t_Favor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\5t_Food.jpg" id="ACS_5t_Food" data-flag="@X" onclick="openSidebar('ACS_5t_Food',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\6t_Map.jpg" id="ACS_6t_Map" data-flag="@X" onclick="openSidebar('ACS_6t_Map',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\7t_Treasure.jpg" id="ACS_7t_Treasure" data-flag="@X" onclick="openSidebar('ACS_7t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\1t_Jellyfish Rogue.jpg" id="ACS_1t_Jellyfish Rogue" data-flag="@X" onclick="openSidebar('ACS_1t_Jellyfish Rogue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\2t_Mercenary.jpg" id="ACS_2t_Mercenary" data-flag="@X" onclick="openSidebar('ACS_2t_Mercenary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ACS-files\img\3t_Tenant.jpg" id="ACS_3t_Tenant" data-flag="@X" onclick="openSidebar('ACS_3t_Tenant',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ACS_e" data-flag="@E" onclick="openSidebar('ACS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ACS_er" data-flag="@E" onclick="openSidebar('ACS_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

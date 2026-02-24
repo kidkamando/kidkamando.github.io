@@ -1,8 +1,8 @@
 ﻿{
     "name": "Runeterra Reimagined Addendum",
-    "formats": "Standard,Commander,RRI",
-    "trimmed": "y",
-    "image_type": "png",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -275,7 +275,7 @@
             "number": 7,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}{R}",
-            "rules_text": "Trample, haste\nWhen Vilemaw enters or attacks, destroy target non-Spider creature.\nWhenever a creature dies, create two 1/1 black Spider creature tokens.",
+            "rules_text": "Trample, haste\nWhen Vilemaw enters or attacks, destroy target non-Spider creature.\nWhenever a nontoken non-Spider creature dies, create two 1/1 black Spider creature tokens.",
             "flavor_text": "[i]Its altars may lie dormant, its paths may seem untrod / But in the dark still skitters, the beast that fools forgot.[/i]",
             "pt": "7/5",
             "special_text": "",
@@ -328,8 +328,8 @@
             "type": "Legendary Creature \u2014 Human Wizard",
             "number": 18,
             "color_identity": "WUR",
-            "cost": "{U}{R}{W}",
-            "rules_text": "Spells you control have trample.\nWhenever you cast a noncreature spell, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
+            "cost": "{1}{U}{R}{W}",
+            "rules_text": "Instant and sorcery spells you cast gain trample as you cast them. [i](Excess damage is dealt to its controller.)[/i]\nWhenever you cast a noncreature spell, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
             "flavor_text": "[i]\u201cI see it now. The corruption behind the Progress. I had hoped it wouldn't come to this\u2026 but perhaps compromise is no longer an option. No matter, my countermeasures are already in place.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -466,5 +466,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

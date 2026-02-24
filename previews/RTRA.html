@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/RTRA-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/RTRA-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>RTRA visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -35,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -58,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -78,11 +87,12 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -98,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -114,40 +125,54 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
 			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -162,141 +187,164 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/RTRA-files/logo.png" />
-	<img class="preload-hidden" src="/sets/PWR-files/icon.png" />
-	<img class="preload-hidden" src="/sets/LSL-files/icon.png" />
-	<img class="preload-hidden" src="/sets/RAD-files/icon.png" />
-	<img class="preload-hidden" src="/sets/RDV-files/icon.png" />
-	<img class="preload-hidden" src="/sets/RRN-files/icon.png" />
-	<img class="preload-hidden" src="/sets/RTRA-files/icon.png" />
-	<img class="preload-hidden" src="/sets/VLC-files/icon.png" />
-	<img class="preload-hidden" src="/sets/VLD-files/icon.png" />
-	<img class="preload-hidden" src="/sets/VRG-files/icon.png" />
-	<img class="preload-hidden" src="/sets/VWT-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/RTRA-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ACS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FCD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PWR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RAD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RDV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RRN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RTRA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VWT-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="icon-bar">
-		<div class="icon"><a href="PWR"><img src="/sets/PWR-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="LSL"><img src="/sets/LSL-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="RAD"><img src="/sets/RAD-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="RDV"><img src="/sets/RDV-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="RRN"><img src="/sets/RRN-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="RTRA"><img src="/sets/RTRA-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VLC"><img src="/sets/VLC-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VLD"><img src="/sets/VLD-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VRG"><img src="/sets/VRG-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VWT"><img src="/sets/VWT-files/icon.png"></img></a></div>
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/RTRA"><img src="../sets/RTRA-files/icon.png">Runeterra Reimagined Addendum</a>
+	
+		<a class="set-bar inactive" href="../previews/ACS"><img src="../sets/ACS-files/icon.png">Aramyth: Crimes in Shadow</a>
+	
+		<a class="set-bar inactive" href="../previews/FCD"><img src="../sets/FCD-files/icon.png">Fractured Darkness</a>
+	
+		<a class="set-bar inactive" href="../previews/LSL"><img src="../sets/LSL-files/icon.png">Last Starlight</a>
+	
+		<a class="set-bar inactive" href="../previews/PWR"><img src="../sets/PWR-files/icon.png">Power Rangers</a>
+	
+		<a class="set-bar inactive" href="../previews/RAD"><img src="../sets/RAD-files/icon.png">Runeterra Ascended</a>
+	
+		<a class="set-bar inactive" href="../previews/RDV"><img src="../sets/RDV-files/icon.png">Runeterra Divided</a>
+	
+		<a class="set-bar inactive" href="../previews/RRN"><img src="../sets/RRN-files/icon.png">Runeterra in Ruination</a>
+	
+		<a class="set-bar inactive" href="../previews/VLC"><img src="../sets/VLC-files/icon.png">Velesta Discovered Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Velesta Discovered</a>
+	
+		<a class="set-bar inactive" href="../previews/VRG"><img src="../sets/VRG-files/icon.png">Velesta Reforged</a>
+	
+		<a class="set-bar inactive" href="../previews/VWT"><img src="../sets/VWT-files/icon.png">Velesta Wartorn</a>
+	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/RTRA-files/logo.png">
+		<img class="logo" src="../sets/RTRA-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/sets\RTRA-files\img\1_Luxanna, Illuminated.png" id="1_Luxanna, Illuminated" data-flag="@X" onclick="openSidebar('1_Luxanna, Illuminated',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img data-alt_src="/sets\RTRA-files\img\3_Elise, Coveted Predator_back.png" alt="/sets\RTRA-files\img\3_Elise, Coveted Predator_front.png" id="3_Elise, Coveted Predator" data-flag="@XD" onclick="openSidebar('3_Elise, Coveted Predator',false)"><button class="flip-btn" onclick="imgFlip('3_Elise, Coveted Predator')"></button></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\7_Vilemaw, Twisted Harbinger.png" id="7_Vilemaw, Twisted Harbinger" data-flag="@X" onclick="openSidebar('7_Vilemaw, Twisted Harbinger',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\8_Baron Nashor.png" id="8_Baron Nashor" data-flag="@X" onclick="openSidebar('8_Baron Nashor',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\2_Spectral Lancer.png" id="2_Spectral Lancer" data-flag="@X" onclick="openSidebar('2_Spectral Lancer',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\4_Nightmarish Trap.png" id="4_Nightmarish Trap" data-flag="@X" onclick="openSidebar('4_Nightmarish Trap',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\9_Scourge of the Stars.png" id="9_Scourge of the Stars" data-flag="@X" onclick="openSidebar('9_Scourge of the Stars',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\5_Precious Pet.png" id="5_Precious Pet" data-flag="@X" onclick="openSidebar('5_Precious Pet',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\6_Vile Feast.png" id="6_Vile Feast" data-flag="@X" onclick="openSidebar('6_Vile Feast',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="gold" class="anchor"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\19_Nocturne, Duskbringer.png" id="19_Nocturne, Duskbringer" data-flag="@X" onclick="openSidebar('19_Nocturne, Duskbringer',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\10_Ambessa, Medarda Maxim.png" id="10_Ambessa, Medarda Maxim" data-flag="@X" onclick="openSidebar('10_Ambessa, Medarda Maxim',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\17_K'Sante, Dauntless Hunter.png" id="17_KSante, Dauntless Hunter" data-flag="@X" onclick="openSidebar('17_KSante, Dauntless Hunter',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\11_Arachnoid Host.png" id="11_Arachnoid Host" data-flag="@X" onclick="openSidebar('11_Arachnoid Host',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\14_Evelyn, Dark Seductress.png" id="14_Evelyn, Dark Seductress" data-flag="@X" onclick="openSidebar('14_Evelyn, Dark Seductress',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\16_Jhin, the Stunning Performer.png" id="16_Jhin, the Stunning Performer" data-flag="@X" onclick="openSidebar('16_Jhin, the Stunning Performer',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\13_Ekko, Timewinder.png" id="13_Ekko, Timewinder" data-flag="@X" onclick="openSidebar('13_Ekko, Timewinder',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\20_Starsurge.png" id="20_Starsurge" data-flag="@X" onclick="openSidebar('20_Starsurge',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\22_Splinter Soul.png" id="22_Splinter Soul" data-flag="@X" onclick="openSidebar('22_Splinter Soul',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\12_Ashe, Frost Archer.png" id="12_Ashe, Frost Archer" data-flag="@X" onclick="openSidebar('12_Ashe, Frost Archer',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\15_Fiddlesticks, Ageless Horror.png" id="15_Fiddlesticks, Ageless Horror" data-flag="@X" onclick="openSidebar('15_Fiddlesticks, Ageless Horror',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\18_Mel, Searing Brilliance.png" id="18_Mel, Searing Brilliance" data-flag="@X" onclick="openSidebar('18_Mel, Searing Brilliance',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\21_Zaahen, the Unsundered.png" id="21_Zaahen, the Unsundered" data-flag="@X" onclick="openSidebar('21_Zaahen, the Unsundered',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="token" class="anchor"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\3t_Lotus Trap.png" id="3t_Lotus Trap" data-flag="@X" onclick="openSidebar('3t_Lotus Trap',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\1t_Corrupted Form.png" id="1t_Corrupted Form" data-flag="@X" onclick="openSidebar('1t_Corrupted Form',false)"></div>
-			<div class="container"><img alt="/sets\RTRA-files\img\2t_Spider.png" id="2t_Spider" data-flag="@X" onclick="openSidebar('2t_Spider',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\1_Luxanna, Illuminated.png" id="RTRA_1_Luxanna, Illuminated" data-flag="@X" onclick="openSidebar('RTRA_1_Luxanna, Illuminated',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\RTRA-files\img\3_Elise, Coveted Predator_back.png" alt="sets\RTRA-files\img\3_Elise, Coveted Predator_front.png" id="RTRA_3_Elise, Coveted Predator" data-flag="@XD" onclick="openSidebar('RTRA_3_Elise, Coveted Predator',false)"><button class="flip-btn" onclick="imgFlip('RTRA_3_Elise, Coveted Predator')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\7_Vilemaw, Twisted Harbinger.png" id="RTRA_7_Vilemaw, Twisted Harbinger" data-flag="@X" onclick="openSidebar('RTRA_7_Vilemaw, Twisted Harbinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\8_Baron Nashor.png" id="RTRA_8_Baron Nashor" data-flag="@X" onclick="openSidebar('RTRA_8_Baron Nashor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\2_Spectral Lancer.png" id="RTRA_2_Spectral Lancer" data-flag="@X" onclick="openSidebar('RTRA_2_Spectral Lancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\4_Nightmarish Trap.png" id="RTRA_4_Nightmarish Trap" data-flag="@X" onclick="openSidebar('RTRA_4_Nightmarish Trap',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\9_Scourge of the Stars.png" id="RTRA_9_Scourge of the Stars" data-flag="@X" onclick="openSidebar('RTRA_9_Scourge of the Stars',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\5_Precious Pet.png" id="RTRA_5_Precious Pet" data-flag="@X" onclick="openSidebar('RTRA_5_Precious Pet',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\6_Vile Feast.png" id="RTRA_6_Vile Feast" data-flag="@X" onclick="openSidebar('RTRA_6_Vile Feast',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\19_Nocturne, Duskbringer.png" id="RTRA_19_Nocturne, Duskbringer" data-flag="@X" onclick="openSidebar('RTRA_19_Nocturne, Duskbringer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\10_Ambessa, Medarda Maxim.png" id="RTRA_10_Ambessa, Medarda Maxim" data-flag="@X" onclick="openSidebar('RTRA_10_Ambessa, Medarda Maxim',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\17_K'Sante, Dauntless Hunter.png" id="RTRA_17_KSante, Dauntless Hunter" data-flag="@X" onclick="openSidebar('RTRA_17_KSante, Dauntless Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\11_Arachnoid Host.png" id="RTRA_11_Arachnoid Host" data-flag="@X" onclick="openSidebar('RTRA_11_Arachnoid Host',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\14_Evelyn, Dark Seductress.png" id="RTRA_14_Evelyn, Dark Seductress" data-flag="@X" onclick="openSidebar('RTRA_14_Evelyn, Dark Seductress',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\16_Jhin, the Stunning Performer.png" id="RTRA_16_Jhin, the Stunning Performer" data-flag="@X" onclick="openSidebar('RTRA_16_Jhin, the Stunning Performer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\13_Ekko, Timewinder.png" id="RTRA_13_Ekko, Timewinder" data-flag="@X" onclick="openSidebar('RTRA_13_Ekko, Timewinder',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\20_Starsurge.png" id="RTRA_20_Starsurge" data-flag="@X" onclick="openSidebar('RTRA_20_Starsurge',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\22_Splinter Soul.png" id="RTRA_22_Splinter Soul" data-flag="@X" onclick="openSidebar('RTRA_22_Splinter Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\12_Ashe, Frost Archer.png" id="RTRA_12_Ashe, Frost Archer" data-flag="@X" onclick="openSidebar('RTRA_12_Ashe, Frost Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\15_Fiddlesticks, Ageless Horror.png" id="RTRA_15_Fiddlesticks, Ageless Horror" data-flag="@X" onclick="openSidebar('RTRA_15_Fiddlesticks, Ageless Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\18_Mel, Searing Brilliance.png" id="RTRA_18_Mel, Searing Brilliance" data-flag="@X" onclick="openSidebar('RTRA_18_Mel, Searing Brilliance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\21_Zaahen, the Unsundered.png" id="RTRA_21_Zaahen, the Unsundered" data-flag="@X" onclick="openSidebar('RTRA_21_Zaahen, the Unsundered',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\3t_Lotus Trap.png" id="RTRA_3t_Lotus Trap" data-flag="@X" onclick="openSidebar('RTRA_3t_Lotus Trap',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\1t_Corrupted Form.png" id="RTRA_1t_Corrupted Form" data-flag="@X" onclick="openSidebar('RTRA_1t_Corrupted Form',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RTRA-files\img\2t_Spider.png" id="RTRA_2t_Spider" data-flag="@X" onclick="openSidebar('RTRA_2t_Spider',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RTRA_e" data-flag="@E" onclick="openSidebar('RTRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RTRA_er" data-flag="@E" onclick="openSidebar('RTRA_er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -309,13 +357,13 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
@@ -323,8 +371,100 @@
 
 				card_list_arrayified = card_list.cards;
 
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -356,13 +496,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -388,49 +531,75 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -445,7 +614,7 @@
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -456,10 +625,30 @@
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {
@@ -470,16 +659,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -489,7 +678,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 	<div class="footer">All Rights belong to their respective holders. Cards and material are not for sale and are intended only for personal use.</div>

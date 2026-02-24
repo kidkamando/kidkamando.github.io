@@ -1,0 +1,5104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>FCD</name>
+			<longname>Fractured Darkness</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Logistics Runner</name>
+			<text>When this creature enters, put a +1/+1 counter on up to one target creature and draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/15_Logistics Runner.jpg" num="15">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Habitat Constructor</name>
+			<text>When Habitat Constructor enters, create a tapped Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/12_Habitat Constructor.jpg" num="12">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voidic Channeler</name>
+			<text>Void — Whenever a nonland permanent leaves the battlefield this turn or a spell is warped this turn, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/41_Voidic Channeler.jpg" num="41">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thaxian Mentor</name>
+			<text>Vigilance
+The first other creature that enters under your control each turn enters with a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/33_Thaxian Mentor.jpg" num="33">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coalition Combatant</name>
+			<text>When this creature enters, create a 1/1 white Thax Soldier Ally creature token.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/6_Coalition Combatant.jpg" num="6">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overburdened Packbot</name>
+			<text>This spell costs {1} less to cast for each creature you control.
+When Overburdened Packbot enters, draw a card.
+Warp {4}{W}{W} (You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/18_Overburdened Packbot.jpg" num="18">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horse Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starship Weaponsmith</name>
+			<text>As long as you control an artifact, this creature gets +1/+0 and has first strike.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/27_Starship Weaponsmith.jpg" num="27">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phasebound Lookout</name>
+			<text>This creature can block creatures as if it had flying, shadow, or horsemanship.
+Whenever this creature becomes tapped, scry 2.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/20_Phasebound Lookout.jpg" num="20">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shatter the Void</name>
+			<text>Tunneling {2}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Destroy target enchantment or tapped creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/25_Shatter the Void.jpg" num="25">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Targeted Barrage</name>
+			<text>Choose one — 
+• Targeted Barrage deals X damage to target attacking or blocking creature, where X is 2 plus the number of creatures you control.
+• Exile up to two target cards from a single graveyard.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/31_Targeted Barrage.jpg" num="31">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Promising Charge</name>
+			<text>Tunneling {2}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/23_Promising Charge.jpg" num="23">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stellas Lightblade</name>
+			<text>Tunneling {1}{W}
+Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 and has first strike.
+Equip {3}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/29_Stellas Lightblade.jpg" num="29">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Old-Era Starsuit</name>
+			<text>Equipped creature gets +2/+2 and has flying.
+Equipped creature has &quot;Whenever this creature attacks or blocks, scry 1.&quot;
+Equip {3}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/17_Old-Era Starsuit.jpg" num="17">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Phasic Return</name>
+			<text>Return up to one creature card from target player&apos;s graveyard to its owner&apos;s hand. Create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/22_Phasic Return.jpg" num="22">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phaselight Barrier</name>
+			<text>Tunneling {W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Target creature you control gets +2/+2 until end of turn. If this spell was cast from exile, untap it.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/21_Phaselight Barrier.jpg" num="21">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Transiate</name>
+			<text>Tunneling {1}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/36_Transiate.jpg" num="36">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uncollapsible State</name>
+			<text>Enchant creature or artifact
+Enchanted permanent can&apos;t attack or block and its activated abilities can&apos;t be activated.
+{4}{W}: Exile enchanted creature and draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/37_Uncollapsible State.jpg" num="37">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enlisted Ordnance</name>
+			<text>Tunneling {1}{W}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Vigilance
+When this creature enters, you may destroy up to one target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/10_Enlisted Ordnance.jpg" num="10">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thought Feeder</name>
+			<text>Whenever a card enters an opponent&apos;s graveyard from their library or their hand, Thought Feeder deals 1 damage to them.
+{1}, {T}: Target opponent mills two cards.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/74_Thought Feeder.jpg" num="74">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Study</name>
+			<text>Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
+Draw two cards, then discard a card. If this spell was kicked, draw three cards instead.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/51_Cosmic Study.jpg" num="51">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Voidchasm Emergence</name>
+			<text>When this enchantment enters, draw two cards, then discard a card. Then if this spell was cast from exile, create two 1/1 blue and black Horror creature tokens with &quot;Whenever one or more cards an opponent owns enters exile, put a +1/+1 counter on this creature.&quot;
+Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/78_Voidchasm Emergence.jpg" num="78">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voidling Nourishment</name>
+			<text>Choose one — 
+• Create two 1/1 blue and black Horror creature tokens with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot;
+• Exile up to six cards from a single graveyard. You may shuffle up to six cards from your graveyard into your library.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/79_Voidling Nourishment.jpg" num="79">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coolant Injector System</name>
+			<text>When this artifact enters or leaves the battlefield, tap or untap target nonland permanent.
+{2}{U}, Sacrifice this artifact: Scry 1, then draw two cards.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/50_Coolant Injector System.jpg" num="50">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hack</name>
+			<text>Counter target artifact spell or instant spell.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/61_Hack.jpg" num="61">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thoughtless Descent</name>
+			<text>Tunneling {U} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Target player mills two cards.
+Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/76_Thoughtless Descent.jpg" num="76">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Absent Archive</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/42_Absent Archive.jpg" num="42">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thought Inverter</name>
+			<text>When this creature enters, scry 3.
+This creature gets +1/+1 for each card that entered an opponent&apos;s graveyard this turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/75_Thought Inverter.jpg" num="75">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spurning Starsquid</name>
+			<text>Flash
+During your turn, this spell costs {2} less to cast.
+When Spurning Starsquid enters, target permanent&apos;s owner puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/69_Spurning Starsquid.jpg" num="69">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squid</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indelidan</name>
+			<text>When this creature enters your graveyard from your library, you may put it into your hand.
+When this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/63_Indelidan.jpg" num="63">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battlefront Sentinel</name>
+			<text>Vigilance
+When Battlefront Sentinel enters, return up to one other nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/47_Battlefront Sentinel.jpg" num="47">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agile Cosmagician</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature leaves the battlefield without dying, target opponent loses life equal to its power.
+Warp {U}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/45_Agile Cosmagician.jpg" num="45">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accumulated Insight</name>
+			<text>Draw a card, then draw cards equal to the number of cards named Accumulated Insight in your graveyard. If you drew greater than three cards this way, pay {3} or discard cards equal to the difference.
+A deck can have up to six cards named Accumulated Insight.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/43_Accumulated Insight.jpg" num="43">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Idiom Robber</name>
+			<text>During your turn and any opponent&apos;s main phase, you may cast this spell as if it had flash.
+Whenever a player casts their second spell each turn, create a 1/1 blue and black Horror creature token with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot;
+Warp {1}{U}</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/62_Idiom Robber.jpg" num="62">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emergency Summit</name>
+			<text>Tap up to X target untapped creatures and/or artifacts. If X is three or greater, draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/58_Emergency Summit.jpg" num="58">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perverted Raptor</name>
+			<text>Flying
+When Perverted Raptor enters, each opponent sacrifices a creature.
+Warp {1}{B}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/108_Perverted Raptor.jpg" num="108">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asteroid Excavator</name>
+			<text>Fuel 1 (When this creature enters, exile the top card of your library as this creature&apos;s fuel.)
+Burn — {T}, Put a card from among this permanent&apos;s fuel into your graveyard: Scry 1 and create a Treasure token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/84_Asteroid Excavator.jpg" num="84">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fuel Leak</name>
+			<text>As an additional cost to cast this spell, you may put X cards from the fuel of permanents you control into your graveyard.
+Target player reveals their hand. You choose a nonland card from it with mana value X plus 2 or less. That player discards that card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/104_Fuel Leak.jpg" num="104">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Commando</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+{1}{B}, Sacrifice Duskborn Commando: Destroy target artifact or creature. You lose 2 life.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/94_Duskborn Commando.jpg" num="94">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phasebound Voidling</name>
+			<text>Menace
+When this creature enters, target opponent discards a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/109_Phasebound Voidling.jpg" num="109">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unak&apos;s Tragic Descent</name>
+			<text>When this enchantment enters, target creature gets -2/-2 until end of turn. Then if this spell was cast from exile, draw a card and you lose 1 life.
+Warp {B} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/118_Unak&apos;s Tragic Descent.jpg" num="118">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Edict Eater</name>
+			<text>Menace
+Sacrifice Edict Eater: Target opponent reveals their hand. You choose an instant card or card with flash from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/99_Edict Eater.jpg" num="99">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Wayfinder</name>
+			<text>Superposition (Whenever this creature blocks or becomes blocked, this creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)
+When this creature dies, create a Habitat token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/98_Duskborn Wayfinder.jpg" num="98">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkwurm Voidling</name>
+			<text>Tunneling {B}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/90_Darkwurm Voidling.jpg" num="90">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exo Voidling</name>
+			<text>Flying
+When this creature dies, create a 1/1 blue and black Horror creature token with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot;</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/100_Exo Voidling.jpg" num="100">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Soldier Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Arrival</name>
+			<text>Choose one — 
+• Create a 3/2 colorless Spacecraft artifact token with station 1+ and flying.
+• Create two 1/1 white Thax Soldier Ally creature tokens.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/93_Duskborn Arrival.jpg" num="93">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Concept Scraper</name>
+			<text>When Concept Scraper enters, choose one — 
+• Target player mills three cards and you gain 3 life.
+• Target permanent exiles up to two target cards from a single graveyard as its fuel.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/88_Concept Scraper.jpg" num="88">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shielded Assault Troop</name>
+			<text>Fuel 1 (When this creature enters, exile the top card of your library as this creature&apos;s fuel.)
+Burn — Put a card from among this creature&apos;s fuel into your graveyard: This creature gains indestructible until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/112_Shielded Assault Troop.jpg" num="112">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Antimaterial Aberration</name>
+			<text>Menace
+When this creature enters, each opponent discards a card.
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/83_Antimaterial Aberration.jpg" num="83">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calamitous Dreadmaw</name>
+			<text>Tunneling {2}{B}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Menace</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/86_Calamitous Dreadmaw.jpg" num="86">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodborn Witherer</name>
+			<text>Flying
+When Bloodborn Witherer enters, target opponent loses 2 life and you gain 2 life.
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/85_Bloodborn Witherer.jpg" num="85">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soarnith Surveyor</name>
+			<text>Flying
+When Soarnith Surveyor enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/113_Soarnith Surveyor.jpg" num="113">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corruptive Rebirth</name>
+			<text>Flash
+When Corruptive Rebirth enters, until end of turn target creature you control gains &quot;When this creature dies, return it to the battlefield under its owner&apos;s control.&quot;
+{B}, Sacrifice this enchantment: Surveil 2, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/89_Corruptive Rebirth.jpg" num="89">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zionnoth Undone</name>
+			<text>Destroy target creature. You create a Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/122_Zionnoth Undone.jpg" num="122">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twilight Founder</name>
+			<text>When Twilight Founder enters, it deals 1 damage to target opponent and you create a tapped Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/160_Twilight Founder.jpg" num="160">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stabilized Darklight</name>
+			<text>When this artifact enters, you may discard a card. When you do, draw two cards.
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/157_Stabilized Darklight.jpg" num="157">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wurmway Electrowave</name>
+			<text>Tunneling {1}{R} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Wurmway Electrowave deals 4 damage to any target.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/163_Wurmway Electrowave.jpg" num="163">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ace&apos;s Assistant</name>
+			<text>Haste
+When Ace&apos;s Assistant leaves the battlefield, exile the top card of your library. You may play it until the end of your next turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/123_Ace&apos;s Assistant.jpg" num="123">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starry-Eyed Preacher</name>
+			<text>At the beginning of your second main phase, if you attacked with a creature this turn, add {R}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/158_Starry-Eyed Preacher.jpg" num="158">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grounded Pilot</name>
+			<text>When Grounded Pilot enters, create a 3/2 colorless Spacecraft artifact token with station 1+ and flying.
+{1}{R}: Put a charge counter on target permanent you control. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/140_Grounded Pilot.jpg" num="140">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Artificer Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightborn Shockspitter</name>
+			<text>Reach
+Whenever this creature attacks or blocks, exile the top card of your library as target creature&apos;s fuel.
+{R}: You may play a card from among this creature&apos;s fuel until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/143_Lightborn Shockspitter.jpg" num="143">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alliance Searslicer</name>
+			<text>Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/125_Alliance Searslicer.jpg" num="125">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stellastorm Knight</name>
+			<text>Flying
+When Stellastorm Knight enters, it deals 2 damage to target creature.
+Warp {R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/159_Stellastorm Knight.jpg" num="159">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Incarnation Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Maneuver</name>
+			<text>As an additional cost to cast this spell, discard a card or sacrifice an artifact you control.
+Choose one — 
+• Draw two cards.
+• Scry 1, then exile the top two cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/151_Reckless Maneuver.jpg" num="151">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Short-Circuit</name>
+			<text>Remove all counters from target permanent. Short-Circuit deals that much damage to target creature.
+Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/155_Short-Circuit.jpg" num="155">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retrofit</name>
+			<text>Target creature gets +3/+0. Choose one or more — 
+• Until end of turn, it loses menace and gains first strike.
+• Until end of turn, it loses flying and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/153_Retrofit.jpg" num="153">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destructive Stereolithograph</name>
+			<text>Destructive Stereolithograph deals 6 damage to target creature. If excess damage was dealt this way, you may create a token copy of target creature or artifact you control. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/136_Destructive Stereolithograph.jpg" num="136">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reduce Load</name>
+			<text>Choose one — 
+• Target permanent you control exiles an artifact you control as its fuel.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/152_Reduce Load.jpg" num="152">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Afterburner Dogfighter</name>
+			<text>Fuel 2 (When this creature enters, exile the top two cards of your library as this creature&apos;s fuel.)
+Burn — Put a card from among this permanent&apos;s fuel into your graveyard: This creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/124_Afterburner Dogfighter.jpg" num="124">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autonomous Combat Protocol</name>
+			<text>Enchant creature
+Enchanted creature must be blocked if able.
+Enchanted creature gets +1/+1 and has &quot;Alert — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, this creature gains ward {1} until end of turn.&quot; (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/129_Autonomous Combat Protocol.jpg" num="129">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Excited Specialist</name>
+			<text>Haste
+When Excited Specialist enters, create a tapped Habitat token.
+Warp {2}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/137_Excited Specialist.jpg" num="137">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orbital Deployment Railcannon</name>
+			<text>Fuel 1 (When this artifact enters, exile the top card of your library as this artifact&apos;s fuel.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/146_Orbital Deployment Railcannon.jpg" num="146">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Mauler</name>
+			<text>Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/133_Corrupted Mauler.jpg" num="133">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accelerated Terraformation</name>
+			<text>When this enchantment enters, choose one — 
+• Search your library for a basic land or Planet card, put it into your hand, then shuffle.
+• Put a land from your hand onto the battlefield tapped.
+Warp {G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/164_Accelerated Terraformation.jpg" num="164">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thaxian Accomodation</name>
+			<text>This spell costs {2} less to cast if it targets a basic land.
+Enchant land
+Whenever enchanted land becomes tapped for mana, its controller adds an additional {C} for each of its land types.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/199_Thaxian Accomodation.jpg" num="199">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lorren Cultivator</name>
+			<text>{T}: Untap target land.
+{1}, {T}: Untap another target creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/183_Lorren Cultivator.jpg" num="183">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quenching Ooze</name>
+			<text>Flash
+When this creature enters, counter target spell unless its controller pays {2}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/189_Quenching Ooze.jpg" num="189">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightweft Meteorologist</name>
+			<text>Whenever this creature becomes tapped, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/182_Lightweft Meteorologist.jpg" num="182">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Druid Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Slime</name>
+			<text>When this creature enters, for each {G} spent to cast it, choose one — 
+• Return up to one target card from your graveyard to your hand.
+• Create a 1/1 green Ooze creature token.
+• Put a +1/+1 counter on target creature you control.
+Warp {1}{G}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/200_Tranquil Slime.jpg" num="200">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blooming Nuisance</name>
+			<text>Whenever a triggered ability of a creature you control targets a spell or permanent an opponent controls, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/167_Blooming Nuisance.jpg" num="167">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twinhead Tyrant</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature.
+Each creature you control with a +1/+1 counter on it has trample.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/201_Twinhead Tyrant.jpg" num="201">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Branch Awner</name>
+			<text>Reach
+When this creature enters, you gain 3 life.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/168_Branch Awner.jpg" num="168">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wall Strider</name>
+			<text>Tunneling {4}{G}{G} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Trample
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/202_Wall Strider.jpg" num="202">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rip From Orbit</name>
+			<text>Destroy target artifact, enchantment, or creature with flying. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/191_Rip From Orbit.jpg" num="191">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Infrared Camouflage</name>
+			<text>Target creature you control gains hexproof and indestructible until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/179_Infrared Camouflage.jpg" num="179">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Curated Modification</name>
+			<text>Choose one — 
+• Target creature you control gets +3/+3 until end of turn.
+• Put a trample counter on target creature you control.
+• Exile up to one target card from a graveyard. Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/171_Curated Modification.jpg" num="171">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phasic Amp Hammer</name>
+			<text>Fuel X (When this artifact enters, exile the top X cards of your library as this artifact&apos;s fuel.)
+Equipped creature gets +X/+X and has reach, where X is the number of cards among this Equipment&apos;s fuel.
+Equip {3}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/187_Phasic Amp Hammer.jpg" num="187">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Astral Expansion</name>
+			<text>You gain 2 life. Create a Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/165_Astral Expansion.jpg" num="165">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Swelling Swarm</name>
+			<text>{4}: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/198_Swelling Swarm.jpg" num="198">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Non-Newtonian Slime</name>
+			<text>During your turn, Non-Newtonian Slime has trample.
+During an opponent&apos;s turn, Non-Newtonian Slime has reach.
+{3}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/184_Non-Newtonian Slime.jpg" num="184">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Simulated Exisistence</name>
+			<text>When this enchantment enters, it becomes an Aura with &quot;Enchant creature put onto the battlefield with Simulated Exisistence.&quot; Put target creature card in a graveyard onto the battlefield under your control and attach Simulated Exisistence to it. When Simulated Exisistence leaves the battlefield, that creature&apos;s controller sacrifices it.
+Warp {1}{W}</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/26_Simulated Exisistence.jpg" num="26">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Serraphic Furybringer</name>
+			<text>Flying, vigilance
+When this creature enters, destroy target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/24_Serraphic Furybringer.jpg" num="24">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hangar Marshall</name>
+			<text>Vigilance
+When Hangar Marshall enters, look at the top two cards of your library. You may reveal a Spacecraft or creature card from among them and put it into your hand. Put the other on the bottom of your library.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/13_Hangar Marshall.jpg" num="13">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battery Scrounger</name>
+			<text>Whenever a creature or artifact you control enters your graveyard from the battlefield, you gain 1 life.
+Activated abilities of creatures and artifacts you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/3_Battery Scrounger.jpg" num="3">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Virtuous Strike</name>
+			<text>This spell costs {2} less to cast if it targets a creature with mana value 2 or less.
+Exile target creature.
+Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/40_Virtuous Strike.jpg" num="40">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tideskimmer Silkfisher</name>
+			<text>Vigilance, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+When Tideskimmer Silkfisher enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield. If you exile a nonland permanent this way, this enchantment isn&apos;t a creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/35_Tideskimmer Silkfisher.jpg" num="35">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coordinated Offensive</name>
+			<text>Choose one — 
+• Create two 1/1 white Thax Soldier Ally creature tokens.
+• Destroy target creature with power or toughness 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/8_Coordinated Offensive.jpg" num="8">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thrust Booster</name>
+			<text>Flash
+Enchanted creature gets +1/+1 and has flying.
+Enchanted creature has indestructible if this Aura entered this turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/34_Thrust Booster.jpg" num="34">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Covenant Transportship</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/9_Covenant Transportship.jpg" num="9">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Perfidous Gambit</name>
+			<text>Return up to three target creature cards with total mana value X plus 1 or less from your graveyard to the battlefield. Sacrifice them at the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/19_Perfidous Gambit.jpg" num="19">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oppose</name>
+			<text>Kicker {U} (You may pay an additional {U} as you cast this spell.)
+Counter target noncreature spell. If this spell was kicked, counter target spell instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/67_Oppose.jpg" num="67">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stellar Rift</name>
+			<text>Choose one — 
+• Return each tapped creature to its owner&apos;s hand.
+• Return each untapped creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/71_Stellar Rift.jpg" num="71">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Refuel</name>
+			<text>Choose one — 
+• Exile the top card of your library as target permanent&apos;s fuel.
+• Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/68_Refuel.jpg" num="68">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tank Repletion</name>
+			<text>Choose one — 
+• Exile the top 2 cards of your library as target permanent&apos;s fuel.
+• Draw three cards, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/73_Tank Repletion.jpg" num="73">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gusting Wavemaker</name>
+			<text>Flying
+When this creature enters, up to one target creature has base power and toughness 4/4 and gains flying until end of turn.
+Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/60_Gusting Wavemaker.jpg" num="60">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Time-Stretched Riddlemaker</name>
+			<text>Flying
+When this creature enters, if you spent mana to cast it, take an extra turn after this one.
+Cycling {3}{U}{U} ({3}{U}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/77_Time-Stretched Riddlemaker.jpg" num="77">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>10UU</manacost>
+				<cmc>12</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>8/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Advanced Overwatch</name>
+			<text>Flying, vigilance
+Whenever this creature becomes tapped, return up to one other target nonland permanent you control to its owner&apos;s hand.
+{3}{U}: Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/44_Advanced Overwatch.jpg" num="44">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curated Corvette</name>
+			<text>{T}: Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/52_Curated Corvette.jpg" num="52">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stellas Revelation</name>
+			<text>Draw two cards, then put a card from your hand back on top of your library.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/72_Stellas Revelation.jpg" num="72">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Calculated Maneuver</name>
+			<text>Whenever a player casts their second spell each turn, put a quest counter on this enchantment.
+Whenever a card is put into an opponent&apos;s graveyard from anywhere, if this enchantment has four or more quest counters on it, that player loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/48_Calculated Maneuver.jpg" num="48">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hyperburn Exo-Trooper</name>
+			<text>Fuel 4 (When this creature enters, exile the top four cards of your library as this creature&apos;s fuel.)
+Menace
+Whenever this creature deals combat damage to a player, you may cast one spell from among this creature&apos;s fuel without paying its mana cost.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/105_Hyperburn Exo-Trooper.jpg" num="105">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siege Charger</name>
+			<text>Trample
+When Siege Charger enters, each opponent loses 3 life and you gain 3 life.
+Warp {W}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/225_Siege Charger.jpg" num="225">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanity Spiral</name>
+			<text>Whenever you discard one or more cards, put a +1/+1 counter on target creature you control.
+{2}, Discard a card: Search your library for a basic Swamp, add it to your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/111_Sanity Spiral.jpg" num="111">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Constructor</name>
+			<text>You may cast this card from your graveyard using its warp ability.
+When Duskborn Constructor enters, create a Habitat token.
+Warp—{1}{B}, Pay 2 life (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/95_Duskborn Constructor.jpg" num="95">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrors of the Twilight</name>
+			<text>Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+Creatures with power 2 or less can&apos;t block.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/115_Terrors of the Twilight.jpg" num="115">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Distorted Volunteer</name>
+			<text>Tunneling {1}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+{2}{B}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/91_Distorted Volunteer.jpg" num="91">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Horror Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Corvette</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/96_Duskborn Corvette.jpg" num="96">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Void&apos;s Whisper</name>
+			<text>As an additional cost to cast this spell, discard a card or you lose 2 life.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/120_Void&apos;s Whisper.jpg" num="120">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ominous Pull</name>
+			<text>Void — This spell costs {2} less to cast if a nonland permanent left the battlefield this turn or a spell was warped this turn.
+Target creature gets -X/-X until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/106_Ominous Pull.jpg" num="106">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ore-rich Asteroid</name>
+			<text>Fuel 2 (When this artifact enters, exile the top two cards of your library as this artifact&apos;s fuel.)
+Collect — {X}, {T}: Exile the top X cards of your library as this permanent&apos;s fuel.
+Burn — {1}, {T}, Put a card from among this permanent&apos;s fuel into your graveyard: Create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/107_Ore-rich Asteroid.jpg" num="107">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uncovered Worlds</name>
+			<text>When this enchantment enters, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Warp {2}{R}{R} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/161_Uncovered Worlds.jpg" num="161">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Weapons Inspector</name>
+			<text>Test Fire — Whenever another creature or artifact you control enters, Weapons Inspector deals 1 damage to target opponent.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, you may discard a card then draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/162_Weapons Inspector.jpg" num="162">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rapid Deployment</name>
+			<text>Target creature you control gains menace and haste until end of turn.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/150_Rapid Deployment.jpg" num="150">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Planet Blazer</name>
+			<text>Whenever a land enters the battlefield Planet Blazer deals 1 damage to its controller.
+{2}{R}, Sacrifice this creature: Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/148_Planet Blazer.jpg" num="148">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancillary Operator</name>
+			<text>{T}: Target creature you control gets +1/+1 and gains haste until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/128_Ancillary Operator.jpg" num="128">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Osuna Stormwaker</name>
+			<text>Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, target instant or sorcery card in your graveyard with mana value 2 or less gains flashback {0} until end of turn. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/147_Osuna Stormwaker.jpg" num="147">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eel Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scoric Instigator</name>
+			<text>Whenever another creature you control enters, Scoric Instigator deals 2 damage to each opponent.
+Warp {1}{R}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/154_Scoric Instigator.jpg" num="154">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heroic Bombardment</name>
+			<text>Choose one —
+• Heroic Bombardment deals 2 damage to each creature.
+• Target creature you control deals damage to its power to each other creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/141_Heroic Bombardment.jpg" num="141">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Immediate Deployment</name>
+			<text>Target creature you control gets +2/+2 until end of turn. If that creature was cast for its warp cost, it gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/142_Immediate Deployment.jpg" num="142">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Planetoid Miner</name>
+			<text>When Planetoid Miner enters, create a Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)
+{R}, Sacrifice this creature: Exile up to one target artifact.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/149_Planetoid Miner.jpg" num="149">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Explorer</name>
+			<text>When this creature enters, target opponent may have you make a Habitat token or put a +1/+1 counter on this creature.
+At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/144_Lunar Explorer.jpg" num="144">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Origin&apos;s Slimebinder</name>
+			<text>Flash
+When Origin&apos;s Slimebinder enters counter target activated or triggered ability. If an ability of an artifact or creature is countered this way, that permanent becomes a 3/3 Ooze with no abilities.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/186_Origin&apos;s Slimebinder.jpg" num="186">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sown Rewards</name>
+			<text>When this enchantment enters and whenever you expend 5, draw a card. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/196_Sown Rewards.jpg" num="196">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shielded Priority</name>
+			<text>Enchant creature
+Enchanted creature has hexproof and must be blocked, if able.
+{1}{G}: Enchanted creature gets +1/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/194_Shielded Priority.jpg" num="194">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shielded Brawl</name>
+			<text>Choose a target creature you control. It fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
+As long as this is a spell, if a spell or ability an opponent controls would target the chosen creature, counter that spell or ability unless its controller pays {1}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/193_Shielded Brawl.jpg" num="193">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Instinctive Aim</name>
+			<text>Until end of turn, target creature gains reach and &quot;Whenever this creature becomes tapped, it deals damage equal to its power to up to one target creature.&quot;</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/180_Instinctive Aim.jpg" num="180">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coney Commando</name>
+			<text>When Coney Commando enters, destroy target artifact or enchantment.
+Warp {1}{G}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/170_Coney Commando.jpg" num="170">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curated Reshaper</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/172_Curated Reshaper.jpg" num="172">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Weather Satellite</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/203_Weather Satellite.jpg" num="203">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sire of Origin</name>
+			<text>Tunneling {1}{G}{G} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Landfall — Whenever a land you control enters, create a 1/1 green Ooze creature token.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/195_Sire of Origin.jpg" num="195">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stellas Honor Guard</name>
+			<text>Flying
+When this creature enters, exile target nonland permanent or nonbasic land.
+Warp {2}{W}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/28_Stellas Honor Guard.jpg" num="28">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force of Honor</name>
+			<text>If it&apos;s not your turn, you may exile a white card from your hand rather than pay this spell&apos;s mana cost.
+Destroy all creatures that didn&apos;t enter the battlefield this turn. If {W}{W} was spent to cast this spell, return up to one target creature or enchantment card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/11_Force of Honor.jpg" num="11">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Charismatic Chaplain</name>
+			<text>If one or more tokens would be created under your control, create those tokens plus an additional 1/1 white Thax Soldier Ally creature token.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/5_Charismatic Chaplain.jpg" num="5">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conscript&apos;s Prisonstation</name>
+			<text></text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/7_Conscript&apos;s Prisonstation.jpg" num="7">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unlikely Outcome</name>
+			<text>Choose one — 
+• Target creature you control gains double strike until end of turn.
+• You gain protection from target permanent until end of turn. (You can&apos;t be targeted, dealt damage, enchanted, or equipped by that permanent until end of turn.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/38_Unlikely Outcome.jpg" num="38">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unnatural Stabilization</name>
+			<text>Enchant artifact or creature you control
+When this Aura enters, exile target creature or Spacecraft an opponent controls until the Aura leaves the battlefield.
+Enchanted permanent has &quot;This permanent can&apos;t be sacrificed or exiled by triggered abilities you control.&quot;</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/39_Unnatural Stabilization.jpg" num="39">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Involuntary Gifts</name>
+			<text>Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Shuffle the chosen cards into your library.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/64_Involuntary Gifts.jpg" num="64">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starsquid Voidling</name>
+			<text>During your turn and any opponent&apos;s main phase, you may cast this spell as if it had flash.
+Each spell costs {1} more to cast for each other spell that player has cast this turn.
+Warp {U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/70_Starsquid Voidling.jpg" num="70">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squid Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dock Inspector</name>
+			<text>Flash
+Whenever an opponent would draw a card or put a card into their hand except for the first one they draw during each of their draw steps, Dock Inspector deals 1 damage to that player and you scry 1.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/56_Dock Inspector.jpg" num="56">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force of Ingenuity</name>
+			<text>If it&apos;s not your turn, you may exile a blue card from your hand rather than pay this spell&apos;s mana cost.
+Return target spell or nonland permanent to its owner&apos;s hand. Its controller cannot cast spells with the same name until end of turn. If {U}{U} was spent to cast this spell, target opponent loses life equal to its mana value.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/59_Force of Ingenuity.jpg" num="59">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disconnected Relay</name>
+			<text></text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/54_Disconnected Relay.jpg" num="54">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wurmway Collapse</name>
+			<text>Tunneling {3}{U}{U} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+End the turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/80_Wurmway Collapse.jpg" num="80">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lifestation, Emptied</name>
+			<text>Spells you cast have delve. (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Spells cost {1} more to cast for every ten cards in their owners&apos; graveyard, rounded up.
+{X}{X}, {T}: Target player mills X plus two cards.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/65_Lifestation, Emptied.jpg" num="65">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caustic Darkbeast</name>
+			<text>As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This creature enters with a level counter on it for each permanent sacrificed this way.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/87_Caustic Darkbeast.jpg" num="87">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Alien Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zionnoth, Corrupted</name>
+			<text>Emerge {2}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Each creature card in your hand without emerge has emerge. Its emerge cost is equal to its mana cost.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, return up to one target creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/121_Zionnoth, Corrupted.jpg" num="121">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Dragon Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force of Spite</name>
+			<text>If it&apos;s not your turn, you may exile a black card from your hand rather than pay this spell&apos;s mana cost.
+Target player mills six cards. Create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the total mana value of the milled cards plus 1. If {B}{B} was spent to cast this spell, draw a card and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/103_Force of Spite.jpg" num="103">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exopuppet Fabricator</name>
+			<text>At the beginning of combat on your turn, exile up to one card from a graveyard as this artifact&apos;s fuel.
+{2}{B}{B}, {T}: Put a creature card from among this artifact&apos;s fuel onto the battlefield under your control. It enters tapped.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/101_Exopuppet Fabricator.jpg" num="101">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Propagating Darkbeast</name>
+			<text>Void — Whenever a nonland permanent you control leaves the battlefield or a spell you control is warped, create a 1/1 blue and black Horror creature token with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot;
+Warp {1}{B}{B}</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/110_Propagating Darkbeast.jpg" num="110">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twilight Madness</name>
+			<text>At the beginning of your upkeep, target creature or artifact you control exiles the top two cards of your library as its fuel.
+Whenever an opponent loses 3 or more life, they discard a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/116_Twilight Madness.jpg" num="116">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swirling Voidcore</name>
+			<text>Tunneling {B}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+When this artifact enters, each opponent sacrifices a nontoken creature.
+{2}, {T}, Sacrifice this artifact: Exile target player&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/114_Swirling Voidcore.jpg" num="114">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Force of Passion</name>
+			<text>If it&apos;s not your turn, you may exile a red card from your hand rather than pay this spell&apos;s mana cost.
+Create a token copy of target permanent. At the beginning of the next end step, sacrifice that token. If {R}{R} was spent to cast this spell, its controller sacrifices that permanent.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/138_Force of Passion.jpg" num="138">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Darklight Elemental</name>
+			<text>Trample, haste
+Void — At the beginning of each end step, sacrifice Darklight Elemental unless a nonland permanent left the battlefield this turn or a spell was warped this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/134_Darklight Elemental.jpg" num="134">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squadron Leader</name>
+			<text>Flying, haste
+Whenever this creature deals combat damage to an opponent, create a 3/2 colorless Spacecraft artifact token with station 1+ and flying.
+Warp {2}{R}{R}</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/156_Squadron Leader.jpg" num="156">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Combat Replicator</name>
+			<text>Flying
+When this creature enters, sacrifice up to one other target creature or artifact. Create a token that&apos;s a copy of that permanent.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/131_Combat Replicator.jpg" num="131">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Combustible Colossus</name>
+			<text>Trample
+Whenever Combustible Colossus enters or attacks, exile the top two cards of your library as this creature&apos;s fuel.
+When Combustible Colossus dies, target opponent may have you put the cards from among this creature&apos;s fuel into your hand or loses life equal to the total mana value of those cards.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/132_Combustible Colossus.jpg" num="132">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Biosphere Monitor</name>
+			<text>Alert — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, choose one —
+• Create a tapped Habitat token.
+• Sacrifice an artifact you control. Create a Wastes basic land token. It enters tapped.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/166_Biosphere Monitor.jpg" num="166">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force of Stability</name>
+			<text>If it&apos;s not your turn, you may exile a green card from your hand rather than pay this spell&apos;s mana cost.
+You and permanents you control gain hexproof until end of turn. Spells you control can&apos;t be countered this turn. If {G}{G} was spent to cast this spell, draw a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/176_Force of Stability.jpg" num="176">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Antimaterial Reflection</name>
+			<text>Enchant artifact or creature you control
+If one or more tokens would be created under your control, create those tokens plus a token that&apos;s a copy of enchanted permanent.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/46_Antimaterial Reflection.jpg" num="46">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Genetic Germination</name>
+			<text>Kicker {1}{G}
+Prevent all damage that would be dealt this turn by permanent sources your opponents control. If this spell was kicked, create X 1/1 green Ooze creature tokens, where X is the number of creatures attacking you.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/177_Genetic Germination.jpg" num="177">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gloop Thrower</name>
+			<text>Trample
+When Gloop Thrower enters, up to one target creature becomes a 3/3 Ooze with no abilities. Put a trample counter on it.
+Warp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/178_Gloop Thrower.jpg" num="178">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Origin, Engineered Entity</name>
+			<text>Flash
+Whenever an opponent casts a noncreature spell, create a 1/1 Ooze creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/185_Origin, Engineered Entity.jpg" num="185">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runic Darkwurm</name>
+			<text>Whenever an opponent activates an ability of an artifact, creature, or planeswalker, you may draw a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/192_Runic Darkwurm.jpg" num="192">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conman&apos;s Wurmway</name>
+			<text>Flash
+Whenever a permanent an opponent controls would enter, you may sacrifice this enchantment. When you do, draw two cards and if that nonland permanent wasn&apos;t cast, exile it instead.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/49_Conman&apos;s Wurmway.jpg" num="49">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dread Ambusher</name>
+			<text>Menace
+When this creature enters, destroy each other creature. Put a +1/+1 counter on Dread Ambusher for each creature destroyed this way.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/92_Dread Ambusher.jpg" num="92">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kai&apos;Kellon, Spacetime Protector</name>
+			<text>Kai&apos;Kellon enters with a +1/+1 counter on it for each mana spent to cast it.
+{4}: Put a +1/+1 counter on this creature.
+As an additional cost to cast creature spells, you may remove any number of +1/+1 counters from this creature. That spell costs {1} less to cast for each counter removed this way.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/181_Kai&apos;Kellon, Spacetime Protector.jpg" num="181">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augur of Preparation</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Alert — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, draw a card and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/206_Augur of Preparation.jpg" num="206">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voidling Sanighoyf</name>
+			<text>When this creature enters, target opponent mills two cards.
+Voidling Sanighoyf&apos;s power is equal to the greatest number of cards in an opponent&apos;s graveyard and its toughness is equal to that number plus one.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/232_Voidling Sanighoyf.jpg" num="232">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lhurghoyf Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>*/*+1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Encroaching Twilight</name>
+			<text>When this enchantment enters, if an opponent has lost life this turn, draw a card.
+Whenever a creature dies, Encroaching Twilight deals 1 damage to target opponent.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/213_Encroaching Twilight.jpg" num="213">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cleansing Clag</name>
+			<text>Flash, reach
+When this creature enters, counter target noncreature spell or destroy target nonbasic land.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/209_Cleansing Clag.jpg" num="209">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farmworld Altruist</name>
+			<text>When Farmworld Altruist enters, create two 1/1 white Thax Soldier Ally creature tokens.
+{1}{G}{W}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/215_Farmworld Altruist.jpg" num="215">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voya&apos;s Apprentice</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Voya&apos;s Apprentice deals 1 damage to each opponent.
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/240_Voya&apos;s Apprentice.jpg" num="240">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caustic Goop</name>
+			<text>{BG}{BG}, Sacrifice this creature: Exile target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/208_Caustic Goop.jpg" num="208">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resourceful Skipper</name>
+			<text>Haste, vigilance
+Whenever Resourceful Skipper attacks, you may discard a card then draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/221_Resourceful Skipper.jpg" num="221">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fabricate Biosphere</name>
+			<text>Draw two cards. You may play an additional land this turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/214_Fabricate Biosphere.jpg" num="214">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stellas Caretaker</name>
+			<text>Flying, vigilance, lifelink
+{2}{W}{U}, {T}: Return target creature card with mana value less than half your life total, rounded down, from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/226_Stellas Caretaker.jpg" num="226">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>2WWUU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unak, Twisted Duskborn</name>
+			<text>Whenever you draw your second card each turn, create a 1/1 blue and black Horror creature token with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot;
+Whenever an opponent draws their second card each turn, they lose 3 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/229_Unak, Twisted Duskborn.jpg" num="229">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Thax Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darklight Mirrorship</name>
+			<text></text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/211_Darklight Mirrorship.jpg" num="211">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BRR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodbraid Darkwurm</name>
+			<text>Haste
+When this creature enters, discover X plus 2 (To discover X plus 2, exile cards from the top of your library until you exile a nonland card with mana value X plus 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/207_Bloodbraid Darkwurm.jpg" num="207">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>XRG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phaselight Captain</name>
+			<text>Whenever another creature you control enters, each creature you control gets +1/+1 until end of turn.
+{1}{G}: Creatures you control gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/219_Phaselight Captain.jpg" num="219">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>2GGW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhest Ko, Vaserian Dissenter</name>
+			<text>Superposition, lifelink (Whenever this creature blocks or becomes blocked, this creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)
+Void — At the beginning of each end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a tapped Treasure token and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/222_Rhest Ko, Vaserian Dissenter.jpg" num="222">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Thax Soldier Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unstable Replication</name>
+			<text>As an additional cost to cast this spell, sacrifice up to two target permanents you control.
+Create a token copy of each of the sacrificed permanents.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/230_Unstable Replication.jpg" num="230">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wetworld Behemoth</name>
+			<text>Void — This spell costs {2} less to cast if a nonland permanent left the battlefield this turn or a spell was warped this turn.
+This creature&apos;s power and toughness are equal to the number of lands you control.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/234_Wetworld Behemoth.jpg" num="234">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5BG</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coalition Commander</name>
+			<text>When this creature enters, if {R}{R} was spent to cast it, you may sacrifice another creature you control. When you do, create X 1/1 white Thax Soldier Ally creature tokens, where X is its mana value.
+When this creature enters, if {W}{W} was spent to cast it, create a token copy of up to one target creature card in your graveyard. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Warp {1}{R}{W}</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/210_Coalition Commander.jpg" num="210">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Osuna Stormserpent</name>
+			<text>Flash
+When Osuna Stormserpent enters, return up to two target nonland permanents and/or spells to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/218_Osuna Stormserpent.jpg" num="218">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phaselight Converter</name>
+			<text>Fuel X (When this artifact enters, exile the top X cards of your library as this artifact&apos;s fuel.)
+{T}: Add {C}.
+Burn — {T}, Put a card from among this artifact&apos;s fuel into your graveyard: Add two mana in any combination of colors.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/252_Phaselight Converter.jpg" num="252">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>X2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scatterblaster</name>
+			<text>Tunneling {2} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Equipped creature gets +2/+2 and has reach.
+Equip {2}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/253_Scatterblaster.jpg" num="253">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vaserian Jetboots</name>
+			<text>Tunneling {2} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Equipped creature has flying and haste.
+Equip {1}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/259_Vaserian Jetboots.jpg" num="259">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infinite Mass Cannon</name>
+			<text>{3}, {T}: Reveal cards from the top of your library until you reveal a nonland card. Infinite Mass Cannon deals damage equal to the number of lands revealed this way to target creature or player. Put the revealed cards on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/248_Infinite Mass Cannon.jpg" num="248">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Personal Phaselight Generator</name>
+			<text>Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature has indestructible.
+Equip {3}
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/251_Personal Phaselight Generator.jpg" num="251">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hull Plater</name>
+			<text>{T}: Add {C}{C}.
+{2}, {T}: Put target card from a graveyard on the bottom of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/247_Hull Plater.jpg" num="247">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silent Tower</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/277_Silent Tower.jpg" num="277">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scrambler Satellite</name>
+			<text>When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/254_Scrambler Satellite.jpg" num="254">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wurmway Watcher</name>
+			<text>Vigilance
+When Wurmway Watcher enters, scry 4. (Look at the top four cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/260_Wurmway Watcher.jpg" num="260">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rhest&apos;s Reinforcements</name>
+			<text>Tunneling {2}{R}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+When this enchantment enters, create four 1/1 white Thax Soldier Ally creature tokens.
+At the beginning of each end step, if this enchantment&apos;s tunneling cost was paid this turn, shuffle it into its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/238_Rhest&apos;s Reinforcements.jpg" num="238">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starlight Shaman</name>
+			<text>{1}, {T}: Add two mana of any one color.
+{1}, {T}: Another target creature you control gains hexproof and indestructible until end of turn.
+{3}, {T}: Create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/239_Starlight Shaman.jpg" num="239">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coalition Tradeship</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/241_Coalition Tradeship.jpg" num="241">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reseeded Biosphere</name>
+			<text>Lands you control are every basic land type in addition to their other types.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/190_Reseeded Biosphere.jpg" num="190">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2/G2/G2/G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fractured Horizon</name>
+			<text>When Fractured Horizon enters, you may exile any number of cards from your hand, draw cards equal to the number of cards exiled this way plus one, then put the exiled cards on top of your library in any order.
+{2}{R}: Each player reveals the top card of their library. Put each permanent card revealed this way onto the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/139_Fractured Horizon.jpg" num="139">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voya, Rejector of Prophecy</name>
+			<text>Whenever you cast an instant or sorcery spell, Voya deals X damage to target opponent, where X is its mana value.
+{T}: The next spell you cast this turn costs {2} more to cast and gains &quot;Draw a card. This spell deals 3 damage to any target and you gain 3 life.&quot;</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/233_Voya, Rejector of Prophecy.jpg" num="233">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Salamander Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2URW</manacost>
+				<cmc>5</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weft-Taught Strength</name>
+			<text>Choose a target creature you control. Put your choice of two +1/+1 counters on it or double the number of counters on it. Then, distribute any number of counters on the chosen creature among each other creature you control.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/204_Weft-Taught Strength.jpg" num="204">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Twilight Voidchasm</name>
+			<text>At the beginning of your upkeep, each opponent creates a Wastes basic land token and each player exiles the top card of their library as this enchantment&apos;s fuel.
+Whenever a creature you control deals combat damage to an opponent, you may play lands and cast spells from among this enchantment&apos;s fuel until end of turn.
+As long as you control less lands than an opponent, you may play an additional land from exile each turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/228_The Twilight Voidchasm.jpg" num="228">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Twilight Malediction</name>
+			<text>Players can&apos;t gain life.
+Whenever you lose life, target opponent loses that much life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/117_Twilight Malediction.jpg" num="117">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mass Desertion</name>
+			<text>Choose target attacking creature. For each creature chosen this way, its controller sacrifices it and searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle.
+Overload {2}{WB}{WB} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/236_Mass Desertion.jpg" num="236">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Attentive Voidwatcher</name>
+			<text>Flash
+Whenever a triggered ability of a permanent an opponent controls triggers, counter that ability unless they pay {1}.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/2_Attentive Voidwatcher.jpg" num="2">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Soldier Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhosha, Unbound Researcher</name>
+			<text>Whenever a player casts their second spell each turn, you may exile the top card of your library as this creature&apos;s fuel.
+Fuel For Thought — You may cast spells from among this creature&apos;s fuel.
+Whenever you cast a spell from exile, create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/223_Rhosha, Unbound Researcher.jpg" num="223">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Salamander Wizard Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lio, Fate Unsure</name>
+			<text>Whenever Lio enters or attacks, each player exiles the top card of their library.
+Give In — {1}{U}{B}: Create a 1/1 blue and black Horror creature token with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot;
+Resist — {1}{U}{R}: Non-Horror creatures you control gain prowess until end of turn.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/235_Lio, Fate Unsure.jpg" num="235">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human Horror Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB/R</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jaster, Zionnoth&apos;s Successor</name>
+			<text>Double strike
+Whenever Jaster attacks, create a 1/1 black and blue Horror creature token with &quot;Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.&quot; It enters tapped and attacking.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/217_Jaster, Zionnoth&apos;s Successor.jpg" num="217">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Thax Soldier Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shara, Chance Multiplied</name>
+			<text>This spell can&apos;t be countered.
+Ward {1}
+If one or more creature tokens would be created under your control, choose one of those tokens and roll a die. Create a number of tokens that are copies of the chosen token.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/224_Shara, Chance Multiplied.jpg" num="224">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3GWU</manacost>
+				<cmc>6</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenuous Ally</name>
+			<text>Tunneling {1}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+When this creature enters, create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/32_Tenuous Ally.jpg" num="32">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperfect Imitation</name>
+			<text>Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)
+Return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield. If this spell wasn&apos;t kicked, sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/14_Imperfect Imitation.jpg" num="14">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Memory of a Friend</name>
+			<text>Return target creature from a graveyard to the battlefield under your control. It gains echo if it doesn&apos;t have echo, where the echo cost is its mana cost. (At the beginning of your upkeep, if that creature came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/16_Memory of a Friend.jpg" num="16">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disruptor Field</name>
+			<text>Enchant creature
+Enchanted creature&apos;s activated abilities can&apos;t be activated and triggered abilities can&apos;t trigger.
+Whenever enchanted creature deals damage to you or another creature, this Aura deals 1 damage to target opponent.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/55_Disruptor Field.jpg" num="55">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Young Neoline</name>
+			<text>Alert — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, Young Neoline deals 1 damage to target opponent.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/82_Young Neoline.jpg" num="82">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Otter</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dire Ejection</name>
+			<text>Return target permanent to its owner&apos;s hand unless they pay life equal to its mana value.
+Cycling {U}{U} ({U}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/53_Dire Ejection.jpg" num="53">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Echoed Price</name>
+			<text>Enchant creature you don&apos;t control with mana value X
+When this aura enters, tap enchanted creature.
+At the beginning of the upkeep of enchanted creature&apos;s controller, they may pay enchanted creature&apos;s mana cost. Otherwise, they sacrifice enchanted creature and lose life equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/57_Echoed Price.jpg" num="57">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nebula Harvester</name>
+			<text>Fuel X (When this legendary artifact enters, exile the top X cards of your library as this legendary artifact&apos;s fuel.)
+At the beginning of your upkeep, each opponent loses X life, where is this permanent&apos;s fuel.
+Save — {U}: Put a card from among this artifact&apos;s fuel into your hand.
+Collect — {2}: Exile the top card of your library as this artifact&apos;s fuel.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/66_Nebula Harvester.jpg" num="66">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Void Harvester</name>
+			<text>When this artifact enters, exile your library face-down as this artifact&apos;s fuel and your life becomes 6, if greater.
+You can look at cards exiled with this artifact.
+Save — Pay 1 life: Put a card from among this artifact&apos;s fuel on top of your library.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/119_Void Harvester.jpg" num="119">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amelioration</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or artifact you control.
+Create a token copy of the sacrificed permanent. It gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/126_Amelioration.jpg" num="126">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Darklight Replication</name>
+			<text>At the beginning of your end step, sacrifice up to one creature or artifact. Create a token copy of the sacrificed permanent.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/135_Darklight Replication.jpg" num="135">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Matter Harvester</name>
+			<text>Fuel X (When this legendary artifact enters, exile the top X cards of your library as this legendary artifact&apos;s fuel.)
+Whenever you sacrifice a nontoken permanent, create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the number of cards among artifact&apos;s fuel. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/145_Matter Harvester.jpg" num="145">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>XXR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spell Gunger</name>
+			<text>Flash
+When this creature enters, counter target noncreature spell.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/197_Spell Gunger.jpg" num="197">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Energy Clag</name>
+			<text>Flash
+When this creature enters, counter target spell. Put a number of +1/+1 counters on this creature equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/175_Energy Clag.jpg" num="175">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Envoy</name>
+			<text>When this creature enters, create a Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/174_Duskborn Envoy.jpg" num="174">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Druid Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catalystic Caretaker</name>
+			<text>{T}: Add {C}.
+{T}, Tap another untapped permanent you control: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/169_Catalystic Caretaker.jpg" num="169">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planet-Cracker, World Harvester</name>
+			<text>This spell can&apos;t be countered.
+This creature enters with X +1/+1 counters.
+When this creature enters, reveal target opponent&apos;s hand. You may choose a number of cards equal to number of +1/+1 counters on this creature from it. That player puts those cards on the bottom of their library.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/188_Planet-Cracker, World Harvester.jpg" num="188">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>XXGGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul Harvester</name>
+			<text>This artifact enters with X charge counters on it.
+{X}{X}: Put X charge counters on this artifact.
+{W}: Exile target creature or enchantment card from a graveyard as this permanent&apos;s fuel.
+At the beginning of your end step, put all nonland permanent cards with mana value X or less from among this artifact&apos;s fuel onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/256_Soul Harvester.jpg" num="256">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>XX</manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deepspace Scanner</name>
+			<text>When this artifact enters, choose a player. They may search their library for a basic land card, reveal it, then shuffle, and put that card on top.
+{1}, Sacrifice this artifact: Target player draws a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/245_Deepspace Scanner.jpg" num="245">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Duskborn Dwelling</name>
+			<text>When you sacrifice this artifact, target player reveals the top card of their library.
+{2}, {T}, Sacrifice this artifact: Choose one —
+• Create a Wastes basic land token. (It&apos;s a colorless land with &quot;{T}: Add {C}.&quot;)
+• Choose a basic land type. Target land you control becomes that type in addition to its other types.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/246_Duskborn Dwelling.jpg" num="246">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Habitat</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Curated Seedpod</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/242_Curated Seedpod.jpg" num="242">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Habitat Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leeching Voidmite</name>
+			<text>When Leeching Voidmite dies, target opponent loses 1 life and you gain 1 life.
+{B}{B}, Sacrifice Leeching Voidmite: Exile target creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/249_Leeching Voidmite.jpg" num="249">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thirisene Depot</name>
+			<text>Collect — Whenever a permanent you control leaves the battlefield or you warp a spell, exile the top card of your library as this artifact&apos;s fuel.
+Burn — Put a card from among this artifact&apos;s fuel into your graveyard: Choose one — 
+• Create a Treasure token.
+• Target opponent loses 3 life.
+• Return another card in your graveyard with mana value less than the burned fuel&apos;s into your hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/258_Thirisene Depot.jpg" num="258">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exotic Utopia</name>
+			<text></text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/266_Exotic Utopia.jpg" num="266">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Land — Planet</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Genetic Goopworld</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/267_Genetic Goopworld.jpg" num="267">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Land — Planet</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Obstructing Asteroid</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/273_Obstructing Asteroid.jpg" num="273">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Land — Planet</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shifting Polycore</name>
+			<text>Shifting Polycore enters with X charge counters on it.
+When Shifting Polycore enters, choose creature, instant, or enchantment. Spells of the chosen type that would cost less than X mana cost X mana to cast, where X is the number of charge counters on this artifact. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast while this artifact has three charge counters on it costs {2}{B} to cast instead.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/255_Shifting Polycore.jpg" num="255">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Breach Reality</name>
+			<text>Kicker {2}{R} (You may pay an additional {2}{R} as you cast this spell.)
+Put a creature from your hand onto the battlefield tapped. If this spell wasn&apos;t kicked, sacrifice it at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/130_Breach Reality.jpg" num="130">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Curation Scoutprobe</name>
+			<text>Flash
+When this artifact enters, target player looks at the top card of their library. They may shuffle.
+{1}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/244_Curation Scoutprobe.jpg" num="244">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Habitat FCD</name>
+			<text>{2}, {T}, Sacrifice this artifact: Choose one —
+• Create a Wastes basic land token. (It&apos;s a colorless land with &quot;{T}: Add {C}.&quot;)
+• Choose a basic land type. Target land you control becomes that type in addition to its other types.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/5t_Habitat.jpg" num="5">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Habitat</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wastes FCD</name>
+			<text>{T}: Add {C}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/8t_Wastes.jpg" num="8">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure FCD</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/7t_Treasure.jpg" num="7">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Thax Soldier Ally FCD</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/1t_Thax Soldier Ally.jpg" num="1">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Thax Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ameliorator FCD</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/4t_Ameliorator.jpg" num="4">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ooze FCD</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/2t_Ooze.jpg" num="2">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Duskborn Vendor</name>
+			<text>{1}, Sacrifice another creature: Create a tapped Treasure token.
+{1}, Sacrifice three artifacts: Create a Wastes basic land token. (It&apos;s a colorless land with &quot;{T}: Add {C}.&quot;)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/97_Duskborn Vendor.jpg" num="97">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horror FCD</name>
+			<text>Whenever one or more cards an opponent owns are put into exile, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/3t_Horror.jpg" num="3">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spacecraft FCD</name>
+			<text>Flying
+Station 1+ (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It&apos;s a creature at 1+.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/6t_Spacecraft.jpg" num="6">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Birth of Starlight</name>
+			<text>Kicker {4}{W} (You may pay an additional {4}{W} as you cast this spell.)
+Each player returns each creature card from their graveyard to the battlefield under their owners&apos; control. Sacrifice them at end of their controller&apos;s next turn. If this spell was kicked, return each creature from all graveyards to the battlefield under your control instead. Sacrifice them at the end of your next turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/4_Birth of Starlight.jpg" num="4">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wandering Comet</name>
+			<text></text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/279_Wandering Comet.jpg" num="279">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Land — Planet</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thirisene Condenser</name>
+			<text>Fuel 3 (When this artifact enters, exile the top three cards of your library as this artifact&apos;s fuel.)
+Collect — At the beginning of your upkeep, you may pay 2 life. When you do, exile the top two cards of your library as this artifact&apos;s fuel.
+{1}, {T}: Put up to two cards from among this artifact&apos;s fuel on top of your library.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/257_Thirisene Condenser.jpg" num="257">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stellas Umbra</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has lifelink.
+Totem armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/30_Stellas Umbra.jpg" num="30">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wurmway Stabilizer</name>
+			<text>Flash
+{1}: Put a power counter on this artifact.
+{T}, Sacrifice this artifact: Search your library for an instant card or artifact card with mana value X, where X is the number of power counters on this enchantment, reveal it, add it to your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/81_Wurmway Stabilizer.jpg" num="81">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fas Ellor, Unak&apos;s Successor</name>
+			<text>Ward—Discard a card (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+The first time a player discards a card each turn, you may pay 3 life. When you do, draw a card.
+When Fas Ellor enters, create a 1/1 white Thax Soldier Ally creature token.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/102_Fas Ellor, Unak&apos;s Successor.jpg" num="102">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Thax Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amelioration Factory</name>
+			<text>Fuel 1
+{1}: Exile the top card of your library as this artifact&apos;s fuel.
+At the beginning of combat on your turn, create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the number of cards among this artifact&apos;s fuel.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/127_Amelioration Factory.jpg" num="127">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Domed Crofter</name>
+			<text>Whenever this creature becomes tapped, create a Habitat token.
+Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/173_Domed Crofter.jpg" num="173">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sequestered Sanctuary</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/276_Sequestered Sanctuary.jpg" num="276">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Land — Planet</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Raised in Twilight</name>
+			<text>Raised in Twilight can be your second commander if your commander has only one color in its color identity.
+If Raised in Twilight is your commander, choose a color before the game begins. Raised in Twilight is the chosen color.
+Eminence — As long as this enchantment is in the command zone or on the battlefield, your commanders cost one additional mana of the chosen color to cast.
+Spells you cast of the chosen color or the color of your commander&apos;s color identity cost {1} less to cast.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/1_Raised in Twilight.jpg" num="1">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Background</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kol, Thaxian Homeworld</name>
+			<text>{T}: Add {W}
+{X}{W}{W}, Discard Kol: Exile target creature with mana value X.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/271_Kol, Thaxian Homeworld.jpg" num="271">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Baelis Prime, Lorren Homeworld</name>
+			<text>{T}: Add {G}.
+{G}{G}, Discard Baelis Prime: Until end of turn, creature spells you cast can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/261_Baelis Prime, Lorren Homeworld.jpg" num="261">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Osuna, Starsquid Homeworld</name>
+			<text>{T}: Add {U}.
+{3}{U}, Discard Osuna, Starsquid Homeworld: Return target artifact, enchantment, or planeswalker to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/274_Osuna, Starsquid Homeworld.jpg" num="274">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Voidchasm, Darkbeast&apos;s Ingress</name>
+			<text>{T}: Add {B}.
+{2}{B}, Discard Voidchasm: Exile target card from a graveyard. Create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is that card&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/278_Voidchasm, Darkbeast&apos;s Ingress.jpg" num="278">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Eln-4, Alliance Homeworld</name>
+			<text>{T}: Add {R}.
+{2}{R}, Discard Eln-4: Eln-4 deals 5 damage to any target.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/265_Eln-4, Alliance Homeworld.jpg" num="265">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hollow Exhibit</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/269_Hollow Exhibit.jpg" num="269">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Computation Deck</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/263_Computation Deck.jpg" num="263">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scorching Barrow</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/275_Scorching Barrow.jpg" num="275">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zoetic Pool</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/280_Zoetic Pool.jpg" num="280">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Impact Site</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/270_Impact Site.jpg" num="270">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gentle Pasture</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/268_Gentle Pasture.jpg" num="268">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Basking Rock</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/262_Basking Rock.jpg" num="262">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nihil Graveyard</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/272_Nihil Graveyard.jpg" num="272">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Creophagous Wood</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card and pay 2 life. When you do, draw a card.
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/264_Creophagous Wood.jpg" num="264">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mercantile Guildstation</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/250_Mercantile Guildstation.jpg" num="250">FCD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact Land — Planet</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Curated Surveillance Unit</name>
+			<text>Whenever Curated Surveillance Unit becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/243_Curated Surveillance Unit.jpg" num="243">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Massman</name>
+			<text>Deathtouch
+Whenever a card enters an opponent&apos;s graveyard from their hand or library, they lose 1 life.
+{1}{B}: Each opponent mills a card. (They put the top card of their library into their graveyard.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/216_Grim Massman.jpg" num="216">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aeronautic Psycho</name>
+			<text>At the beginning of your upkeep, target creature or artifact you control exiles a card from your graveyard as it&apos;s fuel.
+This creature gets +1/+1 for each card among its fuel.
+Burn — Put a card from among this creature&apos;s fuel into your graveyard: This creature gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/205_Aeronautic Psycho.jpg" num="205">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swelling Jelly</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+At the beginning of each player&apos;s upkeep create a 1/1 green Ooze creature token.
+Oozes you control enter with an additional +1/+1 counter on them.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/227_Swelling Jelly.jpg" num="227">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vaserian Darkwurm</name>
+			<text>When Vaserian Darkwurm enters, put two +1/+1 counters on each creature you control. Then each creature you control fights a different creature an opponent controls. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/231_Vaserian Darkwurm.jpg" num="231">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4RRGG</manacost>
+				<cmc>8</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reefcovered Serpent</name>
+			<text>Whenever you expend 5, draw a card, then you may put a land from your hand onto the battlefield tapped. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+{GU}, Choose Island or Forest: Until end of turn, whenever you tap a land of the chosen type for mana, you add an additional {C}. Activate only once each turn.
+Warp {2}{G}{U}</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/220_Reefcovered Serpent.jpg" num="220">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Assailant</name>
+			<text>Haste, deathtouch
+{1}{B}: Return this creature from your graveyard to your hand. You lose 1 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/237_Relentless Assailant.jpg" num="237">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thax Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Debate Further</name>
+			<text>Counter each ability and return each other spell to its owner&apos;s hand. Draw a card for each ability countered this way and each spell returned this way.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/212_Debate Further.jpg" num="212">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/281_Plains.jpg" num="281">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/282_Island.jpg" num="282">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/283_Swamp.jpg" num="283">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/284_Mountain.jpg" num="284">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/285_Forest.jpg" num="285">FCD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

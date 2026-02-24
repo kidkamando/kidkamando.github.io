@@ -1,4 +1,41 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Invasion Force
+rules_text: Crusade [i](Increase your morale by 1. Once during your turn, when an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)[/i]
+At the beginning of each upkeep, create a 1/1 Soldier creature token. => Crusade [i](Increase your morale by 1. Once during your turn, when an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)[/i]
+At the beginning of each upkeep, create a 1/1 white Soldier creature token.
+
+Blessed Bloomblade
+rules_text: Flash
+When this artifact enters, attach it to target creature you control.
+When the equipped creature dies, if it was attacking, create X 1/1 green Plant creature tokens where X is that creature's power.
+Equip {2}{G} => Flash
+When this artifact enters, attach it to target creature you control.
+When equipped creature dies, if it wasn't sacrificed, create X 1/1 green Plant creature tokens where X is that creature's power.
+Equip {2}{G}
+
+Foresight Ritual
+rules_text: Look at the top four cards of your library. Put two on the bottom of your library in any order. Then, predict 2 twice. [i](Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i] => Look at the top four cards of your library. Put two on the bottom of your library in any order. Then predict 2, predict 2. [i](Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i]
+
+Tsavabni Vellon, Infamous Raider
+rules_text: When this creature deals combat damage to a player, your next spell this turn costs {X} less, where X is the damage dealt.
+[i]Burst[/i] — Whenever you cast a spell, if you've cast three or more spells this turn, you may pay {R}. If you do, put a +1/+1 counter on this card. => When this creature deals combat damage to a player, your next spell this turn costs {X} less to cast, where X is the damage dealt.
+[i]Burst[/i] — Whenever you cast a spell, if you've cast three or more spells this turn, you may pay {R}. If you do, put a +1/+1 counter on this card.
+
+Embellished Expedition
+special_text: 
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Hunt target creature. [i](Put a prey counter on that creature. It becomes a Food artifact in addition to its other types and has “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Hunt target creature. [i](Put a prey counter on that creature. It becomes a Food artifact in addition to its other types and has “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+IV — Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

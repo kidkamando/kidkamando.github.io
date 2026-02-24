@@ -1,4 +1,30 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Keeper of the Essenceflame
+rules_text: At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, put a +1/+1 counter on Keeper of the Essenceflame.
+When this creature enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this spell into your hand.)[/i] => At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, put a +1/+1 counter on Keeper of the Essenceflame.
+When this creature enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Sporous Propagator
+rules_text: If you would create one or more tokens, instead create that many tokens plus one, then scry 1. If this is the second time this ability has resolved this turn, draw a card instead. => If you would create one or more tokens, instead create that many tokens plus one of those tokens.
+Whenever you create one or more tokens, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.
+
+Shimmersword
+rules_text: Phantasm [i](When this Equipment enters, create a 2/2 red Illusion creature token, then attach this to it.)[/i]
+Accumulate 2 [i](When equipped creature attacks, put two charge counters on this equipment.)[/i]
+Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage to a player, you may cast a spell from your hand without paying its mana cost by removing charge counters from this Equipment. Otherwise, draw a card.
+Equip {2} => Phantasm
+Accumulate 2
+Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage to a player, you may cast a spell from your hand without paying its mana cost by removing charge counters from this Equipment equal to its mana value. Otherwise, draw a card.
+Equip {2}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -1,4 +1,24 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Curator's Intervention
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target nonland permanent. Its controller gains 3 life.
+I — Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+II, III — You and target opponent each draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target nonland permanent. Its controller gains 3 life.
+Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+You and target opponent each draw two cards.
+
+Mycellic Propagator
+rules_text: Tokens you control have “When this permanent becomes tapped, target creature you control gets +1/+1 until end of turn.”
+If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. => Tokens you control have “Whenever this permanent becomes tapped, target creature you control gets +1/+1 until end of turn.”
+If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

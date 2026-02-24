@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>RTRA</name>
+			<longname>Runeterra Reimagined Addendum</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ashe, Frost Archer</name>
+			<text>Reach
+Each nonland noncreature card in your hand without foretell has foretell. Its foretell cost is equal to its mana cost reduced by {2}.
+Whenever you cast a spell from exile or a permanent enters the battlefield under your control from exile, put a frostbite counter on up to one target creature.
+Creatures with frostbite counters get -X/-0 and can&apos;t block, where X is their base power.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/12_Ashe, Frost Archer.jpg" num="12">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jhin, the Stunning Performer</name>
+			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+Whenever you cast a noncreature spell, you may pay {U}{U}{R}{R}. When you do, create four colorless artifact tokens named Lotus Trap with &quot;Alert — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, sacrifice this artifact. When you do, it deals 1 damage to any target.&quot;
+As long as you have the city&apos;s blessing, whenever a source you control would deal damage, it deals 4 damage instead.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/16_Jhin, the Stunning Performer.jpg" num="16">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>UURR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zaahen, the Unsundered</name>
+			<text>First strike
+Whenever Zaahen deals lethal damage to another creature, create a black Darkin Equipment artifact token named Corrupted Form with &quot;Equipped creature gets power and toughness equal to the power plus 1 and toughness plus 1 of the exiled creature&quot; and &quot;Equip—Pay 2 life&quot; and that token exiles that creature instead.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/21_Zaahen, the Unsundered.jpg" num="21">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Darkin Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>K&apos;Sante, Dauntless Hunter</name>
+			<text>{WU}: Switch K&apos;Sante&apos;s power and toughness until end of turn.
+As long as K&apos;Sante&apos;s power is greater than his toughness, creatures you control have first strike.
+As long as K&apos;Sante&apos;s toughness is greater than his power, creatures you control have vigilance.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/17_K&apos;Sante, Dauntless Hunter.jpg" num="17">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lotus Trap RTRA</name>
+			<text>Alert — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, sacrifice this artifact. When you do, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/RTRA-files/img/3t_Lotus Trap.jpg" num="3">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Corrupted Form RTRA</name>
+			<text>Equipped creature gets power and toughness equal to the power plus 1 and toughness plus 1 of the exiled creature.
+Equip—Pay 2 life</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/RTRA-files/img/1t_Corrupted Form.jpg" num="1">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Darkin Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Baron Nashor</name>
+			<text>Trample
+Whenever Baron Nashor enters or a token enters the battlefield under your control, manifest dread, except it&apos;s a Horror in addition to its other types.
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control for each token that entered under your control this turn.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/8_Baron Nashor.jpg" num="8">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wurm Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3GGGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scourge of the Stars</name>
+			<text>Trample, double strike, haste
+When Scourge of the Stars enters, other creatures you control get +2/+2 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/9_Scourge of the Stars.jpg" num="9">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starsurge</name>
+			<text>When Starsurge enters or a creature you control deals lethal damage to another permanent, draw two cards then discard a card.
+{3}{R}{R}: Target creature you control deals damage equal to its power to another target permanent.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/20_Starsurge.jpg" num="20">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vile Feast</name>
+			<text>Kicker—{B} (You may pay an additional {B} as you cast this spell.)
+Vile Feast deals 1 damage to target creature and you gain 1 life. If this spell was kicked, create a 1/1 black Spider creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/RTRA-files/img/6_Vile Feast.jpg" num="6">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spider RTRA</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/RTRA-files/img/2t_Spider.jpg" num="2">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Precious Pet</name>
+			<text>Menace
+Other Spiders you control have menace.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/RTRA-files/img/5_Precious Pet.jpg" num="5">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arachnoid Host</name>
+			<text>Deathtouch
+Whenever a spider you control deals lethal damage or destroys another permanent, create a 1/1 black Spider creature token.
+When Arachnoid Host attacks, spiders you control get +2/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/11_Arachnoid Host.jpg" num="11">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elise, Coveted Predator</name>
+			<text>Spiders you control have reach, deathtouch, and lifelink.
+Whenever Elise enters or transforms, create a 1/1 black Spider creature token.
+{1}{B}: Transform Elise and draw a card. Activate only if a creature you control died this turn and only once each turn.
+---
+(Back): Elise, Vilemaw&apos;s Bride</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/3_Elise, Coveted Predator_front.jpg" num="3a">RTRA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elise, Vilemaw&apos;s Bride</related>
+		</card>
+		<card>
+			<name>Elise, Vilemaw&apos;s Bride</name>
+			<text>Reach, deathtouch, lifelink
+Elise cannot be blocked by more than one non-Spider creature.
+Last hit — Whenever this creature deals lethal damage to another permanent, create a tapped 1/1 black Spider creature token.
+{B}{R}, Sacrifice a creature you control: Elise deals 1 damage to target creature. Transform Elise. Activate only once each turn.
+---
+(Front): Elise, Coveted Predator</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/3_Elise, Coveted Predator_back.jpg" num="3b">RTRA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Spider Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elise, Coveted Predator</related>
+		</card>
+		<card>
+			<name>Vilemaw, Twisted Harbinger</name>
+			<text>Trample, haste
+When Vilemaw enters or attacks, destroy target non-Spider creature.
+Whenever a nontoken non-Spider creature dies, create two 1/1 black Spider creature tokens.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/7_Vilemaw, Twisted Harbinger.jpg" num="7">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider God</type>
+				<maintype>Creature</maintype>
+				<manacost>3RRRR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmarish Trap</name>
+			<text>At the beginning of each upkeep, that player mills a card.
+{4}{B}, Exile target card from a graveyard: Target opponent loses life equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/RTRA-files/img/4_Nightmarish Trap.jpg" num="4">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luxanna, Illuminated</name>
+			<text>Prowess
+Whenever you cast a noncreature spell, create a 1/1 white Human Soldier creature token with &quot;This creature gets +1/+1 if an opponent controls a Wizard or Shaman.&quot;
+{T}: Put a number of +1/+1 counters equal to the difference between Luxanna&apos;s power and base power on target creature you control.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/1_Luxanna, Illuminated.jpg" num="1">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mel, Searing Brilliance</name>
+			<text>Instant and sorcery spells you cast gain trample as you cast them. (Excess damage is dealt to its controller.)
+Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/18_Mel, Searing Brilliance.jpg" num="18">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambessa, Medarda Maxim</name>
+			<text>Creatures you control have lacerate 1 for each +1/+1 counter on Ambessa. (Whenever this creature deals combat damage to a creature or player, that creature or player gains a bleed counter.)
+Whenever a nonland card enters an opponent&apos;s graveyard, put a +1/+1 counter on Ambessa.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/10_Ambessa, Medarda Maxim.jpg" num="10">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ekko, Timewinder</name>
+			<text>When Ekko enters, you may return target creature card with mana value 3 or less from your graveyard to the battlefield.
+When Ekko leaves the battlefield, each player may put a creature card from their graveyard or they own in exile onto the battlefield under their control.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/13_Ekko, Timewinder.jpg" num="13">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectral Lancer</name>
+			<text>Flying, haste
+At the beginning of your end step, sacrifice this creature.
+Whenever a creature you control with power 4 or greater attacks while this card is in your graveyard, you may pay {1}{W}. When you do, return this card to the battlefield tapped and attacking.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/RTRA-files/img/2_Spectral Lancer.jpg" num="2">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Horse Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splinter Soul</name>
+			<text>Create a copy of target creature you control, except it&apos;s a 1/1 Spirit in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/22_Splinter Soul.jpg" num="22">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R/WR/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nocturne, Duskbringer</name>
+			<text>Tunneling {U}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Menace
+When Nocturne enters, each opponent loses 2 life and you gain 2 life. If Nocturne&apos;s tunneling cost was paid, he gains haste until end of turn.
+At the beginning of each end step, if Nocturne&apos;s tunneling cost was paid this turn, you may pay {1}{U}{B} or shuffle Nocturne back into its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/19_Nocturne, Duskbringer.jpg" num="19">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiddlesticks, Ageless Horror</name>
+			<text>Tunneling {1}{B}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+{1}: Shuffle Fiddlesticks from the battlefield or command zone into its owner&apos;s library, then surveil 1.
+Whenever Fiddlesticks enters or attacks, reveal the top five cards of your library and exile up to one Demon or enchantment card from among them. Fiddlesticks deals damage to any target equal to that card&apos;s mana value. You may play the exiled card until end of turn. Shuffle the rest back into your library.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/RTRA-files/img/15_Fiddlesticks, Ageless Horror.jpg" num="15">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evelyn, Dark Seductress</name>
+			<text>Tunneling {2}{B}{R} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)
+Whenever Evelyn enters or attacks, gain control of target creature you don&apos;t control until end of turn. It gains haste.
+Whenever a creature you control but don&apos;t own leaves the battlefield, Evelyn deals damage equal to her power to each opponent.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/RTRA-files/img/14_Evelyn, Dark Seductress.jpg" num="14">RTRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

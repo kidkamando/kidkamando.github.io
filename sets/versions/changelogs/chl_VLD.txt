@@ -1,4 +1,151 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Exios, Tormented Savior
+rules_text: Vigilance
+Whenever Exios attacks, choose one— 
+• Creatures you control gain +1/+2 this turn.
+• Create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+ => Vigilance
+Whenever Exios attacks, choose one— 
+• Creatures you control gain +1/+2 this turn.
+• Create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+
+Phoenix Flare
+rules_text: Phoenix Flare deals 3 damage divided as you choose among any number of targets.
+When this spell enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Phoenix Flare deals 3 damage divided as you choose among any number of targets.
+When this spell enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Everburn Phoenix
+rules_text: Flying
+While this card is in your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Flying
+While this card is in your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Longleaf Phoenix
+rules_text: Discard this card: Create two 0/1 red and green Plant tokens.
+Exile three other cards from your graveyard: Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Discard this card: Create two 0/1 red and green Plant creature tokens.
+Exile three other cards from your graveyard: Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Flashfire
+rules_text: Flashfire deals 1 to all creatures.
+When this spell enters your graveyard, you may Reincarnate [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Flashfire deals 1 to each creature.
+When this spell enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Internal Ignition
+rules_text: Destroy target creature. Its controller takes damage equal to its mana value. => Destroy target creature. Internal Ignition deals damage to its controller equal to its mana value.
+
+Arctic Whale
+rules_text: Flash
+While Arctic Whale is on the stack, you may pay {1} and exile it: Counter the next spell that would enter the stack this turn unless its controller pays {2}. => Flash
+As long as Arctic Whale is a spell, the next spell an opponent casts costs {2} more to cast.
+
+From Burn to Brush
+rules_text: Return target creature in your graveyard to your hand.
+When this spell enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Return target creature in your graveyard to your hand.
+When this spell enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Bitter Isolation
+rules_text: For each player, choose one target creature that player controls. Exiles all other creatures. => For each player, choose target creature that player controls. Exile each other creature.
+
+Soul Swap
+rules_text: Put target creature card from your graveyard onto the battlefield under your control.
+When this spell enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Put target creature card from your graveyard onto the battlefield under your control.
+When this spell enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Strip Bare
+rules_text: Remove a counter or destroy target aura or equipment from target nonartifact permanent.
+When this spell enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Remove a counter or destroy target aura or equipment from target nonartifact permanent.
+When this spell enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Crucial Diversion
+rules_text: Return target creature to its owner's hand.
+When this spell enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Return target creature to its owner's hand.
+When this spell enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Looter's Luggage
+rules_text: {T}: Add one mana of any color.
+{T}, Sacrifice Looter's Luggage: Draw a card, then discard a card.
+When this artifact enters your graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => {T}: Add one mana of any color.
+{T}, Sacrifice Looter's Luggage: Draw a card, then discard a card.
+When this artifact enters your graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Impart Vitality
+rules_text: Return target creature card from your graveyard to the battlefield.
+{3}{B}: Sacrifice this enchantment. 
+When this enchantment is put into a graveyard from the battlefield, draw a card and lose 2 life. => When this enchantment enters, return target creature card from your graveyard to the battlefield.
+{3}{B}: Sacrifice this enchantment. 
+When this enchantment is put into a graveyard from the battlefield, draw a card and lose 2 life.
+
+Spell Cycle
+rules_text: Counter target spell unless its controller pays {2}.
+When this spell enters you r graveyard, you may Reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Counter target spell unless its controller pays {2}.
+When this spell enters you r graveyard, you may Reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Endless Cycle
+rules_text: All instants and sorcery spells you control have “When this spell enters your graveyard, you may Reincarnate.” [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => All instants and sorcery spells you control have “When this spell enters your graveyard, you may Reincarnate.” [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+Nu'Ul, Patron of the Deep
+rules_text: Indestructible
+As long as your devotion to white and/ black of cards in exile is less than five, Nu'Ul isn't a creature. [i](Each {W} or {B} in the mana costs of permanents you control in exile counts toward your devotion to white and/or black.)[/i]
+Whenever a spell or ability you control puts a card into exile, you may pay {WB}. If you do, draw a card, each opponent loses 1 life and you gain 1 life. => Indestructible
+As long as your devotion to white and black of cards in exile is less than five, Nu'Ul isn't a creature. [i](Each {W} or {B} in the mana costs of permanents you own in exile counts toward your devotion.)[/i]
+Whenever a spell or ability you control puts one or more cards into exile, you may pay {WB}. When you do, create a 1/1 white and green Citizen creature token.
+
+Uvathkolsil
+rules_text: Flying
+[i]Burst[/i] — If you've cast at least three spells this turn, this card costs {W}{U}{B}{R}{G} less.
+When this creature enters or attacks, exile the top five cards of your library. Put a noncreature nonland permanent with mana value 4 or less from among them onto the battlefield, then put the rest back on the top in any order. => Flying
+[i]Burst[/i] — If you've cast at least three spells this turn, this card costs {W}{U}{B}{R}{G} less.
+When this creature enters or attacks, exile the top five cards of your library. Put a permanent card with mana value 4 or less from among them onto the battlefield, then put the rest back on the top in any order.
+
+Voice of Allaveth's Awakening
+rules_text: Creatures you control have trample.
+When this enchantment enters or whenever an opponent casts a spell or activates an ability during your turn, create a 0/0 green Plant Elemental creature token with “This creature's power and toughness are each equal to the number of creatures you control.” => Creatures you control have trample.
+Whenever this enchantment enters or an opponent casts a spell or activates an ability during your turn, create a 0/0 green Plant Elemental creature token with “This creature's power and toughness are each equal to the number of creatures you control.”
+
+Ælluin, Temporal Archmage
+rules_text: All creature spells in your hand have Impending X—{W}{U}{B}, where X is its mana value and become enchantments in addition to their other types when cast this way.
+The first time a counter is removed from an enchantment you control each turn, draw a card.
+{2}, {T}: Time travel. => Creature spells you cast gain Impending 3—{W}{B}{U} as you cast them and become enchantments in addition to their other types when cast for their impending cost.
+The first time a counter is removed from an enchantment you control each turn, draw a card.
+{2}, {T}: Time travel.
+
+Thrax, Necrose Reclaimer
+rules_text: All creatures you control have “When this creature enters your graveyard, you may Reincarnate.” [i](Pay {R} and discard a card: Put this card into your hand.)[/i]
+The first time you discard a card each turn, put a Shelter counter on target creature you control [i](This creature has ward {X}, where X is the number of Shelter counters on it. Whenever this creature is targeted, remove a Shelter counter from it.)[/i] => All creatures you control have “When this creature enters your graveyard, you may Reincarnate.” [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+The first time you discard a card each turn, put a Shelter counter on target creature you control [i](This creature has ward {X}, where X is the number of Shelter counters on it. Whenever this creature is targeted, remove a Shelter counter from it.)[/i]
+
+Arbiter of Acceptance
+rules_text: Vigilance
+When this creature enters, exile target nonland permanent.
+When this creature leaves the battlefield, the exiled card's owner creates an X/2 white Bird creature token with flying, where X is its mana value.
+Basic Plainscycling {2} => Vigilance
+When this creature enters, exile target nonland permanent until this creature leaves the battlefield.
+When this creature leaves, the exiled card's owner creates an X/2 white Bird creature token with flying, where X is its mana value.
+Basic Plainscycling {2}
+
+Twilight Duelist
+rules_text: First strike
+When this creature dies, it deals 1 damage to any target and create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => First strike
+When this creature dies, it deals 1 damage to any target and you create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Mock Man
+rules_text: Changeling [i](This card is every creature type.)[/i]
+When this creature enters, choose a creature type.
+[i]Desperate[/i] — If your have no cards in hand, when a creature of the chosen type dies, draw a card. => Changeling [i](This card is every creature type.)[/i]
+When this creature enters, choose a creature type.
+[i]Desperate[/i] — As long as you have no cards in hand, when a creature of the chosen type dies, draw a card.
+
+Off the Top
+rules_text: Target creature you control gains flying until end of turn. Predict 1. [i](Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i]
+When this spell enters your graveyard, you may reincarnate. [i](Pay {R} and discard a card: Put this card into your hand.)[/i] => Target creature you control gains flying until end of turn. Predict 1. [i](Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i]
+When this spell enters your graveyard, you may reincarnate. [i]({R}, Discard a card: Put this card from your graveyard into your hand.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

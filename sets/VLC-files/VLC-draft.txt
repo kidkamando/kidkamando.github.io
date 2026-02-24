@@ -1,62 +1,63 @@
-[CustomCards]
-	[	{
+﻿[CustomCards]
+	[
+		{
 			"name": "Charan, Flight to Beyond",
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Legendary Creature — Phoenix Warrior ",
+			"type": "Legendary Creature — Phoenix Warrior",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Charan, Flight to Beyond.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/52_Charan, Flight to Beyond.jpg"
 			}
 		},
 		{
 			"name": "Vhalax, Spirit of Expansion",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Legendary Creature — Plant Dinosaur ",
+			"type": "Legendary Creature — Plant Dinosaur",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Vhalax, Spirit of Expansion.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/78_Vhalax, Spirit of Expansion.jpg"
 			}
 		},
 		{
 			"name": "Quespereth, Conquering Queen",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Elf Noble ",
+			"type": "Legendary Creature — Elf Noble",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Quespereth, Conquering Queen.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/70_Quespereth, Conquering Queen.jpg"
 			}
 		},
 		{
 			"name": "Astor, Second Herald of Focalor",
 			"rarity": "mythic",
 			"mana_cost": "{G/U}{W}",
-			"type": "Legendary Creature — Elf Cleric ",
+			"type": "Legendary Creature — Elf Cleric",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Astor, Second Herald of Focalor.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/80_Astor, Second Herald of Focalor.jpg"
 			}
 		},
 		{
 			"name": "Focalor, Speaker of Truth",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G/W}{G/W}{U}{U}",
-			"type": "Legendary Creature — Cleric God ",
+			"type": "Legendary Creature — Cleric God",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor, Speaker of Truth.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/85_Focalor, Speaker of Truth.jpg"
 			}
 		},
 		{
 			"name": "Rune Bear",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Bear ",
+			"type": "Creature — Bear",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rune Bear.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/72_Rune Bear.jpg"
 			}
 		},
 		{
@@ -66,207 +67,207 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Replaced Experiment.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/6_Replaced Experiment.jpg"
 			}
 		},
 		{
 			"name": "Samson, Focalor's Chosen",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Tiefling Warlock ",
+			"type": "Legendary Creature — Tiefling Warlock",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Samson, Focalor's Chosen.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/7_Samson, Focalor's Chosen.jpg"
 			}
 		},
 		{
 			"name": "Noolo, Rift Imbibed",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{W/B}",
-			"type": "Legendary Planeswalker — Noolo ",
+			"type": "Legendary Planeswalker — Noolo",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Noolo, Rift Imbibed.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/90_Noolo, Rift Imbibed.jpg"
 			}
 		},
 		{
 			"name": "Rothan, Star Ablaze",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
-			"type": "Legendary Creature — Elemental Phoenix ",
+			"type": "Legendary Creature — Elemental Phoenix",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rothan, Star Ablaze.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/71_Rothan, Star Ablaze.jpg"
 			}
 		},
 		{
 			"name": "Ellien, Queen's Praetorian",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Elf Knight ",
+			"type": "Legendary Creature — Elf Knight",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ellien, Queen's Praetorian.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/56_Ellien, Queen's Praetorian.jpg"
 			}
 		},
 		{
 			"name": "Saurex, Spirit of Reclamation",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Legendary Creature — Plant Dinosaur ",
+			"type": "Legendary Creature — Plant Dinosaur",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Saurex, Spirit of Reclamation.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/73_Saurex, Spirit of Reclamation.jpg"
 			}
 		},
 		{
 			"name": "Focalor, Lattice Maker",
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Dragon Cleric ",
+			"type": "Legendary Creature — Dragon Cleric",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor, Lattice Maker.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/60_Focalor, Lattice Maker.jpg"
 			}
 		},
 		{
 			"name": "Icewing Phoenix",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Elemental Phoenix ",
+			"type": "Creature — Elemental Phoenix",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Icewing Phoenix.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/15_Icewing Phoenix.jpg"
 			}
 		},
 		{
 			"name": "Kinkud, Lost Assassin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Dragon Cleric ",
+			"type": "Legendary Creature — Dragon Cleric",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Kinkud, Lost Assassin.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/23_Kinkud, Lost Assassin.jpg"
 			}
 		},
 		{
 			"name": "Exios, Wandering Paladin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Cat Knight ",
+			"type": "Legendary Creature — Cat Knight",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Exios, Wandering Paladin.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/4_Exios, Wandering Paladin.jpg"
 			}
 		},
 		{
 			"name": "Samson, Struggling Detective",
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}",
-			"type": "Legendary Creature — Tiefling Detective ",
+			"type": "Legendary Creature — Tiefling Detective",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Samson, Struggling Detective.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/92_Samson, Struggling Detective.jpg"
 			}
 		},
 		{
 			"name": "Noolo, Enslaved Inventor",
 			"rarity": "uncommon",
 			"mana_cost": "{W/U}",
-			"type": "Legendary Creature — Minotaur Wizard ",
+			"type": "Legendary Creature — Minotaur Wizard",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Noolo, Enslaved Inventor.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/89_Noolo, Enslaved Inventor.jpg"
 			}
 		},
 		{
 			"name": "Ashen Egg",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Enchantment Creature — Phoenix Egg  ",
+			"type": "Enchantment Creature — Phoenix Egg",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ashen Egg.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/29_Ashen Egg.jpg"
 			}
 		},
 		{
 			"name": "Volcanic Nest",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Volcanic Nest.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/39_Volcanic Nest.jpg"
 			}
 		},
 		{
 			"name": "Brittle Phoenix",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Phoenix ",
+			"type": "Creature — Phoenix",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Brittle Phoenix.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/20_Brittle Phoenix.jpg"
 			}
 		},
 		{
 			"name": "Espren Captain",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Elf Soldier ",
+			"type": "Creature — Elf Soldier",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Captain.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/57_Espren Captain.jpg"
 			}
 		},
 		{
 			"name": "Elvish Looter",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Elf ",
+			"type": "Creature — Elf",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Elvish Looter.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/12_Elvish Looter.jpg"
 			}
 		},
 		{
 			"name": "Sylvan Skyknight",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W/U}",
-			"type": "Creature — Griffon Elf ",
+			"type": "Creature — Griffon Elf",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Sylvan Skyknight.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/95_Sylvan Skyknight.jpg"
 			}
 		},
 		{
 			"name": "Espratan Captain",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Elf Knight ",
+			"type": "Creature — Elf Knight",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espratan Captain.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/3_Espratan Captain.jpg"
 			}
 		},
 		{
 			"name": "Espren Scholar",
 			"rarity": "rare",
 			"mana_cost": "{2}{U/B}",
-			"type": "Creature — Elf Shaman ",
+			"type": "Creature — Elf Shaman",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Scholar.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/84_Espren Scholar.jpg"
 			}
 		},
 		{
 			"name": "Guard-Commander of Espren",
 			"rarity": "rare",
 			"mana_cost": "{4}{W/B}",
-			"type": "Creature — Elf Soldier ",
+			"type": "Creature — Elf Soldier",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Guard-Commander of Espren.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/87_Guard-Commander of Espren.jpg"
 			}
 		},
 		{
@@ -276,7 +277,7 @@
 			"type": "Artifact",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Commander's Dynamo.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/99_Commander's Dynamo.jpg"
 			}
 		},
 		{
@@ -286,7 +287,7 @@
 			"type": "Enchantment",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Necrolegacy.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/26_Necrolegacy.jpg"
 			}
 		},
 		{
@@ -296,17 +297,17 @@
 			"type": "Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Verbose Bonds.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/10_Verbose Bonds.jpg"
 			}
 		},
 		{
 			"name": "Espren Scouting Party",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Elf ",
+			"type": "Creature — Elf",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Scouting Party.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/21_Espren Scouting Party.jpg"
 			}
 		},
 		{
@@ -316,87 +317,87 @@
 			"type": "Artifact",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Essence Vial.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/22_Essence Vial.jpg"
 			}
 		},
 		{
 			"name": "Medium of Enduring Histories",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf Shaman ",
+			"type": "Creature — Elf Shaman",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Medium of Enduring Histories.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/25_Medium of Enduring Histories.jpg"
 			}
 		},
 		{
 			"name": "Caravan Runner",
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Elf ",
+			"type": "Creature — Elf",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Caravan Runner.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/51_Caravan Runner.jpg"
 			}
 		},
 		{
 			"name": "Mulling Mystic",
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Elf Wizard ",
+			"type": "Creature — Elf Wizard",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Mulling Mystic.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/16_Mulling Mystic.jpg"
 			}
 		},
 		{
 			"name": "Sifter Elf",
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}",
-			"type": "Creature — Elf Druid ",
+			"type": "Creature — Elf Druid",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Sifter Elf.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/94_Sifter Elf.jpg"
 			}
 		},
 		{
 			"name": "Veteran Vanguard",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Elf Knight ",
+			"type": "Creature — Elf Knight",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Veteran Vanguard.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/77_Veteran Vanguard.jpg"
 			}
 		},
 		{
 			"name": "Espren Fanatic",
 			"rarity": "common",
 			"mana_cost": "{W/B}",
-			"type": "Creature — Elf ",
+			"type": "Creature — Elf",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Espren Fanatic.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/83_Espren Fanatic.jpg"
 			}
 		},
 		{
 			"name": "Quespereth's Mystic",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W/B}{U}",
-			"type": "Creature — Elf ",
+			"type": "Creature — Elf",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Quespereth's Mystic.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/91_Quespereth's Mystic.jpg"
 			}
 		},
 		{
 			"name": "Latar Spinokelp",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Plant Dinosaur ",
+			"type": "Creature — Plant Dinosaur",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Latar Spinokelp.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/62_Latar Spinokelp.jpg"
 			}
 		},
 		{
@@ -406,47 +407,47 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Accumulated Insight.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/11_Accumulated Insight.jpg"
 			}
 		},
 		{
 			"name": "Focalor's Truthspeaker",
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Elf Cleric ",
+			"type": "Creature — Elf Cleric",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor's Truthspeaker.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/14_Focalor's Truthspeaker.jpg"
 			}
 		},
 		{
 			"name": "Focalor's Liebinder",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W/U}",
-			"type": "Creature — Elf Cleric ",
+			"type": "Creature — Elf Cleric",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Focalor's Liebinder.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/86_Focalor's Liebinder.jpg"
 			}
 		},
 		{
 			"name": "Nexen Forgemaster",
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
-			"type": "Creature — Dwarf Artificer ",
+			"type": "Creature — Dwarf Artificer",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Nexen Forgemaster.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/88_Nexen Forgemaster.jpg"
 			}
 		},
 		{
 			"name": "Banishment Beetle",
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
-			"type": "Creature — Insect ",
+			"type": "Creature — Insect",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Banishment Beetle.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/81_Banishment Beetle.jpg"
 			}
 		},
 		{
@@ -456,119 +457,117 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Gigafaunize.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/44_Gigafaunize.jpg"
 			}
 		},
 		{
 			"name": "Crystallized Form",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Crystallized Form.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/2_Crystallized Form.jpg"
 			}
 		},
 		{
 			"name": "Savage Reclamation",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Savage Reclamation.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/74_Savage Reclamation.jpg"
 			}
 		},
 		{
 			"name": "Leviathan Tyrannosnap",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}{G}{G}",
-			"type": "Creature — Plant Dinosaur ",
+			"type": "Creature — Plant Dinosaur",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Leviathan Tyrannosnap.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/63_Leviathan Tyrannosnap.jpg"
 			}
 		},
 		{
 			"name": "Phytodactyl",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Plant Dinosaur  ",
+			"type": "Creature — Plant Dinosaur",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Phytodactyl.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/68_Phytodactyl.jpg"
 			}
 		},
 		{
 			"name": "Crethwood Champion",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Plant Warrior ",
+			"type": "Creature — Plant Warrior",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Crethwood Champion.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/41_Crethwood Champion.jpg"
 			}
 		},
 		{
 			"name": "Silyph, Crethwood Regent",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Creature — Plant Druid ",
+			"type": "Legendary Creature — Plant Druid",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Silyph, Crethwood Regent.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/75_Silyph, Crethwood Regent.jpg"
 			}
 		},
 		{
 			"name": "Frozen Everburn",
 			"rarity": "common",
 			"mana_cost": "{0}",
-			"type": "Creature — Phoenix ",
+			"type": "Creature — Phoenix",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Frozen Everburn.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/61_Frozen Everburn.jpg"
 			}
 		},
 		{
 			"name": "Watch Tower",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Enchantment — Room ",
+			"type": "Enchantment — Room",
 			"collector_number": "98",
-			"layout": "split",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Watch Tower.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/98_Watch Tower.jpg"
 			}
 		},
 		{
 			"name": "Spiral Staircase",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Room ",
+			"type": "Enchantment — Room",
 			"collector_number": "97",
-			"layout": "split",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Spiral Staircase.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/97_Spiral Staircase.jpg"
 			}
 		},
 		{
 			"name": "Looming Titan",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Giant Wizard ",
+			"type": "Creature — Giant Wizard",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Looming Titan.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/5_Looming Titan.jpg"
 			}
 		},
 		{
 			"name": "Charan of Fallen Ashes",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Creature — Phoenix Warrior ",
+			"type": "Legendary Creature — Phoenix Warrior",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Charan of Fallen Ashes.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/53_Charan of Fallen Ashes.jpg"
 			}
 		},
 		{
@@ -578,37 +577,37 @@
 			"type": "Artifact",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Horn of Pogrûz.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/34_Horn of Pogrûz.jpg"
 			}
 		},
 		{
 			"name": "Immolation Firebird",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Phoenix ",
+			"type": "Creature — Phoenix",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Immolation Firebird.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/35_Immolation Firebird.jpg"
 			}
 		},
 		{
 			"name": "Flaming Phytoraptor",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Plant Dinosaur ",
+			"type": "Creature — Plant Dinosaur",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flaming Phytoraptor.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/31_Flaming Phytoraptor.jpg"
 			}
 		},
 		{
 			"name": "Flawed Duplication",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flawed Duplication.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/13_Flawed Duplication.jpg"
 			}
 		},
 		{
@@ -618,7 +617,7 @@
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Maddening Prediction.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/24_Maddening Prediction.jpg"
 			}
 		},
 		{
@@ -628,27 +627,27 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Trust In Fate.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/38_Trust In Fate.jpg"
 			}
 		},
 		{
 			"name": "Cotay Leadon, Grovetender",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature — Plant ",
+			"type": "Legendary Creature — Plant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Cotay Leadon, Grovetender.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/40_Cotay Leadon, Grovetender.jpg"
 			}
 		},
 		{
 			"name": "Forest's Harmony",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Forest's Harmony.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/43_Forest's Harmony.jpg"
 			}
 		},
 		{
@@ -658,47 +657,47 @@
 			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Grasping Roots.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/45_Grasping Roots.jpg"
 			}
 		},
 		{
 			"name": "Flora Trailblazer",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Plant Druid ",
+			"type": "Creature — Plant Druid",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Flora Trailblazer.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/42_Flora Trailblazer.jpg"
 			}
 		},
 		{
 			"name": "Aurasaurus",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Plant Dinosaur ",
+			"type": "Creature — Plant Dinosaur",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Aurasaurus.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/50_Aurasaurus.jpg"
 			}
 		},
 		{
 			"name": "Phantasmal Phalanx",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Phantasmal Phalanx.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/67_Phantasmal Phalanx.jpg"
 			}
 		},
 		{
 			"name": "Paradigm of Expansion",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Paradigm of Expansion.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/66_Paradigm of Expansion.jpg"
 			}
 		},
 		{
@@ -708,7 +707,7 @@
 			"type": "Artifact",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Blood Quartz.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/30_Blood Quartz.jpg"
 			}
 		},
 		{
@@ -718,7 +717,7 @@
 			"type": "Artifact",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ocean Quartz.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/17_Ocean Quartz.jpg"
 			}
 		},
 		{
@@ -728,7 +727,7 @@
 			"type": "Artifact",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Moss Quartz.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/46_Moss Quartz.jpg"
 			}
 		},
 		{
@@ -738,7 +737,7 @@
 			"type": "Artifact",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Oil Quartz.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/27_Oil Quartz.jpg"
 			}
 		},
 		{
@@ -748,7 +747,7 @@
 			"type": "Artifact",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Cloud Quartz.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/1_Cloud Quartz.jpg"
 			}
 		},
 		{
@@ -758,7 +757,7 @@
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Selected for Service.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/9_Selected for Service.jpg"
 			}
 		},
 		{
@@ -768,7 +767,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Ring of Supremacy.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/101_Ring of Supremacy.jpg"
 			}
 		},
 		{
@@ -778,7 +777,7 @@
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Plagiarize.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/69_Plagiarize.jpg"
 			}
 		},
 		{
@@ -788,7 +787,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Turn to Stone.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/19_Turn to Stone.jpg"
 			}
 		},
 		{
@@ -798,7 +797,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Premonition.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/18_Premonition.jpg"
 			}
 		},
 		{
@@ -808,7 +807,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Tribute to Immortality.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/28_Tribute to Immortality.jpg"
 			}
 		},
 		{
@@ -818,17 +817,17 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Peer Into Chaos.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/36_Peer Into Chaos.jpg"
 			}
 		},
 		{
 			"name": "Profound Ooze",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Ooze ",
+			"type": "Creature — Ooze",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Profound Ooze.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/47_Profound Ooze.jpg"
 			}
 		},
 		{
@@ -838,7 +837,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Wrath of Tradition.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/79_Wrath of Tradition.jpg"
 			}
 		},
 		{
@@ -848,7 +847,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Shred to Pieces.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/93_Shred to Pieces.jpg"
 			}
 		},
 		{
@@ -858,47 +857,47 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Cleansing Eruption.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/54_Cleansing Eruption.jpg"
 			}
 		},
 		{
 			"name": "The Conquest of Alvaest",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/The Conquest of Alvaest.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/55_The Conquest of Alvaest.jpg"
 			}
 		},
 		{
 			"name": "Malevolent Strix",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Artifact Creature — Bird ",
+			"type": "Artifact Creature — Bird",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Malevolent Strix.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/64_Malevolent Strix.jpg"
 			}
 		},
 		{
 			"name": "Propagating Ooze",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Ooze ",
+			"type": "Creature — Ooze",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Propagating Ooze.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/48_Propagating Ooze.jpg"
 			}
 		},
 		{
 			"name": "Rummaging Ooze",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Ooze ",
+			"type": "Creature — Ooze",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rummaging Ooze.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/49_Rummaging Ooze.jpg"
 			}
 		},
 		{
@@ -908,7 +907,7 @@
 			"type": "Enchantment",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Explosive Monologue.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/58_Explosive Monologue.jpg"
 			}
 		},
 		{
@@ -918,17 +917,17 @@
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Surge of Inspiration.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/76_Surge of Inspiration.jpg"
 			}
 		},
 		{
 			"name": "Miracle Wings",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Kindred Enchantment — Phoenix ",
+			"type": "Kindred Enchantment — Phoenix",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Miracle Wings.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/65_Miracle Wings.jpg"
 			}
 		},
 		{
@@ -938,27 +937,27 @@
 			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Feather of Life.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/59_Feather of Life.jpg"
 			}
 		},
 		{
 			"name": "Growing Fervor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Growing Fervor.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/32_Growing Fervor.jpg"
 			}
 		},
 		{
 			"name": "Growing Heat",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Growing Heat.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/33_Growing Heat.jpg"
 			}
 		},
 		{
@@ -968,27 +967,27 @@
 			"type": "Artifact",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Navigator's Sextant.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/100_Navigator's Sextant.jpg"
 			}
 		},
 		{
 			"name": "Warden of the Weald",
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}",
-			"type": "Creature — Elf ",
+			"type": "Creature — Elf",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Warden of the Weald.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/96_Warden of the Weald.jpg"
 			}
 		},
 		{
 			"name": "Enraged Everburn",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/R}",
-			"type": "Creature — Phoenix ",
+			"type": "Creature — Phoenix",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Enraged Everburn.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/82_Enraged Everburn.jpg"
 			}
 		},
 		{
@@ -998,7 +997,7 @@
 			"type": "Legendary Land",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Last Home, Hunter's Guild.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/103_Last Home, Hunter's Guild.jpg"
 			}
 		},
 		{
@@ -1008,7 +1007,7 @@
 			"type": "Legendary Land",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Last Home, Dead Lands Colony.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/102_Last Home, Dead Lands Colony.jpg"
 			}
 		},
 		{
@@ -1018,125 +1017,459 @@
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Rush of Replication.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/37_Rush of Replication.jpg"
 			}
 		},
 		{
 			"name": "Saurian Interrupter",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Dinosaur ",
+			"type": "Creature — Dinosaur",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/VLC-files/VLC-files/Saurian Interrupter.png"
+				"en": "https://MSE-Hub/sets/VLC-files/img/8_Saurian Interrupter.jpg"
 			}
 		},
-		]
-	[RareSlot(1)]
+		{
+			"name": "Uvathkolsil's Lattice",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Emblem",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/1t_Uvathkolsil's Lattice.jpg"
+			}
+		},
+		{
+			"name": "Phoenix",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phoenix",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/2t_Phoenix.jpg"
+			}
+		},
+		{
+			"name": "Bear",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bear",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/3t_Bear.jpg"
+			}
+		},
+		{
+			"name": "Forest's Rage",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/4t_Forest's Rage.jpg"
+			}
+		},
+		{
+			"name": "Plant Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Dinosaur",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/5t_Plant Dinosaur.jpg"
+			}
+		},
+		{
+			"name": "Plant Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Dinosaur",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/6t_Plant Dinosaur.jpg"
+			}
+		},
+		{
+			"name": "+1 Longsword",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/7t_+1 Longsword.jpg"
+			}
+		},
+		{
+			"name": "Tuulvoke Crystal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Tuulvoke Crystal",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/8t_Tuulvoke Crystal.jpg"
+			}
+		},
+		{
+			"name": "Vhala'Ba-o",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Token Land",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/VLC-files/img/9t_Vhala'Ba-o.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Charan, Flight to Beyond
+	1 Vhalax, Spirit of Expansion
+	1 Quespereth, Conquering Queen
+	1 Astor, Second Herald of Focalor
+	1 Focalor, Speaker of Truth
 	2 Samson, Focalor's Chosen
-		2 Volcanic Nest
-		2 Espratan Captain
-		2 Espren Scholar
-		2 Guard-Commander of Espren
-		2 Veteran Vanguard
-		2 Crethwood Champion
-		2 Looming Titan
-		2 Charan of Fallen Ashes
-		2 Horn of Pogrûz
-		2 Trust In Fate
-		2 Cotay Leadon, Grovetender
-		2 Grasping Roots
-		2 Paradigm of Expansion
-		2 Profound Ooze
-		2 Propagating Ooze
-		2 Rummaging Ooze
-		2 Explosive Monologue
-		2 Miracle Wings
-		2 Last Home, Hunter's Guild
-		2 Saurian Interrupter
-		1 Charan, Flight to Beyond
-		1 Vhalax, Spirit of Expansion
-		1 Quespereth, Conquering Queen
-		1 Astor, Second Herald of Focalor
-		1 Focalor, Speaker of Truth
-		1 Noolo, Rift Imbibed
-		1 Rothan, Star Ablaze
-		1 Ellien, Queen's Praetorian
-		1 Saurex, Spirit of Reclamation
-		1 Focalor, Lattice Maker
-		1 Necrolegacy
-		1 Ring of Supremacy
-		1 Rush of Replication
-		[UncommonSlot(3)]
-	9 Icewing Phoenix
-		9 Kinkud, Lost Assassin
-		9 Exios, Wandering Paladin
-		9 Samson, Struggling Detective
-		9 Noolo, Enslaved Inventor
-		9 Ashen Egg
-		9 Espren Captain
-		9 Sylvan Skyknight
-		9 Commander's Dynamo
-		9 Verbose Bonds
-		9 Medium of Enduring Histories
-		9 Quespereth's Mystic
-		9 Gigafaunize
-		9 Savage Reclamation
-		9 Leviathan Tyrannosnap
-		9 Silyph, Crethwood Regent
-		9 Watch Tower
-		9 Flawed Duplication
-		9 Forest's Harmony
-		9 Aurasaurus
-		9 Phantasmal Phalanx
-		9 Plagiarize
-		9 Turn to Stone
-		9 Wrath of Tradition
-		9 Shred to Pieces
-		9 Cleansing Eruption
-		9 The Conquest of Alvaest
-		9 Malevolent Strix
-		9 Surge of Inspiration
-		9 Growing Fervor
-		9 Growing Heat
-		9 Enraged Everburn
-		9 Last Home, Dead Lands Colony
-		[CommonSlot(10)]
-	30 Rune Bear
-		30 Replaced Experiment
-		30 Brittle Phoenix
-		30 Elvish Looter
-		30 Espren Scouting Party
-		30 Essence Vial
-		30 Caravan Runner
-		30 Mulling Mystic
-		30 Sifter Elf
-		30 Espren Fanatic
-		30 Latar Spinokelp
-		30 Accumulated Insight
-		30 Focalor's Truthspeaker
-		30 Focalor's Liebinder
-		30 Nexen Forgemaster
-		30 Banishment Beetle
-		30 Crystallized Form
-		30 Phytodactyl
-		30 Frozen Everburn
-		30 Spiral Staircase
-		30 Immolation Firebird
-		30 Flaming Phytoraptor
-		30 Maddening Prediction
-		30 Flora Trailblazer
-		30 Blood Quartz
-		30 Ocean Quartz
-		30 Moss Quartz
-		30 Oil Quartz
-		30 Cloud Quartz
-		30 Selected for Service
-		30 Premonition
-		30 Tribute to Immortality
-		30 Peer Into Chaos
-		30 Feather of Life
-		30 Navigator's Sextant
-		30 Warden of the Weald
-		[LandSlot(1)]
-	
+	1 Noolo, Rift Imbibed
+	1 Rothan, Star Ablaze
+	1 Ellien, Queen's Praetorian
+	1 Saurex, Spirit of Reclamation
+	1 Focalor, Lattice Maker
+	2 Volcanic Nest
+	2 Espratan Captain
+	2 Espren Scholar
+	2 Guard-Commander of Espren
+	1 Necrolegacy
+	2 Veteran Vanguard
+	2 Crethwood Champion
+	2 Looming Titan
+	2 Charan of Fallen Ashes
+	2 Horn of Pogrûz
+	2 Trust In Fate
+	2 Cotay Leadon, Grovetender
+	2 Grasping Roots
+	2 Paradigm of Expansion
+	1 Ring of Supremacy
+	2 Profound Ooze
+	2 Propagating Ooze
+	2 Rummaging Ooze
+	2 Explosive Monologue
+	2 Miracle Wings
+	2 Last Home, Hunter's Guild
+	1 Rush of Replication
+	2 Saurian Interrupter
+[uncommon(3)]
+	4 Icewing Phoenix
+	4 Kinkud, Lost Assassin
+	4 Exios, Wandering Paladin
+	4 Samson, Struggling Detective
+	4 Noolo, Enslaved Inventor
+	4 Ashen Egg
+	4 Espren Captain
+	4 Sylvan Skyknight
+	4 Commander's Dynamo
+	4 Verbose Bonds
+	4 Medium of Enduring Histories
+	4 Quespereth's Mystic
+	4 Gigafaunize
+	4 Savage Reclamation
+	4 Leviathan Tyrannosnap
+	4 Silyph, Crethwood Regent
+	4 Watch Tower
+	4 Flawed Duplication
+	4 Forest's Harmony
+	4 Aurasaurus
+	4 Phantasmal Phalanx
+	4 Plagiarize
+	4 Turn to Stone
+	4 Wrath of Tradition
+	4 Shred to Pieces
+	4 Cleansing Eruption
+	4 The Conquest of Alvaest
+	4 Malevolent Strix
+	4 Surge of Inspiration
+	4 Growing Fervor
+	4 Growing Heat
+	4 Enraged Everburn
+	4 Last Home, Dead Lands Colony
+[common(6)]
+	8 Rune Bear
+	8 Replaced Experiment
+	8 Brittle Phoenix
+	8 Elvish Looter
+	8 Espren Scouting Party
+	8 Essence Vial
+	8 Caravan Runner
+	8 Mulling Mystic
+	8 Sifter Elf
+	8 Espren Fanatic
+	8 Latar Spinokelp
+	8 Accumulated Insight
+	8 Focalor's Truthspeaker
+	8 Focalor's Liebinder
+	8 Nexen Forgemaster
+	8 Banishment Beetle
+	8 Crystallized Form
+	8 Phytodactyl
+	8 Frozen Everburn
+	8 Spiral Staircase
+	8 Immolation Firebird
+	8 Flaming Phytoraptor
+	8 Maddening Prediction
+	8 Flora Trailblazer
+	8 Blood Quartz
+	8 Ocean Quartz
+	8 Moss Quartz
+	8 Oil Quartz
+	8 Cloud Quartz
+	8 Selected for Service
+	8 Premonition
+	8 Tribute to Immortality
+	8 Peer Into Chaos
+	8 Feather of Life
+	8 Navigator's Sextant
+	8 Warden of the Weald
+[common | masterpiece(1)]
+	8 Rune Bear
+	8 Replaced Experiment
+	8 Brittle Phoenix
+	8 Elvish Looter
+	8 Espren Scouting Party
+	8 Essence Vial
+	8 Caravan Runner
+	8 Mulling Mystic
+	8 Sifter Elf
+	8 Espren Fanatic
+	8 Latar Spinokelp
+	8 Accumulated Insight
+	8 Focalor's Truthspeaker
+	8 Focalor's Liebinder
+	8 Nexen Forgemaster
+	8 Banishment Beetle
+	8 Crystallized Form
+	8 Phytodactyl
+	8 Frozen Everburn
+	8 Spiral Staircase
+	8 Immolation Firebird
+	8 Flaming Phytoraptor
+	8 Maddening Prediction
+	8 Flora Trailblazer
+	8 Blood Quartz
+	8 Ocean Quartz
+	8 Moss Quartz
+	8 Oil Quartz
+	8 Cloud Quartz
+	8 Selected for Service
+	8 Premonition
+	8 Tribute to Immortality
+	8 Peer Into Chaos
+	8 Feather of Life
+	8 Navigator's Sextant
+	8 Warden of the Weald
+[foil(1)]
+	1 Charan, Flight to Beyond
+	1 Vhalax, Spirit of Expansion
+	1 Quespereth, Conquering Queen
+	1 Astor, Second Herald of Focalor
+	1 Focalor, Speaker of Truth
+	12 Rune Bear
+	12 Replaced Experiment
+	2 Samson, Focalor's Chosen
+	1 Noolo, Rift Imbibed
+	1 Rothan, Star Ablaze
+	1 Ellien, Queen's Praetorian
+	1 Saurex, Spirit of Reclamation
+	1 Focalor, Lattice Maker
+	6 Icewing Phoenix
+	6 Kinkud, Lost Assassin
+	6 Exios, Wandering Paladin
+	6 Samson, Struggling Detective
+	6 Noolo, Enslaved Inventor
+	6 Ashen Egg
+	2 Volcanic Nest
+	12 Brittle Phoenix
+	6 Espren Captain
+	12 Elvish Looter
+	6 Sylvan Skyknight
+	2 Espratan Captain
+	2 Espren Scholar
+	2 Guard-Commander of Espren
+	6 Commander's Dynamo
+	1 Necrolegacy
+	6 Verbose Bonds
+	12 Espren Scouting Party
+	12 Essence Vial
+	6 Medium of Enduring Histories
+	12 Caravan Runner
+	12 Mulling Mystic
+	12 Sifter Elf
+	2 Veteran Vanguard
+	12 Espren Fanatic
+	6 Quespereth's Mystic
+	12 Latar Spinokelp
+	12 Accumulated Insight
+	12 Focalor's Truthspeaker
+	12 Focalor's Liebinder
+	12 Nexen Forgemaster
+	12 Banishment Beetle
+	6 Gigafaunize
+	12 Crystallized Form
+	6 Savage Reclamation
+	6 Leviathan Tyrannosnap
+	12 Phytodactyl
+	2 Crethwood Champion
+	6 Silyph, Crethwood Regent
+	12 Frozen Everburn
+	6 Watch Tower
+	12 Spiral Staircase
+	2 Looming Titan
+	2 Charan of Fallen Ashes
+	2 Horn of Pogrûz
+	12 Immolation Firebird
+	12 Flaming Phytoraptor
+	6 Flawed Duplication
+	12 Maddening Prediction
+	2 Trust In Fate
+	2 Cotay Leadon, Grovetender
+	6 Forest's Harmony
+	2 Grasping Roots
+	12 Flora Trailblazer
+	6 Aurasaurus
+	6 Phantasmal Phalanx
+	2 Paradigm of Expansion
+	12 Blood Quartz
+	12 Ocean Quartz
+	12 Moss Quartz
+	12 Oil Quartz
+	12 Cloud Quartz
+	12 Selected for Service
+	1 Ring of Supremacy
+	6 Plagiarize
+	6 Turn to Stone
+	12 Premonition
+	12 Tribute to Immortality
+	12 Peer Into Chaos
+	2 Profound Ooze
+	6 Wrath of Tradition
+	6 Shred to Pieces
+	6 Cleansing Eruption
+	6 The Conquest of Alvaest
+	6 Malevolent Strix
+	2 Propagating Ooze
+	2 Rummaging Ooze
+	2 Explosive Monologue
+	6 Surge of Inspiration
+	2 Miracle Wings
+	12 Feather of Life
+	6 Growing Fervor
+	6 Growing Heat
+	12 Navigator's Sextant
+	12 Warden of the Weald
+	6 Enraged Everburn
+	2 Last Home, Hunter's Guild
+	6 Last Home, Dead Lands Colony
+	1 Rush of Replication
+	2 Saurian Interrupter
+[wildcard(1)]
+	4 Charan, Flight to Beyond
+	4 Vhalax, Spirit of Expansion
+	4 Quespereth, Conquering Queen
+	4 Astor, Second Herald of Focalor
+	4 Focalor, Speaker of Truth
+	6 Rune Bear
+	6 Replaced Experiment
+	7 Samson, Focalor's Chosen
+	4 Noolo, Rift Imbibed
+	4 Rothan, Star Ablaze
+	4 Ellien, Queen's Praetorian
+	4 Saurex, Spirit of Reclamation
+	4 Focalor, Lattice Maker
+	15 Icewing Phoenix
+	15 Kinkud, Lost Assassin
+	15 Exios, Wandering Paladin
+	15 Samson, Struggling Detective
+	15 Noolo, Enslaved Inventor
+	15 Ashen Egg
+	7 Volcanic Nest
+	6 Brittle Phoenix
+	15 Espren Captain
+	6 Elvish Looter
+	15 Sylvan Skyknight
+	7 Espratan Captain
+	7 Espren Scholar
+	7 Guard-Commander of Espren
+	15 Commander's Dynamo
+	4 Necrolegacy
+	15 Verbose Bonds
+	6 Espren Scouting Party
+	6 Essence Vial
+	15 Medium of Enduring Histories
+	6 Caravan Runner
+	6 Mulling Mystic
+	6 Sifter Elf
+	7 Veteran Vanguard
+	6 Espren Fanatic
+	15 Quespereth's Mystic
+	6 Latar Spinokelp
+	6 Accumulated Insight
+	6 Focalor's Truthspeaker
+	6 Focalor's Liebinder
+	6 Nexen Forgemaster
+	6 Banishment Beetle
+	15 Gigafaunize
+	6 Crystallized Form
+	15 Savage Reclamation
+	15 Leviathan Tyrannosnap
+	6 Phytodactyl
+	7 Crethwood Champion
+	15 Silyph, Crethwood Regent
+	6 Frozen Everburn
+	15 Watch Tower
+	6 Spiral Staircase
+	7 Looming Titan
+	7 Charan of Fallen Ashes
+	7 Horn of Pogrûz
+	6 Immolation Firebird
+	6 Flaming Phytoraptor
+	15 Flawed Duplication
+	6 Maddening Prediction
+	7 Trust In Fate
+	7 Cotay Leadon, Grovetender
+	15 Forest's Harmony
+	7 Grasping Roots
+	6 Flora Trailblazer
+	15 Aurasaurus
+	15 Phantasmal Phalanx
+	7 Paradigm of Expansion
+	6 Blood Quartz
+	6 Ocean Quartz
+	6 Moss Quartz
+	6 Oil Quartz
+	6 Cloud Quartz
+	6 Selected for Service
+	4 Ring of Supremacy
+	15 Plagiarize
+	15 Turn to Stone
+	6 Premonition
+	6 Tribute to Immortality
+	6 Peer Into Chaos
+	7 Profound Ooze
+	15 Wrath of Tradition
+	15 Shred to Pieces
+	15 Cleansing Eruption
+	15 The Conquest of Alvaest
+	15 Malevolent Strix
+	7 Propagating Ooze
+	7 Rummaging Ooze
+	7 Explosive Monologue
+	15 Surge of Inspiration
+	7 Miracle Wings
+	6 Feather of Life
+	15 Growing Fervor
+	15 Growing Heat
+	6 Navigator's Sextant
+	6 Warden of the Weald
+	15 Enraged Everburn
+	7 Last Home, Hunter's Guild
+	15 Last Home, Dead Lands Colony
+	4 Rush of Replication
+	7 Saurian Interrupter

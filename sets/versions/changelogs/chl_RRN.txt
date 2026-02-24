@@ -1,4 +1,42 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+The Poro Parade
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+If you control a Poro, draw a card. Then, amass Poros 1. [i](Put a +1/+1 counter on an Army you control. It's also a Poro. If you don't control an Army, create a 0/0 black Poro Army creature token first.)[/i]
+Create a Food token and amass Poros 1.
+Creatures you control get +X/+X until end of turn, where X is the greatest power among tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — If you control a Poro, draw a card. Then, amass Poros 1. [i](Put a +1/+1 counter on an Army you control. It's also a Poro. If you don't control an Army, create a 0/0 black Poro Army creature token first.)[/i]
+II — Create a Food token and amass Poros 1.
+III — Creatures you control get +X/+X until end of turn, where X is the greatest power among tokens you control.
+
+Malzahar, Prophet of the Void
+rules_text: [i]Magecraft[/i] — Whenever you cast an instant or sorcery spell, manifest dread, except it's a Horror in addition to its other types. [i](Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+{3}{B}: Reveal target face-down permanent. If it's a creature card, you may turn it face-up. If it's a noncreature card, you may exile it and cast it without paying its mana cost. When you do, exile it as it resolves instead of putting it into your graveyard. => [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, manifest dread, except it's a Horror in addition to its other types. [i](Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+{3}{B}: Reveal target face-down permanent. If it's a creature card, you may turn it face-up. If it's a noncreature card, you may exile it and cast it without paying its mana cost. When you do, exile it as it resolves instead of putting it into your graveyard.
+
+Sylas, Revolutionary Unshackled
+rules_text: Menace
+Whenever an opponent casts a noncreature spell, you may pay {1} or tap Sylas. When you do, put a mana counter on Sylas.
+Remove X mana counters, {T}: Copy or counter target noncreature spell with mana value X. You may choose new targets for the copy. => Menace
+Whenever a player casts a noncreature spell, put a mana counter on Sylas.
+Remove X mana counters, {T}: Copy or counter target noncreature spell with mana value X. You may choose new targets for the copy.
+
+March of the Sentinels
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this Saga enters, for each spell, create a 1/1 white Spirit creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+Creatures you control get +1/+1 for each other creature you control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+I, II — When this Saga enters, for each spell, create a 1/1 white Spirit creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+Creatures you control get +1/+1 for each other creature you control.
+​
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

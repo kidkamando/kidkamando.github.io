@@ -1,4 +1,25 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Elise, Coveted Predator
+
+Vilemaw, Twisted Harbinger
+rules_text: Trample, haste
+When Vilemaw enters or attacks, destroy target non-Spider creature.
+Whenever a creature dies, create two 1/1 black Spider creature tokens. => Trample, haste
+When Vilemaw enters or attacks, destroy target non-Spider creature.
+Whenever a nontoken non-Spider creature dies, create two 1/1 black Spider creature tokens.
+
+Mel, Searing Brilliance
+cost: {U}{R}{W} => {1}{U}{R}{W}
+rules_text: Spells you control have trample.
+Whenever you cast a noncreature spell, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Instant and sorcery spells you cast gain trample as you cast them. [i](Excess damage is dealt to its controller.)[/i]
+Whenever you cast a noncreature spell, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

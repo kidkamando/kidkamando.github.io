@@ -1,0 +1,1978 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VLC</name>
+			<longname>Velesta Discovered Commander</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Charan, Flight to Beyond</name>
+			<text>Flying, haste
+Whenever a permanent enters the battlefield under your control, if it entered from a graveyard, each opponent loses 1 life and you gain 1 life.
+When this creature attacks, you mill 3 cards.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/52_Charan, Flight to Beyond.jpg" num="52">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phoenix Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vhalax, Spirit of Expansion</name>
+			<text>When this creature enters, create a tapped green legendary land token named Vhala&apos;Ba-o that is every basic land type with &quot;{2}{W}, {T}: Choose a color. Add one mana of that color for each aura you control.&quot;
+Landfall — Whenever a land enters the field under your control, create a green and red Forest&apos;s Rage aura token attached to target creature. If this is the second time this ability has resolved this turn, create a 2/2 red and green Plant Dinosaur instead.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/78_Vhalax, Spirit of Expansion.jpg" num="78">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quespereth, Conquering Queen</name>
+			<text>Whenever an Elf you control enters the battlefield, you may pay {1}{U}. If you do, draw a card.
+Whenever you discard a card, you may pay {1}{W}. If you do, create a 1/1 white Elf creature token.
+{2}{B}, Sacrifice a nontoken Elf: Elves you control gain +2/+0 and menace until end of turn.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/70_Quespereth, Conquering Queen.jpg" num="70">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astor, Second Herald of Focalor</name>
+			<text>Partner with Focalor, Speaker of Truth.
+{3}, Fatigue Astor: Put a shelter counter on target permanent you control. You may play an additional land this turn. Activate only as a sorcery. (Turn this creature face down. It becomes a 1/1 Rift Avatar with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery.&quot; When this creature would untap, turn it face up.)
+Landfall — Predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/80_Astor, Second Herald of Focalor.jpg" num="80">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G/UW</manacost>
+				<cmc>2</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Focalor, Speaker of Truth</name>
+			<text>Partner with Astor, Herald of Focalor.
+Focalor isn&apos;t a creature unless she has at least three shelter counters on her. (This creature has ward {X}, where X is the number of Shelter counters on it. Whenever this creature is targeted, remove a Shelter counter from it.)
+Creatures you cast from exile enter with two additional +1/+1 counters on them.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/85_Focalor, Speaker of Truth.jpg" num="85">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cleric God</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/WG/WUU</manacost>
+				<cmc>6</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rune Bear</name>
+			<text>Vigilance
+When this creature enters, put a shelter counter on it. (This creature has ward {X}, where X is the number of Shelter counters on it. Whenever this creature is targeted, remove a Shelter counter from it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/72_Rune Bear.jpg" num="72">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Replaced Experiment</name>
+			<text>Destroy target nonland permanent. Its controller creates a 2/2 white and green Bear creature token that enters with a shelter counter on it. (That permanent has ward {X}, where X is the number of Shelter counters on it. Whenever that permanent is targeted, remove a Shelter counter from it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/6_Replaced Experiment.jpg" num="6">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Samson, Focalor&apos;s Chosen</name>
+			<text>Spiders your opponents control have protection from Samson.
+Whenever Samson or another creature you control leaves the field, if it had counters on it, put those counters on up to one target permanent.
+When Samson dies, create a 1/1 white Spirit creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/7_Samson, Focalor&apos;s Chosen.jpg" num="7">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Tiefling Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noolo, Rift Imbibed</name>
+			<text>Noolo can be your commander.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/90_Noolo, Rift Imbibed.jpg" num="90">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Noolo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UW/B</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rothan, Star Ablaze</name>
+			<text>Flying, haste
+Desperate — When this creature attacks, if you have no cards in hand, exile cards from the top of your library until you reveal a Phoenix. Put that card into your graveyard and the rest on the bottom of your library in a random order.
+{2}{R}, Sacrifice a nontoken creature: Return this creature from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/71_Rothan, Star Ablaze.jpg" num="71">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ellien, Queen&apos;s Praetorian</name>
+			<text>Vigilance
+Whenever an ability of an Elf you control is activated, it gains +1/+1 until end of turn.
+When this creature attacks, activated abilities of creatures you control cost {1} less until end of turn.
+{1}{U}{U}: Untap another target Elf you control.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/56_Ellien, Queen&apos;s Praetorian.jpg" num="56">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saurex, Spirit of Reclamation</name>
+			<text>Enchanted creatures you control get +1/+0.
+{2}, {T}, Exile your hand: Put X shelter counters on target creature you control, where X is half the number of cards you exiled, rounded up. At the beginning of your end step, return all cards exiled this way to your hand. (This creature has ward {X}, where X is the number of Shelter counters on it. Whenever this creature is targeted, remove a Shelter counter from it.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/73_Saurex, Spirit of Reclamation.jpg" num="73">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Focalor, Lattice Maker</name>
+			<text>When Focalor enters, put a +1/+1 counter on target creature and create a legendary emblem named Uvathkolsil&apos;s Lattice with &quot;{5}: Exile target creature. Its controller distributes +1/+1 counters on creatures they control equal to its mana value and draws a card. Activate only once each turn and only if you control a permanent named Focalor, Lattice Maker.&quot;
+{2}: Predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)
+{4}, {T}: Proliferate.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/60_Focalor, Lattice Maker.jpg" num="60">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icewing Phoenix</name>
+			<text>Flying
+Desperate — If you have no cards in hand, you may pay {1}{U}. If you do, return this creature from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/15_Icewing Phoenix.jpg" num="15">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kinkud, Lost Assassin</name>
+			<text>Sacrifice Kinkud: Target creature you control gains hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/23_Kinkud, Lost Assassin.jpg" num="23">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exios, Wandering Paladin</name>
+			<text>Exios&apos; power is equal to the number of auras you control.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/4_Exios, Wandering Paladin.jpg" num="4">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Samson, Struggling Detective</name>
+			<text>{1}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/92_Samson, Struggling Detective.jpg" num="92">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Tiefling Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noolo, Enslaved Inventor</name>
+			<text>{T}: Put a stun counter on target creature without a stun counter.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/89_Noolo, Enslaved Inventor.jpg" num="89">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Minotaur Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashen Egg</name>
+			<text>{1}{R}, Sacrifice this creature: Return target creature from your graveyard to the battlefield.
+Desperate — If you have no cards in hand, when this creature dies, you may Bestow {2}{R}. (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+Enchanted creature gets +1/+1, flying, and haste.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/29_Ashen Egg.jpg" num="29">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Phoenix Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volcanic Nest</name>
+			<text>Enchant land
+Enchanted land has &quot;{2}{R}, {T}: Create a 2/1 red Phoenix creature token with flying and haste.&quot;</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/39_Volcanic Nest.jpg" num="39">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brittle Phoenix</name>
+			<text>Menace, haste
+As an additional cost to cast this spell, sacrifice a creature.
+Desperate — If you have no cards in hand, you may pay {1}{B} and sacrifice a creature. If you do, return this creature from your graveyard to the battlefield under your control.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/20_Brittle Phoenix.jpg" num="20">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Espren Captain</name>
+			<text>Whenever an Elf you control enters, you may pay {1}. If you do, draw a card.
+{B}, {T}: Discard a card from your hand, then draw a card. You lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/57_Espren Captain.jpg" num="57">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Looter</name>
+			<text>{1}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/12_Elvish Looter.jpg" num="12">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sylvan Skyknight</name>
+			<text>Flying
+When this creature attacks while saddled, it gains +X/+X where X is the total power of creatures that saddled it this turn.
+Saddle 1</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/95_Sylvan Skyknight.jpg" num="95">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffon Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>3W/U</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Espratan Captain</name>
+			<text>Vigilance
+When this creature enters or attacks, you may pay {2}. If you do, you may return target Elf with mana value 4 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/3_Espratan Captain.jpg" num="3">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Espren Scholar</name>
+			<text>{2}, {T}: Copy target triggered or activated ability you control that isn&apos;t a mana ability. You lose 3 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/84_Espren Scholar.jpg" num="84">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guard-Commander of Espren</name>
+			<text>Other Elf creatures you control get +2/+2 as long as you discarded a card this turn.
+At the beginning of your upkeep, create a 1/1 white Elf creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/87_Guard-Commander of Espren.jpg" num="87">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W/B</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Commander&apos;s Dynamo</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}: Add two mana of any color for each colored mana from lands spent to activate this ability. Spend this mana only to cast your commander.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/99_Commander&apos;s Dynamo.jpg" num="99">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Necrolegacy</name>
+			<text>Skip your draw step.
+Whenever you discard a card, exile that card from your graveyard.
+{B}, Pay 1 life: Exile the top card of your library face-down. At the beginning of your end step, put that card into your hand.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/26_Necrolegacy.jpg" num="26">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Verbose Bonds</name>
+			<text>When this enchantment enters, choose a creature type.
+Verbose Bonds is the chosen type in addition to its other types.
+Creatures of the chosen type you control get +1/+1.
+Whenever an opponent casts their second spell each turn, create a 1/1 white Kindred Spirit creature token which is the chosen type in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/10_Verbose Bonds.jpg" num="10">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Espren Scouting Party</name>
+			<text>When this creature enters, create two 1/1 white Elf creature tokens and lose 2 life.
+Desperate — {T}: If you have no cards in hand, draw a card and lose 1 life. Otherwise, discard a card and put two -1/-1 counters on target creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/21_Espren Scouting Party.jpg" num="21">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Essence Vial</name>
+			<text>At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Desperate — {T}: If you have no cards in hand, create two 1/1 white Elf creature tokens.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/22_Essence Vial.jpg" num="22">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Medium of Enduring Histories</name>
+			<text>Discard a card, Sacrifice this card: Creatures you control gain hexproof and indestructible until end of turn.
+Desperate — If you have no cards in hand, you may pay {3}{B}. If you do, return this card from your graveyard to the battlefield with a finality counter on it and draw a card. You lose 2 life.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/25_Medium of Enduring Histories.jpg" num="25">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caravan Runner</name>
+			<text>{1}{B}: Return this card from your graveyard to your hand.
+When you discard this card, you may pay {U}. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/51_Caravan Runner.jpg" num="51">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mulling Mystic</name>
+			<text>Desperate — When Mulling Mystic enters, if you have no cards in hand, draw two cards.
+{3}{U}: Create a token copy of target Elf you control except its an Illusion in addition to its other types and has &quot;When this creature becomes the target of a spell, sacrifice it.&quot;</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/16_Mulling Mystic.jpg" num="16">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sifter Elf</name>
+			<text>When this creature enters, draw a card.
+{T}: Add one mana of any color and lose 1 life.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/94_Sifter Elf.jpg" num="94">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veteran Vanguard</name>
+			<text>At the beginning of your end step, untap each creature you control.
+{B}, Discard a card: Reveal the top card of your deck. Put it into your hand and you lose life equal to its mana value.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/77_Veteran Vanguard.jpg" num="77">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Espren Fanatic</name>
+			<text>When this creature enters, you gain 1 life.
+When this creature dies, target creature gets -1/-1 until end of turn.
+Desperate — {B}, {T}, Sacrifice this card: If you have no cards in hand, create a treasure token and draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/83_Espren Fanatic.jpg" num="83">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>W/B</manacost>
+				<cmc>1</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quespereth&apos;s Mystic</name>
+			<text>Whenever you draw your second card each turn, create a 1/1 white Elf creature token.
+Whenever you discard your second card each turn, draw a card and gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/91_Quespereth&apos;s Mystic.jpg" num="91">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/BU</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Latar Spinokelp</name>
+			<text>{R}{G}: Adapt 2 (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+When one or more +1/+1 counters are put on this creature, you may sacrifice a land. If you do, search your library for a land with a basic land type and put it on the battlefield tapped.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/62_Latar Spinokelp.jpg" num="62">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accumulated Insight</name>
+			<text>Draw a card, then draw cards equal to the number of cards named Accumulated Insight in your graveyard. If you drew greater than three cards this way, pay {3} or discard cards equal to the difference.
+A deck can have up to six cards named Accumulated Insight.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/11_Accumulated Insight.jpg" num="11">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Focalor&apos;s Truthspeaker</name>
+			<text>{1}, Fatigue Focalor&apos;s Truthspeaker: Fatigue target nonland permanent. (Turn this creature face down. It becomes a 1/1 Rift Avatar with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery.&quot; When this creature would untap, turn it face up.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/14_Focalor&apos;s Truthspeaker.jpg" num="14">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Focalor&apos;s Liebinder</name>
+			<text>{1}, Fatigue Focalor&apos;s Liebinder: Fatigue target creature. (Turn this creature face down. It becomes a 1/1 Rift Avatar with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery.&quot; When this creature would untap, turn it face up.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/86_Focalor&apos;s Liebinder.jpg" num="86">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW/U</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nexen Forgemaster</name>
+			<text>Whenever an Aura enters the battlefield under your control, you may pay {2}. If you do, create a +1 Longsword artifact equipment token with &quot;Equipped creature gets +2/+1&quot; and &quot;Equip {2}&quot;.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/88_Nexen Forgemaster.jpg" num="88">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Banishment Beetle</name>
+			<text>Whenever you exile one or more a cards you control or from your hand, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/81_Banishment Beetle.jpg" num="81">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gigafaunize</name>
+			<text>All creatures you control with base power and toughness less than 3/3 have base power and toughness 3/3.
+Desperate — Sacrifice this enchantment: Put two +1/+1 counters on each creature you control. Activate only if you have no cards in hand.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/44_Gigafaunize.jpg" num="44">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crystallized Form</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+When this enchantment enters, put a shelter counter on enchanted creature. (This permanent has ward {X}, where X is the number of Shelter counters on it. Whenever this permanent is targeted, remove a Shelter counter from it.)
+When this card becomes exiled from your hand, you may pay {2}. Create a copy of it attached to target creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/2_Crystallized Form.jpg" num="2">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Savage Reclamation</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+0.
+When this enchantment enters, exile target nonland permanent an opponent controls with mana value 4 or less.
+When this enchantment leaves the field, that opponent creates an X/X green and red Plant Dinosaur creature token, where X is the mana value of the exiled card plus 1.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/74_Savage Reclamation.jpg" num="74">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leviathan Tyrannosnap</name>
+			<text>When this creature enters, creatures you control gain haste until end of turn. Then, create a Monster Role token attached to each creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/63_Leviathan Tyrannosnap.jpg" num="63">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3RRGG</manacost>
+				<cmc>7</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phytodactyl</name>
+			<text>Flying
+When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/68_Phytodactyl.jpg" num="68">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crethwood Champion</name>
+			<text>Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, put a +1/+1 counter on this creature and draw a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/41_Crethwood Champion.jpg" num="41">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silyph, Crethwood Regent</name>
+			<text>Vigilance
+{2}, {T}: Create a copy of target aura you control that doesn&apos;t have the same name as an aura attached to this creature. It enters attached to this creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/75_Silyph, Crethwood Regent.jpg" num="75">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frozen Everburn</name>
+			<text>Flying
+This creature enters tapped with three stun counters on it.
+When this creature attacks, draw a card, then discard a card.
+{1}{U}: Untap Frozen Everburn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/61_Frozen Everburn.jpg" num="61">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watch Tower // Stocked Armory</name>
+			<text>Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 1/1 red and white Soldier creature token.
+
+---
+
+At the beginning of combat, put a +1/+1 counter on target creature for each enchantment and fully unlocked Room you control.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/98_Watch Tower.jpg" num="98">VLC</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RW // 3GW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spiral Staircase // Seed Storage</name>
+			<text>When you unlock this door, exile target nonland permanent you control, then return it to the battlefield under its owner&apos;s control.
+
+---
+
+When you unlock this door, search your library for a land card and put it onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/97_Spiral Staircase.jpg" num="97">VLC</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Enchantment — Room</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W // 2G</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Looming Titan</name>
+			<text>When this creature enters or attacks, exile target creature from your graveyard. Create a token copy with Impending 3 that is an enchantment in addition to its other types.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/5_Looming Titan.jpg" num="5">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charan of Fallen Ashes</name>
+			<text>First strike, haste
+Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+Whenever this creature deals combat damage to a player, you may return target creature with mana value 2 or less from your graveyard to the battlefield tapped. If you have the city&apos;s blessing, you may return target creature with mana value 4 or less instead.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/53_Charan of Fallen Ashes.jpg" num="53">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phoenix Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horn of Pogrûz</name>
+			<text>Burst — Whenever you cast a spell, if you&apos;ve cast at least three spells this turn, create a 1/1 red and white Soldier creature token.
+{T}, Sacrifice this artifact: Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/34_Horn of Pogrûz.jpg" num="34">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Immolation Firebird</name>
+			<text>Flying
+{1}{R}, Sacrifice this creature: Deal 3 damage to target creature.
+Desperate — If you have no cards in hand, you may pay {1}{R}. If you do, return this creature from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/35_Immolation Firebird.jpg" num="35">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flaming Phytoraptor</name>
+			<text>When this creature enters or is dealt damage, create a 2/2 red and green Plant Dinosaur creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/31_Flaming Phytoraptor.jpg" num="31">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flawed Duplication</name>
+			<text>Enchant creature
+At the beginning of your upkeep, create a token copy of enchanted creature. Then, fatigue enchanted creature. (Turn that permanent face down. It becomes a 1/1 Rift Avatar with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery.&quot; When that permanent would untap, turn it face up.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/13_Flawed Duplication.jpg" num="13">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maddening Prediction</name>
+			<text>Scry 2, then predict 1 twice. You lose two life. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/24_Maddening Prediction.jpg" num="24">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trust In Fate</name>
+			<text>As an additional cost, discard any number of cards.
+Predict 2 X times, where X was the number of cards discarded this way plus one. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/38_Trust In Fate.jpg" num="38">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cotay Leadon, Grovetender</name>
+			<text>Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+{2}{G}, Sacrifice a land: Draw a card, then, if you have the city&apos;s blessing, you may pay {1}. If you do, create a 1/1 green Dryad land creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/40_Cotay Leadon, Grovetender.jpg" num="40">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest&apos;s Harmony</name>
+			<text>Enchant land
+Enchanted land has &quot;{2}, {T}: Put two +1/+1 counters on target Plant you control.&quot;
+When this enchantment enters, draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/43_Forest&apos;s Harmony.jpg" num="43">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grasping Roots</name>
+			<text>Put a stun counter on all creatures and Fatigue them. (Turn those permanents face down. It becomes a 1/1 Rift Avatar with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery.&quot; When those permanents would untap, turn them face up.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/45_Grasping Roots.jpg" num="45">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flora Trailblazer</name>
+			<text>Burst — Whenever you cast this spell, if you&apos;ve cast at least three spells this turn, add one mana of any color.
+Whenever another nontoken creature with power 4 or greater enters under your control, draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/42_Flora Trailblazer.jpg" num="42">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aurasaurus</name>
+			<text>Whenever another nontoken Plant Dinosaur enters under your control, destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/50_Aurasaurus.jpg" num="50">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phantasmal Phalanx</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+0.
+Whenever enchanted creature attacks, create X 1/1 white Spirit creature tokens, where X is its power.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/67_Phantasmal Phalanx.jpg" num="67">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Paradigm of Expansion</name>
+			<text>Enchant creature
+When this enchantment enters, enchanted creature gets a shelter counter. (This permanent has ward {X}, where X is the number of Shelter counters on it. Whenever this permanent is targeted, remove a Shelter counter from it.)
+Whenever enchanted creature attacks, create a 1/1 Forest Dryad land creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/66_Paradigm of Expansion.jpg" num="66">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood Quartz</name>
+			<text>When this artifact enters, deal 2 damage to target creature.
+{T}: Add {R}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/30_Blood Quartz.jpg" num="30">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ocean Quartz</name>
+			<text>When this artifact enters, predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)
+{T}: Add {U}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/17_Ocean Quartz.jpg" num="17">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moss Quartz</name>
+			<text>When this artifact enters, put a shelter counter on target creature. (This permanent has ward {X}, where X is the number of Shelter counters on it. Whenever this permanent is targeted, remove a Shelter counter from it.)
+{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/46_Moss Quartz.jpg" num="46">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oil Quartz</name>
+			<text>When this artifact enters, return target creature in your graveyard with mana value 3 or less to the battlefield.
+{T}: Add {B}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/27_Oil Quartz.jpg" num="27">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cloud Quartz</name>
+			<text>When this artifact enters, exile target creature you control, then return it to the battlefield under its owner&apos;s control.
+{T}: Add {W}.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/1_Cloud Quartz.jpg" num="1">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Selected for Service</name>
+			<text>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Create a 1/1 white Elf creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/9_Selected for Service.jpg" num="9">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ring of Supremacy</name>
+			<text>This artifact enters with one supremacy counter.
+{T}: Add a supremacy counter to this artifact.
+{2}, {T}: Draw cards equal to the number of supremacy counters on this artifact.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/101_Ring of Supremacy.jpg" num="101">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plagiarize</name>
+			<text>Destroy target nonland permanent. You create a token copy of that permanent.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/69_Plagiarize.jpg" num="69">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Turn to Stone</name>
+			<text>Fatigue target creature and put two stun counters on it. (Turn that permanent face down. It becomes a 1/1 Rift Avatar with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery.&quot; When that permanent would untap, turn it face up.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/19_Turn to Stone.jpg" num="19">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Premonition</name>
+			<text>Predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)
+Desperate — If you have no cards in hand, this spell has flashback {1}{U}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/18_Premonition.jpg" num="18">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tribute to Immortality</name>
+			<text>Sacrifice a creature you control. Then, return target Phoenix in your graveyard to the battlefield.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/28_Tribute to Immortality.jpg" num="28">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peer Into Chaos</name>
+			<text>Predict 2, then predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/36_Peer Into Chaos.jpg" num="36">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Profound Ooze</name>
+			<text>{G}: Exile target card from a graveyard. If it was a creature from your graveyard, you may pay {X}, where X is its mana value. If you do, plot it.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/47_Profound Ooze.jpg" num="47">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrath of Tradition</name>
+			<text>Kicker {1}{W}{W}. (You may pay an additional {1}{W}{W} as you cast this spell.)
+Destroy target artifact or enchantment you don&apos;t control. If this spell was kicked, destroy each artifact or enchantment you don&apos;t control instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/79_Wrath of Tradition.jpg" num="79">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shred to Pieces</name>
+			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Exile target creature. If this spell was kicked, exile target nonland permanent instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/93_Shred to Pieces.jpg" num="93">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cleansing Eruption</name>
+			<text>Destroy X target creatures, draw X cards, then create X Treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/54_Cleansing Eruption.jpg" num="54">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXUBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Conquest of Alvaest</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/55_The Conquest of Alvaest.jpg" num="55">VLC</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Malevolent Strix</name>
+			<text>Flying, deathtouch
+When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/64_Malevolent Strix.jpg" num="64">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Propagating Ooze</name>
+			<text>{G}: Exile target card from a graveyard. If it was an instant or sorcery card, you may pay {W}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/48_Propagating Ooze.jpg" num="48">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rummaging Ooze</name>
+			<text>{G}: Exile target card from a graveyard. If it was an instant or sorcery card, you may pay {R}. If you do, discard a card then draw a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/49_Rummaging Ooze.jpg" num="49">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explosive Monologue</name>
+			<text>When this enchantment enters, predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)
+Burst — Whenever you cast a spell, if you&apos;ve cast at least three spells this turn, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/58_Explosive Monologue.jpg" num="58">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Surge of Inspiration</name>
+			<text>Predict 3. Draw a card, then discard a card. (Exile the top three cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/76_Surge of Inspiration.jpg" num="76">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Miracle Wings</name>
+			<text>Whenever a Phoenix you control enters, if it entered from a graveyard, create a 1/1 red Phoenix creature token with flying, haste, and &quot;This creature can&apos;t block.&quot;</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/65_Miracle Wings.jpg" num="65">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Phoenix</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Feather of Life</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control, except it is a Phoenix in addition to its other types. Then, create a Wicked role attached to it.&quot;</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/59_Feather of Life.jpg" num="59">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Growing Fervor</name>
+			<text>Enchant creature
+Enchanted creature gains +1/+0.
+At the beginning of your upkeep, put a charge counter on this enchantment.
+When enchanted creature attacks, create X 1/1 Phoenix creature tokens with flying, haste, and &quot;This creature can&apos;t block&quot;, where X is the number of charge counters on this card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/32_Growing Fervor.jpg" num="32">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Growing Heat</name>
+			<text>Enchant creature
+Enchanted creature gains +1/+0.
+At the beginning of your upkeep, put a charge counter on this enchantment.
+When enchanted creature attacks, this enchantment deals damage equal to the number of charge counters on this card to any target.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/33_Growing Heat.jpg" num="33">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Navigator&apos;s Sextant</name>
+			<text>When Navigator&apos;s Sextant enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}, {T}, Sacrifice this artifact: Add one mana of any color and draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/100_Navigator&apos;s Sextant.jpg" num="100">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warden of the Weald</name>
+			<text>Flash
+When this creature enters, put two shelter counters on target creature you control. (This creature has ward {X}, where X is the number of Shelter counters on it. Whenever this creature is targeted, remove a Shelter counter from it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/96_Warden of the Weald.jpg" num="96">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enraged Everburn</name>
+			<text>Flying
+Whenever you discard a card, this creature gets a +1/+1 counter.
+{1}{R}, Discard a card: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/82_Enraged Everburn.jpg" num="82">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Last Home, Hunter&apos;s Guild</name>
+			<text>When Last Home, Hunter&apos;s Guild enters, scry 1.
+{T}: Add {C}.
+{T}, Pay 2 life: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/103_Last Home, Hunter&apos;s Guild.jpg" num="103">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Last Home, Dead Lands Colony</name>
+			<text>{T}: Add {C}.
+{T}: Add two mana of any one color. Spend this mana only to cast spells with mana value 6 or greater.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VLC-files/img/102_Last Home, Dead Lands Colony.jpg" num="102">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rush of Replication</name>
+			<text>Create a token that&apos;s a copy of target creature you control.
+Burst — When you cast this spell, if you&apos;ve cast three or more spells this turn, create an additional token of that creature, except those tokens aren&apos;t legendary if that creature is legendary. Otherwise, sacrifice it at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/37_Rush of Replication.jpg" num="37">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Saurian Interrupter</name>
+			<text>Flash
+Flying
+Burst — When you cast this spell, if you&apos;ve cast at least three spells this turn, exile target spell or nonland permanent. It becomes plotted.
+Spells your opponents cast from graveyards, exile, or libraries cost {2} more to cast.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VLC-files/img/8_Saurian Interrupter.jpg" num="8">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uvathkolsil&apos;s Lattice VLC</name>
+			<text>{5}: Exile target creature. Its controller distributes +1/+1 counters on creatures they control equal to its mana value and draws a card. Activate only once each turn and only if you control a permanent named Focalor, Lattice Maker.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/1t_Uvathkolsil&apos;s Lattice.jpg" num="1">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Phoenix VLC</name>
+			<text>Flying, haste
+This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/2t_Phoenix.jpg" num="2">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bear VLC</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/3t_Bear.jpg" num="3">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forest&apos;s Rage VLC</name>
+			<text>Enchant creature
+Enchanted creature has +1/+1.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/4t_Forest&apos;s Rage.jpg" num="4">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plant Dinosaur VLC</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/5t_Plant Dinosaur.jpg" num="5">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plant Dinosaur VLC</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/6t_Plant Dinosaur.jpg" num="6">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>+1 Longsword VLC</name>
+			<text>Equipped creature gets +2/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/7t_+1 Longsword.jpg" num="7">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Tuulvoke Crystal VLC</name>
+			<text>When this artifact enters, exile target card from your hand.
+{T}, Sacrifice this artifact: You may play the exiled card until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VLC-files/img/8t_Tuulvoke Crystal.jpg" num="8">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Tuulvoke Crystal</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Vhala&apos;Ba-o VLC</name>
+			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)
+{2}{W}, {T}: Choose a color. Add one mana of that color for each aura you control.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VLC-files/img/9t_Vhala&apos;Ba-o.jpg" num="9">VLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Token Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

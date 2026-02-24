@@ -1,8 +1,8 @@
 ﻿{
     "name": "Velesta Wartorn",
-    "formats": "Eternal,Commander,VBC",
-    "trimmed": "y",
-    "image_type": "png",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -13,7 +13,7 @@
             "number": 252,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
-            "rules_text": "Crusade [i](Increase your morale by 1. Once during your turn, when an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)[/i]\nAt the beginning of each upkeep, create a 1/1 Soldier creature token.",
+            "rules_text": "Crusade [i](Increase your morale by 1. Once during your turn, when an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)[/i]\nAt the beginning of each upkeep, create a 1/1 white Soldier creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -931,7 +931,7 @@
             "number": 196,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Flash\nWhen this artifact enters, attach it to target creature you control.\nWhen the equipped creature dies, if it was attacking, create X 1/1 green Plant creature tokens where X is that creature's power.\nEquip {2}{G}",
+            "rules_text": "Flash\nWhen this artifact enters, attach it to target creature you control.\nWhen equipped creature dies, if it wasn't sacrificed, create X 1/1 green Plant creature tokens where X is that creature's power.\nEquip {2}{G}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1219,7 +1219,7 @@
             "number": 75,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Look at the top four cards of your library. Put two on the bottom of your library in any order. Then, predict 2 twice. [i](Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i]",
+            "rules_text": "Look at the top four cards of your library. Put two on the bottom of your library in any order. Then predict 2, predict 2. [i](Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4675,7 +4675,7 @@
             "number": 189,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "When this creature deals combat damage to a player, your next spell this turn costs {X} less, where X is the damage dealt.\n[i]Burst[/i] \u2014 Whenever you cast a spell, if you've cast three or more spells this turn, you may pay {R}. If you do, put a +1/+1 counter on this card.",
+            "rules_text": "When this creature deals combat damage to a player, your next spell this turn costs {X} less to cast, where X is the damage dealt.\n[i]Burst[/i] \u2014 Whenever you cast a spell, if you've cast three or more spells this turn, you may pay {R}. If you do, put a +1/+1 counter on this card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5866,7 +5866,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle.\nHunt target creature. [i](Put a prey counter on that creature. It becomes a Food artifact in addition to its other types and has \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\nPut X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII, III \u2014 Hunt target creature. [i](Put a prey counter on that creature. It becomes a Food artifact in addition to its other types and has \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\nIV \u2014 Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control.",
             "shape": "saga",
             "set": "VWT",
             "loyalty": "",
@@ -7206,5 +7206,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

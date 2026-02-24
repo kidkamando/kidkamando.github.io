@@ -1,8 +1,8 @@
 ﻿{
     "name": "Velesta Discovered Commander",
-    "formats": "Eternal,Commander",
-    "trimmed": "y",
-    "image_type": "png",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -517,7 +517,7 @@
             "number": 26,
             "color_identity": "B",
             "cost": "{B}{B}{B}",
-            "rules_text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay {B} and 1 life: Exile the top card of your library face-down. Put it into your hand at the beginning of your end step.",
+            "rules_text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\n{B}, Pay 1 life: Exile the top card of your library face-down. At the beginning of your end step, put that card into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -607,7 +607,7 @@
             "number": 51,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "While this card is in your graveyard, you may pay {1}{B}. If you do, return it to your hand.\nWhen you discard this card, you may pay {U}. If you do, draw a card.",
+            "rules_text": "{1}{B}: Return this card from your graveyard to your hand.\nWhen you discard this card, you may pay {U}. If you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -823,7 +823,7 @@
             "number": 44,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "All creatures you control with base power and toughness less than 3/3 have base power and toughness 3/3.\n[i]Desperate[/i] \u2014 If you have no cards in hand, you may sacrifice this enchantment. If you do, put two +1/+1 counters on each creature you control.",
+            "rules_text": "All creatures you control with base power and toughness less than 3/3 have base power and toughness 3/3.\n[i]Desperate[/i] \u2014 Sacrifice this enchantment: Put two +1/+1 counters on each creature you control. Activate only if you have no cards in hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1509,7 +1509,7 @@
             "number": 47,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "{G}: Exile a card from a graveyard. If it was a creature from your graveyard, you may pay {X}, where X is its mana value. If you do, plot it.",
+            "rules_text": "{G}: Exile target card from a graveyard. If it was a creature from your graveyard, you may pay {X}, where X is its mana value. If you do, plot it.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1584,7 +1584,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Create two 1/1 white Elf creature token.\nII \u2014 For each opponent exile target nonland permanent.\nIII \u2014 Draw a card for each creature you control with power 3 or less, then discard two cards.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create two 1/1 white Elf creature token.\nII \u2014 For each opponent exile target nonland permanent.\nIII \u2014 Draw a card for each creature you control with power 3 or less, then discard two cards.",
             "shape": "saga",
             "set": "VLC",
             "loyalty": "",
@@ -1851,7 +1851,7 @@
             "number": 37,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Create a token that's a copy of copy target creature you control.\n[i]Burst[/i] \u2014 When you cast this spell, if you've cast three or more spells this turn, create an additional token of that creature, except those tokens aren't legendary if that creature is legendary. Otherwise, sacrifice it at the beginning of the next end step.",
+            "rules_text": "Create a token that's a copy of target creature you control.\n[i]Burst[/i] \u2014 When you cast this spell, if you've cast three or more spells this turn, create an additional token of that creature, except those tokens aren't legendary if that creature is legendary. Otherwise, sacrifice it at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2042,5 +2042,5 @@
             "notes": "Vhala'Ba-o is a Baobab tree"
         }
     ],
-    "version": 1
+    "version": 2
 }

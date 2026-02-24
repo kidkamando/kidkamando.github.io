@@ -1,4 +1,168 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Absent Archive
+special_text: When this artifact enters, return target nonland permanent to its owner's hand. They mill cards equal to its mana value.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+At the beginning of your upkeep, target player mills a card. [3/4] => When this artifact enters, return target nonland permanent to its owner's hand. They mill cards equal to its mana value.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] Flying
+At the beginning of your upkeep, target player mills a card. [3/4]
+
+Orbital Deployment Railcannon
+special_text: {R}, Sacrifice this Spacecraft: Draw a card. The next spell you cast this turn can't be countered. Activate only as a sorcery.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, trample [5/5] => {R}, Sacrifice this Spacecraft: Draw a card. The next spell you cast this turn can't be countered. Activate only as a sorcery.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 10+] Flying, trample [5/5]
+
+Covenant Transportship
+special_text: When this Spacecraft enters, create two 1/1 white Thax Soldier Ally creature tokens.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying, lifelink [3/4] => When this Spacecraft enters, create two 1/1 white Thax Soldier Ally creature tokens.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 9+] Flying, lifelink [3/4]
+
+Gusting Wavemaker
+rules_text: Flying
+When this creature enters, up to one target creature has base power and toughness 4/4 and gains flying until end of turn.
+Warp {1}{U} [i](You may cast this card from your hand for its warp cost. Exile this enchantment creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Flying
+When this creature enters, up to one target creature has base power and toughness 4/4 and gains flying until end of turn.
+Warp {1}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Curated Corvette
+special_text: {T}: Draw a card, then discard a card.
+{1}: Put a charge counter on this Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [3/4] => {T}: Draw a card, then discard a card.
+{1}: Put a charge counter on this Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [3/4]
+
+Duskborn Corvette
+special_text: At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, deathtouch [2/4] => At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] Flying, deathtouch [2/4]
+
+Curated Reshaper
+special_text: You may play an additional land on each of your turns.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 11+] Flying, trample
+Other creatures you control get +2/+2. [6/5] => You may play an additional land on each of your turns.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 11+] Flying, trample
+Other creatures you control get +2/+2. [6/5]
+
+Weather Satellite
+special_text: At the beginning of your upkeep, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying [2/3] => At the beginning of your upkeep, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] Flying [2/3]
+
+Conman's Wurmway
+rules_text: Flash
+Whenever a permanent an opponent controls would enter, you may sacrifice this enchantment. When you do, draw two cards and if that permanent wasn't cast, exile it instead. => Flash
+Whenever a permanent an opponent controls would enter, you may sacrifice this enchantment. When you do, draw two cards and if that nonland permanent wasn't cast, exile it instead.
+
+Darklight Mirrorship
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] At the beginning of combat on your turn, choose a creature that stationed this Spacecraft this turn. Create a token copy of it. It gains haste. Sacrifice it at the beginning of the next end step.
+[level 7+] Whenever a token you control would deal damage to an opponent, it deals double that damage instead. => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 2+] At the beginning of combat on your turn, choose a creature that stationed this Spacecraft this turn. Create a token copy of it. It gains haste. Sacrifice it at the beginning of the next end step.
+[level 7+] Whenever a token you control would deal damage to an opponent, it deals double that damage instead.
+
+Scrambler Satellite
+special_text: When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying, trample
+Whenever this Spacecraft attacks, target player mills ten cards. [7/9] => When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 3+] Flying, trample
+Whenever this Spacecraft attacks, target player mills ten cards. [7/9]
+
+Rhest's Reinforcements
+rules_text: Tunneling {2}{R}{W} [i](Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)[/i]
+When this enchantment enters, create four 1/1 white Thax Soldier Ally creature tokens.
+At the beginning of each end step, if this creature's tunneling cost was paid this turn, shuffle it into its owner's library. => Tunneling {2}{R}{W} [i](Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its Tunneling cost.)[/i]
+When this enchantment enters, create four 1/1 white Thax Soldier Ally creature tokens.
+At the beginning of each end step, if this enchantment's tunneling cost was paid this turn, shuffle it into its owner's library.
+
+Coalition Tradeship
+special_text: {1}, {T}: Create a tapped Treasure token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 5+] Flying, vigilance
+{T}, Sacrifice an artifact: Draw a card. [3/2] => {1}, {T}: Create a tapped Treasure token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Flying, vigilance
+{T}, Sacrifice an artifact: Draw a card. [3/2]
+
+Curated Seedpod
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 1+] {1}, {T}, Sacrifice this artifact: Create a Wastes basic land token. [i](It's a colorless land with “{T}: Add {C}.”)[/i]
+[level 3+] Flying
+{T}, Sacrifice this artifact: Choose a basic land type. Target land you control becomes that type in addition to its other types. [3/2] => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 1+] {1}, {T}, Sacrifice this artifact: Create a Wastes basic land token. [i](It's a colorless land with “{T}: Add {C}.”)[/i]
+[level 3+] Flying
+{T}, Sacrifice this artifact: Choose a basic land type. Target land you control becomes that type in addition to its other types. [3/2]
+
+Exotic Utopia
+special_text: {T}: Add one mana of any color that a land another player controls could produce.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {T}: Add two mana of any one color. => {T}: Add one mana of any color that a land another player controls could produce.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] {T}: Add two mana of any one color.
+
+Genetic Goopworld
+special_text: This land enters tapped.
+{T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 5+] Vigilance
+This creature is an Ooze in addition to its other types. [3/3] => This land enters tapped.
+{T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Vigilance
+This creature is an Ooze in addition to its other types. [3/3]
+
+Obstructing Asteroid
+special_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 4+] {T}, Sacrifice this land: Destroy target land. You and that land's controller each create a Wastes basic land token. [i](It's a colorless land with “{T}: Add {C}.”)[/i] => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 4+] {T}, Sacrifice this land: Destroy target land. You and that land's controller each create a Wastes basic land token. [i](It's a colorless land with “{T}: Add {C}.”)[/i]
+
+Wandering Comet
+special_text: {T}: Add {C}
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 6+] {6}, {T}: Search your library for a creature card and put it into your hand. => {T}: Add {C}
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {6}, {T}: Search your library for a creature card and put it into your hand.
+
+Sequestered Sanctuary
+special_text: {T}: Add {C}.
+{1}: Put a charge counter on this land.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 7+] Vigilance [4/4] => {T}: Add {C}.
+{1}: Put a charge counter on this land.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 7+] Vigilance [4/4]
+
+Mercantile Guildstation
+special_text: {T}: Add {C}.
+{4}, {T}: Create a tapped Treasure token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 5+] {3}, {T}: Create two 1/1 white Thax Soldier Ally creature tokens. => {T}: Add {C}.
+{4}, {T}: Create a tapped Treasure token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] {3}, {T}: Create two 1/1 white Thax Soldier Ally creature tokens.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

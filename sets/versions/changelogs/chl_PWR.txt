@@ -1,4 +1,169 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Dragonzord
+rules_text: Haste, trample
+Unite {2}{B} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+[i]Dragonzord Missiles[/i] — {T}: Dragonzord deals damage equal to its power to any target.
+Crew 3 => Haste, trample
+Unite {2}{B}{R} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+[i]Dragonzord Missiles[/i] — {T}: Dragonzord deals damage equal to its power to any target.
+Crew 3
+
+Astro Megaship
+special_text: Unite {1}{U}
+[i]Jet Jammer[/i] — {4}: Target creature you control transforms.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 7+.)[/i]
+[level 7+] Flying
+When Astro Megaship attacks, creatures you control gain flying until end of turn. [9/6] => Unite {2}{U}{U}
+[i]Jet Jammer[/i] — {4}: Target creature you control transforms.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 7+.)[/i]
+[level 7+] Flying
+When Astro Megaship attacks, creatures you control gain flying until end of turn. [9/6]
+
+Countdown to Destruction
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Destroy all creatures.
+Create two 1/1 black Villain Minion creature tokens.
+Return target creature from a graveyard to the battlefield under your control.
+If each opponent controls no Heroes, you win the game. Otherwise, draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Destroy all creatures.
+Create two 1/1 black Villain Minion creature tokens.
+II — Return target creature from a graveyard to the battlefield under your control.
+III — If each opponent controls no Heroes, you win the game. Otherwise, draw two cards.
+
+KO-35
+special_text: KO-35 enters tapped.
+{T}: Add one mana of any color.
+Station [i](Tap a creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 12+] {2}, {T}: Target creature or artifact you control gains hexproof or indestructible until end of turn. => KO-35 enters tapped.
+{T}: Add one mana of any color.
+Station [i](Tap a creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 7+] {2}, {T}: Target creature or artifact you control gains hexproof or indestructible until end of turn.
+
+Serpentera, Zedd's Zord
+type: Legendary Artifact — Zord => Legendary Artifact Creature — Dragon Zord
+rules_text: Serpentera enters with X charge counters.
+At the beginning of your end step, remove a charge counter from Serpentera.
+As long as there is at least one charge counter on Serpentera, it's a Dragon creature in addition to its other types.
+Flying, trample, indestructible, annihilator 1 [i](Whenever this creature attacks, defending player sacrifices a permanent.)[/i] => Serpentera enters with X charge counters.
+At the beginning of your end step, remove a charge counter from Serpentera.
+As long as there are no charge counters on this artifact, it isn't a creature.
+Flying, trample, indestructible, annihilator 1 [i](Whenever this creature attacks, defending player sacrifices a permanent.)[/i]
+
+Pterodactyl Dinozord
+rules_text: Flying
+Unite {1}{B} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+When Pterodactyl Dinozord attacks, put a -1/-1 counter on up to one target creature an opponent controls. => Flying
+Unite {2}{B} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+When Pterodactyl Dinozord attacks, put a -1/-1 counter on up to one target creature an opponent controls.
+
+Aero, Rescue 3
+rules_text: Unite {3} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+Flying
+At the beginning of your upkeep, look at the top card of your library. If it's a creature or Zord card, you may reveal it. When you do, exile it.
+When Aero deals combat damage to a player, put a card exiled with it onto the battlefield tapped. => Unite {3}{U} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+Flying
+At the beginning of your upkeep, look at the top card of your library. If it's a creature or Zord card, you may reveal it. When you do, exile it.
+When Aero deals combat damage to a player, put a card exiled with it onto the battlefield tapped.
+
+Mystic Sprite
+rules_text: Unite {4} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+Flying
+{6}{U}: Return a creature you control to its owner's hand. Put this card onto the battlefield under your control. This ability costs {X} less to activate, where X is the mana value of the creature returned this way. => Unite {4}{U} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+Flying
+{6}{U}: Return a creature you control to its owner's hand. Put this card onto the battlefield under your control. This ability costs {X} less to activate, where X is the mana value of the creature returned this way.
+
+The Abyss of Evil
+rules_text: {T}: Add {R}.
+{T}, Exile target creature card and target noncreature card from a single graveyard: Discard a card, then draw a card.
+{4}{R}, {T}, Sacrifice a legendary creature you control: Return all creatures exiled with The Abyss of Evil to the battlefield under your control, except they have haste. => {T}: Add {R}.
+{R}, {T}, Exile target creature card and target noncreature card from a single graveyard: Discard a card, then draw a card.
+{4}{R}, {T}, Sacrifice a legendary creature you control: Return all creatures exiled with The Abyss of Evil to the battlefield under your control, except they have haste.
+
+Mirinoi
+rules_text: {T}: Add {G}.
+{T}, Exile six target cards from a single graveyard: Target creature you control becomes legendary. Put an indestructible counter on it and it gains hexproof until end of turn. => {T}: Add {G}.
+{G}{G}, {T}, Exile six target cards from a single graveyard: Target creature you control becomes legendary. Put an indestructible counter on it. It gains hexproof until end of turn.
+
+Mercuria
+rules_text: {T}: Add {U}.
+{T}, Exile four target noncreature nonland cards from a single graveyard: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => {T}: Add {U}.
+{1}{U}, {T}, Exile four target noncreature nonland cards from a single graveyard: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+The Spirit World
+rules_text: {T}: Add {W}.
+{T}, Exile X plus two target cards from a single graveyard: Exile target creature with mana value X. => {T}: Add {W}.
+{1}{W}{W}, {T}, Exile X plus two target cards from a single graveyard: Exile target creature with mana value X.
+
+The Sanzu River
+rules_text: {T}: Add {B}.
+{T}, Exile twelve target cards from a single graveyard: Add {B}{B}{B}. Each opponent loses 1 life and you gain 1 life for each creature you control. => {T}: Add {B}.
+{B}, {T}, Exile twelve target cards from a single graveyard: Add {B}{B}{B}. Each opponent loses 1 life and you gain 1 life for each creature you control.
+
+Prince Vrak, Resurrected
+rules_text: Creature spells you cast have Squad {3} [i](As an additional cost to cast this spell, you may pay {3} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+As long as you control three or more creatures with the same name, the abilities of artifacts your opponents control that aren't mana abilities can't be activated. => Creature spells you cast gain Squad {2} as you cast them. [i](As an additional cost to cast that spell, you may pay {2} any number of times. When that creature enters, create that many tokens that are copies of it.)[/i]
+As long as you control three or more creatures with the same name, the abilities of artifacts your opponents control that aren't mana abilities can't be activated.
+
+Weapon Finisher
+rules_text: As an additional cost to cast this spell, sacrifice any number of equipment.
+Weapon Finisher deals X plus two damage to each creature your opponent's control, where X is the number of equipment sacrificed this way. => As an additional cost to cast this spell, sacrifice any number of equipment.
+Weapon Finisher deals X plus two damage to each creature your opponent's control, where X is the total mana value of equipment sacrificed this way.
+
+The Legendary War
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You may discard up to three cards. If you do, draw that many cards.
+The Legendary War deals 2 damage to each creature and each opponent.
+Put a creature, Zord, or Megazord from your hand onto the battlefield. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may discard up to three cards. If you do, draw that many cards.
+II — The Legendary War deals 2 damage to each creature and each opponent.
+III — Put a creature, Zord, or Megazord from your hand onto the battlefield. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+
+Black Frog Ninjazord
+rules_text: Unite {2} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+Deathtouch, vigilance
+Ward {2}
+When Black Frog Ninjazord deals combat damage to a player, look at the top three cards of your library. You may put one into your hand. Put the rest on the bottom in a random order. => Unite {3} [i](You may cast this spell for its unite cost or activate this ability from the battlefield. Unite this permanent with target Vehicle, Spacecraft, or artifact creature you control. Combine their power, toughness, abilities, and mana value. It becomes a creature in addition to its other types. Unite only as a sorcery.)[/i]
+Deathtouch, vigilance
+Ward {2}
+When Black Frog Ninjazord deals combat damage to a player, look at the top three cards of your library. You may put one into your hand. Put the rest on the bottom in a random order.
+
+Princess Shayla, Animarium's Caretaker
+rules_text: When Princess Shayla enters, you may search your library for a basic land card and put it onto the battlefield tapped, then shuffle your library.
+Whenever a creature or Zord you control enters, if you paid more mana to cast it than its mana value, it enters with +1/+1 counters equal to the difference. => When Princess Shayla enters, you may search your library for a basic land card and put it onto the battlefield tapped, then shuffle your library.
+Whenever a creature or Zord you control enters, if it has X in its cost or you spent more mana to cast it than its mana value, it enters with +1/+1 counters equal to X or the difference.
+
+Release of the Galactabeasts
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target artifact or enchantment.
+You gain 1 life for each creature you control.
+You may transform target creature or Zord you control. If you don't, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target artifact or enchantment.
+II — You gain 1 life for each creature you control.
+III — You may transform target creature or Zord you control. If you don't, draw a card.
+
+Minion Reinforcements
+rules_text: Choose a creature you control with mana value X plus two or less. Cast a copy of the chosen creature without paying its mana cost.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i] => Choose a creature you control with mana value X plus two or less. Create a copy of the chosen creature without paying its mana cost.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Merrick, Lunar Wolf Ranger
+rules_text: When Merrick enters, exile the top X cards of your library. You may play those cards for as long as you control this creature.
+Whenever you cast a spell, if you paid more mana to cast it than its mana value, Merrick deals damage to any target equal to the difference. => When Merrick enters, exile the top X cards of your library. You may play those cards for as long as you control this creature.
+Whenever you cast a spell, if it has X in its cost or you spent more mana to cast it than its mana value, Merrick deals damage to any target equal to X or the difference.
+
+Mesomonster Duplication
+rules_text: When this enchantment enters, draw a card.
+Creature spells you cast can't be countered.
+Creature spells you cast have Squad {2}{G} if they don't have Squad. [i](As an additional cost to cast those spells, you may pay 2{G} any number of times. When that creature enters, create that many tokens that are copies of it.)[/i] => When this enchantment enters, draw a card.
+Creature spells you cast can't be countered.
+Creature spells you cast gain Squad {2}{G} as you cast them if they don't have Squad. [i](As an additional cost to cast that spell, you may pay {2}{G} any number of times. When that creature enters, create that many tokens that are copies of it.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -1,8 +1,8 @@
 ﻿{
     "name": "Runeterra Divided",
-    "formats": "Standard,Commander,RRI",
-    "trimmed": "y",
-    "image_type": "png",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -5696,5 +5696,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

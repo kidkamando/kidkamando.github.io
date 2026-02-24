@@ -1,12 +1,13 @@
-[CustomCards]
-	[	{
+﻿[CustomCards]
+	[
+		{
 			"name": "The Twilight Darkbeast",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
-			"type": "Legendary Creature — Alien Beast Horror ",
+			"type": "Legendary Creature — Alien Beast Horror",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/The Twilight Darkbeast.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/224_The Twilight Darkbeast.jpg"
 			}
 		},
 		{
@@ -16,97 +17,97 @@
 			"type": "Legendary Artifact",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Entanglement Engine.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/237_Entanglement Engine.jpg"
 			}
 		},
 		{
 			"name": "Tumultuous Exhibit",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Dinosaur Elephant ",
+			"type": "Creature — Dinosaur Elephant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Tumultuous Exhibit.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/35_Tumultuous Exhibit.jpg"
 			}
 		},
 		{
 			"name": "Backwards Burrowbeast",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Wombat ",
+			"type": "Creature — Wombat",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Backwards Burrowbeast.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/164_Backwards Burrowbeast.jpg"
 			}
 		},
 		{
 			"name": "Phasebound Hunter",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Thax Ranger ",
+			"type": "Creature — Thax Ranger",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phasebound Hunter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/98_Phasebound Hunter.jpg"
 			}
 		},
 		{
 			"name": "Thaxian Phaseblade",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thaxian Phaseblade.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/111_Thaxian Phaseblade.jpg"
 			}
 		},
 		{
 			"name": "Charging Phasebound",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Thax Warrior ",
+			"type": "Creature — Thax Warrior",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Charging Phasebound.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/203_Charging Phasebound.jpg"
 			}
 		},
 		{
 			"name": "Exhibit Keeper",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Artifact Creature — Robot ",
+			"type": "Artifact Creature — Robot",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Exhibit Keeper.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/51_Exhibit Keeper.jpg"
 			}
 		},
 		{
 			"name": "Lifestation Scout",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Robot Scout ",
+			"type": "Artifact Creature — Robot Scout",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lifestation Scout.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/138_Lifestation Scout.jpg"
 			}
 		},
 		{
 			"name": "Wurmguard Commandcraft",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wurmguard Commandcraft.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/80_Wurmguard Commandcraft.jpg"
 			}
 		},
 		{
 			"name": "Archive Lifestation",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Artifact — Spacecraft ",
+			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Archive Lifestation.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/202_Archive Lifestation.jpg"
 			}
 		},
 		{
@@ -116,37 +117,37 @@
 			"type": "Artifact",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Solar Emulator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/244_Solar Emulator.jpg"
 			}
 		},
 		{
 			"name": "Darkwurm Hatchling",
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Wurm ",
+			"type": "Creature — Wurm",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Darkwurm Hatchling.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/167_Darkwurm Hatchling.jpg"
 			}
 		},
 		{
 			"name": "Twilightborn Scavenger",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilightborn Scavenger.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/157_Twilightborn Scavenger.jpg"
 			}
 		},
 		{
 			"name": "Possibility Oracle",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Salamander Shaman ",
+			"type": "Creature — Salamander Shaman",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Possibility Oracle.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/220_Possibility Oracle.jpg"
 			}
 		},
 		{
@@ -156,7 +157,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Death of the Dawn.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/85_Death of the Dawn.jpg"
 			}
 		},
 		{
@@ -166,27 +167,27 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Solar Search.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/71_Solar Search.jpg"
 			}
 		},
 		{
 			"name": "Twilight Voidvessel",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilight Voidvessel.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/248_Twilight Voidvessel.jpg"
 			}
 		},
 		{
 			"name": "Phaselight Colonyship",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Colonyship.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/186_Phaselight Colonyship.jpg"
 			}
 		},
 		{
@@ -196,17 +197,17 @@
 			"type": "Artifact",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Engine.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/22_Phaselight Engine.jpg"
 			}
 		},
 		{
 			"name": "Enclosure Caretaker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Robot Druid ",
+			"type": "Artifact Creature — Robot Druid",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Enclosure Caretaker.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/236_Enclosure Caretaker.jpg"
 			}
 		},
 		{
@@ -216,17 +217,17 @@
 			"type": "Artifact",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Darkworld Relic.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/232_Darkworld Relic.jpg"
 			}
 		},
 		{
 			"name": "Habitat Architect",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact Creature — Robot Artificer ",
+			"type": "Artifact Creature — Robot Artificer",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Habitat Architect.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/11_Habitat Architect.jpg"
 			}
 		},
 		{
@@ -236,7 +237,7 @@
 			"type": "Artifact",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Starforge.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/243_Phaselight Starforge.jpg"
 			}
 		},
 		{
@@ -246,7 +247,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Legacy of the Phasebound.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/90_Legacy of the Phasebound.jpg"
 			}
 		},
 		{
@@ -256,97 +257,97 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Mid-Warp Collision.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/139_Mid-Warp Collision.jpg"
 			}
 		},
 		{
 			"name": "Phasebound Voidmage",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Thax Wizard ",
+			"type": "Creature — Thax Wizard",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phasebound Voidmage.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/219_Phasebound Voidmage.jpg"
 			}
 		},
 		{
 			"name": "Thaxian Phasecrasher",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}{G}",
-			"type": "Creature — Thax Rhino ",
+			"type": "Creature — Thax Rhino",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thaxian Phasecrasher.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/223_Thaxian Phasecrasher.jpg"
 			}
 		},
 		{
 			"name": "Fauna Abductor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fauna Abductor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/206_Fauna Abductor.jpg"
 			}
 		},
 		{
 			"name": "Fighter Fabricator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fighter Fabricator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/207_Fighter Fabricator.jpg"
 			}
 		},
 		{
 			"name": "Flora Behemoth",
 			"rarity": "common",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Creature — Plant Beast ",
+			"type": "Creature — Plant Beast",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Flora Behemoth.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/208_Flora Behemoth.jpg"
 			}
 		},
 		{
 			"name": "Twilight Starsnake",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{W}",
-			"type": "Creature — Serpent ",
+			"type": "Creature — Serpent",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilight Starsnake.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/225_Twilight Starsnake.jpg"
 			}
 		},
 		{
 			"name": "Havoc Render",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Havoc Render.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/210_Havoc Render.jpg"
 			}
 		},
 		{
 			"name": "Deadworld Archaeologist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U/B}",
-			"type": "Creature — Human Scientist ",
+			"type": "Creature — Human Scientist",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Deadworld Archaeologist.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/228_Deadworld Archaeologist.jpg"
 			}
 		},
 		{
 			"name": "Twilight Starsearcher",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Salamander Ranger ",
+			"type": "Creature — Salamander Ranger",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilight Starsearcher.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/37_Twilight Starsearcher.jpg"
 			}
 		},
 		{
@@ -356,17 +357,17 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Glimpse of Hope.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/55_Glimpse of Hope.jpg"
 			}
 		},
 		{
 			"name": "Vaserian Apostle",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Thax Cleric ",
+			"type": "Creature — Thax Cleric",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Vaserian Apostle.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/114_Vaserian Apostle.jpg"
 			}
 		},
 		{
@@ -376,67 +377,67 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phasic Barrage.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/144_Phasic Barrage.jpg"
 			}
 		},
 		{
 			"name": "Ancient Darkwurm",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}{G}",
-			"type": "Creature — Elder Wurm ",
+			"type": "Creature — Elder Wurm",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ancient Darkwurm.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/162_Ancient Darkwurm.jpg"
 			}
 		},
 		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains ",
+			"type": "Basic Land — Plains",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Plains.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/267_Plains.jpg"
 			}
 		},
 		{
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island ",
+			"type": "Basic Land — Island",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Island.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/268_Island.jpg"
 			}
 		},
 		{
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
+			"type": "Basic Land — Swamp",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Swamp.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/269_Swamp.jpg"
 			}
 		},
 		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
+			"type": "Basic Land — Mountain",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Mountain.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/270_Mountain.jpg"
 			}
 		},
 		{
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest ",
+			"type": "Basic Land — Forest",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Forest.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/271_Forest.jpg"
 			}
 		},
 		{
@@ -446,17 +447,17 @@
 			"type": "Enchantment",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Orders.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/216_Otherworld Orders.jpg"
 			}
 		},
 		{
 			"name": "Light Tracker",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Thax Scout ",
+			"type": "Creature — Thax Scout",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Light Tracker.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/213_Light Tracker.jpg"
 			}
 		},
 		{
@@ -466,77 +467,127 @@
 			"type": "Enchantment",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Enclosed Hydroponics.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/204_Enclosed Hydroponics.jpg"
 			}
 		},
 		{
 			"name": "Lightborn Agrariator",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lightborn Agrariator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/214_Lightborn Agrariator.jpg"
 			}
 		},
 		{
 			"name": "Escape Pod",
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Escape Pod.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/205_Escape Pod.jpg"
 			}
 		},
 		{
 			"name": "Hotshot Space Ace",
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Human Pilot ",
+			"type": "Creature — Human Pilot",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Hotshot Space Ace.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/211_Hotshot Space Ace.jpg"
 			}
 		},
 		{
 			"name": "Forward Scout",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Thax Scout ",
+			"type": "Creature — Thax Scout",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Forward Scout.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/209_Forward Scout.jpg"
 			}
 		},
 		{
 			"name": "Otherworld Resonator",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Resonator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/217_Otherworld Resonator.jpg"
 			}
 		},
 		{
 			"name": "Advanced Observation Post",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Advanced Observation Post.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/201_Advanced Observation Post.jpg"
 			}
 		},
 		{
 			"name": "Otherworld Wurmtamer",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{G}",
-			"type": "Creature — Thax Druid ",
+			"type": "Creature — Thax Druid",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Wurmtamer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/218_Otherworld Wurmtamer.jpg"
+			}
+		},
+		{
+			"name": "Pangolin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pangolin",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/1t_Pangolin.jpg"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/5t_Clue.jpg"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/6t_Food.jpg"
+			}
+		},
+		{
+			"name": "Spacecraft",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Spacecraft",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/9t_Spacecraft.jpg"
+			}
+		},
+		{
+			"name": "Darkwurm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/4t_Darkwurm.jpg"
 			}
 		},
 		{
@@ -546,7 +597,7 @@
 			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Static Sequence.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/31_Static Sequence.jpg"
 			}
 		},
 		{
@@ -556,17 +607,17 @@
 			"type": "Enchantment",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Allusions to Choice.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/41_Allusions to Choice.jpg"
 			}
 		},
 		{
 			"name": "Rhest Ko, Brutal Subjugator",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
-			"type": "Legendary Creature — Thax Soldier ",
+			"type": "Legendary Creature — Thax Soldier",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Rhest Ko, Brutal Subjugator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/221_Rhest Ko, Brutal Subjugator.jpg"
 			}
 		},
 		{
@@ -576,47 +627,47 @@
 			"type": "Enchantment",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Flechette Munitions.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/131_Flechette Munitions.jpg"
 			}
 		},
 		{
 			"name": "Darkwurm Researchcraft",
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}{G}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Darkwurm Researchcraft.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/169_Darkwurm Researchcraft.jpg"
 			}
 		},
 		{
 			"name": "Elusive Starsquid",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Squid ",
+			"type": "Creature — Squid",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Elusive Starsquid.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/47_Elusive Starsquid.jpg"
 			}
 		},
 		{
 			"name": "Specimen Savior",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Robot ",
+			"type": "Artifact Creature — Robot",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Specimen Savior.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/245_Specimen Savior.jpg"
 			}
 		},
 		{
 			"name": "Phaselight Fighter",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Fighter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/242_Phaselight Fighter.jpg"
 			}
 		},
 		{
@@ -626,27 +677,27 @@
 			"type": "Instant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Vigil.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/20_Otherworld Vigil.jpg"
 			}
 		},
 		{
 			"name": "Breakyard Salvager",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Breakyard Salvager.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/121_Breakyard Salvager.jpg"
 			}
 		},
 		{
 			"name": "Veiled Idyll",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Veiled Idyll.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/193_Veiled Idyll.jpg"
 			}
 		},
 		{
@@ -656,227 +707,237 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wurmhole Exploration.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/197_Wurmhole Exploration.jpg"
 			}
 		},
 		{
 			"name": "Twilight Darkwurm",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Wurm Horror ",
+			"type": "Creature — Wurm Horror",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilight Darkwurm.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/36_Twilight Darkwurm.jpg"
 			}
 		},
 		{
 			"name": "Fate-Linked Twilightborn",
 			"rarity": "rare",
 			"mana_cost": "{U}",
-			"type": "Creature — Salamander Shaman ",
+			"type": "Creature — Salamander Shaman",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fate-Linked Twilightborn.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/52_Fate-Linked Twilightborn.jpg"
 			}
 		},
 		{
 			"name": "Voracious Cosmipillar",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Insect Horror ",
+			"type": "Creature — Insect Horror",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Voracious Cosmipillar.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/116_Voracious Cosmipillar.jpg"
 			}
 		},
 		{
 			"name": "Otherworld Assault Team",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Assault Team.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/142_Otherworld Assault Team.jpg"
 			}
 		},
 		{
 			"name": "Estevia, Otherworld Nebula",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Estevia, Otherworld Nebula.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/251_Estevia, Otherworld Nebula.jpg"
 			}
 		},
 		{
 			"name": "Ovas III, Shrouded Moon",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ovas III, Shrouded Moon.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/258_Ovas III, Shrouded Moon.jpg"
 			}
 		},
 		{
 			"name": "Rukka, Comet Aurora",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Rukka, Comet Aurora.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/259_Rukka, Comet Aurora.jpg"
 			}
 		},
 		{
 			"name": "Thellex, Phasic Warworld",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thellex, Phasic Warworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/263_Thellex, Phasic Warworld.jpg"
 			}
 		},
 		{
 			"name": "Distar, Celestial Egg",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Distar, Celestial Egg.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/250_Distar, Celestial Egg.jpg"
 			}
 		},
 		{
 			"name": "Teeming Lushworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Teeming Lushworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/262_Teeming Lushworld.jpg"
 			}
 		},
 		{
 			"name": "Moonless Plageworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Moonless Plageworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/256_Moonless Plageworld.jpg"
 			}
 		},
 		{
 			"name": "Inclement Brineworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Inclement Brineworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/254_Inclement Brineworld.jpg"
 			}
 		},
 		{
 			"name": "Turbulent Stormworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Turbulent Stormworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/266_Turbulent Stormworld.jpg"
 			}
 		},
 		{
 			"name": "Juvenile Slagworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Juvenile Slagworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/255_Juvenile Slagworld.jpg"
 			}
 		},
 		{
 			"name": "Savage Wildworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Savage Wildworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/260_Savage Wildworld.jpg"
 			}
 		},
 		{
 			"name": "Harmonic Farmworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Harmonic Farmworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/253_Harmonic Farmworld.jpg"
 			}
 		},
 		{
 			"name": "Expired Gloomworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Expired Gloomworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/252_Expired Gloomworld.jpg"
 			}
 		},
 		{
 			"name": "Slough Wetworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Slough Wetworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/261_Slough Wetworld.jpg"
 			}
 		},
 		{
 			"name": "Torrid Dustworld",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Planet ",
+			"type": "Land — Planet",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Torrid Dustworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/265_Torrid Dustworld.jpg"
 			}
 		},
 		{
 			"name": "Ark Epsilon, Ringworld",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Artifact Land — Planet ",
+			"type": "Legendary Artifact Land — Planet",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ark Epsilon, Ringworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/230_Ark Epsilon, Ringworld.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Basic Land",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/10t_Wastes.jpg"
 			}
 		},
 		{
 			"name": "Nabarro, Glassworld",
 			"rarity": "mythic",
 			"mana_cost": "",
-			"type": "Legendary Land — Planet ",
+			"type": "Legendary Land — Planet",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Nabarro, Glassworld.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/257_Nabarro, Glassworld.jpg"
 			}
 		},
 		{
 			"name": "Wildlife Preservator",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Robot Rigger ",
+			"type": "Artifact Creature — Robot Rigger",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wildlife Preservator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/39_Wildlife Preservator.jpg"
 			}
 		},
 		{
@@ -886,7 +947,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Retraction Beam.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/66_Retraction Beam.jpg"
 			}
 		},
 		{
@@ -896,17 +957,17 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Salvage Equipment.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/105_Salvage Equipment.jpg"
 			}
 		},
 		{
 			"name": "Federation Twilightborn",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Soldier ",
+			"type": "Creature — Human Soldier",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Federation Twilightborn.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/129_Federation Twilightborn.jpg"
 			}
 		},
 		{
@@ -916,7 +977,17 @@
 			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Darkwurm Light-Hunt.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/168_Darkwurm Light-Hunt.jpg"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/8t_Junk.jpg"
 			}
 		},
 		{
@@ -926,7 +997,7 @@
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thiris Mine.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/264_Thiris Mine.jpg"
 			}
 		},
 		{
@@ -936,27 +1007,27 @@
 			"type": "Artifact",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phase Cannon.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/241_Phase Cannon.jpg"
 			}
 		},
 		{
 			"name": "Lio, Fate Binder",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{R}",
-			"type": "Legendary Creature — Human Wizard ",
+			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lio, Fate Binder.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/215_Lio, Fate Binder.jpg"
 			}
 		},
 		{
 			"name": "Wurmhole Surveyor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wurmhole Surveyor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/40_Wurmhole Surveyor.jpg"
 			}
 		},
 		{
@@ -966,7 +1037,7 @@
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Anomolous Study.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/43_Anomolous Study.jpg"
 			}
 		},
 		{
@@ -976,7 +1047,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Xenogen Exposure.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/119_Xenogen Exposure.jpg"
 			}
 		},
 		{
@@ -986,37 +1057,37 @@
 			"type": "Sorcery",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Emergency Preparations.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/127_Emergency Preparations.jpg"
 			}
 		},
 		{
 			"name": "Vagrant Fruitbearer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Treefolk Citizen ",
+			"type": "Creature — Treefolk Citizen",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Vagrant Fruitbearer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/192_Vagrant Fruitbearer.jpg"
 			}
 		},
 		{
 			"name": "Otherworld Veteran",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Veteran.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/19_Otherworld Veteran.jpg"
 			}
 		},
 		{
 			"name": "Fleetwide Engineer",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fleetwide Engineer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/54_Fleetwide Engineer.jpg"
 			}
 		},
 		{
@@ -1026,17 +1097,17 @@
 			"type": "Sorcery",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Exovitalize.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/89_Exovitalize.jpg"
 			}
 		},
 		{
 			"name": "Flame-Tongue Feline",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Cat Elemental ",
+			"type": "Creature — Cat Elemental",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Flame-Tongue Feline.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/130_Flame-Tongue Feline.jpg"
 			}
 		},
 		{
@@ -1046,37 +1117,37 @@
 			"type": "Enchantment",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Infested Wurmgrounds.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/179_Infested Wurmgrounds.jpg"
 			}
 		},
 		{
 			"name": "Weapons Calibrator",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Bird Artificer ",
+			"type": "Creature — Bird Artificer",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Weapons Calibrator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/38_Weapons Calibrator.jpg"
 			}
 		},
 		{
 			"name": "Roving Starsquid",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Squid ",
+			"type": "Creature — Squid",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Roving Starsquid.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/68_Roving Starsquid.jpg"
 			}
 		},
 		{
 			"name": "Writhing Bogbeast",
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Creature — Crocodile Horror ",
+			"type": "Creature — Crocodile Horror",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Writhing Bogbeast.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/117_Writhing Bogbeast.jpg"
 			}
 		},
 		{
@@ -1086,37 +1157,37 @@
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fanatical Rage.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/128_Fanatical Rage.jpg"
 			}
 		},
 		{
 			"name": "Formicat Scout",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Insect Cat Scout ",
+			"type": "Creature — Insect Cat Scout",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Formicat Scout.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/175_Formicat Scout.jpg"
 			}
 		},
 		{
 			"name": "Shara, Luck-Linked",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Rabbit Shaman ",
+			"type": "Legendary Creature — Rabbit Shaman",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Shara, Luck-Linked.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/222_Shara, Luck-Linked.jpg"
 			}
 		},
 		{
 			"name": "Fresh Reinforcements",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fresh Reinforcements.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/10_Fresh Reinforcements.jpg"
 			}
 		},
 		{
@@ -1126,7 +1197,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Suit Puncture.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/74_Suit Puncture.jpg"
 			}
 		},
 		{
@@ -1136,17 +1207,17 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Exoskeletal Puppeteering.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/88_Exoskeletal Puppeteering.jpg"
 			}
 		},
 		{
 			"name": "Chaos Reader",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Salamander Shaman ",
+			"type": "Creature — Salamander Shaman",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Chaos Reader.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/122_Chaos Reader.jpg"
 			}
 		},
 		{
@@ -1156,7 +1227,7 @@
 			"type": "Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Rocket Punch.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/189_Rocket Punch.jpg"
 			}
 		},
 		{
@@ -1166,7 +1237,7 @@
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Rupture.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/23_Phaselight Rupture.jpg"
 			}
 		},
 		{
@@ -1176,17 +1247,17 @@
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Destabilize.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/45_Destabilize.jpg"
 			}
 		},
 		{
 			"name": "Bloody Exosoldier",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Bloody Exosoldier.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/83_Bloody Exosoldier.jpg"
 			}
 		},
 		{
@@ -1196,17 +1267,17 @@
 			"type": "Artifact",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Vaserian Stormstone.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/160_Vaserian Stormstone.jpg"
 			}
 		},
 		{
 			"name": "Lightborn Ecologist",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Rabbit Druid ",
+			"type": "Creature — Rabbit Druid",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lightborn Ecologist.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/182_Lightborn Ecologist.jpg"
 			}
 		},
 		{
@@ -1216,67 +1287,67 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Veer Off Course.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/79_Veer Off Course.jpg"
 			}
 		},
 		{
 			"name": "Hypothermic Reaction",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Hypothermic Reaction.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/57_Hypothermic Reaction.jpg"
 			}
 		},
 		{
 			"name": "Lone Curse-Linked",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lone Curse-Linked.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/91_Lone Curse-Linked.jpg"
 			}
 		},
 		{
 			"name": "Improvised Craftwelder",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Improvised Craftwelder.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/134_Improvised Craftwelder.jpg"
 			}
 		},
 		{
 			"name": "Deadworld Terraformer",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Rabbit Druid ",
+			"type": "Creature — Rabbit Druid",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Deadworld Terraformer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/170_Deadworld Terraformer.jpg"
 			}
 		},
 		{
 			"name": "Philanthropic Pathfinder",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Human Druid",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Philanthropic Pathfinder.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/24_Philanthropic Pathfinder.jpg"
 			}
 		},
 		{
 			"name": "Quantum Terror",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Leviathan Horror ",
+			"type": "Creature — Leviathan Horror",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Quantum Terror.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/64_Quantum Terror.jpg"
 			}
 		},
 		{
@@ -1286,27 +1357,27 @@
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Stray Bombardment.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/109_Stray Bombardment.jpg"
 			}
 		},
 		{
 			"name": "Unstable Stormhound",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Dog Elemental ",
+			"type": "Creature — Dog Elemental",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Unstable Stormhound.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/158_Unstable Stormhound.jpg"
 			}
 		},
 		{
 			"name": "Colony Pioneer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Rabbit Ranger ",
+			"type": "Creature — Rabbit Ranger",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Colony Pioneer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/166_Colony Pioneer.jpg"
 			}
 		},
 		{
@@ -1316,7 +1387,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworld Banishment.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/18_Otherworld Banishment.jpg"
 			}
 		},
 		{
@@ -1326,17 +1397,17 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilight Disruption.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/76_Twilight Disruption.jpg"
 			}
 		},
 		{
 			"name": "Regenerating Exosoldier",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
-			"type": "Creature — Zombie Soldier ",
+			"type": "Creature — Zombie Soldier",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Regenerating Exosoldier.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/103_Regenerating Exosoldier.jpg"
 			}
 		},
 		{
@@ -1346,27 +1417,37 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Last-Second Exchange.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/137_Last-Second Exchange.jpg"
 			}
 		},
 		{
 			"name": "Voidhab Fabricator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Voidhab Fabricator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/194_Voidhab Fabricator.jpg"
+			}
+		},
+		{
+			"name": "Thax Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Thax Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/3t_Thax Soldier.jpg"
 			}
 		},
 		{
 			"name": "Curator's Intervention",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Curator's Intervention.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/7_Curator's Intervention.jpg"
 			}
 		},
 		{
@@ -1376,27 +1457,27 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Recalibration.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/60_Phaselight Recalibration.jpg"
 			}
 		},
 		{
 			"name": "Macabre Prisonship",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Macabre Prisonship.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/92_Macabre Prisonship.jpg"
 			}
 		},
 		{
 			"name": "Scrapper's Lightcutter",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Scrapper's Lightcutter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/149_Scrapper's Lightcutter.jpg"
 			}
 		},
 		{
@@ -1406,17 +1487,17 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Escape into Oasis.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/173_Escape into Oasis.jpg"
 			}
 		},
 		{
 			"name": "Behavioral Analyst",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact Creature — Robot Scientist ",
+			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Behavioral Analyst.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/3_Behavioral Analyst.jpg"
 			}
 		},
 		{
@@ -1426,7 +1507,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Untangle Fate.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/78_Untangle Fate.jpg"
 			}
 		},
 		{
@@ -1436,17 +1517,17 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Nihilistic Revelation.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/94_Nihilistic Revelation.jpg"
 			}
 		},
 		{
 			"name": "Uproarious Sorcerer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Salamander Shaman ",
+			"type": "Creature — Salamander Shaman",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Uproarious Sorcerer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/159_Uproarious Sorcerer.jpg"
 			}
 		},
 		{
@@ -1456,7 +1537,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Voidmage's Blessing.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/195_Voidmage's Blessing.jpg"
 			}
 		},
 		{
@@ -1466,17 +1547,17 @@
 			"type": "Sorcery",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Missing No Longer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/16_Missing No Longer.jpg"
 			}
 		},
 		{
 			"name": "Twilight Stalker",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Horror ",
+			"type": "Creature — Horror",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Twilight Stalker.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/77_Twilight Stalker.jpg"
 			}
 		},
 		{
@@ -1486,7 +1567,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Costly Position.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/84_Costly Position.jpg"
 			}
 		},
 		{
@@ -1496,107 +1577,107 @@
 			"type": "Instant",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Electrostorm.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/126_Electrostorm.jpg"
 			}
 		},
 		{
 			"name": "Yutaran Hunter",
 			"rarity": "common",
 			"mana_cost": "{6}{G}{G}",
-			"type": "Creature — Fungi Beast ",
+			"type": "Creature — Fungi Beast",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Yutaran Hunter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/199_Yutaran Hunter.jpg"
 			}
 		},
 		{
 			"name": "Augur's Assistant",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Salamander Shaman ",
+			"type": "Creature — Salamander Shaman",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Augur's Assistant.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/2_Augur's Assistant.jpg"
 			}
 		},
 		{
 			"name": "Lightborn Ace",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Pilot ",
+			"type": "Creature — Human Pilot",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lightborn Ace.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/58_Lightborn Ace.jpg"
 			}
 		},
 		{
 			"name": "Vaserian Chanter",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Thax Cleric ",
+			"type": "Creature — Thax Cleric",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Vaserian Chanter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/115_Vaserian Chanter.jpg"
 			}
 		},
 		{
 			"name": "Hotshot Aeronaut",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Pilot ",
+			"type": "Creature — Human Pilot",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Hotshot Aeronaut.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/133_Hotshot Aeronaut.jpg"
 			}
 		},
 		{
 			"name": "Aggressive Phasewurm",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Wurm ",
+			"type": "Creature — Wurm",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Aggressive Phasewurm.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/161_Aggressive Phasewurm.jpg"
 			}
 		},
 		{
 			"name": "Rapidfire Lightcutter",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Rapidfire Lightcutter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/27_Rapidfire Lightcutter.jpg"
 			}
 		},
 		{
 			"name": "Soarnith Commando",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Bird Scout ",
+			"type": "Creature — Bird Scout",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Soarnith Commando.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/70_Soarnith Commando.jpg"
 			}
 		},
 		{
 			"name": "Solitary Captain",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Pilot ",
+			"type": "Creature — Human Pilot",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Solitary Captain.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/107_Solitary Captain.jpg"
 			}
 		},
 		{
 			"name": "Curation Envoy",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Salamander Soldier ",
+			"type": "Creature — Salamander Soldier",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Curation Envoy.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/124_Curation Envoy.jpg"
 			}
 		},
 		{
@@ -1606,17 +1687,17 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Relicworld Colonization.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/188_Relicworld Colonization.jpg"
 			}
 		},
 		{
 			"name": "Memoriam Station",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Memoriam Station.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/15_Memoriam Station.jpg"
 			}
 		},
 		{
@@ -1626,17 +1707,17 @@
 			"type": "Enchantment",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Reverse Engineering.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/67_Reverse Engineering.jpg"
 			}
 		},
 		{
 			"name": "Exoskeletal Operator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Thax Wizard ",
+			"type": "Creature — Thax Wizard",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Exoskeletal Operator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/87_Exoskeletal Operator.jpg"
 			}
 		},
 		{
@@ -1646,47 +1727,47 @@
 			"type": "Artifact",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Quantum Sightstone.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/145_Quantum Sightstone.jpg"
 			}
 		},
 		{
 			"name": "Domebound Ecologist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Human Druid",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Domebound Ecologist.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/171_Domebound Ecologist.jpg"
 			}
 		},
 		{
 			"name": "Curator's Talent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Class ",
+			"type": "Enchantment — Class",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Curator's Talent.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/8_Curator's Talent.jpg"
 			}
 		},
 		{
 			"name": "Entanglement Engineer",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Artifact Creature — Robot Scientist ",
+			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Entanglement Engineer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/49_Entanglement Engineer.jpg"
 			}
 		},
 		{
 			"name": "Xenogenic Bloodghoul",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
-			"type": "Creature — Beast ",
+			"type": "Creature — Beast",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Xenogenic Bloodghoul.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/120_Xenogenic Bloodghoul.jpg"
 			}
 		},
 		{
@@ -1696,27 +1777,27 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Targeted Termination.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/154_Targeted Termination.jpg"
 			}
 		},
 		{
 			"name": "Armorback Specimen",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Ape Turtle ",
+			"type": "Creature — Ape Turtle",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Armorback Specimen.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/163_Armorback Specimen.jpg"
 			}
 		},
 		{
 			"name": "Waste Recycler",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Robot Druid ",
+			"type": "Artifact Creature — Robot Druid",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Waste Recycler.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/249_Waste Recycler.jpg"
 			}
 		},
 		{
@@ -1726,17 +1807,17 @@
 			"type": "Artifact",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lost Cargo.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/239_Lost Cargo.jpg"
 			}
 		},
 		{
 			"name": "Allied Shredder-Class Frigate",
 			"rarity": "common",
 			"mana_cost": "{6}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Allied Shredder-Class Frigate.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/229_Allied Shredder-Class Frigate.jpg"
 			}
 		},
 		{
@@ -1746,27 +1827,27 @@
 			"type": "Artifact",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Microstar Generator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/240_Microstar Generator.jpg"
 			}
 		},
 		{
 			"name": "Deadworld Precolonizer",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact Creature — Robot Rigger ",
+			"type": "Artifact Creature — Robot Rigger",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Deadworld Precolonizer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/234_Deadworld Precolonizer.jpg"
 			}
 		},
 		{
 			"name": "Deadworld Dome",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Habitat ",
+			"type": "Artifact — Habitat",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Deadworld Dome.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/233_Deadworld Dome.jpg"
 			}
 		},
 		{
@@ -1776,7 +1857,7 @@
 			"type": "Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Dyson Colossus.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/235_Dyson Colossus.jpg"
 			}
 		},
 		{
@@ -1786,37 +1867,47 @@
 			"type": "Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Darkworld Monument.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/231_Darkworld Monument.jpg"
 			}
 		},
 		{
 			"name": "Fleetwide Repairbot",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Robot Artificer ",
+			"type": "Artifact Creature — Robot Artificer",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Fleetwide Repairbot.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/238_Fleetwide Repairbot.jpg"
+			}
+		},
+		{
+			"name": "Habitat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Habitat",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/7t_Habitat.jpg"
 			}
 		},
 		{
 			"name": "Lae Sard, Baron of the Stars",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Salamander Pilot ",
+			"type": "Legendary Creature — Salamander Pilot",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lae Sard, Baron of the Stars.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/212_Lae Sard, Baron of the Stars.jpg"
 			}
 		},
 		{
 			"name": "Voya, Fate-Linked Savior",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
-			"type": "Legendary Creature — Salamander Wizard ",
+			"type": "Legendary Creature — Salamander Wizard",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Voya, Fate-Linked Savior.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/226_Voya, Fate-Linked Savior.jpg"
 			}
 		},
 		{
@@ -1826,27 +1917,27 @@
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Resource Raid.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/104_Resource Raid.jpg"
 			}
 		},
 		{
 			"name": "Swarmlaunch Carrier",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Swarmlaunch Carrier.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/246_Swarmlaunch Carrier.jpg"
 			}
 		},
 		{
 			"name": "Stereoscopic Tactician",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Salamander Soldier ",
+			"type": "Creature — Salamander Soldier",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Stereoscopic Tactician.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/32_Stereoscopic Tactician.jpg"
 			}
 		},
 		{
@@ -1856,37 +1947,37 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Dire Departure.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/46_Dire Departure.jpg"
 			}
 		},
 		{
 			"name": "Summoned Cosmipede",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Insect Horror ",
+			"type": "Creature — Insect Horror",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Summoned Cosmipede.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/110_Summoned Cosmipede.jpg"
 			}
 		},
 		{
 			"name": "Soarnith Squaddie",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Bird Soldier ",
+			"type": "Creature — Bird Soldier",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Soarnith Squaddie.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/151_Soarnith Squaddie.jpg"
 			}
 		},
 		{
 			"name": "Soilless Tiller",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Human Druid",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Soilless Tiller.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/191_Soilless Tiller.jpg"
 			}
 		},
 		{
@@ -1896,17 +1987,17 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Re-Energize.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/28_Re-Energize.jpg"
 			}
 		},
 		{
 			"name": "Crashed Transport",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Crashed Transport.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/6_Crashed Transport.jpg"
 			}
 		},
 		{
@@ -1916,17 +2007,17 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaseshred.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/99_Phaseshred.jpg"
 			}
 		},
 		{
 			"name": "Nebula Stormship",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Nebula Stormship.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/140_Nebula Stormship.jpg"
 			}
 		},
 		{
@@ -1936,7 +2027,7 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Gravitic Crush.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/177_Gravitic Crush.jpg"
 			}
 		},
 		{
@@ -1946,7 +2037,7 @@
 			"type": "Instant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Last Ditch Maneuver.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/13_Last Ditch Maneuver.jpg"
 			}
 		},
 		{
@@ -1956,7 +2047,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Plans For Development.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/61_Plans For Development.jpg"
 			}
 		},
 		{
@@ -1966,67 +2057,67 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Manufactured Incident.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/93_Manufactured Incident.jpg"
 			}
 		},
 		{
 			"name": "Orbital Shocktroop",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Human Soldier ",
+			"type": "Creature — Human Soldier",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Orbital Shocktroop.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/141_Orbital Shocktroop.jpg"
 			}
 		},
 		{
 			"name": "Roving Barkcrusher",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Beast ",
+			"type": "Creature — Beast",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Roving Barkcrusher.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/190_Roving Barkcrusher.jpg"
 			}
 		},
 		{
 			"name": "Omnidirectional Assault Gear",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Omnidirectional Assault Gear.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/17_Omnidirectional Assault Gear.jpg"
 			}
 		},
 		{
 			"name": "Researcher's Shuttlecraft",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Researcher's Shuttlecraft.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/65_Researcher's Shuttlecraft.jpg"
 			}
 		},
 		{
 			"name": "Ration Nibbler",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Rat ",
+			"type": "Creature — Rat",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ration Nibbler.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/101_Ration Nibbler.jpg"
 			}
 		},
 		{
 			"name": "Roving Garrison",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Roving Garrison.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/148_Roving Garrison.jpg"
 			}
 		},
 		{
@@ -2036,37 +2127,37 @@
 			"type": "Instant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Force Multiplier.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/174_Force Multiplier.jpg"
 			}
 		},
 		{
 			"name": "Colony Surveyor",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Rabbit Scout ",
+			"type": "Creature — Rabbit Scout",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Colony Surveyor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/5_Colony Surveyor.jpg"
 			}
 		},
 		{
 			"name": "Lost In Space",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Lost In Space.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/59_Lost In Space.jpg"
 			}
 		},
 		{
 			"name": "Orbital Droptroop",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Human Soldier ",
+			"type": "Creature — Human Soldier",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Orbital Droptroop.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/95_Orbital Droptroop.jpg"
 			}
 		},
 		{
@@ -2076,87 +2167,87 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Overthrow Defenders.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/143_Overthrow Defenders.jpg"
 			}
 		},
 		{
 			"name": "Mycellic Crasher",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Fungi Beast ",
+			"type": "Creature — Fungi Beast",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Mycellic Crasher.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/183_Mycellic Crasher.jpg"
 			}
 		},
 		{
 			"name": "Blockade Eluder",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Blockade Eluder.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/4_Blockade Eluder.jpg"
 			}
 		},
 		{
 			"name": "Stranded Adrift",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Stranded Adrift.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/73_Stranded Adrift.jpg"
 			}
 		},
 		{
 			"name": "Archpriest of Twilight",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Thax Cleric ",
+			"type": "Creature — Thax Cleric",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Archpriest of Twilight.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/81_Archpriest of Twilight.jpg"
 			}
 		},
 		{
 			"name": "Stampeding Sergeant",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Stampeding Sergeant.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/152_Stampeding Sergeant.jpg"
 			}
 		},
 		{
 			"name": "Geoengineer's Multitool",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Geoengineer's Multitool.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/176_Geoengineer's Multitool.jpg"
 			}
 		},
 		{
 			"name": "Soul Archivist",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Rabbit Cleric ",
+			"type": "Creature — Rabbit Cleric",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Soul Archivist.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/30_Soul Archivist.jpg"
 			}
 		},
 		{
 			"name": "Scrap Engineer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Scrap Engineer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/69_Scrap Engineer.jpg"
 			}
 		},
 		{
@@ -2166,67 +2257,67 @@
 			"type": "Enchantment",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworldly Advantage.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/96_Otherworldly Advantage.jpg"
 			}
 		},
 		{
 			"name": "Station Raider",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Thax Warrior ",
+			"type": "Creature — Thax Warrior",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Station Raider.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/153_Station Raider.jpg"
 			}
 		},
 		{
 			"name": "Phaselight Tellurcraft",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phaselight Tellurcraft.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/187_Phaselight Tellurcraft.jpg"
 			}
 		},
 		{
 			"name": "Rhosha, Time's Prisoner",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Salamander Wizard ",
+			"type": "Legendary Creature — Salamander Wizard",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Rhosha, Time's Prisoner.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/29_Rhosha, Time's Prisoner.jpg"
 			}
 		},
 		{
 			"name": "Prisonworld's Sentence",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Prisonworld's Sentence.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/26_Prisonworld's Sentence.jpg"
 			}
 		},
 		{
 			"name": "Federation Advisor",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Sphinx Advisor ",
+			"type": "Creature — Sphinx Advisor",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Federation Advisor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/53_Federation Advisor.jpg"
 			}
 		},
 		{
 			"name": "Preservation, Sentient Directive",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Enchantment Creature — Saga Construct ",
+			"type": "Legendary Enchantment Creature — Saga Construct",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Preservation, Sentient Directive.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/63_Preservation, Sentient Directive.jpg"
 			}
 		},
 		{
@@ -2236,27 +2327,27 @@
 			"type": "Artifact",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thaxian Voidstone.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/112_Thaxian Voidstone.jpg"
 			}
 		},
 		{
 			"name": "Unak, Exo Manipulator",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Thax Wizard ",
+			"type": "Legendary Creature — Thax Wizard",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Unak, Exo Manipulator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/113_Unak, Exo Manipulator.jpg"
 			}
 		},
 		{
 			"name": "Jaster, Zionnoth's Second",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Creature — Thax Soldier Wizard ",
+			"type": "Legendary Creature — Thax Soldier Wizard",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Jaster, Zionnoth's Second.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/135_Jaster, Zionnoth's Second.jpg"
 			}
 		},
 		{
@@ -2266,17 +2357,17 @@
 			"type": "Enchantment",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Chaotic Clamor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/123_Chaotic Clamor.jpg"
 			}
 		},
 		{
 			"name": "Kai'Kellon, Fragmented Forebear",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature — Elder Wurm ",
+			"type": "Legendary Creature — Elder Wurm",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Kai'Kellon, Fragmented Forebear.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/181_Kai'Kellon, Fragmented Forebear.jpg"
 			}
 		},
 		{
@@ -2286,47 +2377,47 @@
 			"type": "Enchantment",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wurmtaming.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/198_Wurmtaming.jpg"
 			}
 		},
 		{
 			"name": "Tactical Communicator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Salamander Soldier ",
+			"type": "Creature — Salamander Soldier",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Tactical Communicator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/33_Tactical Communicator.jpg"
 			}
 		},
 		{
 			"name": "Ancient Starsquid",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Leviathan Squid ",
+			"type": "Creature — Leviathan Squid",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ancient Starsquid.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/42_Ancient Starsquid.jpg"
 			}
 		},
 		{
 			"name": "Demise Evader",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Human Survivor ",
+			"type": "Creature — Human Survivor",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Demise Evader.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/86_Demise Evader.jpg"
 			}
 		},
 		{
 			"name": "Havoc Seer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Human Shaman ",
+			"type": "Creature — Human Shaman",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Havoc Seer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/132_Havoc Seer.jpg"
 			}
 		},
 		{
@@ -2336,7 +2427,7 @@
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Otherworldly Blow.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/185_Otherworldly Blow.jpg"
 			}
 		},
 		{
@@ -2346,87 +2437,87 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Forced Emigration.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/9_Forced Emigration.jpg"
 			}
 		},
 		{
 			"name": "Engineer's Talent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Class ",
+			"type": "Enchantment — Class",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Engineer's Talent.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/48_Engineer's Talent.jpg"
 			}
 		},
 		{
 			"name": "Shockfly Swarm",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Insect Horror ",
+			"type": "Creature — Insect Horror",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Shockfly Swarm.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/106_Shockfly Swarm.jpg"
 			}
 		},
 		{
 			"name": "Junker's Talent",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Enchantment — Class ",
+			"type": "Enchantment — Class",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Junker's Talent.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/136_Junker's Talent.jpg"
 			}
 		},
 		{
 			"name": "Wing Entangler",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Treefolk Soldier ",
+			"type": "Creature — Treefolk Soldier",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wing Entangler.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/196_Wing Entangler.jpg"
 			}
 		},
 		{
 			"name": "Inspiring Sergeant",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Inspiring Sergeant.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/12_Inspiring Sergeant.jpg"
 			}
 		},
 		{
 			"name": "Supercooled Suspension",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Supercooled Suspension.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/75_Supercooled Suspension.jpg"
 			}
 		},
 		{
 			"name": "Spark Siphon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Spark Siphon.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/108_Spark Siphon.jpg"
 			}
 		},
 		{
 			"name": "Rampage Scorcher",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Construct Soldier ",
+			"type": "Artifact Creature — Construct Soldier",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Rampage Scorcher.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/146_Rampage Scorcher.jpg"
 			}
 		},
 		{
@@ -2436,7 +2527,7 @@
 			"type": "Artifact",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Catalytic Processor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/165_Catalytic Processor.jpg"
 			}
 		},
 		{
@@ -2446,17 +2537,17 @@
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Active Shielding.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/1_Active Shielding.jpg"
 			}
 		},
 		{
 			"name": "Hangar Bay Serviceman",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Salamander Artificer ",
+			"type": "Creature — Salamander Artificer",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Hangar Bay Serviceman.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/56_Hangar Bay Serviceman.jpg"
 			}
 		},
 		{
@@ -2466,7 +2557,7 @@
 			"type": "Artifact",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Wurmtamer's Stone.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/118_Wurmtamer's Stone.jpg"
 			}
 		},
 		{
@@ -2476,77 +2567,77 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Electromagnetic Disruption.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/125_Electromagnetic Disruption.jpg"
 			}
 		},
 		{
 			"name": "Interplanetary Trader",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Bird Citizen ",
+			"type": "Creature — Bird Citizen",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Interplanetary Trader.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/180_Interplanetary Trader.jpg"
 			}
 		},
 		{
 			"name": "Planet Settler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Citizen ",
+			"type": "Creature — Human Citizen",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Planet Settler.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/25_Planet Settler.jpg"
 			}
 		},
 		{
 			"name": "Escort Oracle",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Salamander Wizard ",
+			"type": "Creature — Salamander Wizard",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Escort Oracle.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/50_Escort Oracle.jpg"
 			}
 		},
 		{
 			"name": "Artificial Ace",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Robot Pilot ",
+			"type": "Artifact Creature — Robot Pilot",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Artificial Ace.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/82_Artificial Ace.jpg"
 			}
 		},
 		{
 			"name": "Thrashing Cragwolf",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Wolf Elemental ",
+			"type": "Creature — Wolf Elemental",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thrashing Cragwolf.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/156_Thrashing Cragwolf.jpg"
 			}
 		},
 		{
 			"name": "Mycellic Propagator",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Fungi Beast ",
+			"type": "Creature — Fungi Beast",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Mycellic Propagator.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/184_Mycellic Propagator.jpg"
 			}
 		},
 		{
 			"name": "Phasebound Duelist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Thax Soldier ",
+			"type": "Creature — Thax Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Phasebound Duelist.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/21_Phasebound Duelist.jpg"
 			}
 		},
 		{
@@ -2556,7 +2647,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Star Ward.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/72_Star Ward.jpg"
 			}
 		},
 		{
@@ -2566,107 +2657,107 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Overwhelming Loss.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/97_Overwhelming Loss.jpg"
 			}
 		},
 		{
 			"name": "Reactive Magnetoad",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Frog ",
+			"type": "Artifact Creature — Frog",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Reactive Magnetoad.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/147_Reactive Magnetoad.jpg"
 			}
 		},
 		{
 			"name": "Harmonic Darkwurm",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Wurm ",
+			"type": "Creature — Wurm",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Harmonic Darkwurm.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/178_Harmonic Darkwurm.jpg"
 			}
 		},
 		{
 			"name": "Territory Pillager",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Thax Warrior ",
+			"type": "Creature — Thax Warrior",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Territory Pillager.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/34_Territory Pillager.jpg"
 			}
 		},
 		{
 			"name": "Collection Compiler",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact Creature — Robot Scientist ",
+			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Collection Compiler.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/44_Collection Compiler.jpg"
 			}
 		},
 		{
 			"name": "Ravenous Cosmipede",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Insect Horror ",
+			"type": "Creature — Insect Horror",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ravenous Cosmipede.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/102_Ravenous Cosmipede.jpg"
 			}
 		},
 		{
 			"name": "Shattering Cometcraft",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact — Spacecraft ",
+			"type": "Artifact — Spacecraft",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Shattering Cometcraft.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/150_Shattering Cometcraft.jpg"
 			}
 		},
 		{
 			"name": "Yutaran Vigor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Yutaran Vigor.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/200_Yutaran Vigor.jpg"
 			}
 		},
 		{
 			"name": "Mechanized Croptender",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Creature — Rabbit Citizen ",
+			"type": "Creature — Rabbit Citizen",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Mechanized Croptender.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/14_Mechanized Croptender.jpg"
 			}
 		},
 		{
 			"name": "Practiced Replicaster",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}{U}",
-			"type": "Creature — Salamander Wizard ",
+			"type": "Creature — Salamander Wizard",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Practiced Replicaster.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/62_Practiced Replicaster.jpg"
 			}
 		},
 		{
 			"name": "Ransacker's Talent",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Enchantment — Class ",
+			"type": "Enchantment — Class",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ransacker's Talent.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/100_Ransacker's Talent.jpg"
 			}
 		},
 		{
@@ -2676,580 +2767,952 @@
 			"type": "Artifact",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Thiris Crystal.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/155_Thiris Crystal.jpg"
 			}
 		},
 		{
 			"name": "Ecologist's Talent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Class ",
+			"type": "Enchantment — Class",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Ecologist's Talent.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/172_Ecologist's Talent.jpg"
 			}
 		},
 		{
 			"name": "Zionnoth, Planet Conquerer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}{G}",
-			"type": "Legendary Creature — Dragon Noble ",
+			"type": "Legendary Creature — Dragon Noble",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Zionnoth, Planet Conquerer.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/227_Zionnoth, Planet Conquerer.jpg"
+			}
+		},
+		{
+			"name": "Starsquid",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Squid",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/LSL-files/img/2t_Starsquid.jpg"
 			}
 		},
 		{
 			"name": "Terrestrial Scouter",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Thopter ",
+			"type": "Artifact Creature — Thopter",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/LSL-files/Terrestrial Scouter.png"
+				"en": "https://MSE-Hub/sets/LSL-files/img/247_Terrestrial Scouter.jpg"
 			}
-		},
-		]
-	[RareSlot(1)]
+		}
+	]
+
+[rare(1)]
+	1 The Twilight Darkbeast
+	1 Entanglement Engine
 	2 Wurmguard Commandcraft
-		2 Twilightborn Scavenger
-		2 Death of the Dawn
-		2 Phaselight Colonyship
-		2 Habitat Architect
-		2 Phaselight Starforge
-		2 Wurmhole Exploration
-		2 Twilight Darkwurm
-		2 Fate-Linked Twilightborn
-		2 Voracious Cosmipillar
-		2 Otherworld Assault Team
-		2 Otherworld Veteran
-		2 Fleetwide Engineer
-		2 Exovitalize
-		2 Flame-Tongue Feline
-		2 Infested Wurmgrounds
-		2 Shara, Luck-Linked
-		2 Quantum Terror
-		2 Curator's Intervention
-		2 Macabre Prisonship
-		2 Scrapper's Lightcutter
-		2 Reverse Engineering
-		2 Dyson Colossus
-		2 Darkworld Monument
-		2 Swarmlaunch Carrier
-		2 Station Raider
-		2 Prisonworld's Sentence
-		2 Catalytic Processor
-		2 Wurmtamer's Stone
-		2 Mycellic Propagator
-		1 The Twilight Darkbeast
-		1 Entanglement Engine
-		1 Archive Lifestation
-		1 Static Sequence
-		1 Allusions to Choice
-		1 Rhest Ko, Brutal Subjugator
-		1 Flechette Munitions
-		1 Darkwurm Researchcraft
-		1 Lio, Fate Binder
-		1 Memoriam Station
-		1 Lae Sard, Baron of the Stars
-		1 Voya, Fate-Linked Savior
-		1 Resource Raid
-		1 Rhosha, Time's Prisoner
-		1 Federation Advisor
-		1 Preservation, Sentient Directive
-		1 Thaxian Voidstone
-		1 Unak, Exo Manipulator
-		1 Jaster, Zionnoth's Second
-		1 Chaotic Clamor
-		1 Kai'Kellon, Fragmented Forebear
-		1 Wurmtaming
-		1 Zionnoth, Planet Conquerer
-		[UncommonSlot(3)]
-	9 Backwards Burrowbeast
-		9 Thaxian Phaseblade
-		9 Charging Phasebound
-		9 Possibility Oracle
-		9 Phaselight Engine
-		9 Enclosure Caretaker
-		9 Mid-Warp Collision
-		9 Phasebound Voidmage
-		9 Thaxian Phasecrasher
-		9 Fauna Abductor
-		9 Fighter Fabricator
-		9 Havoc Render
-		9 Deadworld Archaeologist
-		9 Twilight Starsearcher
-		9 Glimpse of Hope
-		9 Vaserian Apostle
-		9 Phasic Barrage
-		9 Ancient Darkwurm
-		9 Enclosed Hydroponics
-		9 Lightborn Agrariator
-		9 Specimen Savior
-		9 Phaselight Fighter
-		9 Retraction Beam
-		9 Phase Cannon
-		9 Wurmhole Surveyor
-		9 Anomolous Study
-		9 Emergency Preparations
-		9 Vagrant Fruitbearer
-		9 Veer Off Course
-		9 Hypothermic Reaction
-		9 Lone Curse-Linked
-		9 Improvised Craftwelder
-		9 Deadworld Terraformer
-		9 Philanthropic Pathfinder
-		9 Stray Bombardment
-		9 Unstable Stormhound
-		9 Colony Pioneer
-		9 Otherworld Banishment
-		9 Twilight Disruption
-		9 Regenerating Exosoldier
-		9 Last-Second Exchange
-		9 Voidhab Fabricator
-		9 Escape into Oasis
-		9 Nihilistic Revelation
-		9 Exoskeletal Operator
-		9 Quantum Sightstone
-		9 Domebound Ecologist
-		9 Curator's Talent
-		9 Entanglement Engineer
-		9 Xenogenic Bloodghoul
-		9 Targeted Termination
-		9 Armorback Specimen
-		9 Fleetwide Repairbot
-		9 Crashed Transport
-		9 Gravitic Crush
-		9 Stampeding Sergeant
-		9 Soul Archivist
-		9 Scrap Engineer
-		9 Otherworldly Advantage
-		9 Phaselight Tellurcraft
-		9 Tactical Communicator
-		9 Ancient Starsquid
-		9 Demise Evader
-		9 Havoc Seer
-		9 Otherworldly Blow
-		9 Forced Emigration
-		9 Engineer's Talent
-		9 Shockfly Swarm
-		9 Junker's Talent
-		9 Inspiring Sergeant
-		9 Supercooled Suspension
-		9 Spark Siphon
-		9 Rampage Scorcher
-		9 Active Shielding
-		9 Hangar Bay Serviceman
-		9 Interplanetary Trader
-		9 Planet Settler
-		9 Escort Oracle
-		9 Artificial Ace
-		9 Thrashing Cragwolf
-		9 Phasebound Duelist
-		9 Star Ward
-		9 Overwhelming Loss
-		9 Reactive Magnetoad
-		9 Harmonic Darkwurm
-		9 Territory Pillager
-		9 Collection Compiler
-		9 Ravenous Cosmipede
-		9 Shattering Cometcraft
-		9 Yutaran Vigor
-		9 Mechanized Croptender
-		9 Practiced Replicaster
-		9 Ransacker's Talent
-		9 Thiris Crystal
-		9 Ecologist's Talent
-		9 Terrestrial Scouter
-		[CommonSlot(10)]
-	30 Tumultuous Exhibit
-		30 Phasebound Hunter
-		30 Exhibit Keeper
-		30 Lifestation Scout
-		30 Solar Emulator
-		30 Darkwurm Hatchling
-		30 Solar Search
-		30 Twilight Voidvessel
-		30 Darkworld Relic
-		30 Legacy of the Phasebound
-		30 Flora Behemoth
-		30 Twilight Starsnake
-		30 Otherworld Orders
-		30 Light Tracker
-		30 Escape Pod
-		30 Hotshot Space Ace
-		30 Forward Scout
-		30 Otherworld Resonator
-		30 Advanced Observation Post
-		30 Otherworld Wurmtamer
-		30 Elusive Starsquid
-		30 Otherworld Vigil
-		30 Breakyard Salvager
-		30 Veiled Idyll
-		30 Wildlife Preservator
-		30 Salvage Equipment
-		30 Federation Twilightborn
-		30 Darkwurm Light-Hunt
-		30 Xenogen Exposure
-		30 Weapons Calibrator
-		30 Roving Starsquid
-		30 Writhing Bogbeast
-		30 Fanatical Rage
-		30 Formicat Scout
-		30 Fresh Reinforcements
-		30 Suit Puncture
-		30 Exoskeletal Puppeteering
-		30 Chaos Reader
-		30 Rocket Punch
-		30 Phaselight Rupture
-		30 Destabilize
-		30 Bloody Exosoldier
-		30 Vaserian Stormstone
-		30 Lightborn Ecologist
-		30 Phaselight Recalibration
-		30 Behavioral Analyst
-		30 Untangle Fate
-		30 Uproarious Sorcerer
-		30 Voidmage's Blessing
-		30 Missing No Longer
-		30 Twilight Stalker
-		30 Costly Position
-		30 Electrostorm
-		30 Yutaran Hunter
-		30 Augur's Assistant
-		30 Lightborn Ace
-		30 Vaserian Chanter
-		30 Hotshot Aeronaut
-		30 Aggressive Phasewurm
-		30 Rapidfire Lightcutter
-		30 Soarnith Commando
-		30 Solitary Captain
-		30 Curation Envoy
-		30 Relicworld Colonization
-		30 Waste Recycler
-		30 Lost Cargo
-		30 Allied Shredder-Class Frigate
-		30 Microstar Generator
-		30 Deadworld Precolonizer
-		30 Deadworld Dome
-		30 Stereoscopic Tactician
-		30 Dire Departure
-		30 Summoned Cosmipede
-		30 Soarnith Squaddie
-		30 Soilless Tiller
-		30 Re-Energize
-		30 Phaseshred
-		30 Nebula Stormship
-		30 Last Ditch Maneuver
-		30 Plans For Development
-		30 Manufactured Incident
-		30 Orbital Shocktroop
-		30 Roving Barkcrusher
-		30 Omnidirectional Assault Gear
-		30 Researcher's Shuttlecraft
-		30 Ration Nibbler
-		30 Roving Garrison
-		30 Force Multiplier
-		30 Colony Surveyor
-		30 Lost In Space
-		30 Orbital Droptroop
-		30 Overthrow Defenders
-		30 Mycellic Crasher
-		30 Blockade Eluder
-		30 Stranded Adrift
-		30 Archpriest of Twilight
-		30 Geoengineer's Multitool
-		30 Wing Entangler
-		30 Electromagnetic Disruption
-		[WildcardSlot(1)]
-	10 The Twilight Darkbeast
-	10 Entanglement Engine
-	10 Tumultuous Exhibit
-	10 Backwards Burrowbeast
-	10 Phasebound Hunter
-	10 Thaxian Phaseblade
-	10 Charging Phasebound
-	10 Exhibit Keeper
-	10 Lifestation Scout
-	10 Wurmguard Commandcraft
-	10 Archive Lifestation
-	10 Solar Emulator
-	10 Darkwurm Hatchling
-	10 Twilightborn Scavenger
-	10 Possibility Oracle
-	10 Death of the Dawn
-	10 Solar Search
-	10 Twilight Voidvessel
-	10 Phaselight Colonyship
-	10 Phaselight Engine
-	10 Enclosure Caretaker
-	10 Darkworld Relic
-	10 Habitat Architect
-	10 Phaselight Starforge
-	10 Legacy of the Phasebound
-	10 Mid-Warp Collision
-	10 Phasebound Voidmage
-	10 Thaxian Phasecrasher
-	10 Fauna Abductor
-	10 Fighter Fabricator
-	10 Flora Behemoth
-	10 Twilight Starsnake
-	10 Havoc Render
-	10 Deadworld Archaeologist
-	10 Twilight Starsearcher
-	10 Glimpse of Hope
-	10 Vaserian Apostle
-	10 Phasic Barrage
-	10 Ancient Darkwurm
-	10 Otherworld Orders
-	10 Light Tracker
-	10 Enclosed Hydroponics
-	10 Lightborn Agrariator
-	10 Escape Pod
-	10 Hotshot Space Ace
-	10 Forward Scout
-	10 Otherworld Resonator
-	10 Advanced Observation Post
-	10 Otherworld Wurmtamer
-	10 Static Sequence
-	10 Allusions to Choice
-	10 Rhest Ko, Brutal Subjugator
-	10 Flechette Munitions
-	10 Darkwurm Researchcraft
-	10 Elusive Starsquid
-	10 Specimen Savior
-	10 Phaselight Fighter
-	10 Otherworld Vigil
-	10 Breakyard Salvager
-	10 Veiled Idyll
-	10 Wurmhole Exploration
-	10 Twilight Darkwurm
-	10 Fate-Linked Twilightborn
-	10 Voracious Cosmipillar
-	10 Otherworld Assault Team
-	10 Estevia, Otherworld Nebula
-	10 Ovas III, Shrouded Moon
-	10 Rukka, Comet Aurora
-	10 Thellex, Phasic Warworld
-	10 Distar, Celestial Egg
-	10 Teeming Lushworld
-	10 Moonless Plageworld
-	10 Inclement Brineworld
-	10 Turbulent Stormworld
-	10 Juvenile Slagworld
-	10 Savage Wildworld
-	10 Harmonic Farmworld
-	10 Expired Gloomworld
-	10 Slough Wetworld
-	10 Torrid Dustworld
-	10 Ark Epsilon, Ringworld
-	10 Nabarro, Glassworld
-	10 Wildlife Preservator
-	10 Retraction Beam
-	10 Salvage Equipment
-	10 Federation Twilightborn
-	10 Darkwurm Light-Hunt
-	10 Thiris Mine
-	10 Phase Cannon
-	10 Lio, Fate Binder
-	10 Wurmhole Surveyor
-	10 Anomolous Study
-	10 Xenogen Exposure
-	10 Emergency Preparations
-	10 Vagrant Fruitbearer
-	10 Otherworld Veteran
-	10 Fleetwide Engineer
-	10 Exovitalize
-	10 Flame-Tongue Feline
-	10 Infested Wurmgrounds
-	10 Weapons Calibrator
-	10 Roving Starsquid
-	10 Writhing Bogbeast
-	10 Fanatical Rage
-	10 Formicat Scout
-	10 Shara, Luck-Linked
-	10 Fresh Reinforcements
-	10 Suit Puncture
-	10 Exoskeletal Puppeteering
-	10 Chaos Reader
-	10 Rocket Punch
-	10 Phaselight Rupture
-	10 Destabilize
-	10 Bloody Exosoldier
-	10 Vaserian Stormstone
-	10 Lightborn Ecologist
-	10 Veer Off Course
-	10 Hypothermic Reaction
-	10 Lone Curse-Linked
-	10 Improvised Craftwelder
-	10 Deadworld Terraformer
-	10 Philanthropic Pathfinder
-	10 Quantum Terror
-	10 Stray Bombardment
-	10 Unstable Stormhound
-	10 Colony Pioneer
-	10 Otherworld Banishment
-	10 Twilight Disruption
-	10 Regenerating Exosoldier
-	10 Last-Second Exchange
-	10 Voidhab Fabricator
-	10 Curator's Intervention
-	10 Phaselight Recalibration
-	10 Macabre Prisonship
-	10 Scrapper's Lightcutter
-	10 Escape into Oasis
-	10 Behavioral Analyst
-	10 Untangle Fate
-	10 Nihilistic Revelation
-	10 Uproarious Sorcerer
-	10 Voidmage's Blessing
-	10 Missing No Longer
-	10 Twilight Stalker
-	10 Costly Position
-	10 Electrostorm
-	10 Yutaran Hunter
-	10 Augur's Assistant
-	10 Lightborn Ace
-	10 Vaserian Chanter
-	10 Hotshot Aeronaut
-	10 Aggressive Phasewurm
-	10 Rapidfire Lightcutter
-	10 Soarnith Commando
-	10 Solitary Captain
-	10 Curation Envoy
-	10 Relicworld Colonization
-	10 Memoriam Station
-	10 Reverse Engineering
-	10 Exoskeletal Operator
-	10 Quantum Sightstone
-	10 Domebound Ecologist
-	10 Curator's Talent
-	10 Entanglement Engineer
-	10 Xenogenic Bloodghoul
-	10 Targeted Termination
-	10 Armorback Specimen
-	10 Waste Recycler
-	10 Lost Cargo
-	10 Allied Shredder-Class Frigate
-	10 Microstar Generator
-	10 Deadworld Precolonizer
-	10 Deadworld Dome
-	10 Dyson Colossus
-	10 Darkworld Monument
-	10 Fleetwide Repairbot
-	10 Lae Sard, Baron of the Stars
-	10 Voya, Fate-Linked Savior
-	10 Resource Raid
-	10 Swarmlaunch Carrier
-	10 Stereoscopic Tactician
-	10 Dire Departure
-	10 Summoned Cosmipede
-	10 Soarnith Squaddie
-	10 Soilless Tiller
-	10 Re-Energize
-	10 Crashed Transport
-	10 Phaseshred
-	10 Nebula Stormship
-	10 Gravitic Crush
-	10 Last Ditch Maneuver
-	10 Plans For Development
-	10 Manufactured Incident
-	10 Orbital Shocktroop
-	10 Roving Barkcrusher
-	10 Omnidirectional Assault Gear
-	10 Researcher's Shuttlecraft
-	10 Ration Nibbler
-	10 Roving Garrison
-	10 Force Multiplier
-	10 Colony Surveyor
-	10 Lost In Space
-	10 Orbital Droptroop
-	10 Overthrow Defenders
-	10 Mycellic Crasher
-	10 Blockade Eluder
-	10 Stranded Adrift
-	10 Archpriest of Twilight
-	10 Stampeding Sergeant
-	10 Geoengineer's Multitool
-	10 Soul Archivist
-	10 Scrap Engineer
-	10 Otherworldly Advantage
-	10 Station Raider
-	10 Phaselight Tellurcraft
-	10 Rhosha, Time's Prisoner
-	10 Prisonworld's Sentence
-	10 Federation Advisor
-	10 Preservation, Sentient Directive
-	10 Thaxian Voidstone
-	10 Unak, Exo Manipulator
-	10 Jaster, Zionnoth's Second
-	10 Chaotic Clamor
-	10 Kai'Kellon, Fragmented Forebear
-	10 Wurmtaming
-	10 Tactical Communicator
-	10 Ancient Starsquid
-	10 Demise Evader
-	10 Havoc Seer
-	10 Otherworldly Blow
-	10 Forced Emigration
-	10 Engineer's Talent
-	10 Shockfly Swarm
-	10 Junker's Talent
-	10 Wing Entangler
-	10 Inspiring Sergeant
-	10 Supercooled Suspension
-	10 Spark Siphon
-	10 Rampage Scorcher
-	10 Catalytic Processor
-	10 Active Shielding
-	10 Hangar Bay Serviceman
-	10 Wurmtamer's Stone
-	10 Electromagnetic Disruption
-	10 Interplanetary Trader
-	10 Planet Settler
-	10 Escort Oracle
-	10 Artificial Ace
-	10 Thrashing Cragwolf
-	10 Mycellic Propagator
-	10 Phasebound Duelist
-	10 Star Ward
-	10 Overwhelming Loss
-	10 Reactive Magnetoad
-	10 Harmonic Darkwurm
-	10 Territory Pillager
-	10 Collection Compiler
-	10 Ravenous Cosmipede
-	10 Shattering Cometcraft
-	10 Yutaran Vigor
-	10 Mechanized Croptender
-	10 Practiced Replicaster
-	10 Ransacker's Talent
-	10 Thiris Crystal
-	10 Ecologist's Talent
-	10 Zionnoth, Planet Conquerer
-	10 Terrestrial Scouter
-	[LandSlot(1)]
-	10 Plains
-		10 Island
-		10 Swamp
-		10 Mountain
-		10 Forest
-		10 Estevia, Otherworld Nebula
-		10 Ovas III, Shrouded Moon
-		10 Rukka, Comet Aurora
-		10 Thellex, Phasic Warworld
-		10 Distar, Celestial Egg
-		10 Teeming Lushworld
-		10 Moonless Plageworld
-		10 Inclement Brineworld
-		10 Turbulent Stormworld
-		10 Juvenile Slagworld
-		10 Savage Wildworld
-		10 Harmonic Farmworld
-		10 Expired Gloomworld
-		10 Slough Wetworld
-		10 Torrid Dustworld
-		10 Ark Epsilon, Ringworld
-		10 Nabarro, Glassworld
-		10 Thiris Mine
-		
+	1 Archive Lifestation
+	2 Twilightborn Scavenger
+	2 Death of the Dawn
+	2 Phaselight Colonyship
+	2 Habitat Architect
+	2 Phaselight Starforge
+	1 Static Sequence
+	1 Allusions to Choice
+	1 Rhest Ko, Brutal Subjugator
+	1 Flechette Munitions
+	1 Darkwurm Researchcraft
+	2 Wurmhole Exploration
+	2 Twilight Darkwurm
+	2 Fate-Linked Twilightborn
+	2 Voracious Cosmipillar
+	2 Otherworld Assault Team
+	2 Estevia, Otherworld Nebula
+	2 Ovas III, Shrouded Moon
+	2 Rukka, Comet Aurora
+	2 Thellex, Phasic Warworld
+	2 Distar, Celestial Egg
+	2 Ark Epsilon, Ringworld
+	1 Nabarro, Glassworld
+	1 Lio, Fate Binder
+	2 Otherworld Veteran
+	2 Fleetwide Engineer
+	2 Exovitalize
+	2 Flame-Tongue Feline
+	2 Infested Wurmgrounds
+	2 Shara, Luck-Linked
+	2 Quantum Terror
+	2 Curator's Intervention
+	2 Macabre Prisonship
+	2 Scrapper's Lightcutter
+	1 Memoriam Station
+	2 Reverse Engineering
+	2 Dyson Colossus
+	2 Darkworld Monument
+	1 Lae Sard, Baron of the Stars
+	1 Voya, Fate-Linked Savior
+	1 Resource Raid
+	2 Swarmlaunch Carrier
+	2 Station Raider
+	1 Rhosha, Time's Prisoner
+	2 Prisonworld's Sentence
+	1 Federation Advisor
+	1 Preservation, Sentient Directive
+	1 Thaxian Voidstone
+	1 Unak, Exo Manipulator
+	1 Jaster, Zionnoth's Second
+	1 Chaotic Clamor
+	1 Kai'Kellon, Fragmented Forebear
+	1 Wurmtaming
+	2 Catalytic Processor
+	2 Wurmtamer's Stone
+	2 Mycellic Propagator
+	1 Zionnoth, Planet Conquerer
+[uncommon(3)]
+	4 Backwards Burrowbeast
+	4 Thaxian Phaseblade
+	4 Charging Phasebound
+	4 Possibility Oracle
+	4 Phaselight Engine
+	4 Enclosure Caretaker
+	4 Mid-Warp Collision
+	4 Phasebound Voidmage
+	4 Thaxian Phasecrasher
+	4 Fauna Abductor
+	4 Fighter Fabricator
+	4 Havoc Render
+	4 Deadworld Archaeologist
+	4 Twilight Starsearcher
+	4 Glimpse of Hope
+	4 Vaserian Apostle
+	4 Phasic Barrage
+	4 Ancient Darkwurm
+	4 Enclosed Hydroponics
+	4 Lightborn Agrariator
+	4 Specimen Savior
+	4 Phaselight Fighter
+	4 Teeming Lushworld
+	4 Moonless Plageworld
+	4 Inclement Brineworld
+	4 Turbulent Stormworld
+	4 Juvenile Slagworld
+	4 Savage Wildworld
+	4 Harmonic Farmworld
+	4 Expired Gloomworld
+	4 Slough Wetworld
+	4 Torrid Dustworld
+	4 Retraction Beam
+	4 Phase Cannon
+	4 Wurmhole Surveyor
+	4 Anomolous Study
+	4 Emergency Preparations
+	4 Vagrant Fruitbearer
+	4 Veer Off Course
+	4 Hypothermic Reaction
+	4 Lone Curse-Linked
+	4 Improvised Craftwelder
+	4 Deadworld Terraformer
+	4 Philanthropic Pathfinder
+	4 Stray Bombardment
+	4 Unstable Stormhound
+	4 Colony Pioneer
+	4 Otherworld Banishment
+	4 Twilight Disruption
+	4 Regenerating Exosoldier
+	4 Last-Second Exchange
+	4 Voidhab Fabricator
+	4 Escape into Oasis
+	4 Nihilistic Revelation
+	4 Exoskeletal Operator
+	4 Quantum Sightstone
+	4 Domebound Ecologist
+	4 Curator's Talent
+	4 Entanglement Engineer
+	4 Xenogenic Bloodghoul
+	4 Targeted Termination
+	4 Armorback Specimen
+	4 Fleetwide Repairbot
+	4 Crashed Transport
+	4 Gravitic Crush
+	4 Stampeding Sergeant
+	4 Soul Archivist
+	4 Scrap Engineer
+	4 Otherworldly Advantage
+	4 Phaselight Tellurcraft
+	4 Tactical Communicator
+	4 Ancient Starsquid
+	4 Demise Evader
+	4 Havoc Seer
+	4 Otherworldly Blow
+	4 Forced Emigration
+	4 Engineer's Talent
+	4 Shockfly Swarm
+	4 Junker's Talent
+	4 Inspiring Sergeant
+	4 Supercooled Suspension
+	4 Spark Siphon
+	4 Rampage Scorcher
+	4 Active Shielding
+	4 Hangar Bay Serviceman
+	4 Interplanetary Trader
+	4 Planet Settler
+	4 Escort Oracle
+	4 Artificial Ace
+	4 Thrashing Cragwolf
+	4 Phasebound Duelist
+	4 Star Ward
+	4 Overwhelming Loss
+	4 Reactive Magnetoad
+	4 Harmonic Darkwurm
+	4 Territory Pillager
+	4 Collection Compiler
+	4 Ravenous Cosmipede
+	4 Shattering Cometcraft
+	4 Yutaran Vigor
+	4 Mechanized Croptender
+	4 Practiced Replicaster
+	4 Ransacker's Talent
+	4 Thiris Crystal
+	4 Ecologist's Talent
+	4 Terrestrial Scouter
+[common(6)]
+	8 Tumultuous Exhibit
+	8 Phasebound Hunter
+	8 Exhibit Keeper
+	8 Lifestation Scout
+	8 Solar Emulator
+	8 Darkwurm Hatchling
+	8 Solar Search
+	8 Twilight Voidvessel
+	8 Darkworld Relic
+	8 Legacy of the Phasebound
+	8 Flora Behemoth
+	8 Twilight Starsnake
+	8 Otherworld Orders
+	8 Light Tracker
+	8 Escape Pod
+	8 Hotshot Space Ace
+	8 Forward Scout
+	8 Otherworld Resonator
+	8 Advanced Observation Post
+	8 Otherworld Wurmtamer
+	8 Elusive Starsquid
+	8 Otherworld Vigil
+	8 Breakyard Salvager
+	8 Veiled Idyll
+	8 Wildlife Preservator
+	8 Salvage Equipment
+	8 Federation Twilightborn
+	8 Darkwurm Light-Hunt
+	8 Thiris Mine
+	8 Xenogen Exposure
+	8 Weapons Calibrator
+	8 Roving Starsquid
+	8 Writhing Bogbeast
+	8 Fanatical Rage
+	8 Formicat Scout
+	8 Fresh Reinforcements
+	8 Suit Puncture
+	8 Exoskeletal Puppeteering
+	8 Chaos Reader
+	8 Rocket Punch
+	8 Phaselight Rupture
+	8 Destabilize
+	8 Bloody Exosoldier
+	8 Vaserian Stormstone
+	8 Lightborn Ecologist
+	8 Phaselight Recalibration
+	8 Behavioral Analyst
+	8 Untangle Fate
+	8 Uproarious Sorcerer
+	8 Voidmage's Blessing
+	8 Missing No Longer
+	8 Twilight Stalker
+	8 Costly Position
+	8 Electrostorm
+	8 Yutaran Hunter
+	8 Augur's Assistant
+	8 Lightborn Ace
+	8 Vaserian Chanter
+	8 Hotshot Aeronaut
+	8 Aggressive Phasewurm
+	8 Rapidfire Lightcutter
+	8 Soarnith Commando
+	8 Solitary Captain
+	8 Curation Envoy
+	8 Relicworld Colonization
+	8 Waste Recycler
+	8 Lost Cargo
+	8 Allied Shredder-Class Frigate
+	8 Microstar Generator
+	8 Deadworld Precolonizer
+	8 Deadworld Dome
+	8 Stereoscopic Tactician
+	8 Dire Departure
+	8 Summoned Cosmipede
+	8 Soarnith Squaddie
+	8 Soilless Tiller
+	8 Re-Energize
+	8 Phaseshred
+	8 Nebula Stormship
+	8 Last Ditch Maneuver
+	8 Plans For Development
+	8 Manufactured Incident
+	8 Orbital Shocktroop
+	8 Roving Barkcrusher
+	8 Omnidirectional Assault Gear
+	8 Researcher's Shuttlecraft
+	8 Ration Nibbler
+	8 Roving Garrison
+	8 Force Multiplier
+	8 Colony Surveyor
+	8 Lost In Space
+	8 Orbital Droptroop
+	8 Overthrow Defenders
+	8 Mycellic Crasher
+	8 Blockade Eluder
+	8 Stranded Adrift
+	8 Archpriest of Twilight
+	8 Geoengineer's Multitool
+	8 Wing Entangler
+	8 Electromagnetic Disruption
+[common | masterpiece(1)]
+	8 Tumultuous Exhibit
+	8 Phasebound Hunter
+	8 Exhibit Keeper
+	8 Lifestation Scout
+	8 Solar Emulator
+	8 Darkwurm Hatchling
+	8 Solar Search
+	8 Twilight Voidvessel
+	8 Darkworld Relic
+	8 Legacy of the Phasebound
+	8 Flora Behemoth
+	8 Twilight Starsnake
+	8 Otherworld Orders
+	8 Light Tracker
+	8 Escape Pod
+	8 Hotshot Space Ace
+	8 Forward Scout
+	8 Otherworld Resonator
+	8 Advanced Observation Post
+	8 Otherworld Wurmtamer
+	8 Elusive Starsquid
+	8 Otherworld Vigil
+	8 Breakyard Salvager
+	8 Veiled Idyll
+	8 Wildlife Preservator
+	8 Salvage Equipment
+	8 Federation Twilightborn
+	8 Darkwurm Light-Hunt
+	8 Thiris Mine
+	8 Xenogen Exposure
+	8 Weapons Calibrator
+	8 Roving Starsquid
+	8 Writhing Bogbeast
+	8 Fanatical Rage
+	8 Formicat Scout
+	8 Fresh Reinforcements
+	8 Suit Puncture
+	8 Exoskeletal Puppeteering
+	8 Chaos Reader
+	8 Rocket Punch
+	8 Phaselight Rupture
+	8 Destabilize
+	8 Bloody Exosoldier
+	8 Vaserian Stormstone
+	8 Lightborn Ecologist
+	8 Phaselight Recalibration
+	8 Behavioral Analyst
+	8 Untangle Fate
+	8 Uproarious Sorcerer
+	8 Voidmage's Blessing
+	8 Missing No Longer
+	8 Twilight Stalker
+	8 Costly Position
+	8 Electrostorm
+	8 Yutaran Hunter
+	8 Augur's Assistant
+	8 Lightborn Ace
+	8 Vaserian Chanter
+	8 Hotshot Aeronaut
+	8 Aggressive Phasewurm
+	8 Rapidfire Lightcutter
+	8 Soarnith Commando
+	8 Solitary Captain
+	8 Curation Envoy
+	8 Relicworld Colonization
+	8 Waste Recycler
+	8 Lost Cargo
+	8 Allied Shredder-Class Frigate
+	8 Microstar Generator
+	8 Deadworld Precolonizer
+	8 Deadworld Dome
+	8 Stereoscopic Tactician
+	8 Dire Departure
+	8 Summoned Cosmipede
+	8 Soarnith Squaddie
+	8 Soilless Tiller
+	8 Re-Energize
+	8 Phaseshred
+	8 Nebula Stormship
+	8 Last Ditch Maneuver
+	8 Plans For Development
+	8 Manufactured Incident
+	8 Orbital Shocktroop
+	8 Roving Barkcrusher
+	8 Omnidirectional Assault Gear
+	8 Researcher's Shuttlecraft
+	8 Ration Nibbler
+	8 Roving Garrison
+	8 Force Multiplier
+	8 Colony Surveyor
+	8 Lost In Space
+	8 Orbital Droptroop
+	8 Overthrow Defenders
+	8 Mycellic Crasher
+	8 Blockade Eluder
+	8 Stranded Adrift
+	8 Archpriest of Twilight
+	8 Geoengineer's Multitool
+	8 Wing Entangler
+	8 Electromagnetic Disruption
+[foil(1)]
+	1 The Twilight Darkbeast
+	1 Entanglement Engine
+	12 Tumultuous Exhibit
+	6 Backwards Burrowbeast
+	12 Phasebound Hunter
+	6 Thaxian Phaseblade
+	6 Charging Phasebound
+	12 Exhibit Keeper
+	12 Lifestation Scout
+	2 Wurmguard Commandcraft
+	1 Archive Lifestation
+	12 Solar Emulator
+	12 Darkwurm Hatchling
+	2 Twilightborn Scavenger
+	6 Possibility Oracle
+	2 Death of the Dawn
+	12 Solar Search
+	12 Twilight Voidvessel
+	2 Phaselight Colonyship
+	6 Phaselight Engine
+	6 Enclosure Caretaker
+	12 Darkworld Relic
+	2 Habitat Architect
+	2 Phaselight Starforge
+	12 Legacy of the Phasebound
+	6 Mid-Warp Collision
+	6 Phasebound Voidmage
+	6 Thaxian Phasecrasher
+	6 Fauna Abductor
+	6 Fighter Fabricator
+	12 Flora Behemoth
+	12 Twilight Starsnake
+	6 Havoc Render
+	6 Deadworld Archaeologist
+	6 Twilight Starsearcher
+	6 Glimpse of Hope
+	6 Vaserian Apostle
+	6 Phasic Barrage
+	6 Ancient Darkwurm
+	12 Otherworld Orders
+	12 Light Tracker
+	6 Enclosed Hydroponics
+	6 Lightborn Agrariator
+	12 Escape Pod
+	12 Hotshot Space Ace
+	12 Forward Scout
+	12 Otherworld Resonator
+	12 Advanced Observation Post
+	12 Otherworld Wurmtamer
+	1 Static Sequence
+	1 Allusions to Choice
+	1 Rhest Ko, Brutal Subjugator
+	1 Flechette Munitions
+	1 Darkwurm Researchcraft
+	12 Elusive Starsquid
+	6 Specimen Savior
+	6 Phaselight Fighter
+	12 Otherworld Vigil
+	12 Breakyard Salvager
+	12 Veiled Idyll
+	2 Wurmhole Exploration
+	2 Twilight Darkwurm
+	2 Fate-Linked Twilightborn
+	2 Voracious Cosmipillar
+	2 Otherworld Assault Team
+	2 Estevia, Otherworld Nebula
+	2 Ovas III, Shrouded Moon
+	2 Rukka, Comet Aurora
+	2 Thellex, Phasic Warworld
+	2 Distar, Celestial Egg
+	6 Teeming Lushworld
+	6 Moonless Plageworld
+	6 Inclement Brineworld
+	6 Turbulent Stormworld
+	6 Juvenile Slagworld
+	6 Savage Wildworld
+	6 Harmonic Farmworld
+	6 Expired Gloomworld
+	6 Slough Wetworld
+	6 Torrid Dustworld
+	2 Ark Epsilon, Ringworld
+	1 Nabarro, Glassworld
+	12 Wildlife Preservator
+	6 Retraction Beam
+	12 Salvage Equipment
+	12 Federation Twilightborn
+	12 Darkwurm Light-Hunt
+	12 Thiris Mine
+	6 Phase Cannon
+	1 Lio, Fate Binder
+	6 Wurmhole Surveyor
+	6 Anomolous Study
+	12 Xenogen Exposure
+	6 Emergency Preparations
+	6 Vagrant Fruitbearer
+	2 Otherworld Veteran
+	2 Fleetwide Engineer
+	2 Exovitalize
+	2 Flame-Tongue Feline
+	2 Infested Wurmgrounds
+	12 Weapons Calibrator
+	12 Roving Starsquid
+	12 Writhing Bogbeast
+	12 Fanatical Rage
+	12 Formicat Scout
+	2 Shara, Luck-Linked
+	12 Fresh Reinforcements
+	12 Suit Puncture
+	12 Exoskeletal Puppeteering
+	12 Chaos Reader
+	12 Rocket Punch
+	12 Phaselight Rupture
+	12 Destabilize
+	12 Bloody Exosoldier
+	12 Vaserian Stormstone
+	12 Lightborn Ecologist
+	6 Veer Off Course
+	6 Hypothermic Reaction
+	6 Lone Curse-Linked
+	6 Improvised Craftwelder
+	6 Deadworld Terraformer
+	6 Philanthropic Pathfinder
+	2 Quantum Terror
+	6 Stray Bombardment
+	6 Unstable Stormhound
+	6 Colony Pioneer
+	6 Otherworld Banishment
+	6 Twilight Disruption
+	6 Regenerating Exosoldier
+	6 Last-Second Exchange
+	6 Voidhab Fabricator
+	2 Curator's Intervention
+	12 Phaselight Recalibration
+	2 Macabre Prisonship
+	2 Scrapper's Lightcutter
+	6 Escape into Oasis
+	12 Behavioral Analyst
+	12 Untangle Fate
+	6 Nihilistic Revelation
+	12 Uproarious Sorcerer
+	12 Voidmage's Blessing
+	12 Missing No Longer
+	12 Twilight Stalker
+	12 Costly Position
+	12 Electrostorm
+	12 Yutaran Hunter
+	12 Augur's Assistant
+	12 Lightborn Ace
+	12 Vaserian Chanter
+	12 Hotshot Aeronaut
+	12 Aggressive Phasewurm
+	12 Rapidfire Lightcutter
+	12 Soarnith Commando
+	12 Solitary Captain
+	12 Curation Envoy
+	12 Relicworld Colonization
+	1 Memoriam Station
+	2 Reverse Engineering
+	6 Exoskeletal Operator
+	6 Quantum Sightstone
+	6 Domebound Ecologist
+	6 Curator's Talent
+	6 Entanglement Engineer
+	6 Xenogenic Bloodghoul
+	6 Targeted Termination
+	6 Armorback Specimen
+	12 Waste Recycler
+	12 Lost Cargo
+	12 Allied Shredder-Class Frigate
+	12 Microstar Generator
+	12 Deadworld Precolonizer
+	12 Deadworld Dome
+	2 Dyson Colossus
+	2 Darkworld Monument
+	6 Fleetwide Repairbot
+	1 Lae Sard, Baron of the Stars
+	1 Voya, Fate-Linked Savior
+	1 Resource Raid
+	2 Swarmlaunch Carrier
+	12 Stereoscopic Tactician
+	12 Dire Departure
+	12 Summoned Cosmipede
+	12 Soarnith Squaddie
+	12 Soilless Tiller
+	12 Re-Energize
+	6 Crashed Transport
+	12 Phaseshred
+	12 Nebula Stormship
+	6 Gravitic Crush
+	12 Last Ditch Maneuver
+	12 Plans For Development
+	12 Manufactured Incident
+	12 Orbital Shocktroop
+	12 Roving Barkcrusher
+	12 Omnidirectional Assault Gear
+	12 Researcher's Shuttlecraft
+	12 Ration Nibbler
+	12 Roving Garrison
+	12 Force Multiplier
+	12 Colony Surveyor
+	12 Lost In Space
+	12 Orbital Droptroop
+	12 Overthrow Defenders
+	12 Mycellic Crasher
+	12 Blockade Eluder
+	12 Stranded Adrift
+	12 Archpriest of Twilight
+	6 Stampeding Sergeant
+	12 Geoengineer's Multitool
+	6 Soul Archivist
+	6 Scrap Engineer
+	6 Otherworldly Advantage
+	2 Station Raider
+	6 Phaselight Tellurcraft
+	1 Rhosha, Time's Prisoner
+	2 Prisonworld's Sentence
+	1 Federation Advisor
+	1 Preservation, Sentient Directive
+	1 Thaxian Voidstone
+	1 Unak, Exo Manipulator
+	1 Jaster, Zionnoth's Second
+	1 Chaotic Clamor
+	1 Kai'Kellon, Fragmented Forebear
+	1 Wurmtaming
+	6 Tactical Communicator
+	6 Ancient Starsquid
+	6 Demise Evader
+	6 Havoc Seer
+	6 Otherworldly Blow
+	6 Forced Emigration
+	6 Engineer's Talent
+	6 Shockfly Swarm
+	6 Junker's Talent
+	12 Wing Entangler
+	6 Inspiring Sergeant
+	6 Supercooled Suspension
+	6 Spark Siphon
+	6 Rampage Scorcher
+	2 Catalytic Processor
+	6 Active Shielding
+	6 Hangar Bay Serviceman
+	2 Wurmtamer's Stone
+	12 Electromagnetic Disruption
+	6 Interplanetary Trader
+	6 Planet Settler
+	6 Escort Oracle
+	6 Artificial Ace
+	6 Thrashing Cragwolf
+	2 Mycellic Propagator
+	6 Phasebound Duelist
+	6 Star Ward
+	6 Overwhelming Loss
+	6 Reactive Magnetoad
+	6 Harmonic Darkwurm
+	6 Territory Pillager
+	6 Collection Compiler
+	6 Ravenous Cosmipede
+	6 Shattering Cometcraft
+	6 Yutaran Vigor
+	6 Mechanized Croptender
+	6 Practiced Replicaster
+	6 Ransacker's Talent
+	6 Thiris Crystal
+	6 Ecologist's Talent
+	1 Zionnoth, Planet Conquerer
+	6 Terrestrial Scouter
+[wildcard(1)]
+	4 The Twilight Darkbeast
+	4 Entanglement Engine
+	6 Tumultuous Exhibit
+	15 Backwards Burrowbeast
+	6 Phasebound Hunter
+	15 Thaxian Phaseblade
+	15 Charging Phasebound
+	6 Exhibit Keeper
+	6 Lifestation Scout
+	7 Wurmguard Commandcraft
+	4 Archive Lifestation
+	6 Solar Emulator
+	6 Darkwurm Hatchling
+	7 Twilightborn Scavenger
+	15 Possibility Oracle
+	7 Death of the Dawn
+	6 Solar Search
+	6 Twilight Voidvessel
+	7 Phaselight Colonyship
+	15 Phaselight Engine
+	15 Enclosure Caretaker
+	6 Darkworld Relic
+	7 Habitat Architect
+	7 Phaselight Starforge
+	6 Legacy of the Phasebound
+	15 Mid-Warp Collision
+	15 Phasebound Voidmage
+	15 Thaxian Phasecrasher
+	15 Fauna Abductor
+	15 Fighter Fabricator
+	6 Flora Behemoth
+	6 Twilight Starsnake
+	15 Havoc Render
+	15 Deadworld Archaeologist
+	15 Twilight Starsearcher
+	15 Glimpse of Hope
+	15 Vaserian Apostle
+	15 Phasic Barrage
+	15 Ancient Darkwurm
+	6 Otherworld Orders
+	6 Light Tracker
+	15 Enclosed Hydroponics
+	15 Lightborn Agrariator
+	6 Escape Pod
+	6 Hotshot Space Ace
+	6 Forward Scout
+	6 Otherworld Resonator
+	6 Advanced Observation Post
+	6 Otherworld Wurmtamer
+	4 Static Sequence
+	4 Allusions to Choice
+	4 Rhest Ko, Brutal Subjugator
+	4 Flechette Munitions
+	4 Darkwurm Researchcraft
+	6 Elusive Starsquid
+	15 Specimen Savior
+	15 Phaselight Fighter
+	6 Otherworld Vigil
+	6 Breakyard Salvager
+	6 Veiled Idyll
+	7 Wurmhole Exploration
+	7 Twilight Darkwurm
+	7 Fate-Linked Twilightborn
+	7 Voracious Cosmipillar
+	7 Otherworld Assault Team
+	7 Estevia, Otherworld Nebula
+	7 Ovas III, Shrouded Moon
+	7 Rukka, Comet Aurora
+	7 Thellex, Phasic Warworld
+	7 Distar, Celestial Egg
+	15 Teeming Lushworld
+	15 Moonless Plageworld
+	15 Inclement Brineworld
+	15 Turbulent Stormworld
+	15 Juvenile Slagworld
+	15 Savage Wildworld
+	15 Harmonic Farmworld
+	15 Expired Gloomworld
+	15 Slough Wetworld
+	15 Torrid Dustworld
+	7 Ark Epsilon, Ringworld
+	4 Nabarro, Glassworld
+	6 Wildlife Preservator
+	15 Retraction Beam
+	6 Salvage Equipment
+	6 Federation Twilightborn
+	6 Darkwurm Light-Hunt
+	6 Thiris Mine
+	15 Phase Cannon
+	4 Lio, Fate Binder
+	15 Wurmhole Surveyor
+	15 Anomolous Study
+	6 Xenogen Exposure
+	15 Emergency Preparations
+	15 Vagrant Fruitbearer
+	7 Otherworld Veteran
+	7 Fleetwide Engineer
+	7 Exovitalize
+	7 Flame-Tongue Feline
+	7 Infested Wurmgrounds
+	6 Weapons Calibrator
+	6 Roving Starsquid
+	6 Writhing Bogbeast
+	6 Fanatical Rage
+	6 Formicat Scout
+	7 Shara, Luck-Linked
+	6 Fresh Reinforcements
+	6 Suit Puncture
+	6 Exoskeletal Puppeteering
+	6 Chaos Reader
+	6 Rocket Punch
+	6 Phaselight Rupture
+	6 Destabilize
+	6 Bloody Exosoldier
+	6 Vaserian Stormstone
+	6 Lightborn Ecologist
+	15 Veer Off Course
+	15 Hypothermic Reaction
+	15 Lone Curse-Linked
+	15 Improvised Craftwelder
+	15 Deadworld Terraformer
+	15 Philanthropic Pathfinder
+	7 Quantum Terror
+	15 Stray Bombardment
+	15 Unstable Stormhound
+	15 Colony Pioneer
+	15 Otherworld Banishment
+	15 Twilight Disruption
+	15 Regenerating Exosoldier
+	15 Last-Second Exchange
+	15 Voidhab Fabricator
+	7 Curator's Intervention
+	6 Phaselight Recalibration
+	7 Macabre Prisonship
+	7 Scrapper's Lightcutter
+	15 Escape into Oasis
+	6 Behavioral Analyst
+	6 Untangle Fate
+	15 Nihilistic Revelation
+	6 Uproarious Sorcerer
+	6 Voidmage's Blessing
+	6 Missing No Longer
+	6 Twilight Stalker
+	6 Costly Position
+	6 Electrostorm
+	6 Yutaran Hunter
+	6 Augur's Assistant
+	6 Lightborn Ace
+	6 Vaserian Chanter
+	6 Hotshot Aeronaut
+	6 Aggressive Phasewurm
+	6 Rapidfire Lightcutter
+	6 Soarnith Commando
+	6 Solitary Captain
+	6 Curation Envoy
+	6 Relicworld Colonization
+	4 Memoriam Station
+	7 Reverse Engineering
+	15 Exoskeletal Operator
+	15 Quantum Sightstone
+	15 Domebound Ecologist
+	15 Curator's Talent
+	15 Entanglement Engineer
+	15 Xenogenic Bloodghoul
+	15 Targeted Termination
+	15 Armorback Specimen
+	6 Waste Recycler
+	6 Lost Cargo
+	6 Allied Shredder-Class Frigate
+	6 Microstar Generator
+	6 Deadworld Precolonizer
+	6 Deadworld Dome
+	7 Dyson Colossus
+	7 Darkworld Monument
+	15 Fleetwide Repairbot
+	4 Lae Sard, Baron of the Stars
+	4 Voya, Fate-Linked Savior
+	4 Resource Raid
+	7 Swarmlaunch Carrier
+	6 Stereoscopic Tactician
+	6 Dire Departure
+	6 Summoned Cosmipede
+	6 Soarnith Squaddie
+	6 Soilless Tiller
+	6 Re-Energize
+	15 Crashed Transport
+	6 Phaseshred
+	6 Nebula Stormship
+	15 Gravitic Crush
+	6 Last Ditch Maneuver
+	6 Plans For Development
+	6 Manufactured Incident
+	6 Orbital Shocktroop
+	6 Roving Barkcrusher
+	6 Omnidirectional Assault Gear
+	6 Researcher's Shuttlecraft
+	6 Ration Nibbler
+	6 Roving Garrison
+	6 Force Multiplier
+	6 Colony Surveyor
+	6 Lost In Space
+	6 Orbital Droptroop
+	6 Overthrow Defenders
+	6 Mycellic Crasher
+	6 Blockade Eluder
+	6 Stranded Adrift
+	6 Archpriest of Twilight
+	15 Stampeding Sergeant
+	6 Geoengineer's Multitool
+	15 Soul Archivist
+	15 Scrap Engineer
+	15 Otherworldly Advantage
+	7 Station Raider
+	15 Phaselight Tellurcraft
+	4 Rhosha, Time's Prisoner
+	7 Prisonworld's Sentence
+	4 Federation Advisor
+	4 Preservation, Sentient Directive
+	4 Thaxian Voidstone
+	4 Unak, Exo Manipulator
+	4 Jaster, Zionnoth's Second
+	4 Chaotic Clamor
+	4 Kai'Kellon, Fragmented Forebear
+	4 Wurmtaming
+	15 Tactical Communicator
+	15 Ancient Starsquid
+	15 Demise Evader
+	15 Havoc Seer
+	15 Otherworldly Blow
+	15 Forced Emigration
+	15 Engineer's Talent
+	15 Shockfly Swarm
+	15 Junker's Talent
+	6 Wing Entangler
+	15 Inspiring Sergeant
+	15 Supercooled Suspension
+	15 Spark Siphon
+	15 Rampage Scorcher
+	7 Catalytic Processor
+	15 Active Shielding
+	15 Hangar Bay Serviceman
+	7 Wurmtamer's Stone
+	6 Electromagnetic Disruption
+	15 Interplanetary Trader
+	15 Planet Settler
+	15 Escort Oracle
+	15 Artificial Ace
+	15 Thrashing Cragwolf
+	7 Mycellic Propagator
+	15 Phasebound Duelist
+	15 Star Ward
+	15 Overwhelming Loss
+	15 Reactive Magnetoad
+	15 Harmonic Darkwurm
+	15 Territory Pillager
+	15 Collection Compiler
+	15 Ravenous Cosmipede
+	15 Shattering Cometcraft
+	15 Yutaran Vigor
+	15 Mechanized Croptender
+	15 Practiced Replicaster
+	15 Ransacker's Talent
+	15 Thiris Crystal
+	15 Ecologist's Talent
+	4 Zionnoth, Planet Conquerer
+	15 Terrestrial Scouter
