@@ -3298,7 +3298,7 @@
 	4 Chemtech Catermobile
 	4 Forgotten Artifact
 	4 Sacred Shears
-[common(6)]
+[common(8)]
 	8 Baccai Reaper
 	8 Incubator
 	8 Dunekeeper

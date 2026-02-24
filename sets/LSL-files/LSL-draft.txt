@@ -2980,7 +2980,7 @@
 	4 Thiris Crystal
 	4 Ecologist's Talent
 	4 Terrestrial Scouter
-[common(6)]
+[common(8)]
 	8 Tumultuous Exhibit
 	8 Phasebound Hunter
 	8 Exhibit Keeper

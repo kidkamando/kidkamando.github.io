@@ -1191,7 +1191,7 @@
 	4 Growing Heat
 	4 Enraged Everburn
 	4 Last Home, Dead Lands Colony
-[common(6)]
+[common(8)]
 	8 Rune Bear
 	8 Replaced Experiment
 	8 Brittle Phoenix

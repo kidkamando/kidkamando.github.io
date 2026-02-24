@@ -3305,7 +3305,7 @@
 	4 Hostile Buyout
 	4 Protection Educator
 	4 Construct Castleguard
-[common(6)]
+[common(8)]
 	8 Extortion Envoy
 	8 Bartered Passage
 	8 Uneven Exchange

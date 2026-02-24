@@ -4671,7 +4671,7 @@
 	4 Mirinoi Elder
 	4 Defense of the District
 	4 Spin Sword
-[common(6)]
+[common(8)]
 	8 It's Morphin' Time!
 	8 Putty Patroller
 	8 Power Sword

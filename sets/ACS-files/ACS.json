@@ -3,7 +3,7 @@
     "formats": "Standard,Commander",
     "trimmed": "n",
     "image_type": "jpg",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "cards": [
         {
             "card_name": "Extortion Envoy",
@@ -5622,5 +5622,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

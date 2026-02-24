@@ -1,9 +1,9 @@
 ﻿{
     "name": "Aramyth: Crimes in Shadow",
-    "formats": "",
+    "formats": "Standard,Commander",
     "trimmed": "n",
     "image_type": "jpg",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "cards": [
         {
             "card_name": "Extortion Envoy",

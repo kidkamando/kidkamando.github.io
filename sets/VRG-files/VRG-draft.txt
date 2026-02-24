@@ -3458,7 +3458,7 @@
 	4 Bull-Horned Raider
 	4 Goliath Vinebeetle
 	4 Destroy Villain
-[common(6)]
+[common(8)]
 	8 Ambush Scout
 	8 Phial of Rejuvination
 	8 Patron's Ritual

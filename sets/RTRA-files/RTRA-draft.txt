@@ -282,7 +282,7 @@
 	4 Precious Pet
 	4 Nightmarish Trap
 	4 Spectral Lancer
-[common(6)]
+[common(8)]
 	8 Vile Feast
 [common | masterpiece(1)]
 	8 Vile Feast

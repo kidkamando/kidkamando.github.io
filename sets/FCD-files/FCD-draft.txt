@@ -3111,7 +3111,7 @@
 	4 Basking Rock
 	4 Nihil Graveyard
 	4 Creophagous Wood
-[common(6)]
+[common(8)]
 	8 Logistics Runner
 	8 Habitat Constructor
 	8 Voidic Channeler

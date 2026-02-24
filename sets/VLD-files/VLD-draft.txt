@@ -4288,7 +4288,7 @@
 	4 Archaeologist Surveyor
 	4 Frozen Force
 	4 Rune of Control
-[common(6)]
+[common(8)]
 	8 Tundra Warden
 	8 Scholar of Flames
 	8 Scholar of Frost

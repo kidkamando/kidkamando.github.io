@@ -3340,7 +3340,7 @@
 	4 Scout's Bow
 	4 Death, Swift Release
 	4 Death, Violent Finality
-[common(6)]
+[common(8)]
 	8 Preservarium
 	8 Reaver's Row
 	8 Sandswept Tomb

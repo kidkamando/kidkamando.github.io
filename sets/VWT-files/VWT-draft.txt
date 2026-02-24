@@ -4233,7 +4233,7 @@
 	4 Frozen Wyrm
 	4 Frozen Blast
 	4 Cone of Lightning
-[common(6)]
+[common(8)]
 	8 Tie in Battle
 	8 Blade Spider
 	8 Deliver Supplies

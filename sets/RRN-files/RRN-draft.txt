@@ -3266,7 +3266,7 @@
 	4 Crackshot Corsair
 	4 Ice Pillar
 	4 Noxian Defector
-[common(6)]
+[common(8)]
 	8 Ruined Dragon
 	8 Ruined Dragonguard
 	8 Dawning Shadow
