@@ -1,4 +1,22 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Harold Hoardmoor, Curio Collector
+rules_text: Legendary permanents your team controls have ward {1}.
+Legendary creatures you control get +1/+1 for each legendary permanent your team controls.
+{4}{G}{U}: Create a copy of target permanent you control, except its legendary in addition to its other types. => Legendary permanents your team controls have ward {1}.
+Legendary creatures you control get +1/+1 for each legendary permanent your team controls.
+{4}{G}{U}: Create a copy of target permanent you control, except it's legendary in addition to its other types.
+
+Lector Varden, Party Leader
+rules_text: Activated abilities of creatures you control cost {X} less to cast, where X is the number of cards you've drawn this turn.
+{1}{U}: Until end of turn, whenever a triggered ability of a permanent you control triggers, that ability triggers an additional time. => Activated abilities of creatures you control cost {X} less to cast, where X is the number of cards you've drawn this turn.
+{1}{U}: Until end of turn, whenever a triggered ability of a permanent you control triggers, that ability triggers an additional time. Activate only once each turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

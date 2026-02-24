@@ -5422,7 +5422,7 @@ Joint Operation — At the beginning of your upkeep, each player may discard a c
 			<name>Harold Hoardmoor, Curio Collector</name>
 			<text>Legendary permanents your team controls have ward {1}.
 Legendary creatures you control get +1/+1 for each legendary permanent your team controls.
-{4}{G}{U}: Create a copy of target permanent you control, except its legendary in addition to its other types.</text>
+{4}{G}{U}: Create a copy of target permanent you control, except it&apos;s legendary in addition to its other types.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/ACS-files/img/233_Harold Hoardmoor, Curio Collector.jpg" num="233">ACS</set>
 			<prop>
 				<layout>normal</layout>
@@ -5440,7 +5440,7 @@ Legendary creatures you control get +1/+1 for each legendary permanent your team
 		<card>
 			<name>Lector Varden, Party Leader</name>
 			<text>Activated abilities of creatures you control cost {X} less to cast, where X is the number of cards you&apos;ve drawn this turn.
-{1}{U}: Until end of turn, whenever a triggered ability of a permanent you control triggers, that ability triggers an additional time.</text>
+{1}{U}: Until end of turn, whenever a triggered ability of a permanent you control triggers, that ability triggers an additional time. Activate only once each turn.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/ACS-files/img/234_Lector Varden, Party Leader.jpg" num="234">ACS</set>
 			<prop>
 				<layout>normal</layout>
