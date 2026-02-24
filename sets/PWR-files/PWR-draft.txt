@@ -7,7 +7,7 @@
 			"type": "Legendary Artifact — Zord Vehicle",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/226_Dragonzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/226_Dragonzord.jpg"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/145_Forever Red.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/145_Forever Red.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/2_It's Morphin' Time!.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/2_It's Morphin' Time!.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/327_Master Morpher.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/327_Master Morpher.jpg"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Golem Warrior Villain Minion",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/122_Putty Patroller.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/122_Putty Patroller.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Bird Warrior Villain Minion",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/131_Tenga Warrior.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/131_Tenga Warrior.jpg"
 			}
 		},
 		{
@@ -70,11 +70,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/395_Storm Power Megazord_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/395_Storm Power Megazord_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/395_Storm Power Megazord_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/395_Storm Power Megazord_front.jpg"
 			}
 		},
 		{
@@ -87,11 +87,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/313_TJ, Courageous Torchbearer_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/313_TJ, Courageous Torchbearer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/313_TJ, Courageous Torchbearer_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/313_TJ, Courageous Torchbearer_front.jpg"
 			}
 		},
 		{
@@ -104,11 +104,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/379_Dino Megazord, Tank Mode_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/379_Dino Megazord, Tank Mode_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/379_Dino Megazord, Tank Mode_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/379_Dino Megazord, Tank Mode_front.jpg"
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/183_Enlarge Monster.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/183_Enlarge Monster.jpg"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/159_Power Sword.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/159_Power Sword.jpg"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/321_Dragon Dagger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/321_Dragon Dagger.jpg"
 			}
 		},
 		{
@@ -148,7 +148,7 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/7_Call the Zords.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/7_Call the Zords.jpg"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/336_Saba, White Tiger's Advisor.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/336_Saba, White Tiger's Advisor.jpg"
 			}
 		},
 		{
@@ -168,7 +168,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/43_White Krybot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/43_White Krybot.jpg"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/305_Orange Krybot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/305_Orange Krybot.jpg"
 			}
 		},
 		{
@@ -191,11 +191,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/39_Trini, Mighty Lionheart_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/39_Trini, Mighty Lionheart_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/39_Trini, Mighty Lionheart_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/39_Trini, Mighty Lionheart_front.jpg"
 			}
 		},
 		{
@@ -205,7 +205,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/3_Triforian Transformation.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/3_Triforian Transformation.jpg"
 			}
 		},
 		{
@@ -215,7 +215,7 @@
 			"type": "Legendary Enchantment — Saga Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/20_The Lights of Orion.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/20_The Lights of Orion.jpg"
 			}
 		},
 		{
@@ -225,7 +225,7 @@
 			"type": "Instant",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/258_Powerdrain.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/258_Powerdrain.jpg"
 			}
 		},
 		{
@@ -235,7 +235,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/322_Dragon Shield.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/322_Dragon Shield.jpg"
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 			"type": "Artifact Creature — Zord",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/316_Battle Borg.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/316_Battle Borg.jpg"
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 			"type": "Artifact",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/331_Morph-X.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/331_Morph-X.jpg"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"type": "Enchantment — Saga Aura",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/23_Metallic Armor.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/23_Metallic Armor.jpg"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/317_Blade Blaster.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/317_Blade Blaster.jpg"
 			}
 		},
 		{
@@ -285,7 +285,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/329_Megabattle Armor.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/329_Megabattle Armor.jpg"
 			}
 		},
 		{
@@ -295,7 +295,7 @@
 			"type": "Sorcery",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/41_Villainous Confrontation.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/41_Villainous Confrontation.jpg"
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "399",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/399_Turbo Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/399_Turbo Megazord.jpg"
 			}
 		},
 		{
@@ -315,7 +315,7 @@
 			"type": "Legendary Artifact — Zord Vehicle",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/152_Lightning Cruiser.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/152_Lightning Cruiser.jpg"
 			}
 		},
 		{
@@ -325,7 +325,7 @@
 			"type": "Legendary Artifact — Zord Vehicle",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/82_Storm Blaster.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/82_Storm Blaster.jpg"
 			}
 		},
 		{
@@ -335,7 +335,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "397",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/397_Thundersaurus Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/397_Thundersaurus Megazord.jpg"
 			}
 		},
 		{
@@ -345,7 +345,7 @@
 			"type": "Legendary Artifact — Zord Spacecraft",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/50_Astro Megaship.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/50_Astro Megaship.jpg"
 			}
 		},
 		{
@@ -355,7 +355,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "382",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/382_Galaxy Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/382_Galaxy Megazord.jpg"
 			}
 		},
 		{
@@ -365,7 +365,7 @@
 			"type": "Artifact Creature — Megazord",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/342_Stratoforce Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/342_Stratoforce Megazord.jpg"
 			}
 		},
 		{
@@ -375,7 +375,7 @@
 			"type": "Artifact Creature — Megazord",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/318_Centaurus Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/318_Centaurus Megazord.jpg"
 			}
 		},
 		{
@@ -385,7 +385,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "386",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/386_Lifeforce Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/386_Lifeforce Megazord.jpg"
 			}
 		},
 		{
@@ -398,11 +398,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/237_Jarrod, Dai Shi's Host_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/237_Jarrod, Dai Shi's Host_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/237_Jarrod, Dai Shi's Host_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/237_Jarrod, Dai Shi's Host_front.jpg"
 			}
 		},
 		{
@@ -412,7 +412,7 @@
 			"type": "Instant",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/197_Mystic Muscles.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/197_Mystic Muscles.jpg"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "400",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/400_Wild Force Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/400_Wild Force Megazord.jpg"
 			}
 		},
 		{
@@ -432,7 +432,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "392",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/392_Primal Ultrazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/392_Primal Ultrazord.jpg"
 			}
 		},
 		{
@@ -442,7 +442,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "393",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/393_S.W.A.T. Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/393_S.W.A.T. Megazord.jpg"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 			"type": "Land",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/353_Command Center.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/353_Command Center.jpg"
 			}
 		},
 		{
@@ -462,7 +462,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "398",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/398_Time Force Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/398_Time Force Megazord.jpg"
 			}
 		},
 		{
@@ -475,11 +475,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/262_Quantasaurus Rex_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/262_Quantasaurus Rex_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/262_Quantasaurus Rex_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/262_Quantasaurus Rex_front.jpg"
 			}
 		},
 		{
@@ -489,7 +489,7 @@
 			"type": "Legendary Artifact Creature — Robot Villain",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/261_Psycho Ranger Pink.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/261_Psycho Ranger Pink.jpg"
 			}
 		},
 		{
@@ -499,7 +499,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/184_Giant Mode.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/184_Giant Mode.jpg"
 			}
 		},
 		{
@@ -512,11 +512,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/310_RJ, Tranquil Mentor_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/310_RJ, Tranquil Mentor_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/310_RJ, Tranquil Mentor_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/310_RJ, Tranquil Mentor_front.jpg"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 			"type": "Legendary Creature — Alien",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/4_Zordon of Eltar.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/4_Zordon of Eltar.jpg"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			"type": "Legendary Artifact Creature — Robot Advisor",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/219_Alpha 5, Zordon's Adviser.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/219_Alpha 5, Zordon's Adviser.jpg"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"type": "Land",
 			"collector_number": "361",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/361_Moon Palace.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/361_Moon Palace.jpg"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			"type": "Artifact",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/17_Judgement Scanner.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/17_Judgement Scanner.jpg"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/174_Zeo Flying Power Kick.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/174_Zeo Flying Power Kick.jpg"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/29_Retrieve From the Grid.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/29_Retrieve From the Grid.jpg"
 			}
 		},
 		{
@@ -589,11 +589,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/111_Kimberly, Mighty Aerialist_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/111_Kimberly, Mighty Aerialist_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/111_Kimberly, Mighty Aerialist_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/111_Kimberly, Mighty Aerialist_front.jpg"
 			}
 		},
 		{
@@ -606,11 +606,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/215_Zack, Mighty Fighter_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/215_Zack, Mighty Fighter_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/215_Zack, Mighty Fighter_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/215_Zack, Mighty Fighter_front.jpg"
 			}
 		},
 		{
@@ -620,7 +620,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/57_Cryo Imprisonment.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/57_Cryo Imprisonment.jpg"
 			}
 		},
 		{
@@ -630,7 +630,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/142_Explosive Runoff.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/142_Explosive Runoff.jpg"
 			}
 		},
 		{
@@ -643,11 +643,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/52_Billy, Mighty Inventor_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/52_Billy, Mighty Inventor_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/52_Billy, Mighty Inventor_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/52_Billy, Mighty Inventor_front.jpg"
 			}
 		},
 		{
@@ -660,11 +660,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/148_Jason, Mighty Leader_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/148_Jason, Mighty Leader_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/148_Jason, Mighty Leader_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/148_Jason, Mighty Leader_front.jpg"
 			}
 		},
 		{
@@ -677,11 +677,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/278_Tommy, Mighty Rival_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/278_Tommy, Mighty Rival_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/278_Tommy, Mighty Rival_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/278_Tommy, Mighty Rival_front.jpg"
 			}
 		},
 		{
@@ -691,7 +691,7 @@
 			"type": "Artifact",
 			"collector_number": "332",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/332_Morpher.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/332_Morpher.jpg"
 			}
 		},
 		{
@@ -701,7 +701,7 @@
 			"type": "Creature — Fish Pirate Villain Minion",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/70_Piranhatron.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/70_Piranhatron.jpg"
 			}
 		},
 		{
@@ -711,7 +711,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/97_Countdown to Destruction.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/97_Countdown to Destruction.jpg"
 			}
 		},
 		{
@@ -721,7 +721,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/59_Evox Virus.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/59_Evox Virus.jpg"
 			}
 		},
 		{
@@ -731,7 +731,7 @@
 			"type": "Creature — Soldier Villain Minion",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/26_Quantron.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/26_Quantron.jpg"
 			}
 		},
 		{
@@ -741,7 +741,7 @@
 			"type": "Enchantment",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/269_Rise of the Psycho Rangers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/269_Rise of the Psycho Rangers.jpg"
 			}
 		},
 		{
@@ -751,7 +751,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/343_Terra Venture.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/343_Terra Venture.jpg"
 			}
 		},
 		{
@@ -761,7 +761,7 @@
 			"type": "Sorcery",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/292_Activate Battlizer.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/292_Activate Battlizer.jpg"
 			}
 		},
 		{
@@ -771,7 +771,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/114_The Millenium Message.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/114_The Millenium Message.jpg"
 			}
 		},
 		{
@@ -781,7 +781,7 @@
 			"type": "Sorcery",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/47_Zordon's Sacrifice.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/47_Zordon's Sacrifice.jpg"
 			}
 		},
 		{
@@ -791,7 +791,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/335_Quasar Saber.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/335_Quasar Saber.jpg"
 			}
 		},
 		{
@@ -801,7 +801,7 @@
 			"type": "Instant",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/217_Zocato Power.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/217_Zocato Power.jpg"
 			}
 		},
 		{
@@ -811,7 +811,7 @@
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/167_Team Up.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/167_Team Up.jpg"
 			}
 		},
 		{
@@ -821,7 +821,7 @@
 			"type": "Creature — Demon Bat Villain Minion",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/93_Batling.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/93_Batling.jpg"
 			}
 		},
 		{
@@ -831,7 +831,7 @@
 			"type": "Artifact Land",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/326_Lightspeed Aquabase.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/326_Lightspeed Aquabase.jpg"
 			}
 		},
 		{
@@ -841,7 +841,7 @@
 			"type": "Creature — Insect Villain Minion",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/128_Stingwinger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/128_Stingwinger.jpg"
 			}
 		},
 		{
@@ -851,7 +851,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/58_Cyclobot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/58_Cyclobot.jpg"
 			}
 		},
 		{
@@ -861,7 +861,7 @@
 			"type": "Legendary Creature — Ninja Artificer",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/69_Ninjor, Master of the Ninja Way.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/69_Ninjor, Master of the Ninja Way.jpg"
 			}
 		},
 		{
@@ -874,11 +874,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/238_Jen, Temporal Officer_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/238_Jen, Temporal Officer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/238_Jen, Temporal Officer_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/238_Jen, Temporal Officer_front.jpg"
 			}
 		},
 		{
@@ -888,7 +888,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "396",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/396_Supertrain Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/396_Supertrain Megazord.jpg"
 			}
 		},
 		{
@@ -898,7 +898,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "387",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/387_Lightspeed Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/387_Lightspeed Megazord.jpg"
 			}
 		},
 		{
@@ -908,7 +908,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "376",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/376_Dark Predazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/376_Dark Predazord.jpg"
 			}
 		},
 		{
@@ -918,7 +918,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "371",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/371_Animus, Wild Force Ancestor.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/371_Animus, Wild Force Ancestor.jpg"
 			}
 		},
 		{
@@ -928,7 +928,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "372",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/372_Astro Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/372_Astro Megazord.jpg"
 			}
 		},
 		{
@@ -938,7 +938,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "389",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/389_Mystic Titan Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/389_Mystic Titan Megazord.jpg"
 			}
 		},
 		{
@@ -948,7 +948,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "380",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/380_DriveMax Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/380_DriveMax Megazord.jpg"
 			}
 		},
 		{
@@ -958,7 +958,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "384",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/384_Jungle Pride Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/384_Jungle Pride Megazord.jpg"
 			}
 		},
 		{
@@ -968,7 +968,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "394",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/394_Samurai Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/394_Samurai Megazord.jpg"
 			}
 		},
 		{
@@ -978,7 +978,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "383",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/383_Gosei Great Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/383_Gosei Great Megazord.jpg"
 			}
 		},
 		{
@@ -988,7 +988,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "385",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/385_Legendary Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/385_Legendary Megazord.jpg"
 			}
 		},
 		{
@@ -998,7 +998,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "378",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/378_Dino Charge Ultrazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/378_Dino Charge Ultrazord.jpg"
 			}
 		},
 		{
@@ -1008,7 +1008,7 @@
 			"type": "Legendary Artifact — Megazord Vehicle",
 			"collector_number": "390",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/390_Ninja Steel Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/390_Ninja Steel Megazord.jpg"
 			}
 		},
 		{
@@ -1018,7 +1018,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "373",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/373_Beast-X Ultrazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/373_Beast-X Ultrazord.jpg"
 			}
 		},
 		{
@@ -1028,7 +1028,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "375",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/375_Cosmic Fury Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/375_Cosmic Fury Megazord.jpg"
 			}
 		},
 		{
@@ -1038,7 +1038,7 @@
 			"type": "Legendary Creature — Human Hero Knight",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/191_Magna Defender.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/191_Magna Defender.jpg"
 			}
 		},
 		{
@@ -1048,7 +1048,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "377",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/377_Defender Torozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/377_Defender Torozord.jpg"
 			}
 		},
 		{
@@ -1058,7 +1058,7 @@
 			"type": "Artifact Creature — Zord Ox",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/214_Torozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/214_Torozord.jpg"
 			}
 		},
 		{
@@ -1068,7 +1068,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/33_Silver Guardian.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/33_Silver Guardian.jpg"
 			}
 		},
 		{
@@ -1078,7 +1078,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/80_Shifting Futures.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/80_Shifting Futures.jpg"
 			}
 		},
 		{
@@ -1088,7 +1088,7 @@
 			"type": "Creature — Demon Spirit Villain Minion",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/121_Putrid.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/121_Putrid.jpg"
 			}
 		},
 		{
@@ -1098,7 +1098,7 @@
 			"type": "Legendary Creature — Human Mutant Outlaw Villain",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/264_Ransik, Temporal Criminal.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/264_Ransik, Temporal Criminal.jpg"
 			}
 		},
 		{
@@ -1108,7 +1108,7 @@
 			"type": "Legendary Creature — Alien Noble Villain",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/247_Lord Zedd, Emperor of Evil.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/247_Lord Zedd, Emperor of Evil.jpg"
 			}
 		},
 		{
@@ -1118,7 +1118,7 @@
 			"type": "Legendary Creature — Alien Wizard Villain",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/73_Rita Repulsa, Intergalactic Mystic.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/73_Rita Repulsa, Intergalactic Mystic.jpg"
 			}
 		},
 		{
@@ -1128,7 +1128,7 @@
 			"type": "Legendary Creature — Alien Insect Villain",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/280_Trakeena, Scorpius' Heir.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/280_Trakeena, Scorpius' Heir.jpg"
 			}
 		},
 		{
@@ -1138,7 +1138,7 @@
 			"type": "Legendary Creature — Human Pirate Villain",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/225_Divatox, Intergalactic Pirate Queen.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/225_Divatox, Intergalactic Pirate Queen.jpg"
 			}
 		},
 		{
@@ -1148,7 +1148,7 @@
 			"type": "Legendary Artifact Creature — Robot Noble Villain",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/242_King Mondo of the Machine Empire.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/242_King Mondo of the Machine Empire.jpg"
 			}
 		},
 		{
@@ -1158,7 +1158,7 @@
 			"type": "Land — Planet",
 			"collector_number": "356",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/356_KO-35.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/356_KO-35.jpg"
 			}
 		},
 		{
@@ -1168,7 +1168,7 @@
 			"type": "Legendary Creature — Demon Villain",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/123_Queen Bansheera, Demonic Matriarch.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/123_Queen Bansheera, Demonic Matriarch.jpg"
 			}
 		},
 		{
@@ -1178,7 +1178,7 @@
 			"type": "Legendary Creature — Human Mutant Villain",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/251_Master Org, Reincarnated.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/251_Master Org, Reincarnated.jpg"
 			}
 		},
 		{
@@ -1188,7 +1188,7 @@
 			"type": "Legendary Creature — Human Ninja Villain",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/248_Lothor, Exiled Conqueror.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/248_Lothor, Exiled Conqueror.jpg"
 			}
 		},
 		{
@@ -1198,7 +1198,7 @@
 			"type": "Legendary Creature — Dinosaur Scientist Villain",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/253_Mesogog, Thunder's Bane.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/253_Mesogog, Thunder's Bane.jpg"
 			}
 		},
 		{
@@ -1208,7 +1208,7 @@
 			"type": "Creature — Dinosaur Villain Minion",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/283_Tyrannodrone.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/283_Tyrannodrone.jpg"
 			}
 		},
 		{
@@ -1218,7 +1218,7 @@
 			"type": "Creature — Ninja Villain Minion",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/66_Kelzak.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/66_Kelzak.jpg"
 			}
 		},
 		{
@@ -1228,7 +1228,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/319_Cog.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/319_Cog.jpg"
 			}
 		},
 		{
@@ -1238,7 +1238,7 @@
 			"type": "Creature — Elemental Villain Minion",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/53_Chiller.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/53_Chiller.jpg"
 			}
 		},
 		{
@@ -1248,7 +1248,7 @@
 			"type": "Creature — Elemental Lizard Villain Minion",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/150_Lava Lizard.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/150_Lava Lizard.jpg"
 			}
 		},
 		{
@@ -1258,7 +1258,7 @@
 			"type": "Creature — Monk Villain Minion",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/30_Rinshi.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/30_Rinshi.jpg"
 			}
 		},
 		{
@@ -1268,7 +1268,7 @@
 			"type": "Artifact Creature — Construct Villain Minion",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/324_Grinder.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/324_Grinder.jpg"
 			}
 		},
 		{
@@ -1278,7 +1278,7 @@
 			"type": "Creature — Demon Villain Minion",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/116_Mooger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/116_Mooger.jpg"
 			}
 		},
 		{
@@ -1288,7 +1288,7 @@
 			"type": "Artifact Creature — Germ Construct Villain Minion",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/282_Tronic.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/282_Tronic.jpg"
 			}
 		},
 		{
@@ -1298,7 +1298,7 @@
 			"type": "Creature — Insect Villain Minion",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/246_Loogie.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/246_Loogie.jpg"
 			}
 		},
 		{
@@ -1308,7 +1308,7 @@
 			"type": "Creature — Germ Villain Minion",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/286_Vivix.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/286_Vivix.jpg"
 			}
 		},
 		{
@@ -1318,7 +1318,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/45_X-Borg.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/45_X-Borg.jpg"
 			}
 		},
 		{
@@ -1328,7 +1328,7 @@
 			"type": "Creature — Orc Villain Minion",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/147_Hidiac.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/147_Hidiac.jpg"
 			}
 		},
 		{
@@ -1338,7 +1338,7 @@
 			"type": "Artifact Creature — Warrior Robot Villain Minion",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/244_Kudabot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/244_Kudabot.jpg"
 			}
 		},
 		{
@@ -1348,7 +1348,7 @@
 			"type": "Creature — Knight Construct Villain Minion",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/235_Hengemen.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/235_Hengemen.jpg"
 			}
 		},
 		{
@@ -1358,7 +1358,7 @@
 			"type": "Legendary Creature — Alien Warrior Villain",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/100_Emperor Gruumm, Troobian Conqueror.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/100_Emperor Gruumm, Troobian Conqueror.jpg"
 			}
 		},
 		{
@@ -1368,7 +1368,7 @@
 			"type": "Legendary Creature — Human Spirit Knight Villain",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/243_The Knight Wolf, Koragg Possessed.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/243_The Knight Wolf, Koragg Possessed.jpg"
 			}
 		},
 		{
@@ -1378,7 +1378,7 @@
 			"type": "Legendary Creature — Elemental Villain",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/60_Flurious, Transformed by the Aurora.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/60_Flurious, Transformed by the Aurora.jpg"
 			}
 		},
 		{
@@ -1388,7 +1388,7 @@
 			"type": "Legendary Creature — Elemental Villain",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/156_Moltor, Cursed by the Corona.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/156_Moltor, Cursed by the Corona.jpg"
 			}
 		},
 		{
@@ -1398,7 +1398,7 @@
 			"type": "Legendary Creature — Construct Villain",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/285_Venjix, Viral Conqueror.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/285_Venjix, Viral Conqueror.jpg"
 			}
 		},
 		{
@@ -1408,7 +1408,7 @@
 			"type": "Legendary Creature — Fox Spirit Shaman Villain",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/249_Madame Odius, Steel Seeker.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/249_Madame Odius, Steel Seeker.jpg"
 			}
 		},
 		{
@@ -1418,7 +1418,7 @@
 			"type": "Legendary Creature — Snake Construct Villain",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/230_Evox, Viral Insurgent.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/230_Evox, Viral Insurgent.jpg"
 			}
 		},
 		{
@@ -1428,7 +1428,7 @@
 			"type": "Legendary Creature — Alien Noble Villain",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/288_Void Queen, Santaura Transformed.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/288_Void Queen, Santaura Transformed.jpg"
 			}
 		},
 		{
@@ -1438,7 +1438,7 @@
 			"type": "Legendary Creature — Alien Noble Villain",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/252_Master Zedd, Morphin Menace.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/252_Master Zedd, Morphin Menace.jpg"
 			}
 		},
 		{
@@ -1448,7 +1448,7 @@
 			"type": "Legendary Creature — Alien Outlaw Villain",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/274_Sledge, Energem Hunter.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/274_Sledge, Energem Hunter.jpg"
 			}
 		},
 		{
@@ -1458,7 +1458,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/19_Legacy of Power.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/19_Legacy of Power.jpg"
 			}
 		},
 		{
@@ -1468,7 +1468,7 @@
 			"type": "Legendary Artifact Creature — Dragon Zord",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/337_Serpentera, Zedd's Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/337_Serpentera, Zedd's Zord.jpg"
 			}
 		},
 		{
@@ -1481,11 +1481,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/220_Anubis Cruger, SPD Commander_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/220_Anubis Cruger, SPD Commander_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/220_Anubis Cruger, SPD Commander_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/220_Anubis Cruger, SPD Commander_front.jpg"
 			}
 		},
 		{
@@ -1495,7 +1495,7 @@
 			"type": "Legendary Creature — Bat Outlaw Villain",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/222_Broodwing, Armorer For Hire.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/222_Broodwing, Armorer For Hire.jpg"
 			}
 		},
 		{
@@ -1505,7 +1505,7 @@
 			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/134_Advancement of Self.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/134_Advancement of Self.jpg"
 			}
 		},
 		{
@@ -1518,11 +1518,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/176_Adam, Martial Protector_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/176_Adam, Martial Protector_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/176_Adam, Martial Protector_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/176_Adam, Martial Protector_front.jpg"
 			}
 		},
 		{
@@ -1535,11 +1535,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/297_Carlos, Stubborn Ally_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/297_Carlos, Stubborn Ally_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/297_Carlos, Stubborn Ally_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/297_Carlos, Stubborn Ally_front.jpg"
 			}
 		},
 		{
@@ -1552,11 +1552,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/270_Rocky, Mighty Torchbearer_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/270_Rocky, Mighty Torchbearer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/270_Rocky, Mighty Torchbearer_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/270_Rocky, Mighty Torchbearer_front.jpg"
 			}
 		},
 		{
@@ -1569,11 +1569,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/223_Damon, Astro Mechanic_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/223_Damon, Astro Mechanic_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/223_Damon, Astro Mechanic_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/223_Damon, Astro Mechanic_front.jpg"
 			}
 		},
 		{
@@ -1586,11 +1586,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/9_Dana, Emergency Responder_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/9_Dana, Emergency Responder_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/9_Dana, Emergency Responder_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/9_Dana, Emergency Responder_front.jpg"
 			}
 		},
 		{
@@ -1603,11 +1603,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/38_Taylor, Stranded Pilot_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/38_Taylor, Stranded Pilot_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/38_Taylor, Stranded Pilot_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/38_Taylor, Stranded Pilot_front.jpg"
 			}
 		},
 		{
@@ -1620,11 +1620,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/279_Tori, Wind Ninja Hydromancer_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/279_Tori, Wind Ninja Hydromancer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/279_Tori, Wind Ninja Hydromancer_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/279_Tori, Wind Ninja Hydromancer_front.jpg"
 			}
 		},
 		{
@@ -1637,11 +1637,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/229_Ethan, Thundering Geek_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/229_Ethan, Thundering Geek_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/229_Ethan, Thundering Geek_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/229_Ethan, Thundering Geek_front.jpg"
 			}
 		},
 		{
@@ -1654,11 +1654,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/172_Z, Replicating Thief_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/172_Z, Replicating Thief_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/172_Z, Replicating Thief_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/172_Z, Replicating Thief_front.jpg"
 			}
 		},
 		{
@@ -1671,11 +1671,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/157_Nick, Destined Mystic_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/157_Nick, Destined Mystic_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/157_Nick, Destined Mystic_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/157_Nick, Destined Mystic_front.jpg"
 			}
 		},
 		{
@@ -1688,11 +1688,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/91_Will, Master Thief_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/91_Will, Master Thief_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/91_Will, Master Thief_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/91_Will, Master Thief_front.jpg"
 			}
 		},
 		{
@@ -1705,11 +1705,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/245_Lily, Passionate Student_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/245_Lily, Passionate Student_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/245_Lily, Passionate Student_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/245_Lily, Passionate Student_front.jpg"
 			}
 		},
 		{
@@ -1722,11 +1722,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/46_Ziggy, Lucky Fugitive_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/46_Ziggy, Lucky Fugitive_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/46_Ziggy, Lucky Fugitive_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/46_Ziggy, Lucky Fugitive_front.jpg"
 			}
 		},
 		{
@@ -1739,11 +1739,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/24_Mia, Compassionate Samurai_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/24_Mia, Compassionate Samurai_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/24_Mia, Compassionate Samurai_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/24_Mia, Compassionate Samurai_front.jpg"
 			}
 		},
 		{
@@ -1756,11 +1756,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/109_Jake, Enthusiastic Athlete_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/109_Jake, Enthusiastic Athlete_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/109_Jake, Enthusiastic Athlete_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/109_Jake, Enthusiastic Athlete_front.jpg"
 			}
 		},
 		{
@@ -1773,11 +1773,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/256_Orion, Andresian Refugee_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/256_Orion, Andresian Refugee_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/256_Orion, Andresian Refugee_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/256_Orion, Andresian Refugee_front.jpg"
 			}
 		},
 		{
@@ -1790,11 +1790,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/302_Koda, Ageless Caveman_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/302_Koda, Ageless Caveman_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/302_Koda, Ageless Caveman_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/302_Koda, Ageless Caveman_front.jpg"
 			}
 		},
 		{
@@ -1807,11 +1807,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/259_Preston, Gifted Magician_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/259_Preston, Gifted Magician_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/259_Preston, Gifted Magician_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/259_Preston, Gifted Magician_front.jpg"
 			}
 		},
 		{
@@ -1824,11 +1824,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/341_Steel Silva, Robotic Brother_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/341_Steel Silva, Robotic Brother_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/341_Steel Silva, Robotic Brother_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/341_Steel Silva, Robotic Brother_front.jpg"
 			}
 		},
 		{
@@ -1841,11 +1841,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/236_Izzy, Chromatic Athlete_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/236_Izzy, Chromatic Athlete_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/236_Izzy, Chromatic Athlete_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/236_Izzy, Chromatic Athlete_front.jpg"
 			}
 		},
 		{
@@ -1858,11 +1858,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/294_Amelia, Leader in Crisis_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/294_Amelia, Leader in Crisis_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/294_Amelia, Leader in Crisis_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/294_Amelia, Leader in Crisis_front.jpg"
 			}
 		},
 		{
@@ -1872,7 +1872,7 @@
 			"type": "Legendary Artifact Creature — Zord Elephant",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/192_Mastodon Dinozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/192_Mastodon Dinozord.jpg"
 			}
 		},
 		{
@@ -1882,7 +1882,7 @@
 			"type": "Legendary Artifact Creature — Zord Dinosaur",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/168_Tyrannosaurus Dinozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/168_Tyrannosaurus Dinozord.jpg"
 			}
 		},
 		{
@@ -1892,7 +1892,7 @@
 			"type": "Legendary Artifact Creature — Zord Dinosaur",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/120_Pterodactyl Dinozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/120_Pterodactyl Dinozord.jpg"
 			}
 		},
 		{
@@ -1902,7 +1902,7 @@
 			"type": "Legendary Artifact Creature — Zord",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/85_Triceratops Dinozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/85_Triceratops Dinozord.jpg"
 			}
 		},
 		{
@@ -1912,7 +1912,7 @@
 			"type": "Legendary Artifact Creature — Zord Cat",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/31_Saber-Toothed Tiger Dinozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/31_Saber-Toothed Tiger Dinozord.jpg"
 			}
 		},
 		{
@@ -1922,7 +1922,7 @@
 			"type": "Artifact Creature — Zord",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/338_Shogunzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/338_Shogunzord.jpg"
 			}
 		},
 		{
@@ -1932,7 +1932,7 @@
 			"type": "Legendary Artifact Creature — Zord",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/36_Super Zeo Zord II — Yellow.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/36_Super Zeo Zord II — Yellow.jpg"
 			}
 		},
 		{
@@ -1942,7 +1942,7 @@
 			"type": "Legendary Artifact — Zord Dinosaur Horse",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/86_Triceratops Unicorn Thunderzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/86_Triceratops Unicorn Thunderzord.jpg"
 			}
 		},
 		{
@@ -1952,7 +1952,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/328_Mega Vehicle.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/328_Mega Vehicle.jpg"
 			}
 		},
 		{
@@ -1965,11 +1965,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/233_Gorilla Galactabeast_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/233_Gorilla Galactabeast_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/233_Gorilla Galactabeast_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/233_Gorilla Galactabeast_front.jpg"
 			}
 		},
 		{
@@ -1979,7 +1979,7 @@
 			"type": "Legendary Artifact Creature — Zord Thopter",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/48_Aero, Rescue 3.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/48_Aero, Rescue 3.jpg"
 			}
 		},
 		{
@@ -1989,7 +1989,7 @@
 			"type": "Artifact — Zord Vehicle Elephant",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/228_Elephant Wildzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/228_Elephant Wildzord.jpg"
 			}
 		},
 		{
@@ -1999,7 +1999,7 @@
 			"type": "Legendary Artifact Creature — Zord Cat",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/276_Storm Lionzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/276_Storm Lionzord.jpg"
 			}
 		},
 		{
@@ -2009,7 +2009,7 @@
 			"type": "Legendary Artifact Creature — Zord Dinosaur",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/227_Dragozord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/227_Dragozord.jpg"
 			}
 		},
 		{
@@ -2019,7 +2019,7 @@
 			"type": "Legendary Artifact — Zord Vehicle Wolf",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/171_Wolf Cruiser.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/171_Wolf Cruiser.jpg"
 			}
 		},
 		{
@@ -2029,7 +2029,7 @@
 			"type": "Legendary Artifact Creature — Zord Faerie",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/68_Mystic Sprite.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/68_Mystic Sprite.jpg"
 			}
 		},
 		{
@@ -2039,7 +2039,7 @@
 			"type": "Legendary Artifact — Zord Vehicle",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/320_Dozer Driver.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/320_Dozer Driver.jpg"
 			}
 		},
 		{
@@ -2049,7 +2049,7 @@
 			"type": "Legendary Artifact Creature — Zord Cat Spirit",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/210_Tiger Animal Spirit.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/210_Tiger Animal Spirit.jpg"
 			}
 		},
 		{
@@ -2059,7 +2059,7 @@
 			"type": "Artifact — Zord Vehicle",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/35_SPD S.W.A.T. Flyer.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/35_SPD S.W.A.T. Flyer.jpg"
 			}
 		},
 		{
@@ -2069,7 +2069,7 @@
 			"type": "Legendary Artifact Creature — Zord Cat",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/153_Lion Foldingzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/153_Lion Foldingzord.jpg"
 			}
 		},
 		{
@@ -2079,7 +2079,7 @@
 			"type": "Legendary Artifact Creature — Zord Cat",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/185_Gosei Tiger Mechazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/185_Gosei Tiger Mechazord.jpg"
 			}
 		},
 		{
@@ -2089,7 +2089,7 @@
 			"type": "Legendary Artifact — Zord Vehicle",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/165_Super Mega Racer Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/165_Super Mega Racer Zord.jpg"
 			}
 		},
 		{
@@ -2099,7 +2099,7 @@
 			"type": "Legendary Artifact Creature — Zord Dinosaur",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/265_Raptor Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/265_Raptor Zord.jpg"
 			}
 		},
 		{
@@ -2109,7 +2109,7 @@
 			"type": "Legendary Artifact Creature — Zord Dog",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/189_Kodiak Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/189_Kodiak Zord.jpg"
 			}
 		},
 		{
@@ -2119,7 +2119,7 @@
 			"type": "Legendary Artifact Creature — Zord Insect",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/290_Wrecker Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/290_Wrecker Zord.jpg"
 			}
 		},
 		{
@@ -2129,7 +2129,7 @@
 			"type": "Legendary Artifact Creature — Zord Dinosaur",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/275_Stego Spike Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/275_Stego Spike Zord.jpg"
 			}
 		},
 		{
@@ -2139,7 +2139,7 @@
 			"type": "Legendary Artifact Creature — Zord Scorpion",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/96_Cosmic Scorpion Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/96_Cosmic Scorpion Zord.jpg"
 			}
 		},
 		{
@@ -2152,11 +2152,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/224_Delphine, Aquitian Leader_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/224_Delphine, Aquitian Leader_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/224_Delphine, Aquitian Leader_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/224_Delphine, Aquitian Leader_front.jpg"
 			}
 		},
 		{
@@ -2166,7 +2166,7 @@
 			"type": "Creature — Monk Beast Villain Minion",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/268_Rinshi Beast.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/268_Rinshi Beast.jpg"
 			}
 		},
 		{
@@ -2176,7 +2176,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/295_Blue Krybot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/295_Blue Krybot.jpg"
 			}
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"type": "Enchantment",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/216_A Zeo Ascension.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/216_A Zeo Ascension.jpg"
 			}
 		},
 		{
@@ -2196,7 +2196,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/34_Soldier of Terra Venture.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/34_Soldier of Terra Venture.jpg"
 			}
 		},
 		{
@@ -2206,7 +2206,7 @@
 			"type": "Artifact Creature — Robot Soldier Villain Minion",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/13_Grey Zentinel.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/13_Grey Zentinel.jpg"
 			}
 		},
 		{
@@ -2216,7 +2216,7 @@
 			"type": "Artifact Creature — Robot Soldier Villain Minion",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/267_Red Zentinel.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/267_Red Zentinel.jpg"
 			}
 		},
 		{
@@ -2226,7 +2226,7 @@
 			"type": "Creature — Horror Villain Minion",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/314_Triskull's Ghoul.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/314_Triskull's Ghoul.jpg"
 			}
 		},
 		{
@@ -2236,7 +2236,7 @@
 			"type": "Sorcery",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/307_Power Up!.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/307_Power Up!.jpg"
 			}
 		},
 		{
@@ -2246,7 +2246,7 @@
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/74_Rita's Growth Lightning.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/74_Rita's Growth Lightning.jpg"
 			}
 		},
 		{
@@ -2256,7 +2256,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/83_Thwart Villainy.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/83_Thwart Villainy.jpg"
 			}
 		},
 		{
@@ -2266,7 +2266,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/89_United Scheme.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/89_United Scheme.jpg"
 			}
 		},
 		{
@@ -2276,7 +2276,7 @@
 			"type": "Instant",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/281_Transformation Shielding.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/281_Transformation Shielding.jpg"
 			}
 		},
 		{
@@ -2286,7 +2286,7 @@
 			"type": "Land — Town",
 			"collector_number": "362",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/362_Newtech City.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/362_Newtech City.jpg"
 			}
 		},
 		{
@@ -2296,7 +2296,7 @@
 			"type": "Land — Town",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/348_Amber Beach.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/348_Amber Beach.jpg"
 			}
 		},
 		{
@@ -2306,7 +2306,7 @@
 			"type": "Land — Town",
 			"collector_number": "365",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/365_San Angeles.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/365_San Angeles.jpg"
 			}
 		},
 		{
@@ -2316,7 +2316,7 @@
 			"type": "Land — Town",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/355_Corinth.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/355_Corinth.jpg"
 			}
 		},
 		{
@@ -2326,7 +2326,7 @@
 			"type": "Land — Town",
 			"collector_number": "370",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/370_Turtle Cove.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/370_Turtle Cove.jpg"
 			}
 		},
 		{
@@ -2336,7 +2336,7 @@
 			"type": "Land — Town",
 			"collector_number": "364",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/364_Pine Ridge.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/364_Pine Ridge.jpg"
 			}
 		},
 		{
@@ -2346,7 +2346,7 @@
 			"type": "Land — Town",
 			"collector_number": "358",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/358_Mariner Bay.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/358_Mariner Bay.jpg"
 			}
 		},
 		{
@@ -2356,7 +2356,7 @@
 			"type": "Land — Town",
 			"collector_number": "363",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/363_Ocean Bluff.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/363_Ocean Bluff.jpg"
 			}
 		},
 		{
@@ -2366,7 +2366,7 @@
 			"type": "Land — Town",
 			"collector_number": "354",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/354_Coral Harbor.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/354_Coral Harbor.jpg"
 			}
 		},
 		{
@@ -2376,7 +2376,7 @@
 			"type": "Land — Town",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/352_Briarwood.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/352_Briarwood.jpg"
 			}
 		},
 		{
@@ -2386,7 +2386,7 @@
 			"type": "Land — Town",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/349_Angel Grove.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/349_Angel Grove.jpg"
 			}
 		},
 		{
@@ -2396,7 +2396,7 @@
 			"type": "Land — Town",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/357_Machine Arena.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/357_Machine Arena.jpg"
 			}
 		},
 		{
@@ -2406,7 +2406,7 @@
 			"type": "Creature — Alien Wurm",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/202_Scuttleworm.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/202_Scuttleworm.jpg"
 			}
 		},
 		{
@@ -2416,7 +2416,7 @@
 			"type": "Creature — Alien Wurm",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/203_Scuttleworm Larva.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/203_Scuttleworm Larva.jpg"
 			}
 		},
 		{
@@ -2426,7 +2426,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/5t_Wurm.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/5t_Wurm.jpg"
 			}
 		},
 		{
@@ -2436,7 +2436,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/6t_Clue.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/6t_Clue.jpg"
 			}
 		},
 		{
@@ -2446,7 +2446,7 @@
 			"type": "Token Creature — Villain Minion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/4t_Villain Minion.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/4t_Villain Minion.jpg"
 			}
 		},
 		{
@@ -2456,7 +2456,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/3t_Spirit.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/3t_Spirit.jpg"
 			}
 		},
 		{
@@ -2466,7 +2466,7 @@
 			"type": "Legendary Land",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/347_The Abyss of Evil.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/347_The Abyss of Evil.jpg"
 			}
 		},
 		{
@@ -2476,7 +2476,7 @@
 			"type": "Legendary Land",
 			"collector_number": "360",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/360_Mirinoi.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/360_Mirinoi.jpg"
 			}
 		},
 		{
@@ -2486,7 +2486,7 @@
 			"type": "Legendary Land",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/359_Mercuria.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/359_Mercuria.jpg"
 			}
 		},
 		{
@@ -2496,7 +2496,7 @@
 			"type": "Legendary Land",
 			"collector_number": "368",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/368_The Spirit World.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/368_The Spirit World.jpg"
 			}
 		},
 		{
@@ -2506,7 +2506,7 @@
 			"type": "Legendary Land",
 			"collector_number": "366",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/366_The Sanzu River.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/366_The Sanzu River.jpg"
 			}
 		},
 		{
@@ -2516,7 +2516,7 @@
 			"type": "Land",
 			"collector_number": "369",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/369_Storm Chargers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/369_Storm Chargers.jpg"
 			}
 		},
 		{
@@ -2526,7 +2526,7 @@
 			"type": "Land",
 			"collector_number": "367",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/367_Silver Hills.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/367_Silver Hills.jpg"
 			}
 		},
 		{
@@ -2536,7 +2536,7 @@
 			"type": "Legendary Land",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/350_The Animarium.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/350_The Animarium.jpg"
 			}
 		},
 		{
@@ -2546,7 +2546,7 @@
 			"type": "Land — Planet",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/351_Aquitar.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/351_Aquitar.jpg"
 			}
 		},
 		{
@@ -2556,7 +2556,7 @@
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/186_Grid Connection.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/186_Grid Connection.jpg"
 			}
 		},
 		{
@@ -2566,7 +2566,7 @@
 			"type": "Legendary Creature — Alien Noble Villain",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/260_Prince Vrak, Resurrected.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/260_Prince Vrak, Resurrected.jpg"
 			}
 		},
 		{
@@ -2576,7 +2576,7 @@
 			"type": "Legendary Creature — Alien Insect Soldier Villain",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/218_Admiral Malkor, Insectoid Leader.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/218_Admiral Malkor, Insectoid Leader.jpg"
 			}
 		},
 		{
@@ -2586,7 +2586,7 @@
 			"type": "Sorcery",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/306_Power Down.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/306_Power Down.jpg"
 			}
 		},
 		{
@@ -2596,7 +2596,7 @@
 			"type": "Artifact",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/333_Power Coin.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/333_Power Coin.jpg"
 			}
 		},
 		{
@@ -2606,7 +2606,7 @@
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/113_The Machine Empire Rebuilt.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/113_The Machine Empire Rebuilt.jpg"
 			}
 		},
 		{
@@ -2616,7 +2616,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/104_Excavation of Serpentera.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/104_Excavation of Serpentera.jpg"
 			}
 		},
 		{
@@ -2626,7 +2626,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/18_Jungle Master Mode.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/18_Jungle Master Mode.jpg"
 			}
 		},
 		{
@@ -2636,7 +2636,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "401",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/401_Zeo Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/401_Zeo Megazord.jpg"
 			}
 		},
 		{
@@ -2646,7 +2646,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/99_Demorph.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/99_Demorph.jpg"
 			}
 		},
 		{
@@ -2656,7 +2656,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/312_Sporix Spore.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/312_Sporix Spore.jpg"
 			}
 		},
 		{
@@ -2666,7 +2666,7 @@
 			"type": "Creature — Ninja Robot Villain Minion",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/232_Foxbot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/232_Foxbot.jpg"
 			}
 		},
 		{
@@ -2676,7 +2676,7 @@
 			"type": "Creature — Zord Germ Villain Minion",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/287_Vivizord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/287_Vivizord.jpg"
 			}
 		},
 		{
@@ -2686,7 +2686,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/239_Jungle Fan.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/239_Jungle Fan.jpg"
 			}
 		},
 		{
@@ -2696,7 +2696,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/340_Squidrill.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/340_Squidrill.jpg"
 			}
 		},
 		{
@@ -2706,7 +2706,7 @@
 			"type": "Artifact",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/346_Zeo Fragment.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/346_Zeo Fragment.jpg"
 			}
 		},
 		{
@@ -2716,7 +2716,7 @@
 			"type": "Instant",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/166_Team Power Blast.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/166_Team Power Blast.jpg"
 			}
 		},
 		{
@@ -2726,7 +2726,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/149_Kelzak Tonfa.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/149_Kelzak Tonfa.jpg"
 			}
 		},
 		{
@@ -2736,7 +2736,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/10t_Treasure.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/10t_Treasure.jpg"
 			}
 		},
 		{
@@ -2749,11 +2749,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/63_Heckyl, Corrupted Hero_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/63_Heckyl, Corrupted Hero_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/63_Heckyl, Corrupted Hero_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/63_Heckyl, Corrupted Hero_front.jpg"
 			}
 		},
 		{
@@ -2763,7 +2763,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/240_Jungle Mace.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/240_Jungle Mace.jpg"
 			}
 		},
 		{
@@ -2773,7 +2773,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/241_Jungle Shark Sabers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/241_Jungle Shark Sabers.jpg"
 			}
 		},
 		{
@@ -2783,7 +2783,7 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/196_Mystic Growth.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/196_Mystic Growth.jpg"
 			}
 		},
 		{
@@ -2793,7 +2793,7 @@
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/132_Trakeena's Gambit.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/132_Trakeena's Gambit.jpg"
 			}
 		},
 		{
@@ -2803,7 +2803,7 @@
 			"type": "Enchantment",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/110_Jinxer's Batling Card.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/110_Jinxer's Batling Card.jpg"
 			}
 		},
 		{
@@ -2813,7 +2813,7 @@
 			"type": "Creature — Ooze Villain Minion",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/198_Oozemen.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/198_Oozemen.jpg"
 			}
 		},
 		{
@@ -2823,7 +2823,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/55_Compliance Collar.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/55_Compliance Collar.jpg"
 			}
 		},
 		{
@@ -2833,7 +2833,7 @@
 			"type": "Instant",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/221_Bake Into a Pizza.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/221_Bake Into a Pizza.jpg"
 			}
 		},
 		{
@@ -2843,7 +2843,7 @@
 			"type": "Artifact",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/254_Mesogog's Geno-Randomizer.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/254_Mesogog's Geno-Randomizer.jpg"
 			}
 		},
 		{
@@ -2856,11 +2856,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/277_Tommy, Mighty Ally_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/277_Tommy, Mighty Ally_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/277_Tommy, Mighty Ally_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/277_Tommy, Mighty Ally_front.jpg"
 			}
 		},
 		{
@@ -2870,7 +2870,7 @@
 			"type": "Creature — Demon Villain Minion",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/231_Flying Mooger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/231_Flying Mooger.jpg"
 			}
 		},
 		{
@@ -2880,7 +2880,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/345_Turbo Wind Fire.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/345_Turbo Wind Fire.jpg"
 			}
 		},
 		{
@@ -2890,7 +2890,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/170_Weapon Finisher.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/170_Weapon Finisher.jpg"
 			}
 		},
 		{
@@ -2900,7 +2900,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/344_Transdagger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/344_Transdagger.jpg"
 			}
 		},
 		{
@@ -2910,7 +2910,7 @@
 			"type": "Sorcery",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/161_Ready for Action.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/161_Ready for Action.jpg"
 			}
 		},
 		{
@@ -2920,7 +2920,7 @@
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/207_Stronger Than Before.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/207_Stronger Than Before.jpg"
 			}
 		},
 		{
@@ -2930,7 +2930,7 @@
 			"type": "Creature — Demon Villain Minion",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/250_Master Blaster Mooger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/250_Master Blaster Mooger.jpg"
 			}
 		},
 		{
@@ -2940,7 +2940,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/79_Sedative Breath.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/79_Sedative Breath.jpg"
 			}
 		},
 		{
@@ -2950,7 +2950,7 @@
 			"type": "Token Artifact — Junk",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/8t_Junk.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/8t_Junk.jpg"
 			}
 		},
 		{
@@ -2960,7 +2960,7 @@
 			"type": "Creature — Human Soldier Villain",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/127_SPD A-Squad Ranger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/127_SPD A-Squad Ranger.jpg"
 			}
 		},
 		{
@@ -2970,7 +2970,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/1t_Copy.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/1t_Copy.jpg"
 			}
 		},
 		{
@@ -2980,7 +2980,7 @@
 			"type": "Sorcery",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/158_Part of Something Bigger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/158_Part of Something Bigger.jpg"
 			}
 		},
 		{
@@ -2990,7 +2990,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/144_Five of a Kind.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/144_Five of a Kind.jpg"
 			}
 		},
 		{
@@ -3003,11 +3003,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/284_Udonna, Mystic Mentor_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/284_Udonna, Mystic Mentor_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/284_Udonna, Mystic Mentor_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/284_Udonna, Mystic Mentor_front.jpg"
 			}
 		},
 		{
@@ -3017,7 +3017,7 @@
 			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/211_Titanic Bond.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/211_Titanic Bond.jpg"
 			}
 		},
 		{
@@ -3027,7 +3027,7 @@
 			"type": "Artifact — Equipment Vehicle",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/334_Power Cycle.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/334_Power Cycle.jpg"
 			}
 		},
 		{
@@ -3037,7 +3037,7 @@
 			"type": "Instant",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/272_Search for Zordon.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/272_Search for Zordon.jpg"
 			}
 		},
 		{
@@ -3047,7 +3047,7 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/56_Compulsory Retreat.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/56_Compulsory Retreat.jpg"
 			}
 		},
 		{
@@ -3057,7 +3057,7 @@
 			"type": "Enchantment",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/135_Banish to the Void.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/135_Banish to the Void.jpg"
 			}
 		},
 		{
@@ -3067,7 +3067,7 @@
 			"type": "Legendary Artifact Creature — Zord Cat",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/44_White Tigerzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/44_White Tigerzord.jpg"
 			}
 		},
 		{
@@ -3080,11 +3080,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/299_Fern, Loyal Partner_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/299_Fern, Loyal Partner_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/299_Fern, Loyal Partner_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/299_Fern, Loyal Partner_front.jpg"
 			}
 		},
 		{
@@ -3094,7 +3094,7 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/102_Eradication of the Wild Zords.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/102_Eradication of the Wild Zords.jpg"
 			}
 		},
 		{
@@ -3104,7 +3104,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/137_Destruction of the Command Center.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/137_Destruction of the Command Center.jpg"
 			}
 		},
 		{
@@ -3114,7 +3114,7 @@
 			"type": "Enchantment",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/37_Symbol Power — Seal.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/37_Symbol Power — Seal.jpg"
 			}
 		},
 		{
@@ -3124,7 +3124,7 @@
 			"type": "Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/22_Megazord Finisher.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/22_Megazord Finisher.jpg"
 			}
 		},
 		{
@@ -3134,7 +3134,7 @@
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/40_Trip Through Time.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/40_Trip Through Time.jpg"
 			}
 		},
 		{
@@ -3144,7 +3144,7 @@
 			"type": "Legendary Enchantment Creature — Dragon",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/143_Fire Heart, the Last Dragon.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/143_Fire Heart, the Last Dragon.jpg"
 			}
 		},
 		{
@@ -3154,7 +3154,7 @@
 			"type": "Instant",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/160_Quantum Secrets.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/160_Quantum Secrets.jpg"
 			}
 		},
 		{
@@ -3164,7 +3164,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/151_The Legendary War.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/151_The Legendary War.jpg"
 			}
 		},
 		{
@@ -3174,7 +3174,7 @@
 			"type": "Creature — Zombie Soldier",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/208_Styxoid.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/208_Styxoid.jpg"
 			}
 		},
 		{
@@ -3184,7 +3184,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/51_Beyond a Doubt.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/51_Beyond a Doubt.jpg"
 			}
 		},
 		{
@@ -3194,7 +3194,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/90_Venjix's Computations.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/90_Venjix's Computations.jpg"
 			}
 		},
 		{
@@ -3204,7 +3204,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/87_Udonna's Blizzard Rush.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/87_Udonna's Blizzard Rush.jpg"
 			}
 		},
 		{
@@ -3214,7 +3214,7 @@
 			"type": "Sorcery",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/140_Diversion Revealed.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/140_Diversion Revealed.jpg"
 			}
 		},
 		{
@@ -3224,7 +3224,7 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/146_Ghosts in the Machine.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/146_Ghosts in the Machine.jpg"
 			}
 		},
 		{
@@ -3234,7 +3234,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/71_Quadrafighter.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/71_Quadrafighter.jpg"
 			}
 		},
 		{
@@ -3244,7 +3244,7 @@
 			"type": "Enchantment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/27_Ranger Teamwork.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/27_Ranger Teamwork.jpg"
 			}
 		},
 		{
@@ -3254,7 +3254,7 @@
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/9t_Thopter.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/9t_Thopter.jpg"
 			}
 		},
 		{
@@ -3264,7 +3264,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "374",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/374_Centaurus-Wolf Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/374_Centaurus-Wolf Megazord.jpg"
 			}
 		},
 		{
@@ -3274,7 +3274,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/25_Protected by the Rhino Nexus.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/25_Protected by the Rhino Nexus.jpg"
 			}
 		},
 		{
@@ -3284,7 +3284,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "381",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/381_Electro Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/381_Electro Zord.jpg"
 			}
 		},
 		{
@@ -3294,7 +3294,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "391",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/391_Omegamax Megazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/391_Omegamax Megazord.jpg"
 			}
 		},
 		{
@@ -3304,7 +3304,7 @@
 			"type": "Legendary Artifact Creature — Megazord",
 			"collector_number": "388",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/388_Mega Winger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/388_Mega Winger.jpg"
 			}
 		},
 		{
@@ -3314,7 +3314,7 @@
 			"type": "Enchantment",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/92_Assault on the City.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/92_Assault on the City.jpg"
 			}
 		},
 		{
@@ -3324,7 +3324,7 @@
 			"type": "Emblem",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/11t_Morphinominal.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/11t_Morphinominal.jpg"
 			}
 		},
 		{
@@ -3334,7 +3334,7 @@
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/103_An Evil Game.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/103_An Evil Game.jpg"
 			}
 		},
 		{
@@ -3344,7 +3344,7 @@
 			"type": "Instant",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/112_Last Second Escape.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/112_Last Second Escape.jpg"
 			}
 		},
 		{
@@ -3354,7 +3354,7 @@
 			"type": "Sorcery",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/130_Symbol Power — Dream.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/130_Symbol Power — Dream.jpg"
 			}
 		},
 		{
@@ -3364,7 +3364,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/195_Monster of the Week.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/195_Monster of the Week.jpg"
 			}
 		},
 		{
@@ -3374,7 +3374,7 @@
 			"type": "Enchantment",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/178_Battle Preparations.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/178_Battle Preparations.jpg"
 			}
 		},
 		{
@@ -3384,7 +3384,7 @@
 			"type": "Instant",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/209_Symbol Power — Earth.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/209_Symbol Power — Earth.jpg"
 			}
 		},
 		{
@@ -3394,7 +3394,7 @@
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/206_Step in the Scheme.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/206_Step in the Scheme.jpg"
 			}
 		},
 		{
@@ -3404,7 +3404,7 @@
 			"type": "Legendary Artifact Creature — Zord Frog",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/179_Black Frog Ninjazord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/179_Black Frog Ninjazord.jpg"
 			}
 		},
 		{
@@ -3414,7 +3414,7 @@
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/182_Discover the Animarium.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/182_Discover the Animarium.jpg"
 			}
 		},
 		{
@@ -3424,7 +3424,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/115_Minion Promotion.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/115_Minion Promotion.jpg"
 			}
 		},
 		{
@@ -3434,7 +3434,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/129_Summon Minions.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/129_Summon Minions.jpg"
 			}
 		},
 		{
@@ -3444,7 +3444,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/75_Robotpalooza.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/75_Robotpalooza.jpg"
 			}
 		},
 		{
@@ -3454,7 +3454,7 @@
 			"type": "Artifact Creature — Zord Robot Villain Minion",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/62_Gigatronic.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/62_Gigatronic.jpg"
 			}
 		},
 		{
@@ -3464,7 +3464,7 @@
 			"type": "Legendary Creature — Alien Beast Soldier Villain",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/106_Goldar, Winged General.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/106_Goldar, Winged General.jpg"
 			}
 		},
 		{
@@ -3474,7 +3474,7 @@
 			"type": "Legendary Creature — Alien Ally Hero",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/119_Phantom Ranger, Invisible Ally.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/119_Phantom Ranger, Invisible Ally.jpg"
 			}
 		},
 		{
@@ -3484,7 +3484,7 @@
 			"type": "Sorcery",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/213_To Earn Your Stripes.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/213_To Earn Your Stripes.jpg"
 			}
 		},
 		{
@@ -3494,7 +3494,7 @@
 			"type": "Legendary Artifact Creature — Zord Dinosaur",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/212_Titanus, Carrierzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/212_Titanus, Carrierzord.jpg"
 			}
 		},
 		{
@@ -3504,7 +3504,7 @@
 			"type": "Instant",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/188_Intervention of the Masters.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/188_Intervention of the Masters.jpg"
 			}
 		},
 		{
@@ -3514,7 +3514,7 @@
 			"type": "Legendary Creature — Skeleton Villain",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/94_Bones, Finster's First Creation.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/94_Bones, Finster's First Creation.jpg"
 			}
 		},
 		{
@@ -3524,7 +3524,7 @@
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/5_Always a Chance.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/5_Always a Chance.jpg"
 			}
 		},
 		{
@@ -3534,7 +3534,7 @@
 			"type": "Enchantment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/16_Impenetrable Web.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/16_Impenetrable Web.jpg"
 			}
 		},
 		{
@@ -3544,7 +3544,7 @@
 			"type": "Artifact",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/108_Hexuba's Cauldron.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/108_Hexuba's Cauldron.jpg"
 			}
 		},
 		{
@@ -3557,11 +3557,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/65_Kat Manx, Delta Designer_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/65_Kat Manx, Delta Designer_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/65_Kat Manx, Delta Designer_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/65_Kat Manx, Delta Designer_front.jpg"
 			}
 		},
 		{
@@ -3571,7 +3571,7 @@
 			"type": "Legendary Creature — Human Druid",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/199_Princess Shayla, Animarium's Caretaker.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/199_Princess Shayla, Animarium's Caretaker.jpg"
 			}
 		},
 		{
@@ -3581,7 +3581,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/162_Reinforcements From the Future.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/162_Reinforcements From the Future.jpg"
 			}
 		},
 		{
@@ -3591,7 +3591,7 @@
 			"type": "Creature — Crocodile Demon Villain Minion",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/311_Spitfang.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/311_Spitfang.jpg"
 			}
 		},
 		{
@@ -3601,7 +3601,7 @@
 			"type": "Sorcery",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/257_Papyrox Print.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/257_Papyrox Print.jpg"
 			}
 		},
 		{
@@ -3611,7 +3611,7 @@
 			"type": "Enchantment",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/266_Realm of the Animal Spirits.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/266_Realm of the Animal Spirits.jpg"
 			}
 		},
 		{
@@ -3621,7 +3621,7 @@
 			"type": "Enchantment",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/263_A Ranger's Homecoming.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/263_A Ranger's Homecoming.jpg"
 			}
 		},
 		{
@@ -3631,7 +3631,7 @@
 			"type": "Enchantment",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/291_Zords on Repair.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/291_Zords on Repair.jpg"
 			}
 		},
 		{
@@ -3641,7 +3641,7 @@
 			"type": "Instant",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/234_Guilty Verdict.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/234_Guilty Verdict.jpg"
 			}
 		},
 		{
@@ -3651,7 +3651,7 @@
 			"type": "Legendary Creature — Insect Villain",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/289_Wild Weeder.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/289_Wild Weeder.jpg"
 			}
 		},
 		{
@@ -3661,7 +3661,7 @@
 			"type": "Creature — Zord Crocodile Alien",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/273_Skullgator.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/273_Skullgator.jpg"
 			}
 		},
 		{
@@ -3671,7 +3671,7 @@
 			"type": "Enchantment",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/88_United Alliance of Evil.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/88_United Alliance of Evil.jpg"
 			}
 		},
 		{
@@ -3684,11 +3684,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/271_Ryan, Raised by Demons_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/271_Ryan, Raised by Demons_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/271_Ryan, Raised by Demons_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/271_Ryan, Raised by Demons_front.jpg"
 			}
 		},
 		{
@@ -3698,7 +3698,7 @@
 			"type": "Token Enchantment — Aura Role",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/2t_Monster of the Week.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/2t_Monster of the Week.jpg"
 			}
 		},
 		{
@@ -3708,7 +3708,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/7t_Food.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/7t_Food.jpg"
 			}
 		},
 		{
@@ -3718,7 +3718,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/11_Escape Through Reflections.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/11_Escape Through Reflections.jpg"
 			}
 		},
 		{
@@ -3728,7 +3728,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/6_Armorized Biofield.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/6_Armorized Biofield.jpg"
 			}
 		},
 		{
@@ -3738,7 +3738,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/54_Clone Ranger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/54_Clone Ranger.jpg"
 			}
 		},
 		{
@@ -3748,7 +3748,7 @@
 			"type": "Sorcery",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/180_Continue the Fight.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/180_Continue the Fight.jpg"
 			}
 		},
 		{
@@ -3758,7 +3758,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/28_Release of the Galactabeasts.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/28_Release of the Galactabeasts.jpg"
 			}
 		},
 		{
@@ -3768,7 +3768,7 @@
 			"type": "Instant",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/138_Destruction of the Org Heart.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/138_Destruction of the Org Heart.jpg"
 			}
 		},
 		{
@@ -3778,7 +3778,7 @@
 			"type": "Creature — Alien Soldier",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/81_SPD Cadet.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/81_SPD Cadet.jpg"
 			}
 		},
 		{
@@ -3788,7 +3788,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/141_Emergency Event.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/141_Emergency Event.jpg"
 			}
 		},
 		{
@@ -3798,7 +3798,7 @@
 			"type": "Instant",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/107_Heroic Sacrifice.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/107_Heroic Sacrifice.jpg"
 			}
 		},
 		{
@@ -3808,7 +3808,7 @@
 			"type": "Enchantment",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/105_Feed on Misery.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/105_Feed on Misery.jpg"
 			}
 		},
 		{
@@ -3818,7 +3818,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/164_Sudden Horde.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/164_Sudden Horde.jpg"
 			}
 		},
 		{
@@ -3828,7 +3828,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/42_Weapon Trade.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/42_Weapon Trade.jpg"
 			}
 		},
 		{
@@ -3838,7 +3838,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/72_Return to Headquarters.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/72_Return to Headquarters.jpg"
 			}
 		},
 		{
@@ -3848,7 +3848,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/118_Once a Ranger....jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/118_Once a Ranger....jpg"
 			}
 		},
 		{
@@ -3858,7 +3858,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/101_End of the Power Rangers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/101_End of the Power Rangers.jpg"
 			}
 		},
 		{
@@ -3868,7 +3868,7 @@
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/117_Nefarious Knowledge.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/117_Nefarious Knowledge.jpg"
 			}
 		},
 		{
@@ -3878,7 +3878,7 @@
 			"type": "Artifact",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/169_Venjix's Drone Factory.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/169_Venjix's Drone Factory.jpg"
 			}
 		},
 		{
@@ -3888,7 +3888,7 @@
 			"type": "Instant",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/308_Respond to the Attack.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/308_Respond to the Attack.jpg"
 			}
 		},
 		{
@@ -3898,7 +3898,7 @@
 			"type": "Instant",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/300_Forced From the Zord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/300_Forced From the Zord.jpg"
 			}
 		},
 		{
@@ -3908,7 +3908,7 @@
 			"type": "Instant",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/301_Interrupted Sequence.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/301_Interrupted Sequence.jpg"
 			}
 		},
 		{
@@ -3918,7 +3918,7 @@
 			"type": "Instant",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/315_Working Towards Their Downfall.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/315_Working Towards Their Downfall.jpg"
 			}
 		},
 		{
@@ -3928,7 +3928,7 @@
 			"type": "Instant",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/298_Debilitate.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/298_Debilitate.jpg"
 			}
 		},
 		{
@@ -3938,7 +3938,7 @@
 			"type": "Instant",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/296_Burst of Courage.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/296_Burst of Courage.jpg"
 			}
 		},
 		{
@@ -3948,7 +3948,7 @@
 			"type": "Instant",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/309_Restore Memory.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/309_Restore Memory.jpg"
 			}
 		},
 		{
@@ -3958,7 +3958,7 @@
 			"type": "Instant",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/303_Menacing Presence.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/303_Menacing Presence.jpg"
 			}
 		},
 		{
@@ -3968,7 +3968,7 @@
 			"type": "Instant",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/304_Opportune Dodge.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/304_Opportune Dodge.jpg"
 			}
 		},
 		{
@@ -3978,7 +3978,7 @@
 			"type": "Instant",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/293_Adapt to Circumstance.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/293_Adapt to Circumstance.jpg"
 			}
 		},
 		{
@@ -3988,7 +3988,7 @@
 			"type": "Instant",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/133_Venomark's Infection.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/133_Venomark's Infection.jpg"
 			}
 		},
 		{
@@ -3998,7 +3998,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/14_Grid Battleforce Recruit.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/14_Grid Battleforce Recruit.jpg"
 			}
 		},
 		{
@@ -4008,7 +4008,7 @@
 			"type": "Creature — Troll Warrior Villain",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/163_Rock Troll.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/163_Rock Troll.jpg"
 			}
 		},
 		{
@@ -4018,7 +4018,7 @@
 			"type": "Instant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/78_Search for Bowen.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/78_Search for Bowen.jpg"
 			}
 		},
 		{
@@ -4028,7 +4028,7 @@
 			"type": "Artifact Creature — Robot Villain",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/76_Saw Attack Bot.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/76_Saw Attack Bot.jpg"
 			}
 		},
 		{
@@ -4038,7 +4038,7 @@
 			"type": "Sorcery",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/155_Minion Reinforcements.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/155_Minion Reinforcements.jpg"
 			}
 		},
 		{
@@ -4048,7 +4048,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/67_Mack's Manipulation.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/67_Mack's Manipulation.jpg"
 			}
 		},
 		{
@@ -4058,7 +4058,7 @@
 			"type": "Legendary Creature — Human Citizen",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/95_Bulk and Skull, Troublemakers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/95_Bulk and Skull, Troublemakers.jpg"
 			}
 		},
 		{
@@ -4068,7 +4068,7 @@
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/200_A Ranger's Resolve.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/200_A Ranger's Resolve.jpg"
 			}
 		},
 		{
@@ -4078,7 +4078,7 @@
 			"type": "Creature — Hydra Wurm",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/187_Hydra Worm.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/187_Hydra Worm.jpg"
 			}
 		},
 		{
@@ -4088,7 +4088,7 @@
 			"type": "Enchantment",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/190_Lightspeed Training.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/190_Lightspeed Training.jpg"
 			}
 		},
 		{
@@ -4098,7 +4098,7 @@
 			"type": "Artifact Creature — Zord Beast",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/177_Auxillary Wildzord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/177_Auxillary Wildzord.jpg"
 			}
 		},
 		{
@@ -4108,7 +4108,7 @@
 			"type": "Creature — Alien Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/21_Mavro's Royal Guard.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/21_Mavro's Royal Guard.jpg"
 			}
 		},
 		{
@@ -4118,7 +4118,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/77_Scorpion Cartel Lookout.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/77_Scorpion Cartel Lookout.jpg"
 			}
 		},
 		{
@@ -4128,7 +4128,7 @@
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/204_Seeing the Past.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/204_Seeing the Past.jpg"
 			}
 		},
 		{
@@ -4138,7 +4138,7 @@
 			"type": "Instant",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/136_Clash of the Red Rangers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/136_Clash of the Red Rangers.jpg"
 			}
 		},
 		{
@@ -4148,7 +4148,7 @@
 			"type": "Creature — Troll Warrior Villain",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/181_Dark Troll.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/181_Dark Troll.jpg"
 			}
 		},
 		{
@@ -4158,7 +4158,7 @@
 			"type": "Legendary Creature — Human Soldier Hero",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/32_Sam, SPD Omega Ranger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/32_Sam, SPD Omega Ranger.jpg"
 			}
 		},
 		{
@@ -4168,7 +4168,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/84_Tori's Tidal Wave.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/84_Tori's Tidal Wave.jpg"
 			}
 		},
 		{
@@ -4178,7 +4178,7 @@
 			"type": "Creature — Alien Insect Villain Minion",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/205_Spikeball.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/205_Spikeball.jpg"
 			}
 		},
 		{
@@ -4188,7 +4188,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/15_Hero's Spirit.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/15_Hero's Spirit.jpg"
 			}
 		},
 		{
@@ -4198,7 +4198,7 @@
 			"type": "Instant",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/173_Zedd's Lightning Strike.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/173_Zedd's Lightning Strike.jpg"
 			}
 		},
 		{
@@ -4208,7 +4208,7 @@
 			"type": "Creature — Spirit Monk Soldier Villain",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/124_Rinshi Shadow Guard.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/124_Rinshi Shadow Guard.jpg"
 			}
 		},
 		{
@@ -4218,7 +4218,7 @@
 			"type": "Legendary Creature — Demon Octopus Villain",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/255_Octoroo, Xandred's Apothecary.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/255_Octoroo, Xandred's Apothecary.jpg"
 			}
 		},
 		{
@@ -4228,7 +4228,7 @@
 			"type": "Legendary Artifact Creature — Zord Rhino Spirit",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/201_Rhino Animal Spirit.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/201_Rhino Animal Spirit.jpg"
 			}
 		},
 		{
@@ -4238,7 +4238,7 @@
 			"type": "Artifact",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/330_Monster-Matic.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/330_Monster-Matic.jpg"
 			}
 		},
 		{
@@ -4251,11 +4251,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/PWR-files/img/49_Antonio, Wandering Fisherman_back.jpg"
+					"en": "https://kidkamando.github.io/sets/PWR-files/img/49_Antonio, Wandering Fisherman_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/49_Antonio, Wandering Fisherman_front.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/49_Antonio, Wandering Fisherman_front.jpg"
 			}
 		},
 		{
@@ -4265,7 +4265,7 @@
 			"type": "Legendary Creature — Human Ranger Hero",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/154_Merrick, Lunar Wolf Ranger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/154_Merrick, Lunar Wolf Ranger.jpg"
 			}
 		},
 		{
@@ -4275,7 +4275,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/10_Dino Master Saber.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/10_Dino Master Saber.jpg"
 			}
 		},
 		{
@@ -4285,7 +4285,7 @@
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/98_Demonic Liberation.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/98_Demonic Liberation.jpg"
 			}
 		},
 		{
@@ -4295,7 +4295,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/125_Ritual Resurrection.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/125_Ritual Resurrection.jpg"
 			}
 		},
 		{
@@ -4305,7 +4305,7 @@
 			"type": "Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/12_Frax's Fury.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/12_Frax's Fury.jpg"
 			}
 		},
 		{
@@ -4315,7 +4315,7 @@
 			"type": "Sorcery",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/139_Dino Super Charge.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/139_Dino Super Charge.jpg"
 			}
 		},
 		{
@@ -4325,7 +4325,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/64_Intrusion of the Thunder Strangers.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/64_Intrusion of the Thunder Strangers.jpg"
 			}
 		},
 		{
@@ -4335,7 +4335,7 @@
 			"type": "Creature — Human Ranger",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/194_Mirinoi Elder.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/194_Mirinoi Elder.jpg"
 			}
 		},
 		{
@@ -4345,7 +4345,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/1_Defense of the District.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/1_Defense of the District.jpg"
 			}
 		},
 		{
@@ -4355,7 +4355,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/325_Laser Lamp.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/325_Laser Lamp.jpg"
 			}
 		},
 		{
@@ -4365,7 +4365,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/339_Spin Sword.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/339_Spin Sword.jpg"
 			}
 		},
 		{
@@ -4375,7 +4375,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/323_Gold Power Staff.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/323_Gold Power Staff.jpg"
 			}
 		},
 		{
@@ -4385,7 +4385,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/61_Fresh Interpretation.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/61_Fresh Interpretation.jpg"
 			}
 		},
 		{
@@ -4395,7 +4395,7 @@
 			"type": "Legendary Artifact — Zord Spacecraft",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/126_Scorpion Stinger.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/126_Scorpion Stinger.jpg"
 			}
 		},
 		{
@@ -4405,7 +4405,7 @@
 			"type": "Enchantment",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/193_Mesomonster Duplication.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/193_Mesomonster Duplication.jpg"
 			}
 		},
 		{
@@ -4415,7 +4415,7 @@
 			"type": "Artifact Creature — Zord Robot",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/175_Zurganezord.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/175_Zurganezord.jpg"
 			}
 		},
 		{
@@ -4425,7 +4425,7 @@
 			"type": "Artifact Creature — Robot Villain Minion",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/PWR-files/img/8_Cyclobot Worker.jpg"
+				"en": "https://kidkamando.github.io/sets/PWR-files/img/8_Cyclobot Worker.jpg"
 			}
 		}
 	]

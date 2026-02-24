@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Human Ranger",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/12_Ashe, Frost Archer.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/12_Ashe, Frost Archer.jpg"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/16_Jhin, the Stunning Performer.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/16_Jhin, the Stunning Performer.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Legendary Creature — Darkin Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/21_Zaahen, the Unsundered.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/21_Zaahen, the Unsundered.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/17_K'Sante, Dauntless Hunter.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/17_K'Sante, Dauntless Hunter.jpg"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Token Artifact",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/3t_Lotus Trap.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/3t_Lotus Trap.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Token Artifact — Darkin Equipment",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/1t_Corrupted Form.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/1t_Corrupted Form.jpg"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Wurm Horror",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/8_Baron Nashor.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/8_Baron Nashor.jpg"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Elemental Wurm",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/9_Scourge of the Stars.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/9_Scourge of the Stars.jpg"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Enchantment",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/20_Starsurge.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/20_Starsurge.jpg"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/6_Vile Feast.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/6_Vile Feast.jpg"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Token Creature — Spider",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/2t_Spider.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/2t_Spider.jpg"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/5_Precious Pet.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/5_Precious Pet.jpg"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/11_Arachnoid Host.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/11_Arachnoid Host.jpg"
 			}
 		},
 		{
@@ -140,11 +140,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSE-Hub/sets/RTRA-files/img/3_Elise, Coveted Predator_back.jpg"
+					"en": "https://kidkamando.github.io/sets/RTRA-files/img/3_Elise, Coveted Predator_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/3_Elise, Coveted Predator_front.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/3_Elise, Coveted Predator_front.jpg"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			"type": "Legendary Creature — Spider God",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/7_Vilemaw, Twisted Harbinger.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/7_Vilemaw, Twisted Harbinger.jpg"
 			}
 		},
 		{
@@ -164,7 +164,7 @@
 			"type": "Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/4_Nightmarish Trap.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/4_Nightmarish Trap.jpg"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/1_Luxanna, Illuminated.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/1_Luxanna, Illuminated.jpg"
 			}
 		},
 		{
@@ -184,7 +184,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/18_Mel, Searing Brilliance.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/18_Mel, Searing Brilliance.jpg"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/10_Ambessa, Medarda Maxim.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/10_Ambessa, Medarda Maxim.jpg"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/13_Ekko, Timewinder.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/13_Ekko, Timewinder.jpg"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 			"type": "Creature — Spirit Horse Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/2_Spectral Lancer.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/2_Spectral Lancer.jpg"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/22_Splinter Soul.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/22_Splinter Soul.jpg"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 			"type": "Legendary Creature — Demon Nightmare",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/19_Nocturne, Duskbringer.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/19_Nocturne, Duskbringer.jpg"
 			}
 		},
 		{
@@ -244,7 +244,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/15_Fiddlesticks, Ageless Horror.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/15_Fiddlesticks, Ageless Horror.jpg"
 			}
 		},
 		{
@@ -254,7 +254,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/RTRA-files/img/14_Evelyn, Dark Seductress.jpg"
+				"en": "https://kidkamando.github.io/sets/RTRA-files/img/14_Evelyn, Dark Seductress.jpg"
 			}
 		}
 	]
