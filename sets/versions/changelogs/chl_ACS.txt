@@ -1,4 +1,24 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Aerial Sentinel
+rules_text: Flying, haste
+Whenever CR03 attacks, you may sacrifice an artifact. When you do, draw a card. => Flying, haste
+Whenever Aerial Sentinel attacks, you may sacrifice an artifact. When you do, draw a card.
+
+Abrasive Blast
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Choose one. If this spell was bargained, choose both instead — 
+• Destroy target artifact.
+• CR06 deals 3 damage to target creature. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Choose one. If this spell was bargained, choose both instead — 
+• Destroy target artifact.
+• Abrasive Blast deals 3 damage to target creature.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

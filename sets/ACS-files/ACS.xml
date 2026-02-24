@@ -2459,7 +2459,7 @@ At the beginning of each opponent&apos;s end step, if a nonland permanent left t
 		<card>
 			<name>Aerial Sentinel</name>
 			<text>Flying, haste
-Whenever CR03 attacks, you may sacrifice an artifact. When you do, draw a card.</text>
+Whenever Aerial Sentinel attacks, you may sacrifice an artifact. When you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/ACS-files/img/137_Aerial Sentinel.jpg" num="137">ACS</set>
 			<prop>
 				<layout>normal</layout>
@@ -2497,7 +2497,7 @@ Whenever CR03 attacks, you may sacrifice an artifact. When you do, draw a card.<
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Choose one. If this spell was bargained, choose both instead — 
 • Destroy target artifact.
-• CR06 deals 3 damage to target creature.</text>
+• Abrasive Blast deals 3 damage to target creature.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/ACS-files/img/136_Abrasive Blast.jpg" num="136">ACS</set>
 			<prop>
 				<layout>normal</layout>
