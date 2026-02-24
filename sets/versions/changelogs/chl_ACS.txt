@@ -1,4 +1,26 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Rykkon, Resident Recruiter
+rules_text: {T}: Put a land from your hand onto the battlefield.
+{3}{G}{G}, {T}: Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature card with put it onto the battlefield. If its power is less than five, put +1/+1 counters on it equal to the difference. If its power is greater than five, put -1/-1 counters on it equal to the difference. Put the rest on the bottom in a random order. => {T}: Put a land from your hand onto the battlefield.
+{3}{G}{G}, {T}: Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature card and put it onto the battlefield. If its power is less than five, put +1/+1 counters on it equal to the difference. If its power is greater than five, put -1/-1 counters on it equal to the difference. Put the rest on the bottom in a random order.
+
+
+VERSION 3 CHANGELOG
+====================
+
+
+
+Scant Survival
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Target creature phases out. If this spell was bargained, put a +1/+1 counter on it. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Target creature phases out. If this spell was bargained, put a +1/+1 counter on it and it phases out instead. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

@@ -5,7 +5,7 @@
 			<name>ACS</name>
 			<longname>Aramyth: Crimes in Shadow</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-23</releasedate>
+			<releasedate>2026-02-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3349,7 +3349,7 @@ At the beginning of your upkeep, proliferate. (Choose any number of permanents a
 		<card>
 			<name>Rykkon, Resident Recruiter</name>
 			<text>{T}: Put a land from your hand onto the battlefield.
-{3}{G}{G}, {T}: Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature card with put it onto the battlefield. If its power is less than five, put +1/+1 counters on it equal to the difference. If its power is greater than five, put -1/-1 counters on it equal to the difference. Put the rest on the bottom in a random order.</text>
+{3}{G}{G}, {T}: Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature card and put it onto the battlefield. If its power is less than five, put +1/+1 counters on it equal to the difference. If its power is greater than five, put -1/-1 counters on it equal to the difference. Put the rest on the bottom in a random order.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/205_Rykkon, Resident Recruiter.jpg" num="205">ACS</set>
 			<prop>
 				<layout>normal</layout>
@@ -5259,7 +5259,7 @@ Tap three untapped artifacts you control: Populate.</text>
 		<card>
 			<name>Scant Survival</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
-Target creature phases out. If this spell was bargained, put a +1/+1 counter on it. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+Target creature phases out. If this spell was bargained, put a +1/+1 counter on it and it phases out instead. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/ACS-files/img/28_Scant Survival.jpg" num="28">ACS</set>
 			<prop>
 				<layout>normal</layout>

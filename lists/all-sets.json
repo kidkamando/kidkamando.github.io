@@ -3,62 +3,62 @@
         {
             "set_code": "ACS",
             "set_name": "Aramyth: Crimes in Shadow",
-            "formats": "Standard,Commander"
+            "formats": "Standard,Commander,Other"
         },
         {
             "set_code": "FCD",
             "set_name": "Fractured Darkness",
-            "formats": ""
+            "formats": "Standard,Commander,SLC"
         },
         {
             "set_code": "LSL",
             "set_name": "Last Starlight",
-            "formats": ""
+            "formats": "Standard,Commander,SLC"
         },
         {
             "set_code": "PWR",
             "set_name": "Power Rangers",
-            "formats": ""
+            "formats": "Standard,Commander,Other"
         },
         {
             "set_code": "RAD",
             "set_name": "Runeterra Ascended",
-            "formats": ""
+            "formats": "Standard,Commander,RRI"
         },
         {
             "set_code": "RDV",
             "set_name": "Runeterra Divided",
-            "formats": ""
+            "formats": "Standard,Commander,RRI"
         },
         {
             "set_code": "RRN",
             "set_name": "Runeterra in Ruination",
-            "formats": ""
+            "formats": "Standard,Commander,RRI"
         },
         {
             "set_code": "RTRA",
             "set_name": "Runeterra Reimagined Addendum",
-            "formats": ""
+            "formats": "Standard,Commander,RRI"
         },
         {
             "set_code": "VLC",
             "set_name": "Velesta Discovered Commander",
-            "formats": ""
+            "formats": "Commander,VBC"
         },
         {
             "set_code": "VLD",
             "set_name": "Velesta Discovered",
-            "formats": ""
+            "formats": "Commander,VBC"
         },
         {
             "set_code": "VRG",
             "set_name": "Velesta Reforged",
-            "formats": ""
+            "formats": "Commander,VBC"
         },
         {
             "set_code": "VWT",
             "set_name": "Velesta Wartorn",
-            "formats": ""
+            "formats": "Commander,VBC"
         }
     ]
 }
