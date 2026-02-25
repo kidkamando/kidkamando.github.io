@@ -3764,11 +3764,11 @@ Sludge Scrounger enters with six -1/-1 counters on it.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Auriel, Professional Chantageé</name>
+			<name>Auriel, Professional Chantagée</name>
 			<text>Flying
 Whenever Auriel enters or attacks, choose a card name. Then, target opponent reveals their hand. They discard each nonland card with the chosen name, then draw a card for each card discarded this way.
 Activated abilities with sources of the chosen name can&apos;t be activated unless they&apos;re mana abilities.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/250_Auriel, Professional Chantageé.jpg" num="250">ACS</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/250_Auriel, Professional Chantagée.jpg" num="250">ACS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

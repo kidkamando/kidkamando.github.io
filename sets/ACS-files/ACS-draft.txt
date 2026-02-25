@@ -2091,13 +2091,13 @@
 			}
 		},
 		{
-			"name": "Auriel, Professional Chantageé",
+			"name": "Auriel, Professional Chantagée",
 			"rarity": "rare",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Legendary Creature — Jellyfish Rogue",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/ACS-files/img/250_Auriel, Professional Chantageé.jpg"
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/250_Auriel, Professional Chantagée.jpg"
 			}
 		},
 		{
@@ -3222,7 +3222,7 @@
 	1 Thrive Twofold
 	1 Waxley, Union Chief
 	2 Charming Duke
-	2 Auriel, Professional Chantageé
+	2 Auriel, Professional Chantagée
 	2 Accomodating Lessor
 	2 Form a Union!
 	1 Undrix, Executive Investor
@@ -3797,7 +3797,7 @@
 	6 Dynamic Storm
 	6 Birthing Roepod
 	2 Charming Duke
-	2 Auriel, Professional Chantageé
+	2 Auriel, Professional Chantagée
 	2 Accomodating Lessor
 	2 Form a Union!
 	1 Undrix, Executive Investor
@@ -4103,7 +4103,7 @@
 	15 Dynamic Storm
 	15 Birthing Roepod
 	7 Charming Duke
-	7 Auriel, Professional Chantageé
+	7 Auriel, Professional Chantagée
 	7 Accomodating Lessor
 	7 Form a Union!
 	4 Undrix, Executive Investor
