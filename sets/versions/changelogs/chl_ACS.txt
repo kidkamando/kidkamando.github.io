@@ -1,4 +1,13 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Conspired Assault
+rules_text: {1}{R}: Each player may put a creature from their hand onto the battlefield. Those creatures gain “At the beginning of your end step, sacrifice this creature.” They gain haste until end of turn. => {X}{R}: Each player may put a creature with mana value X plus 2 or less from their hand onto the battlefield. Those creatures gain “At the beginning of your end step, sacrifice this creature.” They gain haste until end of turn.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

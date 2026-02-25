@@ -3390,7 +3390,7 @@
             "number": 145,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "{1}{R}: Each player may put a creature from their hand onto the battlefield. Those creatures gain \u201cAt the beginning of your end step, sacrifice this creature.\u201d They gain haste until end of turn.",
+            "rules_text": "{X}{R}: Each player may put a creature with mana value X plus 2 or less from their hand onto the battlefield. Those creatures gain \u201cAt the beginning of your end step, sacrifice this creature.\u201d They gain haste until end of turn.",
             "flavor_text": "[i]The attack on the Crown required atrocities to spread them thin. If they were busy in the city, Stormwood would be vulnerable.[/i]",
             "pt": "",
             "special_text": "",

@@ -3205,7 +3205,7 @@ Each player chooses an opponent and reveals that opponent&apos;s hand. The chose
 		</card>
 		<card>
 			<name>Conspired Assault</name>
-			<text>{1}{R}: Each player may put a creature from their hand onto the battlefield. Those creatures gain &quot;At the beginning of your end step, sacrifice this creature.&quot; They gain haste until end of turn.</text>
+			<text>{X}{R}: Each player may put a creature with mana value X plus 2 or less from their hand onto the battlefield. Those creatures gain &quot;At the beginning of your end step, sacrifice this creature.&quot; They gain haste until end of turn.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/145_Conspired Assault.jpg" num="145">ACS</set>
 			<prop>
 				<layout>normal</layout>
