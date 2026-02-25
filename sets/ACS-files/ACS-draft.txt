@@ -511,13 +511,13 @@
 			}
 		},
 		{
-			"name": "Winding Cemetary",
+			"name": "Winding Cemetery",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/ACS-files/img/135_Winding Cemetary.jpg"
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/135_Winding Cemetery.jpg"
 			}
 		},
 		{
@@ -1651,13 +1651,13 @@
 			}
 		},
 		{
-			"name": "Ingenius Advisor",
+			"name": "Ingenious Advisor",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Jellyfish Advisor Wizard",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/ACS-files/img/61_Ingenius Advisor.jpg"
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/61_Ingenious Advisor.jpg"
 			}
 		},
 		{
@@ -3188,7 +3188,7 @@
 	2 Atteli Yewtooth, Crown's Tactician
 	2 Insider Sabotage
 	2 Joint Research
-	2 Ingenius Advisor
+	2 Ingenious Advisor
 	2 Dictate of Splendor
 	2 Egocentric Lawmaker
 	2 Lumi, Deepspire Representative
@@ -3390,7 +3390,7 @@
 	8 Forceful Request
 	8 Iniquitous Informant
 	8 Unending Service
-	8 Winding Cemetary
+	8 Winding Cemetery
 	8 Ruthlessness
 	8 Dismissive Hit
 	8 Sleep in the Deep
@@ -3508,7 +3508,7 @@
 	8 Forceful Request
 	8 Iniquitous Informant
 	8 Unending Service
-	8 Winding Cemetary
+	8 Winding Cemetery
 	8 Ruthlessness
 	8 Dismissive Hit
 	8 Sleep in the Deep
@@ -3639,7 +3639,7 @@
 	12 Forceful Request
 	12 Iniquitous Informant
 	12 Unending Service
-	12 Winding Cemetary
+	12 Winding Cemetery
 	12 Ruthlessness
 	12 Dismissive Hit
 	12 Sleep in the Deep
@@ -3753,7 +3753,7 @@
 	2 Atteli Yewtooth, Crown's Tactician
 	2 Insider Sabotage
 	2 Joint Research
-	2 Ingenius Advisor
+	2 Ingenious Advisor
 	2 Dictate of Splendor
 	2 Egocentric Lawmaker
 	2 Lumi, Deepspire Representative
@@ -3945,7 +3945,7 @@
 	6 Forceful Request
 	6 Iniquitous Informant
 	6 Unending Service
-	6 Winding Cemetary
+	6 Winding Cemetery
 	6 Ruthlessness
 	6 Dismissive Hit
 	6 Sleep in the Deep
@@ -4059,7 +4059,7 @@
 	7 Atteli Yewtooth, Crown's Tactician
 	7 Insider Sabotage
 	7 Joint Research
-	7 Ingenius Advisor
+	7 Ingenious Advisor
 	7 Dictate of Splendor
 	7 Egocentric Lawmaker
 	7 Lumi, Deepspire Representative

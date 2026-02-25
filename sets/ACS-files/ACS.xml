@@ -937,9 +937,9 @@ Deathtouch</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Winding Cemetary</name>
+			<name>Winding Cemetery</name>
 			<text>Reveal the top four cards of your library. Put any number of nonland cards revealed this way into your hand and you lose life equal to their total mana value. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/135_Winding Cemetary.jpg" num="135">ACS</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/135_Winding Cemetery.jpg" num="135">ACS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2970,11 +2970,11 @@ Other creatures your team controls have double strike.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Ingenius Advisor</name>
+			<name>Ingenious Advisor</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Flying
 Your team may cast spells as though they had flash.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/61_Ingenius Advisor.jpg" num="61">ACS</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/61_Ingenious Advisor.jpg" num="61">ACS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

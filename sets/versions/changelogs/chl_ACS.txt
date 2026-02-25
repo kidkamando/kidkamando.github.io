@@ -1,4 +1,14 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Winding Cemetery added.
+Ingenious Advisor added.
+
+Winding Cemetary removed.
+Ingenius Advisor removed.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Joint Acquisition added.
