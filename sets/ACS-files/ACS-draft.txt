@@ -91,13 +91,13 @@
 			}
 		},
 		{
-			"name": "Joint Aquisition",
+			"name": "Joint Acquisition",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/ACS-files/img/193_Joint Aquisition.jpg"
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/193_Joint Acquisition.jpg"
 			}
 		},
 		{
@@ -3178,7 +3178,7 @@
 	1 Lord Restra, Malicious Patriarch
 	1 Lord Stormwood XVI
 	2 Skeletony, Boney Butler
-	2 Joint Aquisition
+	2 Joint Acquisition
 	2 Joint Sabotage
 	2 Contracted Companion
 	2 Joint Enterprise
@@ -3597,7 +3597,7 @@
 	1 Lord Restra, Malicious Patriarch
 	1 Lord Stormwood XVI
 	2 Skeletony, Boney Butler
-	2 Joint Aquisition
+	2 Joint Acquisition
 	12 Health Inspector
 	12 Amoral Auditor
 	12 Tosshorn Intervention
@@ -3903,7 +3903,7 @@
 	4 Lord Restra, Malicious Patriarch
 	4 Lord Stormwood XVI
 	7 Skeletony, Boney Butler
-	7 Joint Aquisition
+	7 Joint Acquisition
 	6 Health Inspector
 	6 Amoral Auditor
 	6 Tosshorn Intervention

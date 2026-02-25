@@ -182,9 +182,9 @@ Diplomacy — Whenever a player draws a card except the first card they draw dur
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Joint Aquisition</name>
+			<name>Joint Acquisition</name>
 			<text>Joint Operation — Each player may search their library for a land card and put it onto the battlefield. For each other player who does, search your library for a land card and put it onto the battlefield. Each player that searched their library this way shuffles.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/193_Joint Aquisition.jpg" num="193">ACS</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/193_Joint Acquisition.jpg" num="193">ACS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

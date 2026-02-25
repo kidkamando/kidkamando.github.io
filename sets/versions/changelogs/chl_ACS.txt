@@ -1,4 +1,12 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Joint Acquisition added.
+
+Joint Aquisition removed.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Fulfillment of Fortune added.
