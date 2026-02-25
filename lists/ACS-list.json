@@ -2580,6 +2580,61 @@
     {
         "card_name": "er"
     },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 306,
+        "shape": "normal",
+        "set": "ACS",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island",
+        "number": 307,
+        "shape": "normal",
+        "set": "ACS",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swamp",
+        "number": 308,
+        "shape": "normal",
+        "set": "ACS",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain",
+        "number": 309,
+        "shape": "normal",
+        "set": "ACS",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forest",
+        "number": 310,
+        "shape": "normal",
+        "set": "ACS",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->token",
     {
         "card_name": "Favor",

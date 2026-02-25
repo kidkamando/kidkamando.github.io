@@ -1,4 +1,15 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Thought Inhibitor
+
+Tribute From the Families
+cost: {3}{G} => {3}{G}{G}
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

@@ -1503,7 +1503,7 @@
 		{
 			"name": "Tribute From the Families",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "216",
 			"image_uris": {
@@ -3119,6 +3119,56 @@
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/ACS-files/img/188_Emule's Gift.jpg"
 			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/306_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/307_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/308_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/309_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/310_Forest.jpg"
+			}
 		}
 	]
 
@@ -3282,17 +3332,7 @@
 	4 Spire Overseer
 	4 Blessed Spirekeeper
 	4 District Borderpost
-	4 Resplendent Revenue Service Bureau
-	4 Skytop Leasing Firm Office
-	4 Varden Party Donation Center
-	4 Restra Mercenary Agency
-	4 Hoardmoor Investement Department
 	4 Slick Official
-	4 Resplendent Crown Public Office
-	4 Restless Eyes Meeting Point
-	4 Internest Investments Division
-	4 People's Trade Union Branch
-	4 Harkland Distribution Center
 	4 Tirading Perorator
 	4 Splashback
 	4 Grinning Menace
@@ -3406,7 +3446,6 @@
 	8 Restless Guardian
 	8 Spiretop Bell
 	8 Bladesinger's Polyfocus
-	8 Condemned Skyspire
 	8 Eventide Enforcer
 	8 Roe Protector
 	8 Debt Hunter
@@ -3417,12 +3456,6 @@
 	8 Prospect Scout
 	8 Splendorspire Protector
 	8 Somatic Negotiator
-	8 Crumbled Skyspire
-	8 Rennovating Skyspire
-	8 Innovative Deepspire
-	8 Underway Deepspire
-	8 Biophilic Skyspire
-	8 Crowded Skyspire
 	8 Autonomous Messenger
 	8 Transport Automaton
 	8 Fullfillment of Fortune
@@ -4167,3 +4200,27 @@
 	7 Sikka's Plot
 	7 Gilban's Electroblast
 	7 Emule's Gift
+[landslot(1)]
+	12 Condemned Skyspire
+	6 Resplendent Revenue Service Bureau
+	6 Skytop Leasing Firm Office
+	6 Varden Party Donation Center
+	6 Restra Mercenary Agency
+	6 Hoardmoor Investement Department
+	12 Crumbled Skyspire
+	6 Resplendent Crown Public Office
+	6 Restless Eyes Meeting Point
+	6 Internest Investments Division
+	6 People's Trade Union Branch
+	6 Harkland Distribution Center
+	12 Rennovating Skyspire
+	12 Innovative Deepspire
+	12 Underway Deepspire
+	12 Biophilic Skyspire
+	12 Crowded Skyspire
+	12 Resplendent Stormspire
+	12 Plains
+	12 Island
+	12 Swamp
+	12 Mountain
+	12 Forest
