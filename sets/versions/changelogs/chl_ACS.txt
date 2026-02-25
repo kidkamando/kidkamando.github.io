@@ -1,4 +1,14 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Fulfillment of Fortune added.
+Fulfillment of Knowledge added.
+
+Fullfillment of Fortune removed.
+Fullfillment of Knowledge removed.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Auriel, Professional Chantagée added.

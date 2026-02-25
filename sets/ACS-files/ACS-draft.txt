@@ -2751,23 +2751,23 @@
 			}
 		},
 		{
-			"name": "Fullfillment of Fortune",
+			"name": "Fulfillment of Fortune",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/ACS-files/img/15_Fullfillment of Fortune.jpg"
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/15_Fulfillment of Fortune.jpg"
 			}
 		},
 		{
-			"name": "Fullfillment of Knowledge",
+			"name": "Fulfillment of Knowledge",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/ACS-files/img/57_Fullfillment of Knowledge.jpg"
+				"en": "https://kidkamando.github.io/sets/ACS-files/img/57_Fulfillment of Knowledge.jpg"
 			}
 		},
 		{
@@ -3458,8 +3458,8 @@
 	8 Somatic Negotiator
 	8 Autonomous Messenger
 	8 Transport Automaton
-	8 Fullfillment of Fortune
-	8 Fullfillment of Knowledge
+	8 Fulfillment of Fortune
+	8 Fulfillment of Knowledge
 	8 Bone Crash
 	8 Political Promise
 	8 Bond of Brothers
@@ -3583,8 +3583,8 @@
 	8 Crowded Skyspire
 	8 Autonomous Messenger
 	8 Transport Automaton
-	8 Fullfillment of Fortune
-	8 Fullfillment of Knowledge
+	8 Fulfillment of Fortune
+	8 Fulfillment of Knowledge
 	8 Bone Crash
 	8 Political Promise
 	8 Bond of Brothers
@@ -3857,8 +3857,8 @@
 	2 Festival Chimes
 	12 Autonomous Messenger
 	12 Transport Automaton
-	12 Fullfillment of Fortune
-	12 Fullfillment of Knowledge
+	12 Fulfillment of Fortune
+	12 Fulfillment of Knowledge
 	12 Bone Crash
 	12 Political Promise
 	12 Bond of Brothers
@@ -4163,8 +4163,8 @@
 	7 Festival Chimes
 	6 Autonomous Messenger
 	6 Transport Automaton
-	6 Fullfillment of Fortune
-	6 Fullfillment of Knowledge
+	6 Fulfillment of Fortune
+	6 Fulfillment of Knowledge
 	6 Bone Crash
 	6 Political Promise
 	6 Bond of Brothers

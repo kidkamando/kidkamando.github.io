@@ -5,7 +5,7 @@
 			<name>ACS</name>
 			<longname>Aramyth: Crimes in Shadow</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-24</releasedate>
+			<releasedate>2026-02-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4943,10 +4943,10 @@ When Transport Automaton enters, target opponent loses 2 life.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fullfillment of Fortune</name>
+			<name>Fulfillment of Fortune</name>
 			<text>When this enchantment enters or leaves, create a 1/1 white and black Mercenary creature token with &quot;{1}, {T}: This creature connives.&quot; (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
 {2}{W}, Sacrifice this enchantment: Draw a card.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/15_Fullfillment of Fortune.jpg" num="15">ACS</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/15_Fulfillment of Fortune.jpg" num="15">ACS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4960,10 +4960,10 @@ When Transport Automaton enters, target opponent loses 2 life.
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Fullfillment of Knowledge</name>
+			<name>Fulfillment of Knowledge</name>
 			<text>When this enchantment enters or leaves, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
 {2}{U}, Sacrifice this enchantment: Draw a card.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/57_Fullfillment of Knowledge.jpg" num="57">ACS</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/57_Fulfillment of Knowledge.jpg" num="57">ACS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
