@@ -3247,7 +3247,6 @@
 	1 Restra, Accused Vengeance
 	1 Gilban, Vengeful Dealmaker
 	1 Licium, Living Funghive
-	2 Resplendent Stormspire
 	1 Calan Harkland, Chief Executive
 	2 Torrix, Heir to Internest
 	1 Adan, Revenue Restrictor
@@ -3564,7 +3563,6 @@
 	8 Restless Guardian
 	8 Spiretop Bell
 	8 Bladesinger's Polyfocus
-	8 Condemned Skyspire
 	8 Eventide Enforcer
 	8 Roe Protector
 	8 Debt Hunter
@@ -3575,12 +3573,6 @@
 	8 Prospect Scout
 	8 Splendorspire Protector
 	8 Somatic Negotiator
-	8 Crumbled Skyspire
-	8 Rennovating Skyspire
-	8 Innovative Deepspire
-	8 Underway Deepspire
-	8 Biophilic Skyspire
-	8 Crowded Skyspire
 	8 Autonomous Messenger
 	8 Transport Automaton
 	8 Fulfillment of Fortune
@@ -3815,12 +3807,6 @@
 	6 Spire Overseer
 	6 Blessed Spirekeeper
 	6 District Borderpost
-	12 Condemned Skyspire
-	6 Resplendent Revenue Service Bureau
-	6 Skytop Leasing Firm Office
-	6 Varden Party Donation Center
-	6 Restra Mercenary Agency
-	6 Hoardmoor Investement Department
 	2 Fable's Gift
 	1 Barkley, Union Head
 	1 Lattice Stillstone
@@ -3837,23 +3823,12 @@
 	12 Prospect Scout
 	12 Splendorspire Protector
 	12 Somatic Negotiator
-	12 Crumbled Skyspire
-	6 Resplendent Crown Public Office
-	6 Restless Eyes Meeting Point
-	6 Internest Investments Division
-	6 People's Trade Union Branch
-	6 Harkland Distribution Center
 	1 Fable, Catastrophic Manipulator
 	2 Reddened Seal
 	2 Sublime Compromise
 	2 Knight of Stormspire
 	2 Quick-Handed Marksman
 	2 Lessor's Log
-	12 Rennovating Skyspire
-	12 Innovative Deepspire
-	12 Underway Deepspire
-	12 Biophilic Skyspire
-	12 Crowded Skyspire
 	2 Festival Chimes
 	12 Autonomous Messenger
 	12 Transport Automaton
@@ -3873,7 +3848,6 @@
 	6 Canoid Captain
 	6 Tosshorn Crasher
 	6 Unionback Walker
-	2 Resplendent Stormspire
 	1 Calan Harkland, Chief Executive
 	6 Scant Survival
 	6 Splendid Speaker
@@ -4121,12 +4095,6 @@
 	15 Spire Overseer
 	15 Blessed Spirekeeper
 	15 District Borderpost
-	6 Condemned Skyspire
-	15 Resplendent Revenue Service Bureau
-	15 Skytop Leasing Firm Office
-	15 Varden Party Donation Center
-	15 Restra Mercenary Agency
-	15 Hoardmoor Investement Department
 	7 Fable's Gift
 	4 Barkley, Union Head
 	4 Lattice Stillstone
@@ -4143,23 +4111,12 @@
 	6 Prospect Scout
 	6 Splendorspire Protector
 	6 Somatic Negotiator
-	6 Crumbled Skyspire
-	15 Resplendent Crown Public Office
-	15 Restless Eyes Meeting Point
-	15 Internest Investments Division
-	15 People's Trade Union Branch
-	15 Harkland Distribution Center
 	4 Fable, Catastrophic Manipulator
 	7 Reddened Seal
 	7 Sublime Compromise
 	7 Knight of Stormspire
 	7 Quick-Handed Marksman
 	7 Lessor's Log
-	6 Rennovating Skyspire
-	6 Innovative Deepspire
-	6 Underway Deepspire
-	6 Biophilic Skyspire
-	6 Crowded Skyspire
 	7 Festival Chimes
 	6 Autonomous Messenger
 	6 Transport Automaton
@@ -4179,7 +4136,6 @@
 	15 Canoid Captain
 	15 Tosshorn Crasher
 	15 Unionback Walker
-	7 Resplendent Stormspire
 	4 Calan Harkland, Chief Executive
 	15 Scant Survival
 	15 Splendid Speaker
