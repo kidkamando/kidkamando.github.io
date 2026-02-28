@@ -5,7 +5,7 @@
 			<name>ACS</name>
 			<longname>Aramyth: Crimes in Shadow</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-25</releasedate>
+			<releasedate>2026-02-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -272,7 +272,7 @@ At the beginning of the next end step, sacrifice the chosen creature.</text>
 		</card>
 		<card>
 			<name>Keen-Eared Publican</name>
-			<text>Whenever a creature an opponent casts an instant or sorcery spell, create a Favor token. This ability triggers only once each turn.
+			<text>Whenever an opponent casts an instant or sorcery spell, create a Favor token. This ability triggers only once each turn.
 {2}, {T}, Sacrifice a Favor: You gain 3 life.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/ACS-files/img/21_Keen-Eared Publican.jpg" num="21">ACS</set>
 			<prop>
@@ -5328,7 +5328,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Protection Educator</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-At the beginning of your upkeep, put a number counters on each creature your team controls equal to that creature&apos;s toughness.
+At the beginning of your upkeep, put a number of +1/+1 counters on each creature your team controls equal to that creature&apos;s toughness.
 Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/ACS-files/img/202_Protection Educator.jpg" num="202">ACS</set>
 			<prop>

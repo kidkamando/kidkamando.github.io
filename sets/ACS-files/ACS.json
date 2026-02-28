@@ -265,7 +265,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever a creature an opponent casts an instant or sorcery spell, create a Favor token. This ability triggers only once each turn.\n{2}, {T}, Sacrifice a Favor: You gain 3 life.",
+            "rules_text": "Whenever an opponent casts an instant or sorcery spell, create a Favor token. This ability triggers only once each turn.\n{2}, {T}, Sacrifice a Favor: You gain 3 life.",
             "flavor_text": "[i]Lips get a whole lot looser when you gift them a free drink.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5359,7 +5359,7 @@
             "number": 202,
             "color_identity": "G",
             "cost": "{7}{G}{G}",
-            "rules_text": "Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nAt the beginning of your upkeep, put a number counters on each creature your team controls equal to that creature's toughness.\nCycling {2}{G} [i]({2}{G}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nAt the beginning of your upkeep, put a number of +1/+1 counters on each creature your team controls equal to that creature's toughness.\nCycling {2}{G} [i]({2}{G}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -5712,5 +5712,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 12
+    "version": 13
 }

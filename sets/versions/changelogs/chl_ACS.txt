@@ -1,4 +1,22 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Keen-Eared Publican
+rules_text: Whenever a creature an opponent casts an instant or sorcery spell, create a Favor token. This ability triggers only once each turn.
+{2}, {T}, Sacrifice a Favor: You gain 3 life. => Whenever an opponent casts an instant or sorcery spell, create a Favor token. This ability triggers only once each turn.
+{2}, {T}, Sacrifice a Favor: You gain 3 life.
+
+Protection Educator
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+At the beginning of your upkeep, put a number counters on each creature your team controls equal to that creature's toughness.
+Cycling {2}{G} [i]({2}{G}, Discard this card: Draw a card.)[/i] => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+At the beginning of your upkeep, put a number of +1/+1 counters on each creature your team controls equal to that creature's toughness.
+Cycling {2}{G} [i]({2}{G}, Discard this card: Draw a card.)[/i]
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Winding Cemetery added.
