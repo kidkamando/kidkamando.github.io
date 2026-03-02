@@ -1,4 +1,17 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Zevuth, Barracks Commander
+rules_text: Flying, trample
+If a source you control would deal excess damage to a player or planeswalker, it deals twice that much damage instead.
+{2}{B}{RG}: Target creature gains deathtouch until end of turn and must be blocked this turn, if able. => Flying, trample
+If a source you control would deal excess damage to a creature, it deals twice that much damage to that player or a planeswalker they control.
+{2}{B}{RG}: Target creature gains deathtouch until end of turn and must be blocked this turn, if able.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

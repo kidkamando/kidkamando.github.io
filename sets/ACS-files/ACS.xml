@@ -5,7 +5,7 @@
 			<name>ACS</name>
 			<longname>Aramyth: Crimes in Shadow</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-28</releasedate>
+			<releasedate>2026-03-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4258,7 +4258,7 @@ Players can&apos;t activate the abilities of lands that aren&apos;t mana abiliti
 		<card>
 			<name>Zevuth, Barracks Commander</name>
 			<text>Flying, trample
-If a source you control would deal excess damage to a player or planeswalker, it deals twice that much damage instead.
+If a source you control would deal excess damage to a creature, it deals twice that much damage to that player or a planeswalker they control.
 {2}{B}{RG}: Target creature gains deathtouch until end of turn and must be blocked this turn, if able.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/ACS-files/img/268_Zevuth, Barracks Commander.jpg" num="268">ACS</set>
 			<prop>
