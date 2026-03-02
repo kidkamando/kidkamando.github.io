@@ -4279,7 +4279,7 @@
             "number": 268,
             "color_identity": "BRG",
             "cost": "{3}{B}{RG}",
-            "rules_text": "Flying, trample\nIf a source you control would deal excess damage to a creature, it deals twice that much damage to that player or a planeswalker they control.\n{2}{B}{RG}: Target creature gains deathtouch until end of turn and must be blocked this turn, if able.",
+            "rules_text": "Flying\nIf a source you control would deal excess damage to a creature, it deals twice that much damage to that player or a planeswalker they control.\n{2}{B}{RG}: Target creature gains deathtouch until end of turn and must be blocked this turn, if able.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5712,5 +5712,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 14
+    "version": 15
 }
