@@ -5,7 +5,7 @@
 			<name>LSL</name>
 			<longname>Last Starlight</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-23</releasedate>
+			<releasedate>2026-03-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1896,7 +1896,7 @@ Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this
 		<card>
 			<name>Infested Wurmgrounds</name>
 			<text>Landfall — Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.
-Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/179_Infested Wurmgrounds.jpg" num="179">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3949,7 +3949,7 @@ Spells you cast cost {2} more to cast for each entanglement counter on them.</te
 		<card>
 			<name>Prisonworld&apos;s Sentence</name>
 			<text>Enchant land you control
-When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+When this Aura enters, exile target nonland permanent an opponent controls with mana value 2 or less until this Aura leaves the battlefield.
 Enchanted land gains &quot;{T}: Add {W}&quot; and has ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/26_Prisonworld&apos;s Sentence.jpg" num="26">LSL</set>
 			<prop>

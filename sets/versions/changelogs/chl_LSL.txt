@@ -1,4 +1,31 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Infested Wurmgrounds
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.
+Warp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.
+Warp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Curator's Intervention
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target nonland permanent. Its controller gains 3 life.
+Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+You and target opponent each draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target nonland permanent. Its controller gains 3 life.
+I — Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+II, III — You and target opponent each draw two cards.
+
+Prisonworld's Sentence
+rules_text: Enchant land you control
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted land gains “{T}: Add {W}” and has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Enchant land you control
+When this Aura enters, exile target nonland permanent an opponent controls with mana value 2 or less until this Aura leaves the battlefield.
+Enchanted land gains “{T}: Add {W}” and has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

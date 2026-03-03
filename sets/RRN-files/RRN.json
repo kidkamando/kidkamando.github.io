@@ -1366,7 +1366,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 If you control a Poro, draw a card. Then, amass Poros 1. [i](Put a +1/+1 counter on an Army you control. It's also a Poro. If you don't control an Army, create a 0/0 black Poro Army creature token first.)[/i]\nII \u2014 Create a Food token and amass Poros 1.\nIII \u2014 Creatures you control get +X/+X until end of turn, where X is the greatest power among tokens you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nIf you control a Poro, draw a card. Then, amass Poros 1. [i](Put a +1/+1 counter on an Army you control. It's also a Poro. If you don't control an Army, create a 0/0 black Poro Army creature token first.)[/i]\nCreate a Food token and amass Poros 1.\nCreatures you control get +X/+X until end of turn, where X is the greatest power among tokens you control.",
             "shape": "saga",
             "set": "RRN",
             "loyalty": "",
@@ -2975,7 +2975,7 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Tentacles you control have trample.\nWhenever you gain life, create a 1/1 green Tentacle creature token.",
+            "rules_text": "Tentacles you control have trample.\nWhenever you gain life, create a 1/1 green Tentacle creature token. This ability triggers only thrice each turn.",
             "flavor_text": "[i]\u201cRecall the ocean's wisdom! If you do not move, you will be moved! Follow my voice if you've lost your way--for your foe surely knows their own.\u201d[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4302,7 +4302,7 @@
             "rules_text": "Whenever a creature enters the battlefield under your control, choose one. Creatures you control gain the chosen ability until end of turn \u2014 \n\u2022 Vigilance\n\u2022 Lifelink",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]\nFlash [i](You may cast this spell any time you could cast an instant.)[/i]\nI, II \u2014 When this Saga enters, for each spell, create a 1/1 white Spirit creature token with \u201c{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\u201d\nCreatures you control get +1/+1 for each other creature you control.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]\nFlash [i](You may cast this spell any time you could cast an instant.)[/i]\nWhen this Saga enters, for each spell, create a 1/1 white Spirit creature token with \u201c{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\u201d\nCreatures you control get +1/+1 for each other creature you control.\n\u200b",
             "shape": "saga",
             "set": "RRN",
             "loyalty": "",
@@ -5562,5 +5562,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

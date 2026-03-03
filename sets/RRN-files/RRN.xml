@@ -5,7 +5,7 @@
 			<name>RRN</name>
 			<longname>Runeterra in Ruination</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-23</releasedate>
+			<releasedate>2026-03-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2916,7 +2916,7 @@ Whenever you attack, Illaoi gets +X/+X, where X is the greatest power among othe
 		<card>
 			<name>Buhru Leader</name>
 			<text>Tentacles you control have trample.
-Whenever you gain life, create a 1/1 green Tentacle creature token.</text>
+Whenever you gain life, create a 1/1 green Tentacle creature token. This ability triggers only thrice each turn.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/RRN-files/img/2_Buhru Leader.jpg" num="2">RRN</set>
 			<prop>
 				<layout>normal</layout>
