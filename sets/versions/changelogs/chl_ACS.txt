@@ -1,4 +1,17 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Untreated Fadestone
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+When this artifact enters, if it was bargained, each opponent discards a card.
+{T}: Exile target card from a graveyard. You may cast it this turn and may spend mana as though it were mana of any color to cast it. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+When this artifact enters, if it was bargained, each opponent discards a card.
+{T}: Exile target card from a graveyard and create a copy of it. You may cast the copy until end of turn and may spend mana as though it were mana of any color to cast it.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 

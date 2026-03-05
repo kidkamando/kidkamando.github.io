@@ -5,7 +5,7 @@
 			<name>ACS</name>
 			<longname>Aramyth: Crimes in Shadow</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-01</releasedate>
+			<releasedate>2026-03-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3135,7 +3135,7 @@ Whenever a nontoken creature your team controls dies, you may pay 1 life. If you
 			<name>Untreated Fadestone</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 When this artifact enters, if it was bargained, each opponent discards a card.
-{T}: Exile target card from a graveyard. You may cast it this turn and may spend mana as though it were mana of any color to cast it.</text>
+{T}: Exile target card from a graveyard and create a copy of it. You may cast the copy until end of turn and may spend mana as though it were mana of any color to cast it.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/ACS-files/img/134_Untreated Fadestone.jpg" num="134">ACS</set>
 			<prop>
 				<layout>normal</layout>
