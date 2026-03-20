@@ -1,0 +1,4846 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VRM</name>
+			<longname>Velesta ReMade</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-03-19</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Astral Eye</name>
+			<text>When Astral Eye enters, draw a card.
+As long as you are Bountiful, this creature gets +1/+0. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/4_Astral Eye.jpg" num="4">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Eye Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kovekki Knight</name>
+			<text>Bountiful — As long as you are Bountiful, this creature gets +1/+0 and has first strike. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/20_Kovekki Knight.jpg" num="20">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creth Invader</name>
+			<text>When this creature enters or dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/9_Creth Invader.jpg" num="9">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhinoback Lancer</name>
+			<text>When this creature enters, create a 2/2 white Knight creature token. It enters with a first strike counter on it.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/30_Rhinoback Lancer.jpg" num="30">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enlisted Duo</name>
+			<text>When this creature enters, create a 2/2 white Knight creature token.
+{1}{W}: Put a +1/+1 counter on target creature you control. Return this creature to your hand. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/12_Enlisted Duo.jpg" num="12">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devout of Elio</name>
+			<text>When this creature enters, distribute a number of +1/+1 counters equal to the number of cards in your hand among creatures your team controls.
+Creatures your team controls with counters on them have vigilance.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/11_Devout of Elio.jpg" num="11">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midnight Alarm</name>
+			<text>When this enchantment enters, exile target nonland permanent until this enchantment leaves the battlefield.
+{2}{W}: This creature becomes a 2/2 Knight creature in addition to its other types.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/24_Midnight Alarm.jpg" num="24">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nu&apos;Ul&apos;s Conclusion</name>
+			<text>This spell costs {3} less to cast if it targets a tapped permanent.
+Exile target nonland permanent.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/25_Nu&apos;Ul&apos;s Conclusion.jpg" num="25">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lancer Formation</name>
+			<text>Create a 2/2 white Knight creature token for each card in your hand.
+Flashback {4}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/21_Lancer Formation.jpg" num="21">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heights of Ascension</name>
+			<text>Enchant creature 
+Enchanted creature has flying and has hexproof if this Aura entered this turn.
+This Aura enters with a forge counter on it. (For each forge counter on this Aura , enchanted creature gets +1/+1.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/17_Heights of Ascension.jpg" num="17">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Riderless Skyknight</name>
+			<text>Flying
+When this creature enters, you gain 5 life.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/31_Riderless Skyknight.jpg" num="31">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savanna Stalwart</name>
+			<text>Vigilance
+When this creature enters, each player draws a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/32_Savanna Stalwart.jpg" num="32">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Experienced Battlesmith</name>
+			<text>When Experienced Battlesmith enters, choose one — 
+• Put a forge counter on target Aura or Equipment your team controls. (For each forge counter on it, attached creature gets +1/+1.)
+• Attach target Aura or Equipment your team controls to this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/13_Experienced Battlesmith.jpg" num="13">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lattice of Cleansing</name>
+			<text>Flash
+{W}, Sacrifice Lattice of Cleansing: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/22_Lattice of Cleansing.jpg" num="22">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bountiful Provisions</name>
+			<text>Draw a card.
+Bountiful — Put a +1/+1 counter or level counter on target creature. As long as you are Bountiful, put two +1/+1 counters or level counters on that creature instead. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/6_Bountiful Provisions.jpg" num="6">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coalition Cadre</name>
+			<text>When this creature enters, create two 2/2 white Knight creature tokens.
+At the beginning of your end step, untap up to three target creatures you control.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/7_Coalition Cadre.jpg" num="7">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patronic Gift</name>
+			<text>Target creature gets +2/+2 and gains flying until end of turn.
+Renew — {2}{W}, Exile this card from your graveyard: Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/27_Patronic Gift.jpg" num="27">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Faultless Plate</name>
+			<text>Equipped creature gets +2/+2 and has ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Equip {3}. This ability costs {1} less to activate for each forge counter on this Equipment. (For each forge counter on this Equipment , enchanted creature gets +1/+1.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/14_Faultless Plate.jpg" num="14">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Selorian Hallower</name>
+			<text>Bountiful — At the beginning of your upkeep, as long as you are Bountiful, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/36_Selorian Hallower.jpg" num="36">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reexamine Fate</name>
+			<text>Scry 1, then predict 1. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/69_Reexamine Fate.jpg" num="69">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scalemaker Initiate</name>
+			<text>When this creature enters, look at the top two cards of your library and put them back in any order. Then you may predict 1. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/71_Scalemaker Initiate.jpg" num="71">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Hardclaw</name>
+			<text>Flash
+When Territorial Hardclaw enters, fatigue up to one target creature. (Turn that creature face down. It becomes a 1/1 Rift Avatar creature with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery&quot; and &quot;When this creature would untap, turn it face up.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/77_Territorial Hardclaw.jpg" num="77">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lobster</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forced to Surrender</name>
+			<text>Enchant creature
+Enchanted creature gets -5/-0 and loses all abilities.
+Bountiful — As long as you are Bountiful, this spell costs {1} less to cast. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/56_Forced to Surrender.jpg" num="56">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanctimonious Revelation</name>
+			<text>Target player draws three cards.
+Desperate — If you are Desperate, instead draw cards until you have seven cards in hand, then discard two cards. (You are Desperate as long as you have no cards in your hand.)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/70_Sanctimonious Revelation.jpg" num="70">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cornered Griffin</name>
+			<text>Flying
+Desperate — Whenever this creature attacks, as long as you are Desperate, you draw a card. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/48_Cornered Griffin.jpg" num="48">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Messenger of Fate</name>
+			<text>Whenever you exile one or more cards from a library, create a 1/1 blue Bird Illusion creature token with flying. (You create a Bird Illusion each time you predict.)
+Bountiful — As long as you are Bountiful, Illusions you control get +1/+1. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/64_Messenger of Fate.jpg" num="64">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wardshell Lobster</name>
+			<text>Flash
+As long as Wardshell Lobster is a spell, spells you control cost {2} more to target.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/80_Wardshell Lobster.jpg" num="80">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lobster</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alley Shadowdoppel</name>
+			<text>At the beginning of combat on your turn, up to one target creature gets +1/+0 and can&apos;t be blocked this turn.
+Renew — {3}{U}, Exile this card from your graveyard: Target creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/44_Alley Shadowdoppel.jpg" num="44">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alley Spellthief</name>
+			<text>When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+{1}{U}: This creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/45_Alley Spellthief.jpg" num="45">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monastery Timeseer</name>
+			<text>As long as you&apos;ve exiled a card this turn, this creature has prowess. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{2}{U}: Predict 1. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/65_Monastery Timeseer.jpg" num="65">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Last Recourse</name>
+			<text>Counter target spell.
+Desperate — As long as you are Desperate, this spell costs {1} less to cast. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/62_Last Recourse.jpg" num="62">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aquatic Abductor</name>
+			<text>When this creature enters, tap up to one target creature and up a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{2}{U}{U}, {T}: Shuffle target creature and Aquatic Abductor into their owner&apos;s libraries. You and that creature&apos;s controller each draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/46_Aquatic Abductor.jpg" num="46">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lobster</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intelligent Technique</name>
+			<text>Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature gets +X/+X, where X is the number of cards in your hand.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/60_Intelligent Technique.jpg" num="60">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kellmight Thoughtcrusher</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+This spell costs {X} less to cast, where X is 7 minus the number of cards in your hand.
+Bountiful — As long as you are Bountiful, this creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/61_Kellmight Thoughtcrusher.jpg" num="61">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lobster</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragonborn Timeseer</name>
+			<text>When this creature enters, scry 2, then predict 1. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/52_Dragonborn Timeseer.jpg" num="52">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plan in Advance</name>
+			<text>Target player draws two cards, then discards a card unless this spell was cast from exile.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/68_Plan in Advance.jpg" num="68">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unrefined Dronewing</name>
+			<text>Flying
+Bountiful — As long as you are Bountiful, this creature gets +1/+0. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/79_Unrefined Dronewing.jpg" num="79">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scan Through Fate</name>
+			<text>Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
+Predict 1, predict 1. If this spell was kicked, instead predict 2, predict 2, then put up to two cards that entered exile from your library this turn into your hand. (To predict 1, exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/73_Scan Through Fate.jpg" num="73">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Squire of Kalamax</name>
+			<text>When Squire of Kalamax dies, choose one — 
+• Create a 1/1 black Skeleton creature token with Menace.
+• You may pay {B}. When you do, destroy target creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/120_Squire of Kalamax.jpg" num="120">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cut Low</name>
+			<text>This spell costs {2} less to cast if it targets a token.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/93_Cut Low.jpg" num="93">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Graveburglar Ossivore</name>
+			<text>Deathtouch
+When Graveburglar Ossivore enters, each opponent discards a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/99_Graveburglar Ossivore.jpg" num="99">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priest of Gologo</name>
+			<text>Menace
+When Priest of Gologo enters, destroy up to one target token and up to one target creature.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/111_Priest of Gologo.jpg" num="111">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Preposterous Prophecy</name>
+			<text>Look at the top two cards of target player&apos;s library. Put one on top of that library and one into its owner&apos;s graveyard. You lose 2 life.
+At the beginning of the next upkeep, exile the top card of that player&apos;s library. You may cast that spell for as long as it remains exiled and may spend mana as though it were mana of any color to cast it.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/110_Preposterous Prophecy.jpg" num="110">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bonecrave Curse</name>
+			<text>Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Each opponent discards a card. If this spell was kicked, each opponent discards two cards instead.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/90_Bonecrave Curse.jpg" num="90">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kellcursed Greatsword</name>
+			<text>Desperate — Equipped creature gets +2/+0 for each player that is Desperate. (A player is Desperate as long as they have no cards in their hand.)
+Whenever equipped creature deals combat damage to a player, that player discards a card.
+Equip—Discard a card (Discard a card: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/102_Kellcursed Greatsword.jpg" num="102">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blackflame Madwing</name>
+			<text>Flying
+Whenever this creature deals combat damage to an opponent, exile the top card of that player&apos;s library. You may cast it for as long as it remains exiled and may spend mana as though it were mana of any color to cast it.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/87_Blackflame Madwing.jpg" num="87">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ragehorn Champion</name>
+			<text>When this creature enters, each player discards a card.
+Renew — {2}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/113_Ragehorn Champion.jpg" num="113">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyrrhic Conquest</name>
+			<text>As an additional cost to cast this spell, discard a card or sacrifice a creature.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/112_Pyrrhic Conquest.jpg" num="112">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ragehorn Raider</name>
+			<text>Menace
+Desperate — This creature gets +1/+0 for each player that is Desperate. (A player is Desperate as long as they have no cards in their hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/114_Ragehorn Raider.jpg" num="114">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ushatan Lifesapper</name>
+			<text>When Ushatan Lifesapper enters, target creature an opponent controls gets -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/124_Ushatan Lifesapper.jpg" num="124">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Respectful Gravewatcher</name>
+			<text>Whenever Respectful Gravewatcher attacks, defending player loses 1 life and you gain 1 life.
+Renew — {3}{B}, Exile this card from your graveyard: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/115_Respectful Gravewatcher.jpg" num="115">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindtwisted Orator</name>
+			<text>Lifelink
+Renew — {4}{B}: Target opponent discards a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/108_Mindtwisted Orator.jpg" num="108">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marrow Feaster</name>
+			<text>Menace
+{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Marrow Feaster.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/105_Marrow Feaster.jpg" num="105">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illusive Diversion</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards. If the sacrificed creature&apos;s mana value was 3 or greater, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/100_Illusive Diversion.jpg" num="100">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Message Runner</name>
+			<text>When this creature dies, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/107_Message Runner.jpg" num="107">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kellmight Phoenix</name>
+			<text>Flying
+{2}{B}, Discard this card: You draw two cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/103_Kellmight Phoenix.jpg" num="103">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fatal Impalement</name>
+			<text>Target creature you control gains deathtouch and lifelink until end of turn. When it dies this turn, create a 1/1 black Skeleton creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/96_Fatal Impalement.jpg" num="96">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Snowpeak Timeseer</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/156_Snowpeak Timeseer.jpg" num="156">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blitz Shimmer</name>
+			<text>Haste
+When Blitz Shimmer dies, exile the top card of your library. You may play it until the end of your next turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/126_Blitz Shimmer.jpg" num="126">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uninformed Ingenuity</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Exile the top three cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/163_Uninformed Ingenuity.jpg" num="163">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lightning Unconstrained</name>
+			<text>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+Lightning Unconstrained deals 2 damage to target creature. If this spell was kicked, instead it deals damage to target creature equal to the number of cards in your hand and if it would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/147_Lightning Unconstrained.jpg" num="147">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Active Premonition</name>
+			<text>This spell costs {2} less to cast if you or a teammate attacked this turn.
+Predict 2, predict 2. (To predict 2, exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/125_Active Premonition.jpg" num="125">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Green-Ear Ambusher</name>
+			<text>First strike
+Desperate — As long as you are Desperate, this creature gets +2/+1 and has haste. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/143_Green-Ear Ambusher.jpg" num="143">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chaotic Pilferer</name>
+			<text>Menace
+{1}{R}, Fatigue another creature you control: You create a Treasure token. (Turn that creature face down. It becomes a 1/1 Rift Avatar creature with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery&quot; and &quot;When this permanent would untap, turn it face up.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/130_Chaotic Pilferer.jpg" num="130">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Improved Technique</name>
+			<text>Enchant creature
+When this Aura leaves the battlefield, draw a card.
+This Aura enters with X forge counters on it. (For each forge counter on this Aura , enchanted creature gets +1/+1.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/145_Improved Technique.jpg" num="145">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voracious Woodcrasher</name>
+			<text>Menace
+When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/165_Voracious Woodcrasher.jpg" num="165">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urgent Excavation</name>
+			<text>Desperate — As long as you are Desperate, this spell costs {1} less to cast. (You are Desperate as long as you have no cards in your hand.)
+Discard a card, then draw two cards.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/164_Urgent Excavation.jpg" num="164">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thundering Berserker</name>
+			<text>Haste
+Desperate — This creature gets +1/+1 for each player that is Desperate. (A player is Desperate as long as they have no cards in their hand.)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/159_Thundering Berserker.jpg" num="159">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trumpeting Terroraptor</name>
+			<text>Kicker {2}{R} (You may pay an additional {2}{R} as you cast this spell.)
+Menace
+When this creature enters, if it was kicked, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/160_Trumpeting Terroraptor.jpg" num="160">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Optimistic Paladin</name>
+			<text>At the beginning of your second main phase, if you have three or less cards in hand, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/148_Optimistic Paladin.jpg" num="148">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slagmutation</name>
+			<text>Destroy target artifact. Discover 2. (Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/155_Slagmutation.jpg" num="155">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Desperate Crossbolter</name>
+			<text>Reach (This creature can block creatures with flying.)
+When this creature enters, each player on your team may discard their hand. When they do, that player may draw three cards.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/132_Desperate Crossbolter.jpg" num="132">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Temple Desecration</name>
+			<text>Choose one — 
+• Temple Desecration deals 6 damage to target creature.
+• Exile each artifact with mana value 3 or less.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/158_Temple Desecration.jpg" num="158">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragonborn Cavalry</name>
+			<text>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+When this creature enters, if it was kicked, each creature you control gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/134_Dragonborn Cavalry.jpg" num="134">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectral Slammer</name>
+			<text>Equipped creature gets +1/+1 and has menace.
+When this artifact enters, create a 2/1 red Illusion creature token and attach this equipment to it.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/157_Spectral Slammer.jpg" num="157">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Carnivorous Expansion</name>
+			<text>When this enchantment enters, create a 3/3 red and green Plant Dinosaur creature token.
+Creature spells your team controls can&apos;t be countered.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/128_Carnivorous Expansion.jpg" num="128">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Naive Nestling</name>
+			<text>Bountiful — As long as you are Bountiful, this creature gets +1/+1 and has vigilance. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/190_Naive Nestling.jpg" num="190">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phytosaurian Trainer</name>
+			<text>When this creature enters, create a 3/3 red and green Plant Dinosaur creature token.
+Bountiful — As long as you are Bountiful, Plants and Dinosaurs you control get +1/+1 and have vigilance. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/193_Phytosaurian Trainer.jpg" num="193">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sight Sifter</name>
+			<text>When this creature enters, you may have target player mill four cards.
+{3}{G}: Put two +1/+1 counters on Sight Sifter and you draw a card. Activate only once.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/198_Sight Sifter.jpg" num="198">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thundering Grenisaur</name>
+			<text>Trample
+When this creature enters, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/201_Thundering Grenisaur.jpg" num="201">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Floraptor Pack</name>
+			<text>Vigilance
+When this creature enters, create a 3/3 red and green Plant Dinosaur creature token.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/180_Floraptor Pack.jpg" num="180">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyclic Witness</name>
+			<text>When this creature enters, mill four cards, then you may discard a card. If you do, put a land card from your graveyard onto the battlefield tapped.
+Renew — {2}, Exile this card from your graveyard: Return target card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/172_Cyclic Witness.jpg" num="172">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herbisaur Duo</name>
+			<text>Trample
+When this creature enters, create a 3/3 red and green Plant Dinosaur creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/183_Herbisaur Duo.jpg" num="183">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strength of Mind</name>
+			<text>Target creature gets +X/+X until end of turn, where X is the number of cards in your hand plus one.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/200_Strength of Mind.jpg" num="200">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Path of Evolution</name>
+			<text>Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Put your choice of a trample, vigilance, or reach counter on target creature you control. (That creature has that ability for as long as the counter is on it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/191_Path of Evolution.jpg" num="191">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Espratan Blademaster</name>
+			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/177_Espratan Blademaster.jpg" num="177">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tower Warden</name>
+			<text>Reach (This creature can block creatures with flying.)
+{T}: Add one mana of any color.
+{4}{G}, {T}: Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/203_Tower Warden.jpg" num="203">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Track Home</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Investigate. Search your library for a basic land card, put it into your hand, then shuffle. If this spell was kicked, you may put a land from your hand onto the battlefield. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/204_Track Home.jpg" num="204">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Increasing Strength</name>
+			<text>Enchant creature
+Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on enchanted creature. Then if enchanted creature has three or more +1/+1 counters on it, you may sacrifice this Aura. When you do, double the number of +1/+1 counters on enchanted creature.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/185_Increasing Strength.jpg" num="185">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Titanic Warbow</name>
+			<text>Equipped creature gets +4/+4 and has reach.
+Team Equip {3}{G} ({3}{G}: Attach to target creature your team controls. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/202_Titanic Warbow.jpg" num="202">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wound Prey</name>
+			<text>Choose one — 
+• Target creature you control fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
+• Fatigue target creature. (Turn that permanent face down. It becomes a 1/1 Rift Avatar creature with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery&quot; and &quot;When this permanent would untap, turn it face up.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/206_Wound Prey.jpg" num="206">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rampaging Phytosaur</name>
+			<text>Landfall — Whenever a land enters the battlefield under your control, Rampaging Phytosaur gets +1/+1 until end of turn.
+{3}{G}{G}: Plants you control gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/195_Rampaging Phytosaur.jpg" num="195">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farsight Farmtender</name>
+			<text>Reach
+Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/179_Farsight Farmtender.jpg" num="179">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grove Verdasaur</name>
+			<text>Reach, trample
+Landfall — Whenever a land enters the battlefield under your control, create a 3/3 red and green Plant Dinosaur creature token.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/181_Grove Verdasaur.jpg" num="181">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bound Groundward</name>
+			<text>Destroy target artifact, enchantment, or creature with flying.
+Desperate — As long as you are Desperate, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/169_Bound Groundward.jpg" num="169">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Logistical Relocation</name>
+			<text>Choose one — 
+• Exile target creature. Its controller draws two cards.
+• Exile target nonland permanent. Return that permanent to the battlefield under its owner&apos;s control, at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/23_Logistical Relocation.jpg" num="23">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apportioned Spoils</name>
+			<text>When this enchantment enters, you and target opponent each draw a card.
+As long as you are Bountiful, at the beginning of combat on your turn, create a 2/2 white Knight creature token. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/3_Apportioned Spoils.jpg" num="3">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Foreign Lieutenant</name>
+			<text>You are Bountiful. (You are Bountiful even if you don&apos;t have five or more cards in your hand.)
+Token creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/15_Foreign Lieutenant.jpg" num="15">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skysquad Griffin</name>
+			<text>Flying
+When this creature enters, you may search your library for up to two cards named Skysquad Griffin, put them into your hand, then shuffle.
+A deck can have up to six cards named Skysquad Griffin.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/38_Skysquad Griffin.jpg" num="38">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Photostorm</name>
+			<text>Choose one — 
+• Destroy each untapped creature.
+• Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/28_Photostorm.jpg" num="28">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soven Elite</name>
+			<text>Bountiful — As long as you are Bountiful, this creature has vigilance. (You are Bountiful as long as you have five or more cards in your hand.)
+{1}, Sacrifice Soven Elite: Destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/39_Soven Elite.jpg" num="39">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inducted Photomancer</name>
+			<text>Flying
+When you cycle Inducted Photomancer, you may exile target nonland permanent. If you do, return that card to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/18_Inducted Photomancer.jpg" num="18">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Griffin Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scaling Proficiency</name>
+			<text>This enchantment enters with a power counter on it.
+Creatures your team controls get +1/+1 for each power counter on it.
+At the beginning of your upkeep, you may pay {2}{W}{W}. When you do, put a power counter on this enchantment.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/33_Scaling Proficiency.jpg" num="33">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Timely Turn</name>
+			<text>You may cast this spell as if it had flash if you pay {W} more to cast it.
+Create two 2/2 white Knight creature tokens.
+Creatures you control gain vigilance and indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/41_Timely Turn.jpg" num="41">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Selfless Skylancer</name>
+			<text>Flying
+{2}{W}, Exile this card from your hand: The next time you would discard one or more cards this turn, draw two cards instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/35_Selfless Skylancer.jpg" num="35">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Griffin Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessing of Selor</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+0 and has lifelink.
+When this enchantment enters, exile up to one target creature until this aura leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/5_Blessing of Selor.jpg" num="5">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wizened Deconstruction</name>
+			<text>Counter target artifact or enchantment spell.
+Bountiful — If you are Bountiful, if that spell would be countered, exile it instead. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/83_Wizened Deconstruction.jpg" num="83">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Desperate Timesight</name>
+			<text>Desperate — As long as you are Desperate, this spell costs {1} less to cast. (You are Desperate as long as you have no cards in your hand.)
+Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/49_Desperate Timesight.jpg" num="49">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Final Decree</name>
+			<text>Exile target spell or ability.
+Desperate — As long as you are Desperate, draw a card at the beginning of the next upkeep. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/55_Final Decree.jpg" num="55">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Offhand Tarblade</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature attacks, fatigue target creature. (Turn this permanent face down. It becomes a 1/1 Rift Avatar creature with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery&quot; and &quot;When this permanent would untap, turn it face up.&quot;)
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/67_Offhand Tarblade.jpg" num="67">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scalemaker Priest</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you predict, predict that many cards plus one instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/72_Scalemaker Priest.jpg" num="72">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Cleric Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fallarai Transcriptor</name>
+			<text>Whenever a player shuffles their library, put a +1/+1 counter on this creature.
+Jump — {2}{U}: This creature gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/54_Fallarai Transcriptor.jpg" num="54">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Griffinrider Skymage</name>
+			<text>Flying
+Griffinrider Skymage enters tapped with four stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{1}{U}: Untap Griffinrider Skymage. Predict 1. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/57_Griffinrider Skymage.jpg" num="57">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Griffin Socerer</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exhausting Distraction</name>
+			<text>Fatigue target creature. (Turn that permanent face down. It becomes a 1/1 Rift Avatar creature with &quot;Pay {1}: Turn this permanent face up. Activate only as a sorcery&quot; and &quot;When this permanent would untap, turn it face up.&quot;)
+Bountiful — As long as you are Bountiful, create a 1/1 blue Bird Illusion creature token with flying. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/53_Exhausting Distraction.jpg" num="53">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shadowdoppel Replication</name>
+			<text>Create a token that&apos;s a copy of target creature you control, except its a 3/3 Illusion in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/74_Shadowdoppel Replication.jpg" num="74">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mass Reduction</name>
+			<text>Creatures your opponents control get -2/-0 until end of turn.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/63_Mass Reduction.jpg" num="63">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disillusion</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. Its controller discovers X, where X is its mana value. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/50_Disillusion.jpg" num="50">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fearsome Ossivore</name>
+			<text>Menace
+When Fearsome Ossivore enters, target opponent sacrifices a creature.
+Whenever a creature an opponent dies, they lose 1 life. If that creature was a token, they lose 2 life instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/97_Fearsome Ossivore.jpg" num="97">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Criminal Streetshimmer</name>
+			<text>Flying
+Cycling—Pay 4 life (Pay 4 life, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/92_Criminal Streetshimmer.jpg" num="92">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dazzling Price</name>
+			<text>When this enchantment enters, create a 2/1 red Illusion creature token.
+Bountiful — At the beginning of your upkeep, as long as you are Bountiful, each opponent loses 2 life. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/94_Dazzling Price.jpg" num="94">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Survive Beyond Reason</name>
+			<text>Target creature gains hexproof and indestructible until end of turn. Then its controller sacrifices each other creature with the same name and puts a +1/+1 counter on it for each creature sacrificed this way.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/121_Survive Beyond Reason.jpg" num="121">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blackhoof Charger</name>
+			<text>Menace
+Desperate — As long as you are Desperate, whenever this creature attacks, you may draw a card and lose 1 life. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/88_Blackhoof Charger.jpg" num="88">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smokeborne Blightflame</name>
+			<text>Flying, deathtouch
+Renew — {1}{B}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a flying counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/118_Smokeborne Blightflame.jpg" num="118">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenets of Kell</name>
+			<text>At the beginning of your upkeep, pay 2 life or sacrifice Tenets of Kell.
+Nontoken creatures get +2/+2.
+Token creatures get -1/-1.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/122_Tenets of Kell.jpg" num="122">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kellmight Slayer</name>
+			<text>Deathtouch
+When this creature enters, you may pay X life. When you do, discover X. (Exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/104_Kellmight Slayer.jpg" num="104">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memory Whorl</name>
+			<text>Target player discards two cards.
+Renew — {2}{B}, Exile this card from your graveyard: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/106_Memory Whorl.jpg" num="106">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Archpriest of Gologo</name>
+			<text>Menace
+{3}{B}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield tapped. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/86_Archpriest of Gologo.jpg" num="86">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestor&apos;s Conscription</name>
+			<text>Return up to two target creature cards from your graveyard to your hand. Create a 1/1 black Skeleton creature token with menace.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/85_Ancestor&apos;s Conscription.jpg" num="85">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deglamored Emergence</name>
+			<text>Exile cards from the top of your library until you exile a nonland card that&apos;s X or less colors. If that card&apos;s mana value is 8 or less, you may cast it without paying its mana cost. Otherwise, put that card into your hand.
+Flashback {X}{5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.) (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/131_Deglamored Emergence.jpg" num="131">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Green-Ear Crosshot</name>
+			<text>This spell costs {1} less to cast if you don&apos;t control a creature.
+Reach
+Whenever another creature enters the battlefield under your control, Green-Ear Crosshot deals 1 damage to target opponent.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/144_Green-Ear Crosshot.jpg" num="144">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underground Invader</name>
+			<text>Raid — When this creature enters, if you attacked this turn, discover 2. (Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/162_Underground Invader.jpg" num="162">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Phoenix</name>
+			<text>Flying, haste
+Whenever you cast a spell from exile, if this card is in your graveyard, you may pay {1}{R}. When you do, return this creature to the battlefield under your control.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/152_Relentless Phoenix.jpg" num="152">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duamrac&apos;s Augur</name>
+			<text>Raid — At the beginning of your second main phase, if you attacked this turn, predict 1. (Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/136_Duamrac&apos;s Augur.jpg" num="136">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyrobolt</name>
+			<text>Pyrobolt deals 4 damage to target creature. If this spell was cast from exile, it deals 5 damage to any target instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/150_Pyrobolt.jpg" num="150">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duplicitous Maneuver</name>
+			<text>Choose one — 
+• Copy target instant or sorcery spell.
+• Choose new targets for target spell or ability.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/137_Duplicitous Maneuver.jpg" num="137">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chaotic Impulse</name>
+			<text>Look at the top two cards of your library. Exile one card from among them. You may cast it until end of turn. Put the other on the bottom of your library.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/129_Chaotic Impulse.jpg" num="129">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impulsive Phoenix</name>
+			<text>Flying
+Landfall — Whenever a land you control enters, you may exile cards from the top of your library until you exile a nonland card. You may cast the exiled card this turn. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/146_Impulsive Phoenix.jpg" num="146">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phytosaurian Warmaster</name>
+			<text>When this creature enters, create a 3/3 red and green Plant Dinosaur creature token.
+{T}: Target creature you control gets +1/+1 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/149_Phytosaurian Warmaster.jpg" num="149">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sharpshot Plunderer</name>
+			<text>Reach
+Raid — At the beginning of your end step, if you or a teammate attacked this turn, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/154_Sharpshot Plunderer.jpg" num="154">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verdure Bounty</name>
+			<text>When this enchantment enters, create a 3/3 red and green Plant Dinosaur creature token.
+As long as you are Bountiful, creatures you control get +1/+1. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/205_Verdure Bounty.jpg" num="205">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dredger&apos;s Expertise</name>
+			<text>When Dredger&apos;s Expertise enters, you mill four cards.
+{2}{G}{G}: Put a dredge counter on this enchantment.
+At the beginning of your upkeep, as long as this enchantment has a dredge counter on it, if you would draw a card you may return a card from your graveyard to your hand instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/175_Dredger&apos;s Expertise.jpg" num="175">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sly Mawsprouter</name>
+			<text>This creature enters with a number of +1/+1 counters on it equal to the number of cards in your hand.
+Whenever Sly Mawsprouter attacks, double the number of +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/199_Sly Mawsprouter.jpg" num="199">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Groveyard Tender</name>
+			<text>When this creature enters, you may mill four cards, then return a land card from your graveyard to your hand.
+Each land card in your graveyard is a Spire in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/182_Groveyard Tender.jpg" num="182">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brawl in the Mud</name>
+			<text>Kicker {1}{G}
+Choose target creature an opponent controls.
+If this spell was kicked, fatigue the chosen creature.
+Target creature you control fights the chosen creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/170_Brawl in the Mud.jpg" num="170">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leaf-Blessed Trinket</name>
+			<text>Bountiful — At the beginning of your upkeep, as long as you are Bountiful, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+{T}: Until end of turn, target creature gains &quot;Whenever this creature would deal combat damage to a player, draw a card.&quot;</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/186_Leaf-Blessed Trinket.jpg" num="186">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Awaken the Jungle</name>
+			<text>Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on target creature your team controls.
+{3}{G}: This enchantment becomes a 3/3 red and green Plant Dinosaur in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/166_Awaken the Jungle.jpg" num="166">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bellowing Crashhorn</name>
+			<text>Landfall — Whenever a land enters the battlefield under your control, target creature your team controls must be blocked this turn, if able.
+{3}{G}: Put a deathtouch counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/168_Bellowing Crashhorn.jpg" num="168">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roaming Herbisaur</name>
+			<text>Trample
+When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/197_Roaming Herbisaur.jpg" num="197">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druidic Composter</name>
+			<text>Bountiful — As long as you are Bountiful, activated abilities of creatures you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
+{1}{G}: Exile target card from a graveyard. Put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/176_Druidic Composter.jpg" num="176">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barkskin Plate</name>
+			<text>Choose one — 
+• Target permanent you control gains hexproof and indestructible until end of turn.
+• Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/167_Barkskin Plate.jpg" num="167">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunheart Liege</name>
+			<text>If an effect would cause you to discard one or more cards, you may discard this card instead.
+Other white creatures you control get +1/+1.
+{1}{W}{W}: Put this creature from your graveyard onto the battlefield. Activate only if you discarded this card this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/40_Sunheart Liege.jpg" num="40">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invasion&apos;s Insurrection</name>
+			<text>At the beginning of your upkeep, create a 2/2 white Knight creature token. As long as you are Bountiful, it enters with two +1/+1 counters on it. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/19_Invasion&apos;s Insurrection.jpg" num="19">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Selorian Sister</name>
+			<text>Lifelink
+Whenever one or more creatures with base power 2 or less enter the battlefield under your control, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/37_Selorian Sister.jpg" num="37">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orala, Elio&apos;s Chosen</name>
+			<text>Crusade (Increase your morale by 1. Once during your turn, when an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)
+First strike, vigilance
+Pay 2 morale: Exile target creature, then return it to the battlefield under its owner&apos;s control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/26_Orala, Elio&apos;s Chosen.jpg" num="26">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Commerce Hall</name>
+			<text>{T}: Each player draws a card.
+Bountiful — At the beginning of your upkeep, as long as you are Bountiful, put a +1/+1 counter on target creature you control. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/8_Commerce Hall.jpg" num="8">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scout for Supplies</name>
+			<text>Kicker {2}
+If this spell was kicked, create a 2/2 white Knight creature token.
+Discover X, where X is the number of creatures you control. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/34_Scout for Supplies.jpg" num="34">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gallant Gallop</name>
+			<text>Bountiful — As long as you are Bountiful, whenever you attack, create a 2/2 white Knight creature token that&apos;s tapped and attacking. Exile it at the beginning of the next end step. (You are Bountiful as long as you have five or more cards in your hand.)
+Desperate — As long as you are Desperate, at the beginning of combat on your turn, create a Clue token. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/16_Gallant Gallop.jpg" num="16">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nexen Liege</name>
+			<text>If an effect would cause you to discard one or more cards, you may discard this card instead.
+Other blue creatures you control get +1/+1.
+{1}{U}{U}: Put this creature from your graveyard onto the battlefield. Activate only if you discarded this card this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/66_Nexen Liege.jpg" num="66">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imagined Curiosity</name>
+			<text>Imagined Curiosity&apos;s power and toughness are each equal to the number of cards in your hand.
+Whenever a creature you control deals combat damage to an opponent, you draw a card.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/58_Imagined Curiosity.jpg" num="58">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disruptive Illusionist</name>
+			<text>Bountiful — As long as you are Bountiful, whenever a source you control causes one or more other creatures you control to leave the battlefield without dying, create a 1/1 blue Bird Illusion creature token.
+{1}{U}, {T}: Return another target creature you control to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/51_Disruptive Illusionist.jpg" num="51">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skysquad Captain</name>
+			<text>Flying
+When this creature enters, you may return target creature to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/76_Skysquad Captain.jpg" num="76">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Griffin Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wit&apos;s Bounty</name>
+			<text>Create a 1/1 blue Bird Illusion creature token for each card in your hand.
+Renew — {1}{U}, Exile this card from your graveyard: Investigate. Activate only if are Desperate. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/82_Wit&apos;s Bounty.jpg" num="82">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wartime Logistics</name>
+			<text>Team Improvise (Artifacts your team controls can help cast this spell. Each artifact your team taps while casting this spell pays for {1}.)
+Draw X cards.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/81_Wartime Logistics.jpg" num="81">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shimmergale</name>
+			<text>Return each creature to its owner&apos;s hand. For each creature you didn&apos;t control returned this way, you create a 1/1 blue Bird Illusion creature token with flying.
+Renew — {1}{U}, Exile this card from your graveyard: Predict 1.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/75_Shimmergale.jpg" num="75">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UUU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alvahzan Liege</name>
+			<text>If an effect would cause you to discard one or more cards, you may discard this card instead.
+Other black creatures you control get +1/+1.
+{1}{B}{B}: Put this creature from your graveyard onto the battlefield. Activate only if you discarded this card this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/84_Alvahzan Liege.jpg" num="84">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thought Shadow</name>
+			<text>This creature gets -X/-X, where X is the number of cards in your hand.
+{2}{B}, Discard a card: Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/123_Thought Shadow.jpg" num="123">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necrotic Smog</name>
+			<text>Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Each creature gets -X/-X until end of turn, where X is the number of cards in its controller&apos;s graveyard. If this spell was kicked, return a creature card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/109_Necrotic Smog.jpg" num="109">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Despairing Tutor</name>
+			<text>Desperate — Search your library for a card, shuffle, then put it on top of your library. As long as you are Desperate, draw a card. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/95_Despairing Tutor.jpg" num="95">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ferocious Impalement</name>
+			<text>Destroy target creature or planeswalker. You gain 2 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/98_Ferocious Impalement.jpg" num="98">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boneblight Phoenix</name>
+			<text>Flying
+Whenever Boneblight Phoenix attacks the opponent with the most life, create a 1/1 black Skeleton creature token with menace and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/89_Boneblight Phoenix.jpg" num="89">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smogwing Predator</name>
+			<text>Flying, menace
+When Smogwing Predator enters or attacks, target opponent creates two 1/1 blue Bird Illusion creature tokens with flying.
+At the beginning of each upkeep, that player loses 1 life for each token they control.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/117_Smogwing Predator.jpg" num="117">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flechan Liege</name>
+			<text>If an effect would cause you to discard one or more cards, you may discard this card instead.
+Other red creatures you control get +1/+1. 
+{1}{R}{R}: Put this creature from your graveyard onto the battlefield. Activate only if you discarded this card this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/140_Flechan Liege.jpg" num="140">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Go Big or Go Home</name>
+			<text>Desperate — At the beginning of your upkeep, exile the top card of your library. As long as you are Desperate, exile the top two cards of your library instead. You may each play card exiled this way this turn. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/142_Go Big or Go Home.jpg" num="142">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Campaign for the Espra Wilds</name>
+			<text>Choose one — 
+• Pharani — Create three 3/3 red and green Plant Dinosaur creature tokens. Creatures you control gain trample until end of turn.
+• Esprata — Create four 2/2 white Knight creature tokens. Creatures you control gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/127_Campaign for the Espra Wilds.jpg" num="127">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RRR</manacost>
+				<cmc>8</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duamrac, Ruthless Conjurer</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, the next spell you cast this turn costs {1} less to cast.
+Raid — At the beginning of your end step, if you attacked this turn, create a 2/1 red Illusion creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/135_Duamrac, Ruthless Conjurer.jpg" num="135">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trusty Manaxe</name>
+			<text>Equipped creature gets +X/+X, where X is the number of nonbasic lands your opponents control.
+Whenever equipped creature deals combat damage, you create that many tapped Treasure tokens.
+Team Equip {2}{R}</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/161_Trusty Manaxe.jpg" num="161">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reckless Bonemage</name>
+			<text>Whenever you cast a spell from exile, Reckless Bonemage deals 1 damage to target opponent.
+Renew — {3}{R}, Exile this card from your graveyard: Predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/151_Reckless Bonemage.jpg" num="151">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Marrdri Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual of Anticipation</name>
+			<text>Predict 4. (Exile the top four cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)
+The next spell you cast from exile this turn costs {R}{R} less to cast and can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/153_Ritual of Anticipation.jpg" num="153">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dredge Contraband</name>
+			<text>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+Mill cards equal to the number of lands you control, up to a maximum of six. You may put up to two creature and/or land cards from among the milled cards into your hand. Then if this spell was kicked, put up to two creature and/or land cards from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/174_Dredge Contraband.jpg" num="174">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pharani Liege</name>
+			<text>If an effect would cause you to discard one or more cards, you may discard this card instead.
+Other green creatures you control get +1/+1.
+{1}{G}{G}: Put this creature from your graveyard onto the battlefield. Activate only if you discarded this card this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/192_Pharani Liege.jpg" num="192">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impending Verdasaur</name>
+			<text>As long as Impending Verdasaur is a spell, the next spell each opponent would cast costs {2} more to cast.
+Discover 10, discover 8, discover 6. (To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/184_Impending Verdasaur.jpg" num="184">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>7GGG</manacost>
+				<cmc>10</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prophet of Cycles</name>
+			<text>Bountiful — As long as you are Bountiful, you play with the top card of your library revealed and may play lands from the top of your library. (You are Bountiful as long as you have five or more cards in your hand.)
+Landfall — Whenever a land enters the battlefield under your control, target creature you control gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/194_Prophet of Cycles.jpg" num="194">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explorer&apos;s Dream</name>
+			<text>Whenever you discover, draw cards equal to the amount discovered. Do this only once each turn. (When you discover 3, draw three cards, even if the mana value of the card discovered this way is less than three.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/178_Explorer&apos;s Dream.jpg" num="178">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meticulous Trailmaker</name>
+			<text>Landfall — Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Renew — {1}{G}, Exile this card from your graveyard: Investigate.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/189_Meticulous Trailmaker.jpg" num="189">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rise of the Pharani</name>
+			<text>Choose one — 
+• Creatures your team controls gain +2/+2 and trample until end of turn.
+• Draw cards equal to target creature&apos;s toughness.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/196_Rise of the Pharani.jpg" num="196">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wolanne, Oppressed Protector</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/42_Wolanne, Oppressed Protector.jpg" num="42">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Wolanne</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crusader&apos;s Conch</name>
+			<text>Whenever a token you control enters, put a +1/+1 counter on each other token you control with the same name.
+{2}{W}, {T}: Populate. (Create a token that&apos;s a copy of a creature token you control.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/10_Crusader&apos;s Conch.jpg" num="10">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Timeseer&apos;s Focus</name>
+			<text>Whenever a creature you control deals combat damage to a player, draw a card.
+Play with the top card of your library revealed.
+{1}, {T}: Shuffle your library.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/78_Timeseer&apos;s Focus.jpg" num="78">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Auriel, Surging Spellcatcher</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/47_Auriel, Surging Spellcatcher.jpg" num="47">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Auriel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Restra, Pactmaker</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/116_Restra, Pactmaker.jpg" num="116">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Restra</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kalamax, Bone Lord</name>
+			<text>Flash
+Lifelink
+Whenever a nonland card leaves a graveyard, put a +1/+1 counter on Kalamax.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/101_Kalamax, Bone Lord.jpg" num="101">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Marrdri Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gilban, Uninhibited</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/141_Gilban, Uninhibited.jpg" num="141">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gilban</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fallarai Master</name>
+			<text>Whenever you cast an instant or sorcery spell, create a 2/1 red Illusion creature token.
+At the beginning of each of your end steps, sacrifice each tapped Illusion you control.
+Desperate — As long as you are Desperate, Illusions you control have haste. (You are Desperate as long as you have no cards in your hand.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/138_Fallarai Master.jpg" num="138">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cotay Leadon, Verdure Wildling</name>
+			<text>Once per turn, when you cast a creature spell, you may have it enter with a number of +1/+1 counters equal to the number of cards in your hand.
+Whenever a creature with power 8 or greater enters the battlefield under your control, draw a card.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/171_Cotay Leadon, Verdure Wildling.jpg" num="171">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Licium, Disconnected Spore</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/187_Licium, Disconnected Spore.jpg" num="187">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Licium</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kneel Before Order</name>
+			<text>Multikicker {WU} (You may pay an additional {WU} any number of times as you cast this spell.)
+Choose one. For each time this spell was kicked, choose one —
+• This spell has split second. (As long as this spell is on the stack, players can&apos;t cast spells or activate abilities that aren&apos;t mana abilities.)
+• Opponents can&apos;t cast creature spells this turn.
+• Opponents can&apos;t cast noncreature spells this turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/233_Kneel Before Order.jpg" num="233">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skysoaring Fatethief</name>
+			<text>Flying, menace
+Whenever Skysoaring Fatethief deals combat damage to a player, that player exiles the top card of their library. You may cast that card for as long as it remains exiled and may spend mana as though it were mana of any color to cast it.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/224_Skysoaring Fatethief.jpg" num="224">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Desperate Stampede</name>
+			<text>Creatures you control get +X/+0 until end of turn, where X is 7 minus the number of cards in target player&apos;s hand.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/212_Desperate Stampede.jpg" num="212">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodleaf Vinespine</name>
+			<text>Haste
+When this creature enters, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/209_Bloodleaf Vinespine.jpg" num="209">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyclic Advantage</name>
+			<text>Creatures you control get +X/+0 until end of turn, where X is the number of cards in your hand.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/211_Cyclic Advantage.jpg" num="211">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ciphered Spellbook</name>
+			<text>{1}, {T}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+{WB}{WB}, {T}, Exile target creature card from a graveyard: Create a 1/1 black Skeleton creature token.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/210_Ciphered Spellbook.jpg" num="210">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Haestor&apos;s Invocation</name>
+			<text>Choose one. As long as you are Desperate, you may choose both instead — 
+• Haestor&apos;s Invocation deals 5 damage to target creature.
+• You create two 2/1 red Illusion creature tokens.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/219_Haestor&apos;s Invocation.jpg" num="219">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Necrotic Loop</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Destroy target nonland permanent. If this spell was kicked, destroy each permanent with the same name.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/221_Necrotic Loop.jpg" num="221">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blistering Invasion</name>
+			<text>Kicker {1}{R}{W}{W} (You may pay an additional {1}{R}{W}{W} as you cast this spell.)
+Destroy each nontoken creature. Then if this spell was kicked, create two 2/2 white Knight creature tokens.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/208_Blistering Invasion.jpg" num="208">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Evolving Growth</name>
+			<text>Draw a card. You may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/216_Evolving Growth.jpg" num="216">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Selor&apos;s Invocation</name>
+			<text>Choose one — 
+• Creatures target player control gain lifelink until end of turn.
+• Tap target creature. Put a stun counter on it.
+Renew — {W}{U}, Exile this card from your graveyard: You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/223_Selor&apos;s Invocation.jpg" num="223">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreadful Future</name>
+			<text>Each opponent exiles cards from the top of their library until they exile cards with total mana value X or greater this way. Until end of turn, you may cast cards exiled this way without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/228_Dreadful Future.jpg" num="228">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kell&apos;s Invocation</name>
+			<text>Choose one — 
+• Kell&apos;s Invocation deals 1 damage to target player for each permanent card in their graveyard.
+• RM01 deals damage to target player equal to 7 minus the number of cards in their hand.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/220_Kell&apos;s Invocation.jpg" num="220">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diophine, Undiscovered Tyrant</name>
+			<text>Whenever you cast a creature spell, put a +1/+1 counter on this creature.
+Whenever a creature you control enters, if you spent mana to cast it, discover X, where X is this creature&apos;s power. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/213_Diophine, Undiscovered Tyrant.jpg" num="213">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Effen, Nexen Trainer</name>
+			<text>Landfall — Whenever a land enters the battlefield under your control, each player draws a card.
+Bountiful — Whenever a player draws a card, as long as they are Bountiful, you create a 2/2 white Knight creature token. (A player is Bountiful as long as they have five or more cards in their hand.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/214_Effen, Nexen Trainer.jpg" num="214">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nu&apos;Ul&apos;s Invocation</name>
+			<text>Choose one — 
+• Exile target card from a graveyard. Create a 2/2 white Knight creature token.
+• Exile target nonland permanent.
+• Creatures you control get +1/+1 until end of turn. Creatures your opponents control get -1/-1 until end of turn.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/222_Nu&apos;Ul&apos;s Invocation.jpg" num="222">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disorderstone</name>
+			<text>{3}: Untap this artifact. Activate only once each turn.
+{1}, {T}: Predict 2. (Exile the top two cards of your library. You may play one of them this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/227_Disorderstone.jpg" num="227">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gologo&apos;s Invocation</name>
+			<text>As an additional cost to cast this spell, exile cards with total mana value X from your graveyard.
+Discover X. (Exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/217_Gologo&apos;s Invocation.jpg" num="217">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arston, Blessed by Timesight</name>
+			<text>Whenever a player attacks, they discover X, where X is the number of attacking creatures. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+{2}{R}{W}: Create a 2/1 red Illusion creature token.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/207_Arston, Blessed by Timesight.jpg" num="207">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Scout Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guise of Ignorance</name>
+			<text>Choose a card name, then reveal the top card of your library. If the revealed card has the chosen name, you may put it onto the battlefield. Otherwise, put it into your graveyard.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/218_Guise of Ignorance.jpg" num="218">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mischievous Shine-Thief</name>
+			<text>When this artifact enters, you may search your library for a basic land card, put it on top, then shuffle.
+{3}, {T}: Put target card in a graveyard on the bottom of its owner&apos;s library. You create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/245_Mischievous Shine-Thief.jpg" num="245">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crossbolt Animae</name>
+			<text>Reach (This creature can block creatures with flying.)
+{1}: This creature gets +1/+0 until end of turn for each card in your hand.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/239_Crossbolt Animae.jpg" num="239">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farsight Delusion</name>
+			<text>Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Create a 2/1 red Illusion creature token.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/1_Farsight Delusion.jpg" num="1">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unexpected Evidence</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+{T}, Sacrifice this artifact: Tap target creature.
+{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/250_Unexpected Evidence.jpg" num="250">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Explorer&apos;s Chart</name>
+			<text>{2}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature. It gains ward {1} until end of turn. (Whenever that permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+{2}, {T}, Sacrifice this artifact: Search your library for a land card, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/242_Explorer&apos;s Chart.jpg" num="242">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sleepless Protector</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+Bountiful — {2}: Put a +1/+1 counter on this creature. Activate only as long as you are Bountiful.
+Desperate — {2}: Put a +1/+1 counter on this creature. Activate only as long as you are Desperate.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/247_Sleepless Protector.jpg" num="247">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explorer&apos;s Assistant</name>
+			<text>{T}: You may put a land card from your hand onto the battlefield tapped.
+This creature gets +1/+0 for each type among lands you control.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/241_Explorer&apos;s Assistant.jpg" num="241">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stonewing Animae</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When this creature enters, exile each opponent&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/249_Stonewing Animae.jpg" num="249">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herbhammer</name>
+			<text>Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.
+Team Equip {1} ({1}: Attach to target creature your team controls. Equip only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/243_Herbhammer.jpg" num="243">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Historian&apos;s Crypt</name>
+			<text>When this artifact enters, exile up to one target card from a graveyard.
+{2}, {T}: Draw a card, then discard a card.
+{2}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/244_Historian&apos;s Crypt.jpg" num="244">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trade-Rich Lighthouse</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+When this land enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/263_Trade-Rich Lighthouse.jpg" num="263">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Spire</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Food-Rich Reef</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/255_Food-Rich Reef.jpg" num="255">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kell, Madness&apos; Spiral</name>
+			<text>Menace, indestructible
+As long as you have cards in your hand, Kell isn&apos;t a creature.
+Once per turn, you may cast a card from your graveyard by discarding a card in addition to paying its other costs.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/232_Kell, Madness&apos; Spiral.jpg" num="232">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/RB/R</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Edasa, Spire of Parfolus</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Choose a color. Add one mana of that color for each token of that color you control.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/253_Edasa, Spire of Parfolus.jpg" num="253">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land — Spire</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plant Dinosaur VRM</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/5t_Plant Dinosaur.jpg" num="5">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Knight VRM</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/1t_Knight.jpg" num="1">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bird Illusion VRM</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/2t_Bird Illusion.jpg" num="2">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Skeleton VRM</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/3t_Skeleton.jpg" num="3">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Soulbinder&apos;s Gem</name>
+			<text>{T}: Exile target card from a graveyard. You gain 1 life.
+{1}, {T}, Sacrifice this artifact: Exile target player&apos;s graveyard and draw a card.
+{2}, {T}, Sacrifice this artifact: Destroy target nonbasic land. Its controller searches their library for a basic land card and puts it onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/248_Soulbinder&apos;s Gem.jpg" num="248">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Illusion VRM</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/4t_Illusion.jpg" num="4">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sigil of the Vellon</name>
+			<text>Creature cards in graveyards and exile can&apos;t enter the battlefield.
+Spells cast from graveyards or exile cost {1} more to cast.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/246_Sigil of the Vellon.jpg" num="246">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wolanne, Royal Protector VRM</name>
+			<text>Token creatures you control get +1/+1.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/8t_Wolanne, Royal Protector.jpg" num="8">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Time-Rich Lake</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/262_Time-Rich Lake.jpg" num="262">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nutrient-Rich Farmland</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/258_Nutrient-Rich Farmland.jpg" num="258">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bone-Rich Graveyard</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/252_Bone-Rich Graveyard.jpg" num="252">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Iron-Rich Bog</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/256_Iron-Rich Bog.jpg" num="256">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ore-Rich Chasm</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/259_Ore-Rich Chasm.jpg" num="259">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Life-Rich Grove</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/257_Life-Rich Grove.jpg" num="257">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood-Rich Field</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/251_Blood-Rich Field.jpg" num="251">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wreckage-Rich Shore</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/264_Wreckage-Rich Shore.jpg" num="264">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Storm-Rich Peak</name>
+			<text>Bountiful — This land enters tapped unless you are Bountiful. (You are Bountiful as long as you have five or more cards in your hand.)
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/261_Storm-Rich Peak.jpg" num="261">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pretransmuted Ground</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic land card or Spire card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/260_Pretransmuted Ground.jpg" num="260">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fek&apos;Roth, School of the Arcane</name>
+			<text>This land enters tapped.
+When this land enters, you may exile an instant or sorcery card from your hand.
+{T}: Add one mana of any color.
+{X}{2}, {T}: Create a copy of the exiled card, where X is its mana cost. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/254_Fek&apos;Roth, School of the Arcane.jpg" num="254">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Escrylla, Ocean&apos;s Terror</name>
+			<text>Landfall — Whenever a land enters the battlefield under your control, draw a card.
+Bountiful — {3}{G}{U}: Create a 3/3 red and green Plant Dinosaur creature token. As long as you are Bountiful, it enters with two +1/+1 counters on it. (You are Bountiful as long as you have five or more cards in your hand.)</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/215_Escrylla, Ocean&apos;s Terror.jpg" num="215">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clue VRM</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/6t_Clue.jpg" num="6">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elio&apos;s Crest</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice a token you control: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/240_Elio&apos;s Crest.jpg" num="240">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Allied Intercession</name>
+			<text>Target creature you control gains hexproof and indestructible until end of turn.
+Renew — {3}{W}, Exile this card from your graveyard: Create a 2/2 white Knight creature token.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/2_Allied Intercession.jpg" num="2">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abrupt Disappearance</name>
+			<text>The owner of target spell or creature puts it on their choice of the top or bottom of their library.
+Renew — {U}, Exile this card from your graveyard: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/43_Abrupt Disappearance.jpg" num="43">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cornered Spikelaunch</name>
+			<text>Desperate — Target creature gets -2/-2 until end of turn. As long as you are Desperate, it gets -4/-4 until end of turn instead.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/91_Cornered Spikelaunch.jpg" num="91">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fervent Adaptation</name>
+			<text>Put two +1/+1 counters on target creature you control.
+Renew — {2}{R}{R}, Exile this card from your graveyard: Double target creature&apos;s power until end of turn.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/139_Fervent Adaptation.jpg" num="139">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destruction of Evidence</name>
+			<text>Choose one — 
+• Exile up to three target cards from a single graveyard. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+• Destroy target artifact or enchantment with mana value 2 or less.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/173_Destruction of Evidence.jpg" num="173">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prescence Cleanse</name>
+			<text>Choose one — 
+• Exile target player&apos;s graveyard.
+• Prescence Cleanse deals 5 damage to target tapped creature.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/29_Prescence Cleanse.jpg" num="29">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inspect Antiquity</name>
+			<text>Flash
+Enchant creature or artifact
+When this Aura enters, tap up to one target creature.
+When Inspect Antiquity dies, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/59_Inspect Antiquity.jpg" num="59">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soaring Bonespikes</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has menace.
+You may cast this card from your graveyard by discarding a card in addition to paying its other costs.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/119_Soaring Bonespikes.jpg" num="119">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Destructive Arrival</name>
+			<text>Choose one — 
+• Destroy target artifact.
+• Destroy target nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield, then shuffles.
+• Draw two cards, then discard two cards.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/133_Destructive Arrival.jpg" num="133">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mass Renewal</name>
+			<text>Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
+For each time this spell was kicked, return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/188_Mass Renewal.jpg" num="188">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treasure VRM</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/7t_Treasure.jpg" num="7">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Animae Colossus</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
+Indestructible (Damage and effects that say &quot;destroy&quot; don&apos;t destroy this creature.)
+Renew — {4}, Exile this card from your graveyard: Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/238_Animae Colossus.jpg" num="238">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>10</manacost>
+				<cmc>10</cmc>
+				<pt>11/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Will, Life&apos;s Beginning</name>
+			<text>Vigilance, indestructible
+As long as you control less than seven tokens, Will isn&apos;t a creature.
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/237_Will, Life&apos;s Beginning.jpg" num="237">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/WG/W</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nu&apos;Ul, Cycles&apos; End</name>
+			<text>Lifelink, indestructible
+As long as you control less than five nonland nontoken permanents, Nu&apos;Ul isn&apos;t a creature.
+At the beginning of your upkeep, up to one other target creature loses all abilities until Nu&apos;Ul leaves the battlefield.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/234_Nu&apos;Ul, Cycles&apos; End.jpg" num="234">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/BW/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A&apos;Aka, Observation&apos;s Evolution</name>
+			<text>Ward {1}, indestructible
+As long as you have less than five cards in your hand, A&apos;Aka isn&apos;t a creature.
+At the beginning of your end step, discover X, where X is the number of lands you control.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/225_A&apos;Aka, Observation&apos;s Evolution.jpg" num="225">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4G/UG/U</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haestor, Destiny&apos;s Chaos</name>
+			<text>Prowess, indestructible (Damage and effects that say &quot;destroy&quot; don&apos;t destroy this creature.)
+As long as you have three or less instant and/or sorcery cards in your graveyard, Haestor isn&apos;t a creature.
+At the beginning of your upkeep, shuffle each instant or sorcery card in your graveyard into your library, then draw a card if you shuffled at least three cards into your library this way.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/231_Haestor, Destiny&apos;s Chaos.jpg" num="231">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/RU/R</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Selor, Ascension&apos;s Achievement</name>
+			<text>Flying, indestructible
+As long as your life is less than your starting life total, Selor isn&apos;t a creature.
+At the beginning of your upkeep, you gain life equal to the number of cards in your hand. Then if you have the most life, draw a card.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/236_Selor, Ascension&apos;s Achievement.jpg" num="236">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/UW/U</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ban&apos;Est, Fate&apos;s Augur</name>
+			<text>Flash, indestructible
+As long as you control less than one creature you don&apos;t own, Ban&apos;Est isn&apos;t a creature.
+Whenever Ban&apos;Est enters or attacks, for each opponent, exile up to one target card from their graveyard and create a tapped Treasure token. You may cast it for as long as it remains exiled.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/226_Ban&apos;Est, Fate&apos;s Augur.jpg" num="226">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/BU/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gologo, Repetition&apos;s Catalyst</name>
+			<text>Deathtouch, indestructible
+As long as you control creatures with total mana value 9 or less, Gologo isn&apos;t a creature.
+Creature cards in your hand with mana value 5 or greater have cycling {2}{BG}.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/230_Gologo, Repetition&apos;s Catalyst.jpg" num="230">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/GB/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elio, Originality&apos;s Ideal</name>
+			<text>First strike, indestructible
+As long as other creatures you control have a total of five or less from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance, Elio isn&apos;t a creature.
+Creatures you control get +1/+0 and have haste.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/229_Elio, Originality&apos;s Ideal.jpg" num="229">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/WR/W</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phaetilis, Discovery&apos;s Idol</name>
+			<text>Trample, indestructible
+As long as you control less than seven creatures, Phaetilis isn&apos;t a creature.
+Whenever a creature you control enters, you may pay {1}{R}{G}. When you do, discover 4.</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/235_Phaetilis, Discovery&apos;s Idol.jpg" num="235">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Elder Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/GR/G</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/265_Plains.jpg" num="265">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/266_Island.jpg" num="266">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/267_Swamp.jpg" num="267">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/268_Mountain.jpg" num="268">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/269_Forest.jpg" num="269">VRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

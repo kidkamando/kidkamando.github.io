@@ -18,5 +18,8 @@
 	"ACS",
 	"PWR",
 	"VLC"
+    ],
+    "BVEL": [
+	"VRM"
     ]
 }

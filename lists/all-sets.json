@@ -56,6 +56,11 @@
             "formats": "Eternal,Commander,VBC"
         },
         {
+            "set_code": "VRM",
+            "set_name": "Velesta ReMade",
+            "formats": "Standard,Eternal,Commander,BVEL"
+        },
+        {
             "set_code": "VWT",
             "set_name": "Velesta Wartorn",
             "formats": "Eternal,Commander,VBC"

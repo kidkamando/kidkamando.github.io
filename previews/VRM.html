@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/VRM-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>VRM visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/VRM-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ACS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FCD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PWR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RAD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RDV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RRN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RTRA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRM-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VWT-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/VRM"><img src="../sets/VRM-files/icon.png">Velesta ReMade</a>
+	
+		<a class="set-bar inactive" href="../previews/ACS"><img src="../sets/ACS-files/icon.png">Aramyth: Crimes in Shadow</a>
+	
+		<a class="set-bar inactive" href="../previews/FCD"><img src="../sets/FCD-files/icon.png">Fractured Darkness</a>
+	
+		<a class="set-bar inactive" href="../previews/LSL"><img src="../sets/LSL-files/icon.png">Last Starlight</a>
+	
+		<a class="set-bar inactive" href="../previews/PWR"><img src="../sets/PWR-files/icon.png">Power Rangers</a>
+	
+		<a class="set-bar inactive" href="../previews/RAD"><img src="../sets/RAD-files/icon.png">Runeterra Ascended</a>
+	
+		<a class="set-bar inactive" href="../previews/RDV"><img src="../sets/RDV-files/icon.png">Runeterra Divided</a>
+	
+		<a class="set-bar inactive" href="../previews/RRN"><img src="../sets/RRN-files/icon.png">Runeterra in Ruination</a>
+	
+		<a class="set-bar inactive" href="../previews/RTRA"><img src="../sets/RTRA-files/icon.png">Runeterra Reimagined Addendum</a>
+	
+		<a class="set-bar inactive" href="../previews/VLC"><img src="../sets/VLC-files/icon.png">Velesta Discovered Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Velesta Discovered</a>
+	
+		<a class="set-bar inactive" href="../previews/VRG"><img src="../sets/VRG-files/icon.png">Velesta Reforged</a>
+	
+		<a class="set-bar inactive" href="../previews/VWT"><img src="../sets/VWT-files/icon.png">Velesta Wartorn</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/VRM-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\VRM-files\img\10_Crusader's Conch.jpg" id="VRM_10_Crusaders Conch" data-flag="@X" onclick="openSidebar('VRM_10_Crusaders Conch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\47_Auriel, Surging Spellcatcher.jpg" id="VRM_47_Auriel, Surging Spellcatcher" data-flag="@X" onclick="openSidebar('VRM_47_Auriel, Surging Spellcatcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\101_Kalamax, Bone Lord.jpg" id="VRM_101_Kalamax, Bone Lord" data-flag="@X" onclick="openSidebar('VRM_101_Kalamax, Bone Lord',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\138_Fallarai Master.jpg" id="VRM_138_Fallarai Master" data-flag="@X" onclick="openSidebar('VRM_138_Fallarai Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\171_Cotay Leadon, Verdure Wildling.jpg" id="VRM_171_Cotay Leadon, Verdure Wildling" data-flag="@X" onclick="openSidebar('VRM_171_Cotay Leadon, Verdure Wildling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\42_Wolanne, Oppressed Protector.jpg" id="VRM_42_Wolanne, Oppressed Protector" data-flag="@X" onclick="openSidebar('VRM_42_Wolanne, Oppressed Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\78_Timeseer's Focus.jpg" id="VRM_78_Timeseers Focus" data-flag="@X" onclick="openSidebar('VRM_78_Timeseers Focus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\116_Restra, Pactmaker.jpg" id="VRM_116_Restra, Pactmaker" data-flag="@X" onclick="openSidebar('VRM_116_Restra, Pactmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\141_Gilban, Uninhibited.jpg" id="VRM_141_Gilban, Uninhibited" data-flag="@X" onclick="openSidebar('VRM_141_Gilban, Uninhibited',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\187_Licium, Disconnected Spore.jpg" id="VRM_187_Licium, Disconnected Spore" data-flag="@X" onclick="openSidebar('VRM_187_Licium, Disconnected Spore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\8_Commerce Hall.jpg" id="VRM_8_Commerce Hall" data-flag="@X" onclick="openSidebar('VRM_8_Commerce Hall',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\51_Disruptive Illusionist.jpg" id="VRM_51_Disruptive Illusionist" data-flag="@X" onclick="openSidebar('VRM_51_Disruptive Illusionist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\84_Alvahzan Liege.jpg" id="VRM_84_Alvahzan Liege" data-flag="@X" onclick="openSidebar('VRM_84_Alvahzan Liege',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\127_Campaign for the Espra Wilds.jpg" id="VRM_127_Campaign for the Espra Wilds" data-flag="@X" onclick="openSidebar('VRM_127_Campaign for the Espra Wilds',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\174_Dredge Contraband.jpg" id="VRM_174_Dredge Contraband" data-flag="@X" onclick="openSidebar('VRM_174_Dredge Contraband',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\16_Gallant Gallop.jpg" id="VRM_16_Gallant Gallop" data-flag="@X" onclick="openSidebar('VRM_16_Gallant Gallop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\58_Imagined Curiosity.jpg" id="VRM_58_Imagined Curiosity" data-flag="@X" onclick="openSidebar('VRM_58_Imagined Curiosity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\89_Boneblight Phoenix.jpg" id="VRM_89_Boneblight Phoenix" data-flag="@X" onclick="openSidebar('VRM_89_Boneblight Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\135_Duamrac, Ruthless Conjurer.jpg" id="VRM_135_Duamrac, Ruthless Conjurer" data-flag="@X" onclick="openSidebar('VRM_135_Duamrac, Ruthless Conjurer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\178_Explorer's Dream.jpg" id="VRM_178_Explorers Dream" data-flag="@X" onclick="openSidebar('VRM_178_Explorers Dream',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\19_Invasion's Insurrection.jpg" id="VRM_19_Invasions Insurrection" data-flag="@X" onclick="openSidebar('VRM_19_Invasions Insurrection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\66_Nexen Liege.jpg" id="VRM_66_Nexen Liege" data-flag="@X" onclick="openSidebar('VRM_66_Nexen Liege',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\95_Despairing Tutor.jpg" id="VRM_95_Despairing Tutor" data-flag="@X" onclick="openSidebar('VRM_95_Despairing Tutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\140_Flechan Liege.jpg" id="VRM_140_Flechan Liege" data-flag="@X" onclick="openSidebar('VRM_140_Flechan Liege',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\184_Impending Verdasaur.jpg" id="VRM_184_Impending Verdasaur" data-flag="@X" onclick="openSidebar('VRM_184_Impending Verdasaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\26_Orala, Elio's Chosen.jpg" id="VRM_26_Orala, Elios Chosen" data-flag="@X" onclick="openSidebar('VRM_26_Orala, Elios Chosen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\75_Shimmergale.jpg" id="VRM_75_Shimmergale" data-flag="@X" onclick="openSidebar('VRM_75_Shimmergale',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\98_Ferocious Impalement.jpg" id="VRM_98_Ferocious Impalement" data-flag="@X" onclick="openSidebar('VRM_98_Ferocious Impalement',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\142_Go Big or Go Home.jpg" id="VRM_142_Go Big or Go Home" data-flag="@X" onclick="openSidebar('VRM_142_Go Big or Go Home',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\189_Meticulous Trailmaker.jpg" id="VRM_189_Meticulous Trailmaker" data-flag="@X" onclick="openSidebar('VRM_189_Meticulous Trailmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\34_Scout for Supplies.jpg" id="VRM_34_Scout for Supplies" data-flag="@X" onclick="openSidebar('VRM_34_Scout for Supplies',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\76_Skysquad Captain.jpg" id="VRM_76_Skysquad Captain" data-flag="@X" onclick="openSidebar('VRM_76_Skysquad Captain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\109_Necrotic Smog.jpg" id="VRM_109_Necrotic Smog" data-flag="@X" onclick="openSidebar('VRM_109_Necrotic Smog',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\151_Reckless Bonemage.jpg" id="VRM_151_Reckless Bonemage" data-flag="@X" onclick="openSidebar('VRM_151_Reckless Bonemage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\192_Pharani Liege.jpg" id="VRM_192_Pharani Liege" data-flag="@X" onclick="openSidebar('VRM_192_Pharani Liege',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\37_Selorian Sister.jpg" id="VRM_37_Selorian Sister" data-flag="@X" onclick="openSidebar('VRM_37_Selorian Sister',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\81_Wartime Logistics.jpg" id="VRM_81_Wartime Logistics" data-flag="@X" onclick="openSidebar('VRM_81_Wartime Logistics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\117_Smogwing Predator.jpg" id="VRM_117_Smogwing Predator" data-flag="@X" onclick="openSidebar('VRM_117_Smogwing Predator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\153_Ritual of Anticipation.jpg" id="VRM_153_Ritual of Anticipation" data-flag="@X" onclick="openSidebar('VRM_153_Ritual of Anticipation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\194_Prophet of Cycles.jpg" id="VRM_194_Prophet of Cycles" data-flag="@X" onclick="openSidebar('VRM_194_Prophet of Cycles',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\40_Sunheart Liege.jpg" id="VRM_40_Sunheart Liege" data-flag="@X" onclick="openSidebar('VRM_40_Sunheart Liege',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\82_Wit's Bounty.jpg" id="VRM_82_Wits Bounty" data-flag="@X" onclick="openSidebar('VRM_82_Wits Bounty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\123_Thought Shadow.jpg" id="VRM_123_Thought Shadow" data-flag="@X" onclick="openSidebar('VRM_123_Thought Shadow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\161_Trusty Manaxe.jpg" id="VRM_161_Trusty Manaxe" data-flag="@X" onclick="openSidebar('VRM_161_Trusty Manaxe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\196_Rise of the Pharani.jpg" id="VRM_196_Rise of the Pharani" data-flag="@X" onclick="openSidebar('VRM_196_Rise of the Pharani',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\2_Allied Intercession.jpg" id="VRM_2_Allied Intercession" data-flag="@X" onclick="openSidebar('VRM_2_Allied Intercession',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\43_Abrupt Disappearance.jpg" id="VRM_43_Abrupt Disappearance" data-flag="@X" onclick="openSidebar('VRM_43_Abrupt Disappearance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\85_Ancestor's Conscription.jpg" id="VRM_85_Ancestors Conscription" data-flag="@X" onclick="openSidebar('VRM_85_Ancestors Conscription',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\129_Chaotic Impulse.jpg" id="VRM_129_Chaotic Impulse" data-flag="@X" onclick="openSidebar('VRM_129_Chaotic Impulse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\166_Awaken the Jungle.jpg" id="VRM_166_Awaken the Jungle" data-flag="@X" onclick="openSidebar('VRM_166_Awaken the Jungle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\3_Apportioned Spoils.jpg" id="VRM_3_Apportioned Spoils" data-flag="@X" onclick="openSidebar('VRM_3_Apportioned Spoils',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\49_Desperate Timesight.jpg" id="VRM_49_Desperate Timesight" data-flag="@X" onclick="openSidebar('VRM_49_Desperate Timesight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\86_Archpriest of Gologo.jpg" id="VRM_86_Archpriest of Gologo" data-flag="@X" onclick="openSidebar('VRM_86_Archpriest of Gologo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\131_Deglamored Emergence.jpg" id="VRM_131_Deglamored Emergence" data-flag="@X" onclick="openSidebar('VRM_131_Deglamored Emergence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\167_Barkskin Plate.jpg" id="VRM_167_Barkskin Plate" data-flag="@X" onclick="openSidebar('VRM_167_Barkskin Plate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\5_Blessing of Selor.jpg" id="VRM_5_Blessing of Selor" data-flag="@X" onclick="openSidebar('VRM_5_Blessing of Selor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\50_Disillusion.jpg" id="VRM_50_Disillusion" data-flag="@X" onclick="openSidebar('VRM_50_Disillusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\88_Blackhoof Charger.jpg" id="VRM_88_Blackhoof Charger" data-flag="@X" onclick="openSidebar('VRM_88_Blackhoof Charger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\133_Destructive Arrival.jpg" id="VRM_133_Destructive Arrival" data-flag="@X" onclick="openSidebar('VRM_133_Destructive Arrival',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\168_Bellowing Crashhorn.jpg" id="VRM_168_Bellowing Crashhorn" data-flag="@X" onclick="openSidebar('VRM_168_Bellowing Crashhorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\15_Foreign Lieutenant.jpg" id="VRM_15_Foreign Lieutenant" data-flag="@X" onclick="openSidebar('VRM_15_Foreign Lieutenant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\53_Exhausting Distraction.jpg" id="VRM_53_Exhausting Distraction" data-flag="@X" onclick="openSidebar('VRM_53_Exhausting Distraction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\91_Cornered Spikelaunch.jpg" id="VRM_91_Cornered Spikelaunch" data-flag="@X" onclick="openSidebar('VRM_91_Cornered Spikelaunch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\136_Duamrac's Augur.jpg" id="VRM_136_Duamracs Augur" data-flag="@X" onclick="openSidebar('VRM_136_Duamracs Augur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\170_Brawl in the Mud.jpg" id="VRM_170_Brawl in the Mud" data-flag="@X" onclick="openSidebar('VRM_170_Brawl in the Mud',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\18_Inducted Photomancer.jpg" id="VRM_18_Inducted Photomancer" data-flag="@X" onclick="openSidebar('VRM_18_Inducted Photomancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\54_Fallarai Transcriptor.jpg" id="VRM_54_Fallarai Transcriptor" data-flag="@X" onclick="openSidebar('VRM_54_Fallarai Transcriptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\92_Criminal Streetshimmer.jpg" id="VRM_92_Criminal Streetshimmer" data-flag="@X" onclick="openSidebar('VRM_92_Criminal Streetshimmer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\137_Duplicitous Maneuver.jpg" id="VRM_137_Duplicitous Maneuver" data-flag="@X" onclick="openSidebar('VRM_137_Duplicitous Maneuver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\173_Destruction of Evidence.jpg" id="VRM_173_Destruction of Evidence" data-flag="@X" onclick="openSidebar('VRM_173_Destruction of Evidence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\23_Logistical Relocation.jpg" id="VRM_23_Logistical Relocation" data-flag="@X" onclick="openSidebar('VRM_23_Logistical Relocation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\55_Final Decree.jpg" id="VRM_55_Final Decree" data-flag="@X" onclick="openSidebar('VRM_55_Final Decree',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\94_Dazzling Price.jpg" id="VRM_94_Dazzling Price" data-flag="@X" onclick="openSidebar('VRM_94_Dazzling Price',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\139_Fervent Adaptation.jpg" id="VRM_139_Fervent Adaptation" data-flag="@X" onclick="openSidebar('VRM_139_Fervent Adaptation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\175_Dredger's Expertise.jpg" id="VRM_175_Dredgers Expertise" data-flag="@X" onclick="openSidebar('VRM_175_Dredgers Expertise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\28_Photostorm.jpg" id="VRM_28_Photostorm" data-flag="@X" onclick="openSidebar('VRM_28_Photostorm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\57_Griffinrider Skymage.jpg" id="VRM_57_Griffinrider Skymage" data-flag="@X" onclick="openSidebar('VRM_57_Griffinrider Skymage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\97_Fearsome Ossivore.jpg" id="VRM_97_Fearsome Ossivore" data-flag="@X" onclick="openSidebar('VRM_97_Fearsome Ossivore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\144_Green-Ear Crosshot.jpg" id="VRM_144_Green-Ear Crosshot" data-flag="@X" onclick="openSidebar('VRM_144_Green-Ear Crosshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\176_Druidic Composter.jpg" id="VRM_176_Druidic Composter" data-flag="@X" onclick="openSidebar('VRM_176_Druidic Composter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\29_Prescence Cleanse.jpg" id="VRM_29_Prescence Cleanse" data-flag="@X" onclick="openSidebar('VRM_29_Prescence Cleanse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\59_Inspect Antiquity.jpg" id="VRM_59_Inspect Antiquity" data-flag="@X" onclick="openSidebar('VRM_59_Inspect Antiquity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\104_Kellmight Slayer.jpg" id="VRM_104_Kellmight Slayer" data-flag="@X" onclick="openSidebar('VRM_104_Kellmight Slayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\146_Impulsive Phoenix.jpg" id="VRM_146_Impulsive Phoenix" data-flag="@X" onclick="openSidebar('VRM_146_Impulsive Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\182_Groveyard Tender.jpg" id="VRM_182_Groveyard Tender" data-flag="@X" onclick="openSidebar('VRM_182_Groveyard Tender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\33_Scaling Proficiency.jpg" id="VRM_33_Scaling Proficiency" data-flag="@X" onclick="openSidebar('VRM_33_Scaling Proficiency',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\63_Mass Reduction.jpg" id="VRM_63_Mass Reduction" data-flag="@X" onclick="openSidebar('VRM_63_Mass Reduction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\106_Memory Whorl.jpg" id="VRM_106_Memory Whorl" data-flag="@X" onclick="openSidebar('VRM_106_Memory Whorl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\149_Phytosaurian Warmaster.jpg" id="VRM_149_Phytosaurian Warmaster" data-flag="@X" onclick="openSidebar('VRM_149_Phytosaurian Warmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\186_Leaf-Blessed Trinket.jpg" id="VRM_186_Leaf-Blessed Trinket" data-flag="@X" onclick="openSidebar('VRM_186_Leaf-Blessed Trinket',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\35_Selfless Skylancer.jpg" id="VRM_35_Selfless Skylancer" data-flag="@X" onclick="openSidebar('VRM_35_Selfless Skylancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\67_Offhand Tarblade.jpg" id="VRM_67_Offhand Tarblade" data-flag="@X" onclick="openSidebar('VRM_67_Offhand Tarblade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\118_Smokeborne Blightflame.jpg" id="VRM_118_Smokeborne Blightflame" data-flag="@X" onclick="openSidebar('VRM_118_Smokeborne Blightflame',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\150_Pyrobolt.jpg" id="VRM_150_Pyrobolt" data-flag="@X" onclick="openSidebar('VRM_150_Pyrobolt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\188_Mass Renewal.jpg" id="VRM_188_Mass Renewal" data-flag="@X" onclick="openSidebar('VRM_188_Mass Renewal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\38_Skysquad Griffin.jpg" id="VRM_38_Skysquad Griffin" data-flag="@X" onclick="openSidebar('VRM_38_Skysquad Griffin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\72_Scalemaker Priest.jpg" id="VRM_72_Scalemaker Priest" data-flag="@X" onclick="openSidebar('VRM_72_Scalemaker Priest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\119_Soaring Bonespikes.jpg" id="VRM_119_Soaring Bonespikes" data-flag="@X" onclick="openSidebar('VRM_119_Soaring Bonespikes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\152_Relentless Phoenix.jpg" id="VRM_152_Relentless Phoenix" data-flag="@X" onclick="openSidebar('VRM_152_Relentless Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\197_Roaming Herbisaur.jpg" id="VRM_197_Roaming Herbisaur" data-flag="@X" onclick="openSidebar('VRM_197_Roaming Herbisaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\39_Soven Elite.jpg" id="VRM_39_Soven Elite" data-flag="@X" onclick="openSidebar('VRM_39_Soven Elite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\74_Shadowdoppel Replication.jpg" id="VRM_74_Shadowdoppel Replication" data-flag="@X" onclick="openSidebar('VRM_74_Shadowdoppel Replication',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\121_Survive Beyond Reason.jpg" id="VRM_121_Survive Beyond Reason" data-flag="@X" onclick="openSidebar('VRM_121_Survive Beyond Reason',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\154_Sharpshot Plunderer.jpg" id="VRM_154_Sharpshot Plunderer" data-flag="@X" onclick="openSidebar('VRM_154_Sharpshot Plunderer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\199_Sly Mawsprouter.jpg" id="VRM_199_Sly Mawsprouter" data-flag="@X" onclick="openSidebar('VRM_199_Sly Mawsprouter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\41_Timely Turn.jpg" id="VRM_41_Timely Turn" data-flag="@X" onclick="openSidebar('VRM_41_Timely Turn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\83_Wizened Deconstruction.jpg" id="VRM_83_Wizened Deconstruction" data-flag="@X" onclick="openSidebar('VRM_83_Wizened Deconstruction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\122_Tenets of Kell.jpg" id="VRM_122_Tenets of Kell" data-flag="@X" onclick="openSidebar('VRM_122_Tenets of Kell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\162_Underground Invader.jpg" id="VRM_162_Underground Invader" data-flag="@X" onclick="openSidebar('VRM_162_Underground Invader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\205_Verdure Bounty.jpg" id="VRM_205_Verdure Bounty" data-flag="@X" onclick="openSidebar('VRM_205_Verdure Bounty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\4_Astral Eye.jpg" id="VRM_4_Astral Eye" data-flag="@X" onclick="openSidebar('VRM_4_Astral Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\44_Alley Shadowdoppel.jpg" id="VRM_44_Alley Shadowdoppel" data-flag="@X" onclick="openSidebar('VRM_44_Alley Shadowdoppel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\87_Blackflame Madwing.jpg" id="VRM_87_Blackflame Madwing" data-flag="@X" onclick="openSidebar('VRM_87_Blackflame Madwing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\125_Active Premonition.jpg" id="VRM_125_Active Premonition" data-flag="@X" onclick="openSidebar('VRM_125_Active Premonition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\169_Bound Groundward.jpg" id="VRM_169_Bound Groundward" data-flag="@X" onclick="openSidebar('VRM_169_Bound Groundward',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\6_Bountiful Provisions.jpg" id="VRM_6_Bountiful Provisions" data-flag="@X" onclick="openSidebar('VRM_6_Bountiful Provisions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\45_Alley Spellthief.jpg" id="VRM_45_Alley Spellthief" data-flag="@X" onclick="openSidebar('VRM_45_Alley Spellthief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\90_Bonecrave Curse.jpg" id="VRM_90_Bonecrave Curse" data-flag="@X" onclick="openSidebar('VRM_90_Bonecrave Curse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\126_Blitz Shimmer.jpg" id="VRM_126_Blitz Shimmer" data-flag="@X" onclick="openSidebar('VRM_126_Blitz Shimmer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\172_Cyclic Witness.jpg" id="VRM_172_Cyclic Witness" data-flag="@X" onclick="openSidebar('VRM_172_Cyclic Witness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\7_Coalition Cadre.jpg" id="VRM_7_Coalition Cadre" data-flag="@X" onclick="openSidebar('VRM_7_Coalition Cadre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\46_Aquatic Abductor.jpg" id="VRM_46_Aquatic Abductor" data-flag="@X" onclick="openSidebar('VRM_46_Aquatic Abductor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\93_Cut Low.jpg" id="VRM_93_Cut Low" data-flag="@X" onclick="openSidebar('VRM_93_Cut Low',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\128_Carnivorous Expansion.jpg" id="VRM_128_Carnivorous Expansion" data-flag="@X" onclick="openSidebar('VRM_128_Carnivorous Expansion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\177_Espratan Blademaster.jpg" id="VRM_177_Espratan Blademaster" data-flag="@X" onclick="openSidebar('VRM_177_Espratan Blademaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\9_Creth Invader.jpg" id="VRM_9_Creth Invader" data-flag="@X" onclick="openSidebar('VRM_9_Creth Invader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\48_Cornered Griffin.jpg" id="VRM_48_Cornered Griffin" data-flag="@X" onclick="openSidebar('VRM_48_Cornered Griffin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\96_Fatal Impalement.jpg" id="VRM_96_Fatal Impalement" data-flag="@X" onclick="openSidebar('VRM_96_Fatal Impalement',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\130_Chaotic Pilferer.jpg" id="VRM_130_Chaotic Pilferer" data-flag="@X" onclick="openSidebar('VRM_130_Chaotic Pilferer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\179_Farsight Farmtender.jpg" id="VRM_179_Farsight Farmtender" data-flag="@X" onclick="openSidebar('VRM_179_Farsight Farmtender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\11_Devout of Elio.jpg" id="VRM_11_Devout of Elio" data-flag="@X" onclick="openSidebar('VRM_11_Devout of Elio',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\52_Dragonborn Timeseer.jpg" id="VRM_52_Dragonborn Timeseer" data-flag="@X" onclick="openSidebar('VRM_52_Dragonborn Timeseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\99_Graveburglar Ossivore.jpg" id="VRM_99_Graveburglar Ossivore" data-flag="@X" onclick="openSidebar('VRM_99_Graveburglar Ossivore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\132_Desperate Crossbolter.jpg" id="VRM_132_Desperate Crossbolter" data-flag="@X" onclick="openSidebar('VRM_132_Desperate Crossbolter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\180_Floraptor Pack.jpg" id="VRM_180_Floraptor Pack" data-flag="@X" onclick="openSidebar('VRM_180_Floraptor Pack',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\12_Enlisted Duo.jpg" id="VRM_12_Enlisted Duo" data-flag="@X" onclick="openSidebar('VRM_12_Enlisted Duo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\56_Forced to Surrender.jpg" id="VRM_56_Forced to Surrender" data-flag="@X" onclick="openSidebar('VRM_56_Forced to Surrender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\100_Illusive Diversion.jpg" id="VRM_100_Illusive Diversion" data-flag="@X" onclick="openSidebar('VRM_100_Illusive Diversion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\134_Dragonborn Cavalry.jpg" id="VRM_134_Dragonborn Cavalry" data-flag="@X" onclick="openSidebar('VRM_134_Dragonborn Cavalry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\181_Grove Verdasaur.jpg" id="VRM_181_Grove Verdasaur" data-flag="@X" onclick="openSidebar('VRM_181_Grove Verdasaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\13_Experienced Battlesmith.jpg" id="VRM_13_Experienced Battlesmith" data-flag="@X" onclick="openSidebar('VRM_13_Experienced Battlesmith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\60_Intelligent Technique.jpg" id="VRM_60_Intelligent Technique" data-flag="@X" onclick="openSidebar('VRM_60_Intelligent Technique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\102_Kellcursed Greatsword.jpg" id="VRM_102_Kellcursed Greatsword" data-flag="@X" onclick="openSidebar('VRM_102_Kellcursed Greatsword',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\143_Green-Ear Ambusher.jpg" id="VRM_143_Green-Ear Ambusher" data-flag="@X" onclick="openSidebar('VRM_143_Green-Ear Ambusher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\183_Herbisaur Duo.jpg" id="VRM_183_Herbisaur Duo" data-flag="@X" onclick="openSidebar('VRM_183_Herbisaur Duo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\14_Faultless Plate.jpg" id="VRM_14_Faultless Plate" data-flag="@X" onclick="openSidebar('VRM_14_Faultless Plate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\61_Kellmight Thoughtcrusher.jpg" id="VRM_61_Kellmight Thoughtcrusher" data-flag="@X" onclick="openSidebar('VRM_61_Kellmight Thoughtcrusher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\103_Kellmight Phoenix.jpg" id="VRM_103_Kellmight Phoenix" data-flag="@X" onclick="openSidebar('VRM_103_Kellmight Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\145_Improved Technique.jpg" id="VRM_145_Improved Technique" data-flag="@X" onclick="openSidebar('VRM_145_Improved Technique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\185_Increasing Strength.jpg" id="VRM_185_Increasing Strength" data-flag="@X" onclick="openSidebar('VRM_185_Increasing Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\17_Heights of Ascension.jpg" id="VRM_17_Heights of Ascension" data-flag="@X" onclick="openSidebar('VRM_17_Heights of Ascension',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\62_Last Recourse.jpg" id="VRM_62_Last Recourse" data-flag="@X" onclick="openSidebar('VRM_62_Last Recourse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\105_Marrow Feaster.jpg" id="VRM_105_Marrow Feaster" data-flag="@X" onclick="openSidebar('VRM_105_Marrow Feaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\147_Lightning Unconstrained.jpg" id="VRM_147_Lightning Unconstrained" data-flag="@X" onclick="openSidebar('VRM_147_Lightning Unconstrained',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\190_Naive Nestling.jpg" id="VRM_190_Naive Nestling" data-flag="@X" onclick="openSidebar('VRM_190_Naive Nestling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\20_Kovekki Knight.jpg" id="VRM_20_Kovekki Knight" data-flag="@X" onclick="openSidebar('VRM_20_Kovekki Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\64_Messenger of Fate.jpg" id="VRM_64_Messenger of Fate" data-flag="@X" onclick="openSidebar('VRM_64_Messenger of Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\107_Message Runner.jpg" id="VRM_107_Message Runner" data-flag="@X" onclick="openSidebar('VRM_107_Message Runner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\148_Optimistic Paladin.jpg" id="VRM_148_Optimistic Paladin" data-flag="@X" onclick="openSidebar('VRM_148_Optimistic Paladin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\191_Path of Evolution.jpg" id="VRM_191_Path of Evolution" data-flag="@X" onclick="openSidebar('VRM_191_Path of Evolution',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\21_Lancer Formation.jpg" id="VRM_21_Lancer Formation" data-flag="@X" onclick="openSidebar('VRM_21_Lancer Formation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\65_Monastery Timeseer.jpg" id="VRM_65_Monastery Timeseer" data-flag="@X" onclick="openSidebar('VRM_65_Monastery Timeseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\108_Mindtwisted Orator.jpg" id="VRM_108_Mindtwisted Orator" data-flag="@X" onclick="openSidebar('VRM_108_Mindtwisted Orator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\155_Slagmutation.jpg" id="VRM_155_Slagmutation" data-flag="@X" onclick="openSidebar('VRM_155_Slagmutation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\193_Phytosaurian Trainer.jpg" id="VRM_193_Phytosaurian Trainer" data-flag="@X" onclick="openSidebar('VRM_193_Phytosaurian Trainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\22_Lattice of Cleansing.jpg" id="VRM_22_Lattice of Cleansing" data-flag="@X" onclick="openSidebar('VRM_22_Lattice of Cleansing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\68_Plan in Advance.jpg" id="VRM_68_Plan in Advance" data-flag="@X" onclick="openSidebar('VRM_68_Plan in Advance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\110_Preposterous Prophecy.jpg" id="VRM_110_Preposterous Prophecy" data-flag="@X" onclick="openSidebar('VRM_110_Preposterous Prophecy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\156_Snowpeak Timeseer.jpg" id="VRM_156_Snowpeak Timeseer" data-flag="@X" onclick="openSidebar('VRM_156_Snowpeak Timeseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\195_Rampaging Phytosaur.jpg" id="VRM_195_Rampaging Phytosaur" data-flag="@X" onclick="openSidebar('VRM_195_Rampaging Phytosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\24_Midnight Alarm.jpg" id="VRM_24_Midnight Alarm" data-flag="@X" onclick="openSidebar('VRM_24_Midnight Alarm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\69_Reexamine Fate.jpg" id="VRM_69_Reexamine Fate" data-flag="@X" onclick="openSidebar('VRM_69_Reexamine Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\111_Priest of Gologo.jpg" id="VRM_111_Priest of Gologo" data-flag="@X" onclick="openSidebar('VRM_111_Priest of Gologo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\157_Spectral Slammer.jpg" id="VRM_157_Spectral Slammer" data-flag="@X" onclick="openSidebar('VRM_157_Spectral Slammer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\198_Sight Sifter.jpg" id="VRM_198_Sight Sifter" data-flag="@X" onclick="openSidebar('VRM_198_Sight Sifter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\25_Nu'Ul's Conclusion.jpg" id="VRM_25_NuUls Conclusion" data-flag="@X" onclick="openSidebar('VRM_25_NuUls Conclusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\70_Sanctimonious Revelation.jpg" id="VRM_70_Sanctimonious Revelation" data-flag="@X" onclick="openSidebar('VRM_70_Sanctimonious Revelation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\112_Pyrrhic Conquest.jpg" id="VRM_112_Pyrrhic Conquest" data-flag="@X" onclick="openSidebar('VRM_112_Pyrrhic Conquest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\158_Temple Desecration.jpg" id="VRM_158_Temple Desecration" data-flag="@X" onclick="openSidebar('VRM_158_Temple Desecration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\200_Strength of Mind.jpg" id="VRM_200_Strength of Mind" data-flag="@X" onclick="openSidebar('VRM_200_Strength of Mind',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\27_Patronic Gift.jpg" id="VRM_27_Patronic Gift" data-flag="@X" onclick="openSidebar('VRM_27_Patronic Gift',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\71_Scalemaker Initiate.jpg" id="VRM_71_Scalemaker Initiate" data-flag="@X" onclick="openSidebar('VRM_71_Scalemaker Initiate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\113_Ragehorn Champion.jpg" id="VRM_113_Ragehorn Champion" data-flag="@X" onclick="openSidebar('VRM_113_Ragehorn Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\159_Thundering Berserker.jpg" id="VRM_159_Thundering Berserker" data-flag="@X" onclick="openSidebar('VRM_159_Thundering Berserker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\201_Thundering Grenisaur.jpg" id="VRM_201_Thundering Grenisaur" data-flag="@X" onclick="openSidebar('VRM_201_Thundering Grenisaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\30_Rhinoback Lancer.jpg" id="VRM_30_Rhinoback Lancer" data-flag="@X" onclick="openSidebar('VRM_30_Rhinoback Lancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\73_Scan Through Fate.jpg" id="VRM_73_Scan Through Fate" data-flag="@X" onclick="openSidebar('VRM_73_Scan Through Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\114_Ragehorn Raider.jpg" id="VRM_114_Ragehorn Raider" data-flag="@X" onclick="openSidebar('VRM_114_Ragehorn Raider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\160_Trumpeting Terroraptor.jpg" id="VRM_160_Trumpeting Terroraptor" data-flag="@X" onclick="openSidebar('VRM_160_Trumpeting Terroraptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\202_Titanic Warbow.jpg" id="VRM_202_Titanic Warbow" data-flag="@X" onclick="openSidebar('VRM_202_Titanic Warbow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\31_Riderless Skyknight.jpg" id="VRM_31_Riderless Skyknight" data-flag="@X" onclick="openSidebar('VRM_31_Riderless Skyknight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\77_Territorial Hardclaw.jpg" id="VRM_77_Territorial Hardclaw" data-flag="@X" onclick="openSidebar('VRM_77_Territorial Hardclaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\115_Respectful Gravewatcher.jpg" id="VRM_115_Respectful Gravewatcher" data-flag="@X" onclick="openSidebar('VRM_115_Respectful Gravewatcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\163_Uninformed Ingenuity.jpg" id="VRM_163_Uninformed Ingenuity" data-flag="@X" onclick="openSidebar('VRM_163_Uninformed Ingenuity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\203_Tower Warden.jpg" id="VRM_203_Tower Warden" data-flag="@X" onclick="openSidebar('VRM_203_Tower Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\32_Savanna Stalwart.jpg" id="VRM_32_Savanna Stalwart" data-flag="@X" onclick="openSidebar('VRM_32_Savanna Stalwart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\79_Unrefined Dronewing.jpg" id="VRM_79_Unrefined Dronewing" data-flag="@X" onclick="openSidebar('VRM_79_Unrefined Dronewing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\120_Squire of Kalamax.jpg" id="VRM_120_Squire of Kalamax" data-flag="@X" onclick="openSidebar('VRM_120_Squire of Kalamax',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\164_Urgent Excavation.jpg" id="VRM_164_Urgent Excavation" data-flag="@X" onclick="openSidebar('VRM_164_Urgent Excavation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\204_Track Home.jpg" id="VRM_204_Track Home" data-flag="@X" onclick="openSidebar('VRM_204_Track Home',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\36_Selorian Hallower.jpg" id="VRM_36_Selorian Hallower" data-flag="@X" onclick="openSidebar('VRM_36_Selorian Hallower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\80_Wardshell Lobster.jpg" id="VRM_80_Wardshell Lobster" data-flag="@X" onclick="openSidebar('VRM_80_Wardshell Lobster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\124_Ushatan Lifesapper.jpg" id="VRM_124_Ushatan Lifesapper" data-flag="@X" onclick="openSidebar('VRM_124_Ushatan Lifesapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\165_Voracious Woodcrasher.jpg" id="VRM_165_Voracious Woodcrasher" data-flag="@X" onclick="openSidebar('VRM_165_Voracious Woodcrasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\206_Wound Prey.jpg" id="VRM_206_Wound Prey" data-flag="@X" onclick="openSidebar('VRM_206_Wound Prey',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\236_Selor, Ascension's Achievement.jpg" id="VRM_236_Selor, Ascensions Achievement" data-flag="@X" onclick="openSidebar('VRM_236_Selor, Ascensions Achievement',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\226_Ban'Est, Fate's Augur.jpg" id="VRM_226_BanEst, Fates Augur" data-flag="@X" onclick="openSidebar('VRM_226_BanEst, Fates Augur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\232_Kell, Madness' Spiral.jpg" id="VRM_232_Kell, Madness Spiral" data-flag="@X" onclick="openSidebar('VRM_232_Kell, Madness Spiral',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\235_Phaetilis, Discovery's Idol.jpg" id="VRM_235_Phaetilis, Discoverys Idol" data-flag="@X" onclick="openSidebar('VRM_235_Phaetilis, Discoverys Idol',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\237_Will, Life's Beginning.jpg" id="VRM_237_Will, Lifes Beginning" data-flag="@X" onclick="openSidebar('VRM_237_Will, Lifes Beginning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\233_Kneel Before Order.jpg" id="VRM_233_Kneel Before Order" data-flag="@X" onclick="openSidebar('VRM_233_Kneel Before Order',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\228_Dreadful Future.jpg" id="VRM_228_Dreadful Future" data-flag="@X" onclick="openSidebar('VRM_228_Dreadful Future',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\220_Kell's Invocation.jpg" id="VRM_220_Kells Invocation" data-flag="@X" onclick="openSidebar('VRM_220_Kells Invocation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\213_Diophine, Undiscovered Tyrant.jpg" id="VRM_213_Diophine, Undiscovered Tyrant" data-flag="@X" onclick="openSidebar('VRM_213_Diophine, Undiscovered Tyrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\214_Effen, Nexen Trainer.jpg" id="VRM_214_Effen, Nexen Trainer" data-flag="@X" onclick="openSidebar('VRM_214_Effen, Nexen Trainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\223_Selor's Invocation.jpg" id="VRM_223_Selors Invocation" data-flag="@X" onclick="openSidebar('VRM_223_Selors Invocation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\224_Skysoaring Fatethief.jpg" id="VRM_224_Skysoaring Fatethief" data-flag="@X" onclick="openSidebar('VRM_224_Skysoaring Fatethief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\212_Desperate Stampede.jpg" id="VRM_212_Desperate Stampede" data-flag="@X" onclick="openSidebar('VRM_212_Desperate Stampede',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\209_Bloodleaf Vinespine.jpg" id="VRM_209_Bloodleaf Vinespine" data-flag="@X" onclick="openSidebar('VRM_209_Bloodleaf Vinespine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\211_Cyclic Advantage.jpg" id="VRM_211_Cyclic Advantage" data-flag="@X" onclick="openSidebar('VRM_211_Cyclic Advantage',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\234_Nu'Ul, Cycles' End.jpg" id="VRM_234_NuUl, Cycles End" data-flag="@X" onclick="openSidebar('VRM_234_NuUl, Cycles End',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\231_Haestor, Destiny's Chaos.jpg" id="VRM_231_Haestor, Destinys Chaos" data-flag="@X" onclick="openSidebar('VRM_231_Haestor, Destinys Chaos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\230_Gologo, Repetition's Catalyst.jpg" id="VRM_230_Gologo, Repetitions Catalyst" data-flag="@X" onclick="openSidebar('VRM_230_Gologo, Repetitions Catalyst',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\229_Elio, Originality's Ideal.jpg" id="VRM_229_Elio, Originalitys Ideal" data-flag="@X" onclick="openSidebar('VRM_229_Elio, Originalitys Ideal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\215_Escrylla, Ocean's Terror.jpg" id="VRM_215_Escrylla, Oceans Terror" data-flag="@X" onclick="openSidebar('VRM_215_Escrylla, Oceans Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\222_Nu'Ul's Invocation.jpg" id="VRM_222_NuUls Invocation" data-flag="@X" onclick="openSidebar('VRM_222_NuUls Invocation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\227_Disorderstone.jpg" id="VRM_227_Disorderstone" data-flag="@X" onclick="openSidebar('VRM_227_Disorderstone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\217_Gologo's Invocation.jpg" id="VRM_217_Gologos Invocation" data-flag="@X" onclick="openSidebar('VRM_217_Gologos Invocation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\207_Arston, Blessed by Timesight.jpg" id="VRM_207_Arston, Blessed by Timesight" data-flag="@X" onclick="openSidebar('VRM_207_Arston, Blessed by Timesight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\225_A'Aka, Observation's Evolution.jpg" id="VRM_225_AAka, Observations Evolution" data-flag="@X" onclick="openSidebar('VRM_225_AAka, Observations Evolution',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\210_Ciphered Spellbook.jpg" id="VRM_210_Ciphered Spellbook" data-flag="@X" onclick="openSidebar('VRM_210_Ciphered Spellbook',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\219_Haestor's Invocation.jpg" id="VRM_219_Haestors Invocation" data-flag="@X" onclick="openSidebar('VRM_219_Haestors Invocation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\221_Necrotic Loop.jpg" id="VRM_221_Necrotic Loop" data-flag="@X" onclick="openSidebar('VRM_221_Necrotic Loop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\208_Blistering Invasion.jpg" id="VRM_208_Blistering Invasion" data-flag="@X" onclick="openSidebar('VRM_208_Blistering Invasion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\218_Guise of Ignorance.jpg" id="VRM_218_Guise of Ignorance" data-flag="@X" onclick="openSidebar('VRM_218_Guise of Ignorance',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\216_Evolving Growth.jpg" id="VRM_216_Evolving Growth" data-flag="@X" onclick="openSidebar('VRM_216_Evolving Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\246_Sigil of the Vellon.jpg" id="VRM_246_Sigil of the Vellon" data-flag="@X" onclick="openSidebar('VRM_246_Sigil of the Vellon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\248_Soulbinder's Gem.jpg" id="VRM_248_Soulbinders Gem" data-flag="@X" onclick="openSidebar('VRM_248_Soulbinders Gem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\238_Animae Colossus.jpg" id="VRM_238_Animae Colossus" data-flag="@X" onclick="openSidebar('VRM_238_Animae Colossus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\240_Elio's Crest.jpg" id="VRM_240_Elios Crest" data-flag="@X" onclick="openSidebar('VRM_240_Elios Crest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\241_Explorer's Assistant.jpg" id="VRM_241_Explorers Assistant" data-flag="@X" onclick="openSidebar('VRM_241_Explorers Assistant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\243_Herbhammer.jpg" id="VRM_243_Herbhammer" data-flag="@X" onclick="openSidebar('VRM_243_Herbhammer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\244_Historian's Crypt.jpg" id="VRM_244_Historians Crypt" data-flag="@X" onclick="openSidebar('VRM_244_Historians Crypt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\247_Sleepless Protector.jpg" id="VRM_247_Sleepless Protector" data-flag="@X" onclick="openSidebar('VRM_247_Sleepless Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\249_Stonewing Animae.jpg" id="VRM_249_Stonewing Animae" data-flag="@X" onclick="openSidebar('VRM_249_Stonewing Animae',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\1_Farsight Delusion.jpg" id="VRM_1_Farsight Delusion" data-flag="@X" onclick="openSidebar('VRM_1_Farsight Delusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\239_Crossbolt Animae.jpg" id="VRM_239_Crossbolt Animae" data-flag="@X" onclick="openSidebar('VRM_239_Crossbolt Animae',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\242_Explorer's Chart.jpg" id="VRM_242_Explorers Chart" data-flag="@X" onclick="openSidebar('VRM_242_Explorers Chart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\245_Mischievous Shine-Thief.jpg" id="VRM_245_Mischievous Shine-Thief" data-flag="@X" onclick="openSidebar('VRM_245_Mischievous Shine-Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\250_Unexpected Evidence.jpg" id="VRM_250_Unexpected Evidence" data-flag="@X" onclick="openSidebar('VRM_250_Unexpected Evidence',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\262_Time-Rich Lake.jpg" id="VRM_262_Time-Rich Lake" data-flag="@X" onclick="openSidebar('VRM_262_Time-Rich Lake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\264_Wreckage-Rich Shore.jpg" id="VRM_264_Wreckage-Rich Shore" data-flag="@X" onclick="openSidebar('VRM_264_Wreckage-Rich Shore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\259_Ore-Rich Chasm.jpg" id="VRM_259_Ore-Rich Chasm" data-flag="@X" onclick="openSidebar('VRM_259_Ore-Rich Chasm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\257_Life-Rich Grove.jpg" id="VRM_257_Life-Rich Grove" data-flag="@X" onclick="openSidebar('VRM_257_Life-Rich Grove',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\258_Nutrient-Rich Farmland.jpg" id="VRM_258_Nutrient-Rich Farmland" data-flag="@X" onclick="openSidebar('VRM_258_Nutrient-Rich Farmland',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\252_Bone-Rich Graveyard.jpg" id="VRM_252_Bone-Rich Graveyard" data-flag="@X" onclick="openSidebar('VRM_252_Bone-Rich Graveyard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\261_Storm-Rich Peak.jpg" id="VRM_261_Storm-Rich Peak" data-flag="@X" onclick="openSidebar('VRM_261_Storm-Rich Peak',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\256_Iron-Rich Bog.jpg" id="VRM_256_Iron-Rich Bog" data-flag="@X" onclick="openSidebar('VRM_256_Iron-Rich Bog',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\251_Blood-Rich Field.jpg" id="VRM_251_Blood-Rich Field" data-flag="@X" onclick="openSidebar('VRM_251_Blood-Rich Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\255_Food-Rich Reef.jpg" id="VRM_255_Food-Rich Reef" data-flag="@X" onclick="openSidebar('VRM_255_Food-Rich Reef',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\253_Edasa, Spire of Parfolus.jpg" id="VRM_253_Edasa, Spire of Parfolus" data-flag="@X" onclick="openSidebar('VRM_253_Edasa, Spire of Parfolus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\254_Fek'Roth, School of the Arcane.jpg" id="VRM_254_FekRoth, School of the Arcane" data-flag="@X" onclick="openSidebar('VRM_254_FekRoth, School of the Arcane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\260_Pretransmuted Ground.jpg" id="VRM_260_Pretransmuted Ground" data-flag="@X" onclick="openSidebar('VRM_260_Pretransmuted Ground',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\263_Trade-Rich Lighthouse.jpg" id="VRM_263_Trade-Rich Lighthouse" data-flag="@X" onclick="openSidebar('VRM_263_Trade-Rich Lighthouse',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\265_Plains.jpg" id="VRM_265_Plains" data-flag="@X" onclick="openSidebar('VRM_265_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\266_Island.jpg" id="VRM_266_Island" data-flag="@X" onclick="openSidebar('VRM_266_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\267_Swamp.jpg" id="VRM_267_Swamp" data-flag="@X" onclick="openSidebar('VRM_267_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\268_Mountain.jpg" id="VRM_268_Mountain" data-flag="@X" onclick="openSidebar('VRM_268_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\269_Forest.jpg" id="VRM_269_Forest" data-flag="@X" onclick="openSidebar('VRM_269_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\6t_Clue.jpg" id="VRM_6t_Clue" data-flag="@X" onclick="openSidebar('VRM_6t_Clue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\7t_Treasure.jpg" id="VRM_7t_Treasure" data-flag="@X" onclick="openSidebar('VRM_7t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\8t_Wolanne, Royal Protector.jpg" id="VRM_8t_Wolanne, Royal Protector" data-flag="@X" onclick="openSidebar('VRM_8t_Wolanne, Royal Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\1t_Knight.jpg" id="VRM_1t_Knight" data-flag="@X" onclick="openSidebar('VRM_1t_Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\2t_Bird Illusion.jpg" id="VRM_2t_Bird Illusion" data-flag="@X" onclick="openSidebar('VRM_2t_Bird Illusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\3t_Skeleton.jpg" id="VRM_3t_Skeleton" data-flag="@X" onclick="openSidebar('VRM_3t_Skeleton',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\4t_Illusion.jpg" id="VRM_4t_Illusion" data-flag="@X" onclick="openSidebar('VRM_4t_Illusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VRM-files\img\5t_Plant Dinosaur.jpg" id="VRM_5t_Plant Dinosaur" data-flag="@X" onclick="openSidebar('VRM_5t_Plant Dinosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VRM_e" data-flag="@E" onclick="openSidebar('VRM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VRM_er" data-flag="@E" onclick="openSidebar('VRM_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>
