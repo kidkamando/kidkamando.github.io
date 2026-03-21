@@ -1,4 +1,28 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Kell's Invocation
+rules_text: Choose one — 
+• Kell's Invocation deals 1 damage to target player for each permanent card in their graveyard.
+• RM01 deals damage to target player equal to 7 minus the number of cards in their hand. => Choose one — 
+• Kell's Invocation deals 1 damage to target player for each permanent card in their graveyard.
+• Kell's Invocation deals damage to target player equal to 7 minus the number of cards in their hand.
+
+
+VERSION 3 CHANGELOG
+====================
+
+
+
+Dragonborn Timeseer
+pt:  => 1/1
+
+Foreign Lieutenant
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

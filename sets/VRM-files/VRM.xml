@@ -5,7 +5,7 @@
 			<name>VRM</name>
 			<longname>Velesta ReMade</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-19</releasedate>
+			<releasedate>2026-03-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -625,6 +625,7 @@ Bountiful — As long as you are Bountiful, this creature gets +2/+2.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3666,7 +3667,7 @@ Renew — {W}{U}, Exile this card from your graveyard: You gain 3 life.</text>
 			<name>Kell&apos;s Invocation</name>
 			<text>Choose one — 
 • Kell&apos;s Invocation deals 1 damage to target player for each permanent card in their graveyard.
-• RM01 deals damage to target player equal to 7 minus the number of cards in their hand.</text>
+• Kell&apos;s Invocation deals damage to target player equal to 7 minus the number of cards in their hand.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/220_Kell&apos;s Invocation.jpg" num="220">VRM</set>
 			<prop>
 				<layout>normal</layout>

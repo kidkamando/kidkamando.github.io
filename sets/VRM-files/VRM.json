@@ -627,7 +627,7 @@
             "cost": "{1}{U}",
             "rules_text": "When this creature enters, scry 2, then predict 1. [i](Exile the top card of your library. You may play it this turn and it costs {1} less. At the beginning of your end step, shuffle all remaining cards exiled this way into your library.)[/i]",
             "flavor_text": "[i]The line of Uvathkolsil was blessed with the deity's foresight, imperfect as it was.[/i]",
-            "pt": "",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "VRM",
@@ -1760,7 +1760,7 @@
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "You are [/i][i]Bountiful[/i][i]. [i](You are [i]Bountiful[/i] even if you don't have five or more cards in your hand.)[/i]\nToken creatures you control get +1/+1.",
-            "flavor_text": "[i]\u201cHail, Sunheart. I come from Nexos, here to aid you so you may yet aid us.\u201d[/i]",
+            "flavor_text": "[i]\u201cHail, Sunheart. I come from Nexos, here to aid you so you may yet aid us.\u201d [/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -3739,7 +3739,7 @@
             "number": 220,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "Choose one \u2014 \n\u2022 Kell's Invocation deals 1 damage to target player for each permanent card in their graveyard.\n\u2022 RM01 deals damage to target player equal to 7 minus the number of cards in their hand.",
+            "rules_text": "Choose one \u2014 \n\u2022 Kell's Invocation deals 1 damage to target player for each permanent card in their graveyard.\n\u2022 Kell's Invocation deals damage to target player equal to 7 minus the number of cards in their hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4917,7 +4917,7 @@
             "set": "VRM",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Island",
@@ -4935,7 +4935,7 @@
             "set": "VRM",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Swamp",
@@ -4953,7 +4953,7 @@
             "set": "VRM",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Mountain",
@@ -4971,7 +4971,7 @@
             "set": "VRM",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         },
         {
             "card_name": "Forest",
@@ -4989,8 +4989,8 @@
             "set": "VRM",
             "loyalty": "",
             "artist": "",
-            "notes": ""
+            "notes": "!landslot"
         }
     ],
-    "version": 2
+    "version": 4
 }
