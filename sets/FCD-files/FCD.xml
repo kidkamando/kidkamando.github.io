@@ -5,7 +5,7 @@
 			<name>FCD</name>
 			<longname>Fractured Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-23</releasedate>
+			<releasedate>2026-03-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -100,7 +100,7 @@ Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this
 			<name>Overburdened Packbot</name>
 			<text>This spell costs {1} less to cast for each creature you control.
 When Overburdened Packbot enters, draw a card.
-Warp {4}{W}{W} (You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {4}{W}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/18_Overburdened Packbot.jpg" num="18">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -365,7 +365,7 @@ Draw two cards, then discard a card. If this spell was kicked, draw three cards 
 		<card>
 			<name>Voidchasm Emergence</name>
 			<text>When this enchantment enters, draw two cards, then discard a card. Then if this spell was cast from exile, create two 1/1 blue and black Horror creature tokens with &quot;Whenever one or more cards an opponent owns enters exile, put a +1/+1 counter on this creature.&quot;
-Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/78_Voidchasm Emergence.jpg" num="78">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -701,7 +701,7 @@ When this creature enters, target opponent discards a card.</text>
 		<card>
 			<name>Unak&apos;s Tragic Descent</name>
 			<text>When this enchantment enters, target creature gets -2/-2 until end of turn. Then if this spell was cast from exile, draw a card and you lose 1 life.
-Warp {B} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/118_Unak&apos;s Tragic Descent.jpg" num="118">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -971,7 +971,7 @@ When Corruptive Rebirth enters, until end of turn target creature you control ga
 		<card>
 			<name>Stabilized Darklight</name>
 			<text>When this artifact enters, you may discard a card. When you do, draw two cards.
-Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/157_Stabilized Darklight.jpg" num="157">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1291,7 +1291,7 @@ Warp {2}{R} (You may cast this card from your hand for its warp cost. Exile this
 			<text>When this enchantment enters, choose one — 
 • Search your library for a basic land or Planet card, put it into your hand, then shuffle.
 • Put a land from your hand onto the battlefield tapped.
-Warp {G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/FCD-files/img/164_Accelerated Terraformation.jpg" num="164">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2123,7 +2123,7 @@ Burn — {1}, {T}, Put a card from among this permanent&apos;s fuel into your gr
 		<card>
 			<name>Uncovered Worlds</name>
 			<text>When this enchantment enters, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
-Warp {2}{R}{R} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {2}{R}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/161_Uncovered Worlds.jpg" num="161">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3298,7 +3298,7 @@ Whenever an opponent draws their second card each turn, they lose 3 life.</text>
 		<card>
 			<name>Bloodbraid Darkwurm</name>
 			<text>Haste
-When this creature enters, discover X plus 2 (To discover X plus 2, exile cards from the top of your library until you exile a nonland card with mana value X plus 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+When this creature enters, if you cast it from your hand, discover X plus 2 (To discover X plus 2, exile cards from the top of your library until you exile a nonland card with mana value X plus 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/207_Bloodbraid Darkwurm.jpg" num="207">FCD</set>
 			<prop>
 				<layout>normal</layout>

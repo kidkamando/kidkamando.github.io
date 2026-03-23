@@ -1,4 +1,51 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Overburdened Packbot
+rules_text: This spell costs {1} less to cast for each creature you control.
+When Overburdened Packbot enters, draw a card.
+Warp {4}{W}{W} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => This spell costs {1} less to cast for each creature you control.
+When Overburdened Packbot enters, draw a card.
+Warp {4}{W}{W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Voidchasm Emergence
+rules_text: When this enchantment enters, draw two cards, then discard a card. Then if this spell was cast from exile, create two 1/1 blue and black Horror creature tokens with “Whenever one or more cards an opponent owns enters exile, put a +1/+1 counter on this creature.”
+Warp {1}{U} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this enchantment enters, draw two cards, then discard a card. Then if this spell was cast from exile, create two 1/1 blue and black Horror creature tokens with “Whenever one or more cards an opponent owns enters exile, put a +1/+1 counter on this creature.”
+Warp {1}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Unak's Tragic Descent
+rules_text: When this enchantment enters, target creature gets -2/-2 until end of turn. Then if this spell was cast from exile, draw a card and you lose 1 life.
+Warp {B} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this enchantment enters, target creature gets -2/-2 until end of turn. Then if this spell was cast from exile, draw a card and you lose 1 life.
+Warp {B} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Stabilized Darklight
+rules_text: When this artifact enters, you may discard a card. When you do, draw two cards.
+Warp {1}{R} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this artifact enters, you may discard a card. When you do, draw two cards.
+Warp {1}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Accelerated Terraformation
+rules_text: When this enchantment enters, choose one — 
+• Search your library for a basic land or Planet card, put it into your hand, then shuffle.
+• Put a land from your hand onto the battlefield tapped.
+Warp {G} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this enchantment enters, choose one — 
+• Search your library for a basic land or Planet card, put it into your hand, then shuffle.
+• Put a land from your hand onto the battlefield tapped.
+Warp {G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Uncovered Worlds
+rules_text: When this enchantment enters, discover 5. [i](Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Warp {2}{R}{R} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this enchantment enters, discover 5. [i](Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Warp {2}{R}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Bloodbraid Darkwurm
+rules_text: Haste
+When this creature enters, discover X plus 2 [i](To discover X plus 2, exile cards from the top of your library until you exile a nonland card with mana value X plus 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i] => Haste
+When this creature enters, if you cast it from your hand, discover X plus 2 [i](To discover X plus 2, exile cards from the top of your library until you exile a nonland card with mana value X plus 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

@@ -1,4 +1,15 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Veiled Scholar
+rules_text: Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you discard a card, target creature you don't control gets -2/-0 until end of turn. Then if its power is 0, destroy it. => Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you discard a card, target creature you don't control gets -2/-0 until end of turn. Then if its power is 0 or less, destroy it.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

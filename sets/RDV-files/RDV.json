@@ -5225,7 +5225,7 @@
             "number": 236,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you discard a card, target creature you don't control gets -2/-0 until end of turn. Then if its power is 0, destroy it.",
+            "rules_text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you discard a card, target creature you don't control gets -2/-0 until end of turn. Then if its power is 0 or less, destroy it.",
             "flavor_text": "[i]\u201cLook, Dolly! I'm doing it, just like you taught me! Do you think we'll ever get to show mama how much I've learned? You think she already knows? Really?! I hope you're right.\u201d \u2014 Lisa[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5696,5 +5696,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

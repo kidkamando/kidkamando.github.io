@@ -5,7 +5,7 @@
 			<name>RDV</name>
 			<longname>Runeterra Divided</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-23</releasedate>
+			<releasedate>2026-03-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5110,7 +5110,7 @@ When Scattered Husk dies, target creature you don&apos;t control gets -2/-0 unti
 		<card>
 			<name>Veiled Scholar</name>
 			<text>Instant and sorcery spells you cast cost {1} less to cast.
-Whenever you discard a card, target creature you don&apos;t control gets -2/-0 until end of turn. Then if its power is 0, destroy it.</text>
+Whenever you discard a card, target creature you don&apos;t control gets -2/-0 until end of turn. Then if its power is 0 or less, destroy it.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/RDV-files/img/236_Veiled Scholar.jpg" num="236">RDV</set>
 			<prop>
 				<layout>normal</layout>
