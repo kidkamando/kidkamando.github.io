@@ -1,4 +1,41 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Countdown to Destruction
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Destroy all creatures.
+Create two 1/1 black Villain Minion creature tokens.
+II — Return target creature from a graveyard to the battlefield under your control.
+III — If each opponent controls no Heroes, you win the game. Otherwise, draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Destroy all creatures.
+Create two 1/1 black Villain Minion creature tokens.
+Return target creature from a graveyard to the battlefield under your control.
+If each opponent controls no Heroes, you win the game. Otherwise, draw two cards.
+
+The Legendary War
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may discard up to three cards. If you do, draw that many cards.
+II — The Legendary War deals 2 damage to each creature and each opponent.
+III — Put a creature, Zord, or Megazord from your hand onto the battlefield. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You may discard up to three cards. If you do, draw that many cards.
+The Legendary War deals 2 damage to each creature and each opponent.
+Put a creature, Zord, or Megazord from your hand onto the battlefield. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+
+Kat Manx, Delta Designer
+
+Release of the Galactabeasts
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target artifact or enchantment.
+II — You gain 1 life for each creature you control.
+III — You may transform target creature or Zord you control. If you don't, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target artifact or enchantment.
+You gain 1 life for each creature you control.
+You may transform target creature or Zord you control. If you don't, draw a card.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

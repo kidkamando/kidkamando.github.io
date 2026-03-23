@@ -5,7 +5,7 @@
 			<name>PWR</name>
 			<longname>Power Rangers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-23</releasedate>
+			<releasedate>2026-03-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -6731,7 +6731,7 @@ Tails — Return target creature card with lesser mana value from your graveyard
 		<card>
 			<name>Kat Manx, SPD Kat Ranger</name>
 			<text>First strike, vigilance
-{T}: Return target artifact you control to its owner&apos;s hand. Put an artifact from your hand onto the battlefield.
+{T}: Return target artifact you control to its owner&apos;s hand and put an artifact from your hand onto the battlefield.
 Time Limit — At the beginning of your end step, transform Kat Manx.
 ---
 (Front): Kat Manx, Delta Designer</text>
