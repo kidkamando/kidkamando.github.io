@@ -5,7 +5,7 @@
 			<name>VRM</name>
 			<longname>Velesta ReMade</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-20</releasedate>
+			<releasedate>2026-03-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3192,7 +3192,7 @@ Other green creatures you control get +1/+1.
 		<card>
 			<name>Impending Verdasaur</name>
 			<text>As long as Impending Verdasaur is a spell, the next spell each opponent would cast costs {2} more to cast.
-Discover 10, discover 8, discover 6. (To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+When you cast Impending Verdasaur, if you spent mana to cast it, discover 10, discover 8, discover 6. (To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/184_Impending Verdasaur.jpg" num="184">VRM</set>
 			<prop>
 				<layout>normal</layout>

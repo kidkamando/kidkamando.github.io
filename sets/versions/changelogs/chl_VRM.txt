@@ -1,4 +1,15 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Impending Verdasaur
+rules_text: As long as Impending Verdasaur is a spell, the next spell each opponent would cast costs {2} more to cast.
+Discover 10, discover 8, discover 6. [i](To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i] => As long as Impending Verdasaur is a spell, the next spell each opponent would cast costs {2} more to cast.
+When you cast Impending Verdasaur, if you spent mana to cast it, discover 10, discover 8, discover 6. [i](To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
