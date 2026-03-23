@@ -914,7 +914,7 @@ Renew — {3}{B}, Exile this card from your graveyard: Return target creature ca
 		<card>
 			<name>Mindtwisted Orator</name>
 			<text>Lifelink
-Renew — {4}{B}: Target opponent discards a card.</text>
+Renew — {4}{B}, Exile this card from your graveyard: Target opponent discards a card.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/VRM-files/img/108_Mindtwisted Orator.jpg" num="108">VRM</set>
 			<prop>
 				<layout>normal</layout>

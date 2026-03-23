@@ -1,4 +1,15 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Mindtwisted Orator
+rules_text: Lifelink
+[i]Renew[/i] — {4}{B}: Target opponent discards a card. => Lifelink
+[i]Renew[/i] — {4}{B}, Exile this card from your graveyard: Target opponent discards a card.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
