@@ -1,6 +1,6 @@
 ﻿{
     "name": "Velesta ReMade",
-    "formats": "Standard,Eternal,Commander,VRM",
+    "formats": "Standard,Eternal,Commander,BVEL",
     "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
@@ -2025,7 +2025,7 @@
             "card_name": "Griffinrider Skymage",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Griffin Socerer",
+            "type": "Creature \u2014 Human Griffin Sorcerer",
             "number": 57,
             "color_identity": "U",
             "cost": "{U}",

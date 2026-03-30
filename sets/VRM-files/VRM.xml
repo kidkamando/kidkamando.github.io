@@ -2001,7 +2001,7 @@ Griffinrider Skymage enters tapped with four stun counters on it. (If a permanen
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Griffin Socerer</type>
+				<type>Creature — Human Griffin Sorcerer</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>

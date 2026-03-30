@@ -1,4 +1,13 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Griffinrider Skymage
+type: Creature — Human Griffin Socerer => Creature — Human Griffin Sorcerer
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
