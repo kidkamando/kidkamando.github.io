@@ -5,7 +5,7 @@
 			<name>VRM</name>
 			<longname>Velesta ReMade</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-22</releasedate>
+			<releasedate>2026-03-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3050,7 +3050,7 @@ Other red creatures you control get +1/+1.
 		</card>
 		<card>
 			<name>Go Big or Go Home</name>
-			<text>Desperate — At the beginning of your upkeep, exile the top card of your library. As long as you are Desperate, exile the top two cards of your library instead. You may each play card exiled this way this turn. (You are Desperate as long as you have no cards in your hand.)</text>
+			<text>Desperate — At the beginning of your upkeep, exile the top card of your library. As long as you are Desperate, exile the top two cards of your library instead. You may play each card exiled this way this turn. (You are Desperate as long as you have no cards in your hand.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/VRM-files/img/142_Go Big or Go Home.jpg" num="142">VRM</set>
 			<prop>
 				<layout>normal</layout>
