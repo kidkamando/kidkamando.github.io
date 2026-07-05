@@ -8,7 +8,7 @@
         {
             "set_code": "FCD",
             "set_name": "Fractured Darkness",
-            "formats": "Standard,Eternal,Commander,LSL"
+            "formats": "Standard,Eternal,Commander,SLC"
         },
         {
             "set_code": "LSL",
@@ -64,6 +64,11 @@
             "set_code": "VWT",
             "set_name": "Velesta Wartorn",
             "formats": "Eternal,Commander,VBC"
+        },
+        {
+            "set_code": "YDM",
+            "set_name": "YuGiOh! Duel Monsters",
+            "formats": "Standard,Eternal,Commander,YGO"
         }
     ]
 }

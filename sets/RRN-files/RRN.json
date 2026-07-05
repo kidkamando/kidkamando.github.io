@@ -1,8 +1,8 @@
 ﻿{
     "name": "Runeterra in Ruination",
-    "formats": "Standard,Eternal,Commander,RRI",
+    "formats": "",
     "trimmed": "n",
-    "image_type": "jpg",
+    "image_type": "png",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -4302,7 +4302,7 @@
             "rules_text": "Whenever a creature enters the battlefield under your control, choose one. Creatures you control gain the chosen ability until end of turn \u2014 \n\u2022 Vigilance\n\u2022 Lifelink",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]\nFlash [i](You may cast this spell any time you could cast an instant.)[/i]\nWhen this Saga enters, for each spell, create a 1/1 white Spirit creature token with \u201c{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\u201d\nCreatures you control get +1/+1 for each other creature you control.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]\nI \u2014 Create a 1/1 white Spirit creature token with \u201c{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\u201d\nII \u2014 Creatures you control get +1/+1 for each other creature you control.\n\u200b",
             "shape": "saga",
             "set": "RRN",
             "loyalty": "",
@@ -5137,7 +5137,7 @@
             "number": 92,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Whenever a card enters your graveyard from anywhere other than your library, Crackshot Corsair deals 1 damage to target opponent.\n{2}, {T}: Discard a card, then draw a card.",
+            "rules_text": "Whenever you discard a card, Crackshot Corsair deals 1 damage to target opponent.\n{2}, {T}: Discard a card, then draw a card.",
             "flavor_text": "[i]\u201cBeing short gives you a surprising advantage in a fight. Turns out, nobody ever thinks to look down.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5562,5 +5562,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

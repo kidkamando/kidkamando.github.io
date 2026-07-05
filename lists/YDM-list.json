@@ -1,0 +1,2646 @@
+﻿[
+    {
+        "card_name": "Deck Master",
+        "number": 14,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relinquished",
+        "number": 74,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Monster Reborn",
+        "number": 109,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plasma Eel",
+        "number": 152,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amazoness War Chief",
+        "number": 169,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Palladium Wizard",
+        "number": 33,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon World",
+        "number": 85,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sentence of Doom",
+        "number": 115,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Raigeki",
+        "number": 153,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ties of the Brethren",
+        "number": 202,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Agido",
+        "number": 7,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Magician Girl",
+        "number": 51,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Time Wizard's Spin",
+        "number": 96,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bandit Keith, Dexterous Deceiver",
+        "number": 132,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancient Rules",
+        "number": 170,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Block Dragon",
+        "number": 10,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Sanctuary",
+        "number": 52,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Foolish Burial",
+        "number": 104,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Barrel Dragon",
+        "number": 133,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cocoon of Evolution",
+        "number": 176,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "De-Fusion",
+        "number": 13,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Draw",
+        "number": 53,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rob the Grave",
+        "number": 113,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Berserker Soul",
+        "number": 135,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magic Neutralizing Circle",
+        "number": 186,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Landstar Forces",
+        "number": 24,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Exchange of the Spirit",
+        "number": 57,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sangan",
+        "number": 114,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Change of Heart",
+        "number": 140,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Multiplication of Ants",
+        "number": 191,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mirror Force",
+        "number": 29,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magician of Black Chaos",
+        "number": 70,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shadow Game",
+        "number": 117,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reinforcements of the Army",
+        "number": 154,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Protector with Eyes of Blue",
+        "number": 196,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Multiply",
+        "number": 30,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Solid Vision Spectre",
+        "number": 79,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soul Exchange",
+        "number": 121,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shadow's Blaze",
+        "number": 156,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Summon Dice",
+        "number": 201,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swords of Revealing Light",
+        "number": 42,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Kingdom",
+        "number": 84,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Summoned Skull",
+        "number": 122,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Twin-Headed Thunder Dragon",
+        "number": 162,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Alligator",
+        "number": 204,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blockman",
+        "number": 11,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Book of Moon",
+        "number": 47,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Magic Ritual",
+        "number": 89,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Tyranno",
+        "number": 136,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amazoness Sage",
+        "number": 167,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Magical Circle",
+        "number": 12,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Card of Last Will",
+        "number": 49,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bonz, Ghastly Henchman",
+        "number": 92,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Block Golem",
+        "number": 137,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amazoness Spiritualist",
+        "number": 168,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Exodia, the Forbidden One",
+        "number": 16,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Oracle",
+        "number": 59,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chain Destruction",
+        "number": 93,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Duke Devlin, Dice Extraordinaire",
+        "number": 141,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blue-Eyes Bingo Machine",
+        "number": 173,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Spiritualist",
+        "number": 20,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hidden Temples of Necrovalley",
+        "number": 61,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Board \u2014 A",
+        "number": 97,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flame Swordsman",
+        "number": 142,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Book of Taiyou",
+        "number": 174,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harpy's Feather Duster",
+        "number": 22,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Interdimensional Matter Transporter",
+        "number": 62,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Board \u2014 F",
+        "number": 98,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gaia the Fierce Knight",
+        "number": 143,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hercules Beetle",
+        "number": 183,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Left Arm of the Forbidden One",
+        "number": 25,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kuriboh",
+        "number": 67,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Board \u2014 I",
+        "number": 99,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hand Destruction",
+        "number": 145,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Insect Queen",
+        "number": 184,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Left Leg of the Forbidden One",
+        "number": 26,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Luster Dragon",
+        "number": 68,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Board \u2014 L",
+        "number": 100,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jam Breeding Machine",
+        "number": 146,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magical Stone Excavation",
+        "number": 187,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Right Arm of the Forbidden One",
+        "number": 37,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Silent Magician",
+        "number": 75,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Board \u2014 N",
+        "number": 101,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kaiser Vorse Raider",
+        "number": 147,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mudora",
+        "number": 190,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Right Leg of the Forbidden One",
+        "number": 38,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skilled Blue Magician",
+        "number": 77,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Revival Jam",
+        "number": 112,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Outfit for Dueling",
+        "number": 151,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mystical Space Typhoon",
+        "number": 193,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Silent Paladin",
+        "number": 39,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Solemn Judgement",
+        "number": 78,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shallow Grave",
+        "number": 118,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Silent Swordsman",
+        "number": 157,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Roulette Spider",
+        "number": 197,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skilled White Magician",
+        "number": 40,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Strike of the Magical Mallet",
+        "number": 80,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skilled Dark Magician",
+        "number": 119,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skilled Red Magician",
+        "number": 158,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sage with Eyes of Blue",
+        "number": 198,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Timely Scapegoats",
+        "number": 44,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Time Jump",
+        "number": 81,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tournament Sabotage",
+        "number": 124,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thunder Dragon",
+        "number": 160,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skilled Brown Magician",
+        "number": 199,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amazoness Archer",
+        "number": 8,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Called by the Grave",
+        "number": 48,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Advance Draw",
+        "number": 87,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "7 Completed",
+        "number": 127,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Big Bang Shot",
+        "number": 171,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Banishing Trap Hole",
+        "number": 9,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chocolate Magician Girl",
+        "number": 50,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Amazoness Chain Master",
+        "number": 88,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alexandrite Dragon",
+        "number": 128,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blue Eyes Toon Dragon",
+        "number": 172,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dramatic Rescue",
+        "number": 15,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Divine Hierarchy",
+        "number": 54,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Pendant",
+        "number": 90,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alligator Swordsman",
+        "number": 129,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cave Dragon",
+        "number": 175,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gearfried the Iron Knight",
+        "number": 17,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dream Dice",
+        "number": 55,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blast Held by a Tribute",
+        "number": 91,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Apple Magician Girl",
+        "number": 130,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Wall of Wind",
+        "number": 177,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gift of the Mystical Elf",
+        "number": 18,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Electromagnetic Turtle",
+        "number": 56,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Jeroid",
+        "number": 94,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arduous Decision",
+        "number": 131,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Falling Strength",
+        "number": 178,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Recruiter",
+        "number": 19,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Graceful Charity",
+        "number": 58,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Magic Attack",
+        "number": 95,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Berry Magician Girl",
+        "number": 134,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Giant Soldier of Stone",
+        "number": 179,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Green Gadget",
+        "number": 21,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Greenkappa",
+        "number": 60,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embodiment of Apophis",
+        "number": 102,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowganian",
+        "number": 138,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Graceful Dice",
+        "number": 180,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jam Defender",
+        "number": 23,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jar of Greed",
+        "number": 63,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fearful Earthbound",
+        "number": 103,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Burst Stream of Destruction",
+        "number": 139,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Ambusher",
+        "number": 181,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lemon Magician Girl",
+        "number": 27,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keldo",
+        "number": 64,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Cursemaker",
+        "number": 105,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gil Garth",
+        "number": 144,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Shaman",
+        "number": 182,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magical Warrior",
+        "number": 28,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "King of the Swamp",
+        "number": 65,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gross Ghost",
+        "number": 106,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kunai with Chain",
+        "number": 148,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "It's Time to Duel!!!",
+        "number": 185,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mystical Sheep",
+        "number": 31,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kiwi Magician Girl",
+        "number": 66,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Headless Knight",
+        "number": 107,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lightning Blade",
+        "number": 149,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Maiden with Eyes of Blue",
+        "number": 188,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Palladium Oracle",
+        "number": 32,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magic Jammer",
+        "number": 69,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kaiser Sea Horse",
+        "number": 108,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mystical Genie of the Lamp",
+        "number": 150,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Man-Eater Bug",
+        "number": 189,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pump Up",
+        "number": 34,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magician of Faith",
+        "number": 71,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Orichalcos Soldier",
+        "number": 110,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rush Recklessly",
+        "number": 155,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mystic Tomato",
+        "number": 192,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Red Gadget",
+        "number": 35,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magician's Rod",
+        "number": 72,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Parasite Paracide",
+        "number": 111,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Slot Machine",
+        "number": 159,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Panther Warrior",
+        "number": 194,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Red-Eyes Toon Dragon",
+        "number": 36,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Negate Attack",
+        "number": 73,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Serpent Night Dragon",
+        "number": 116,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toy Soldier",
+        "number": 161,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Priestess with Eyes of Blue",
+        "number": 195,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spellbinding Circle",
+        "number": 41,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skill Drain",
+        "number": 76,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skull Dice",
+        "number": 120,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vorse Raider",
+        "number": 163,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spear Dragon",
+        "number": 200,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thousand Knives",
+        "number": 43,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Dark Magician",
+        "number": 82,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Summoned Skull",
+        "number": 123,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "X-Head Cannon",
+        "number": 164,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ties That Bind",
+        "number": 203,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toy Knight",
+        "number": 45,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Dark Magician Girl",
+        "number": 83,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vampiric Leech",
+        "number": 125,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Y-Dragon Head",
+        "number": 165,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Mermaid",
+        "number": 205,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yellow Gadget",
+        "number": 46,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toy Magician",
+        "number": 86,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Zoma the Spirit",
+        "number": 126,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Z-Metal Tank",
+        "number": 166,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Trade-In",
+        "number": 206,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Yugi Muto, Two Souls as One",
+        "number": 269,
+        "shape": "transform double faced",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Earl of Demise",
+        "number": 221,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "XYZ Dragon Cannon",
+        "number": 265,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seto Kaiba, Duelist with Eyes of Blue",
+        "number": 255,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Joey Wheeler, Steadfast Friend",
+        "number": 237,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Watapon",
+        "number": 262,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ectoplasmer",
+        "number": 222,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rex Raptor, Regional Rival",
+        "number": 253,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Deep-Eyes White Dragon",
+        "number": 219,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nutrient Z",
+        "number": 246,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Harpy's Pet Dragon",
+        "number": 231,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aria From Beyond",
+        "number": 208,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ghostly Pumprincess",
+        "number": 227,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jinzo, Psychic Lord",
+        "number": 235,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mako Tsunami, Compassionnate Fisherman",
+        "number": 242,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Point to Point Transfer",
+        "number": 250,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Curse of Dragon",
+        "number": 215,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Weevil Underwood, Bug Brawler",
+        "number": 263,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Salamandra",
+        "number": 254,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fiend Kraken",
+        "number": 223,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Pharaoh, Atem",
+        "number": 249,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yami Bakura, Vengeful Revenant",
+        "number": 266,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Obelisk, the Tormentor",
+        "number": 247,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Joey Wheeler, Lucky Duelist",
+        "number": 236,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ishizu Ishtar, Wise Gravekeeper",
+        "number": 234,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Slifer, the Sky Dragon",
+        "number": 258,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Necrofear",
+        "number": 218,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seto Kaiba, Unstoppable Duelist",
+        "number": 256,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Red-Eyes Alternative Black Dragon",
+        "number": 251,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Doomed Travels",
+        "number": 220,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dark Magician",
+        "number": 217,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Haunting of the Twin Dolls",
+        "number": 232,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blue-Eyes White Dragon",
+        "number": 213,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Baby Dragon",
+        "number": 209,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancient Vanguard Kelbek",
+        "number": 207,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Luster Soldier",
+        "number": 211,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Necro Cycle",
+        "number": 245,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blue-Eyes Ultimate Dragon",
+        "number": 212,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Red-Eyes Black Dragon",
+        "number": 252,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravekeeper's Supernaturalist",
+        "number": 228,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magic Cylinder",
+        "number": 239,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Chaos Emperor Dragon",
+        "number": 214,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Winged Dragon of Ra",
+        "number": 264,
+        "shape": "transform double faced",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Maximillion Pegasus, Inkling Illustrator",
+        "number": 243,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mai Valentine, Queen of Harpies",
+        "number": 241,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yugi Muto, King of Games",
+        "number": 268,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Odion, Marik's Protector",
+        "number": 248,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yami Marik, Sadistic Spirit",
+        "number": 267,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Illusion Ritual",
+        "number": 210,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harpy Lady",
+        "number": 229,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gandora-X",
+        "number": 224,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ghostly Pumpking",
+        "number": 226,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lava Golem",
+        "number": 238,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Goblin Attack Force",
+        "number": 260,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harpy Lady Sisters",
+        "number": 230,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magnet Reverse",
+        "number": 240,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Geh, the Divine Serpent",
+        "number": 225,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Curse of the Masked Beast",
+        "number": 216,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toon Masked Sorcerer",
+        "number": 261,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cyber Slash Harpy Lady",
+        "number": 270,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skim Through the Spellbook",
+        "number": 257,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mystical Beast Serket",
+        "number": 244,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Three-Masked Beast",
+        "number": 259,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Horakhty, Creator God of Light",
+        "number": 233,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Gold Sarcophagus",
+        "number": 1,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "High Speed Aria",
+        "number": 2,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Polymerization",
+        "number": 5,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Seal of Orichalcos",
+        "number": 6,
+        "shape": "saga",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Eye",
+        "number": 275,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Key",
+        "number": 276,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Necklace",
+        "number": 277,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Puzzle",
+        "number": 278,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Ring",
+        "number": 279,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Rod",
+        "number": 280,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Millennium Scale",
+        "number": 281,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Infinite Cards",
+        "number": 3,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Metalmorph",
+        "number": 4,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pot of Greed",
+        "number": 282,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Valkyrion the Magnet Warrior",
+        "number": 285,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alpha Magnet Warrior",
+        "number": 271,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beta Magnet Warrior",
+        "number": 272,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Duel Disk",
+        "number": 273,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gamma Magnet Warrior",
+        "number": 274,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pot of Prosperity",
+        "number": 283,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Star Chips",
+        "number": 284,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Battle City",
+        "number": 286,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ceremonial Duelground",
+        "number": 288,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Duelist Kingdom",
+        "number": 291,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Futuristic Arena",
+        "number": 292,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harpies' Hunting Ground",
+        "number": 293,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lost World",
+        "number": 294,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mystic Table",
+        "number": 295,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Necrovalley",
+        "number": 296,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Temple of the Kings",
+        "number": 297,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tomb of the Nameless Pharaoh",
+        "number": 298,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Different Dimension",
+        "number": 290,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Castle of Dark Illusions",
+        "number": 287,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Closed Forest",
+        "number": 289,
+        "shape": "normal",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Faerie",
+        "number": 1,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fusion Substitute",
+        "number": 2,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 10,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Goat",
+        "number": 3,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toy",
+        "number": 4,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tentacle",
+        "number": 5,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 6,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Insect",
+        "number": 7,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inkling",
+        "number": 8,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Legendary Fisherman",
+        "number": 9,
+        "shape": "token",
+        "set": "YDM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

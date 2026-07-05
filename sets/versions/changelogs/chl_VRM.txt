@@ -1,4 +1,27 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Split in Twain added.
+
+Cut Low removed.
+
+Deglamored Emergence
+rules_text: Exile cards from the top of your library until you exile a nonland card that's X or less colors. If that card's mana value is 8 or less, you may cast it without paying its mana cost. Otherwise, put that card into your hand.
+Flashback {X}{5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Exile cards from the top of your library until you exile a nonland card that's X or less colors. If that card's mana value is 8 or less, you may cast it without paying its mana cost. Otherwise, put that card into your hand.
+Flashback {X}{5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Disruptive Illusionist
+rules_text: [i]Bountiful[/i] — As long as you are [/i][i]Bountiful[/i][i], whenever a source you control causes one or more other creatures you control to leave the battlefield without dying, create a 1/1 blue Bird Illusion creature token.
+{1}{U}, {T}: Return another target creature you control to its owner's hand. => [i]Bountiful[/i] — As long as you are [/i][i]Bountiful[/i][i], whenever a source you control causes one or more other creatures you control to leave the battlefield without dying, create a 1/1 blue Bird Illusion creature token with flying.
+{1}{U}, {T}: Return another target creature you control to its owner's hand.
+
+Cotay Leadon, Verdure Wildling
+rules_text: Once per turn, when you cast a creature spell, you may have it enter with a number of +1/+1 counters equal to the number of cards in your hand.
+Whenever a creature with power 8 or greater enters the battlefield under your control, draw a card. => Once per turn, when you cast a creature spell, you may have it enter with a number of +1/+1 counters equal to the number of cards in your hand.
+Whenever a creature enters the battlefield under your control, draw a card if it has power 8 or greater.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

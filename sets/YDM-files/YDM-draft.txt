@@ -1,0 +1,4101 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Gold Sarcophagus",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/1_Gold Sarcophagus.png"
+			}
+		},
+		{
+			"name": "The Pharaoh, Atem",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Spirit Hero",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/249_The Pharaoh, Atem.png"
+			}
+		},
+		{
+			"name": "Joey Wheeler, Lucky Duelist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/236_Joey Wheeler, Lucky Duelist.png"
+			}
+		},
+		{
+			"name": "Yami Marik, Sadistic Spirit",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Human Spirit Villain",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/267_Yami Marik, Sadistic Spirit.png"
+			}
+		},
+		{
+			"name": "Yami Bakura, Vengeful Revenant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Spirit Villain",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/266_Yami Bakura, Vengeful Revenant.png"
+			}
+		},
+		{
+			"name": "Seto Kaiba, Unstoppable Duelist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/256_Seto Kaiba, Unstoppable Duelist.png"
+			}
+		},
+		{
+			"name": "Kaiser Sea Horse",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horse Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/108_Kaiser Sea Horse.png"
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/213_Blue-Eyes White Dragon.png"
+			}
+		},
+		{
+			"name": "Yugi Muto, King of Games",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/268_Yugi Muto, King of Games.png"
+			}
+		},
+		{
+			"name": "Gearfried the Iron Knight",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/17_Gearfried the Iron Knight.png"
+			}
+		},
+		{
+			"name": "Lemon Magician Girl",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/27_Lemon Magician Girl.png"
+			}
+		},
+		{
+			"name": "Magical Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Wizard Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/28_Magical Warrior.png"
+			}
+		},
+		{
+			"name": "Mystical Sheep",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Sheep",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/31_Mystical Sheep.png"
+			}
+		},
+		{
+			"name": "Gift of the Mystical Elf",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/18_Gift of the Mystical Elf.png"
+			}
+		},
+		{
+			"name": "Spellbinding Circle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/41_Spellbinding Circle.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Recruiter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/19_Gravekeeper's Recruiter.png"
+			}
+		},
+		{
+			"name": "Pump Up",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/34_Pump Up.png"
+			}
+		},
+		{
+			"name": "Red-Eyes Toon Dragon",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon Inkling",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/36_Red-Eyes Toon Dragon.png"
+			}
+		},
+		{
+			"name": "Toy Knight",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Toy Knight",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/45_Toy Knight.png"
+			}
+		},
+		{
+			"name": "Blockman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Toy Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/11_Blockman.png"
+			}
+		},
+		{
+			"name": "Yellow Gadget",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Toy Golem",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/46_Yellow Gadget.png"
+			}
+		},
+		{
+			"name": "Red Gadget",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Toy Golem",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/35_Red Gadget.png"
+			}
+		},
+		{
+			"name": "Green Gadget",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Toy Golem",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/21_Green Gadget.png"
+			}
+		},
+		{
+			"name": "Banishing Trap Hole",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/9_Banishing Trap Hole.png"
+			}
+		},
+		{
+			"name": "Thousand Knives",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/43_Thousand Knives.png"
+			}
+		},
+		{
+			"name": "Palladium Oracle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/32_Palladium Oracle.png"
+			}
+		},
+		{
+			"name": "Amazoness Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/8_Amazoness Archer.png"
+			}
+		},
+		{
+			"name": "Dramatic Rescue",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/15_Dramatic Rescue.png"
+			}
+		},
+		{
+			"name": "Negate Attack",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/73_Negate Attack.png"
+			}
+		},
+		{
+			"name": "Chocolate Magician Girl",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/50_Chocolate Magician Girl.png"
+			}
+		},
+		{
+			"name": "Kiwi Magician Girl",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/66_Kiwi Magician Girl.png"
+			}
+		},
+		{
+			"name": "Electromagnetic Turtle",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/56_Electromagnetic Turtle.png"
+			}
+		},
+		{
+			"name": "King of the Swamp",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental Noble",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/65_King of the Swamp.png"
+			}
+		},
+		{
+			"name": "Toon Dark Magician",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Inkling Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/82_Toon Dark Magician.png"
+			}
+		},
+		{
+			"name": "Toon Dark Magician Girl",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Inkling Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/83_Toon Dark Magician Girl.png"
+			}
+		},
+		{
+			"name": "Toy Magician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Toy Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/86_Toy Magician.png"
+			}
+		},
+		{
+			"name": "Graceful Charity",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/58_Graceful Charity.png"
+			}
+		},
+		{
+			"name": "Dream Dice",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/55_Dream Dice.png"
+			}
+		},
+		{
+			"name": "Keldo",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/64_Keldo.png"
+			}
+		},
+		{
+			"name": "Magician's Rod",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/72_Magician's Rod.png"
+			}
+		},
+		{
+			"name": "Greenkappa",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Warrior",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/60_Greenkappa.png"
+			}
+		},
+		{
+			"name": "Jar of Greed",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/63_Jar of Greed.png"
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/76_Skill Drain.png"
+			}
+		},
+		{
+			"name": "Skilled Blue Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/77_Skilled Blue Magician.png"
+			}
+		},
+		{
+			"name": "Magician of Faith",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/71_Magician of Faith.png"
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/48_Called by the Grave.png"
+			}
+		},
+		{
+			"name": "Card of Last Will",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/49_Card of Last Will.png"
+			}
+		},
+		{
+			"name": "Orichalcos Soldier",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Soldier",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/110_Orichalcos Soldier.png"
+			}
+		},
+		{
+			"name": "Amazoness Chain Master",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/88_Amazoness Chain Master.png"
+			}
+		},
+		{
+			"name": "Toon Summoned Skull",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Skeleton Inkling",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/123_Toon Summoned Skull.png"
+			}
+		},
+		{
+			"name": "Blast Held by a Tribute",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/91_Blast Held by a Tribute.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Cursemaker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/105_Gravekeeper's Cursemaker.png"
+			}
+		},
+		{
+			"name": "Dark Jeroid",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/94_Dark Jeroid.png"
+			}
+		},
+		{
+			"name": "Advance Draw",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/87_Advance Draw.png"
+			}
+		},
+		{
+			"name": "Skull Dice",
+			"rarity": "common",
+			"mana_cost": "{2/B}{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/120_Skull Dice.png"
+			}
+		},
+		{
+			"name": "Dark Magic Attack",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/95_Dark Magic Attack.png"
+			}
+		},
+		{
+			"name": "Parasite Paracide",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Plant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/111_Parasite Paracide.png"
+			}
+		},
+		{
+			"name": "Embodiment of Apophis",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Snake Cleric",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/102_Embodiment of Apophis.png"
+			}
+		},
+		{
+			"name": "Black Pendant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/90_Black Pendant.png"
+			}
+		},
+		{
+			"name": "Fearful Earthbound",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/103_Fearful Earthbound.png"
+			}
+		},
+		{
+			"name": "Zoma the Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nightmare Spirit",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/126_Zoma the Spirit.png"
+			}
+		},
+		{
+			"name": "Headless Knight",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Spirit Knight Construct",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/107_Headless Knight.png"
+			}
+		},
+		{
+			"name": "Serpent Night Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Serpent Nightmare Dragon",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/116_Serpent Night Dragon.png"
+			}
+		},
+		{
+			"name": "Vampiric Leech",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Leech",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/125_Vampiric Leech.png"
+			}
+		},
+		{
+			"name": "Gross Ghost",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/106_Gross Ghost.png"
+			}
+		},
+		{
+			"name": "Vorse Raider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Warrior",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/163_Vorse Raider.png"
+			}
+		},
+		{
+			"name": "Apple Magician Girl",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/130_Apple Magician Girl.png"
+			}
+		},
+		{
+			"name": "Berry Magician Girl",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/134_Berry Magician Girl.png"
+			}
+		},
+		{
+			"name": "X-Head Cannon",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/164_X-Head Cannon.png"
+			}
+		},
+		{
+			"name": "Y-Dragon Head",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/165_Y-Dragon Head.png"
+			}
+		},
+		{
+			"name": "Z-Metal Tank",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/166_Z-Metal Tank.png"
+			}
+		},
+		{
+			"name": "Alligator Swordsman",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Crocodile Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/129_Alligator Swordsman.png"
+			}
+		},
+		{
+			"name": "Rush Recklessly",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/155_Rush Recklessly.png"
+			}
+		},
+		{
+			"name": "Toy Soldier",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Toy Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/161_Toy Soldier.png"
+			}
+		},
+		{
+			"name": "Gil Garth",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/144_Gil Garth.png"
+			}
+		},
+		{
+			"name": "Lightning Blade",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/149_Lightning Blade.png"
+			}
+		},
+		{
+			"name": "Burst Stream of Destruction",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/139_Burst Stream of Destruction.png"
+			}
+		},
+		{
+			"name": "Mystical Genie of the Lamp",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Djinn",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/150_Mystical Genie of the Lamp.png"
+			}
+		},
+		{
+			"name": "Kunai with Chain",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/148_Kunai with Chain.png"
+			}
+		},
+		{
+			"name": "Alexandrite Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/128_Alexandrite Dragon.png"
+			}
+		},
+		{
+			"name": "Bowganian",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Eye Archer",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/138_Bowganian.png"
+			}
+		},
+		{
+			"name": "Arduous Decision",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/131_Arduous Decision.png"
+			}
+		},
+		{
+			"name": "Slot Machine",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/159_Slot Machine.png"
+			}
+		},
+		{
+			"name": "7 Completed",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/127_7 Completed.png"
+			}
+		},
+		{
+			"name": "Maiden with Eyes of Blue",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/188_Maiden with Eyes of Blue.png"
+			}
+		},
+		{
+			"name": "It's Time to Duel!!!",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/185_It's Time to Duel!!!.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Ambusher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Rogue Cleric",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/181_Gravekeeper's Ambusher.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Shaman",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/182_Gravekeeper's Shaman.png"
+			}
+		},
+		{
+			"name": "Panther Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/194_Panther Warrior.png"
+			}
+		},
+		{
+			"name": "Giant Soldier of Stone",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Golem Soldier",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/179_Giant Soldier of Stone.png"
+			}
+		},
+		{
+			"name": "Blue Eyes Toon Dragon",
+			"rarity": "common",
+			"mana_cost": "{5}{2/G}{2/G}{2/G}",
+			"type": "Creature — Dragon Inkling",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/172_Blue Eyes Toon Dragon.png"
+			}
+		},
+		{
+			"name": "Toon Mermaid",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Inkling Merfolk",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/205_Toon Mermaid.png"
+			}
+		},
+		{
+			"name": "Mystic Tomato",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Plant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/192_Mystic Tomato.png"
+			}
+		},
+		{
+			"name": "Graceful Dice",
+			"rarity": "common",
+			"mana_cost": "{2/G}{G}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/180_Graceful Dice.png"
+			}
+		},
+		{
+			"name": "Priestess with Eyes of Blue",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/195_Priestess with Eyes of Blue.png"
+			}
+		},
+		{
+			"name": "Ties That Bind",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/203_Ties That Bind.png"
+			}
+		},
+		{
+			"name": "Spear Dragon",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/200_Spear Dragon.png"
+			}
+		},
+		{
+			"name": "Cave Dragon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/175_Cave Dragon.png"
+			}
+		},
+		{
+			"name": "Dark Wall of Wind",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/177_Dark Wall of Wind.png"
+			}
+		},
+		{
+			"name": "Magical Stone Excavation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/187_Magical Stone Excavation.png"
+			}
+		},
+		{
+			"name": "Man-Eater Bug",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/189_Man-Eater Bug.png"
+			}
+		},
+		{
+			"name": "Big Bang Shot",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/171_Big Bang Shot.png"
+			}
+		},
+		{
+			"name": "Falling Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/178_Falling Strength.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Spiritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/20_Gravekeeper's Spiritualist.png"
+			}
+		},
+		{
+			"name": "Timely Scapegoats",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/44_Timely Scapegoats.png"
+			}
+		},
+		{
+			"name": "Harpy's Feather Duster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/22_Harpy's Feather Duster.png"
+			}
+		},
+		{
+			"name": "Silent Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/39_Silent Paladin.png"
+			}
+		},
+		{
+			"name": "Exodia, the Forbidden One",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/16_Exodia, the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Left Arm of the Forbidden One",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/25_Left Arm of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Right Arm of the Forbidden One",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/37_Right Arm of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Left Leg of the Forbidden One",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/26_Left Leg of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Right Leg of the Forbidden One",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/38_Right Leg of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Dark Magical Circle",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/12_Dark Magical Circle.png"
+			}
+		},
+		{
+			"name": "Jam Defender",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Ooze",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/23_Jam Defender.png"
+			}
+		},
+		{
+			"name": "Magic Jammer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/69_Magic Jammer.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/59_Gravekeeper's Oracle.png"
+			}
+		},
+		{
+			"name": "Silent Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/75_Silent Magician.png"
+			}
+		},
+		{
+			"name": "Kuriboh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/67_Kuriboh.png"
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Book",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/47_Book of Moon.png"
+			}
+		},
+		{
+			"name": "Time Jump",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/81_Time Jump.png"
+			}
+		},
+		{
+			"name": "Soul Exchange",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/121_Soul Exchange.png"
+			}
+		},
+		{
+			"name": "Interdimensional Matter Transporter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/62_Interdimensional Matter Transporter.png"
+			}
+		},
+		{
+			"name": "Strike of the Magical Mallet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/80_Strike of the Magical Mallet.png"
+			}
+		},
+		{
+			"name": "Exchange of the Spirit",
+			"rarity": "rare",
+			"mana_cost": "{1}{2/U}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/57_Exchange of the Spirit.png"
+			}
+		},
+		{
+			"name": "Divine Hierarchy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/54_Divine Hierarchy.png"
+			}
+		},
+		{
+			"name": "Tournament Sabotage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/124_Tournament Sabotage.png"
+			}
+		},
+		{
+			"name": "Black Magic Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/89_Black Magic Ritual.png"
+			}
+		},
+		{
+			"name": "Destiny Board — I",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/99_Destiny Board — I.png"
+			}
+		},
+		{
+			"name": "Destiny Board — N",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/101_Destiny Board — N.png"
+			}
+		},
+		{
+			"name": "Destiny Board — A",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/97_Destiny Board — A.png"
+			}
+		},
+		{
+			"name": "Destiny Board — L",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/100_Destiny Board — L.png"
+			}
+		},
+		{
+			"name": "Destiny Board — F",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/98_Destiny Board — F.png"
+			}
+		},
+		{
+			"name": "Revival Jam",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/112_Revival Jam.png"
+			}
+		},
+		{
+			"name": "Chain Destruction",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/93_Chain Destruction.png"
+			}
+		},
+		{
+			"name": "Bonz, Ghastly Henchman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/92_Bonz, Ghastly Henchman.png"
+			}
+		},
+		{
+			"name": "Skilled Dark Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/119_Skilled Dark Magician.png"
+			}
+		},
+		{
+			"name": "Kaiser Vorse Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/147_Kaiser Vorse Raider.png"
+			}
+		},
+		{
+			"name": "Outfit for Dueling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/151_Outfit for Dueling.png"
+			}
+		},
+		{
+			"name": "Silent Swordsman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/157_Silent Swordsman.png"
+			}
+		},
+		{
+			"name": "Gaia the Fierce Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Horse Knight",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/143_Gaia the Fierce Knight.png"
+			}
+		},
+		{
+			"name": "Thunder Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/160_Thunder Dragon.png"
+			}
+		},
+		{
+			"name": "Block Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Artifact Creature — Toy Golem",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/137_Block Golem.png"
+			}
+		},
+		{
+			"name": "Jam Breeding Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/146_Jam Breeding Machine.png"
+			}
+		},
+		{
+			"name": "Duke Devlin, Dice Extraordinaire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/141_Duke Devlin, Dice Extraordinaire.png"
+			}
+		},
+		{
+			"name": "Black Tyranno",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/136_Black Tyranno.png"
+			}
+		},
+		{
+			"name": "Hand Destruction",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/145_Hand Destruction.png"
+			}
+		},
+		{
+			"name": "Skilled Red Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/158_Skilled Red Magician.png"
+			}
+		},
+		{
+			"name": "Mystical Space Typhoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/193_Mystical Space Typhoon.png"
+			}
+		},
+		{
+			"name": "Book of Taiyou",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Book",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/174_Book of Taiyou.png"
+			}
+		},
+		{
+			"name": "Roulette Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/197_Roulette Spider.png"
+			}
+		},
+		{
+			"name": "Blue-Eyes Bingo Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/173_Blue-Eyes Bingo Machine.png"
+			}
+		},
+		{
+			"name": "Sage with Eyes of Blue",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/198_Sage with Eyes of Blue.png"
+			}
+		},
+		{
+			"name": "Insect Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Insect Noble",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/184_Insect Queen.png"
+			}
+		},
+		{
+			"name": "Trade-In",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/206_Trade-In.png"
+			}
+		},
+		{
+			"name": "Skilled Brown Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/199_Skilled Brown Magician.png"
+			}
+		},
+		{
+			"name": "Amazoness Spiritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/168_Amazoness Spiritualist.png"
+			}
+		},
+		{
+			"name": "Amazoness Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/167_Amazoness Sage.png"
+			}
+		},
+		{
+			"name": "Hercules Beetle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/183_Hercules Beetle.png"
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/29_Mirror Force.png"
+			}
+		},
+		{
+			"name": "De-Fusion",
+			"rarity": "rare",
+			"mana_cost": "{1}{2/W}{2/W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/13_De-Fusion.png"
+			}
+		},
+		{
+			"name": "Block Dragon",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Dragon Toy",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/10_Block Dragon.png"
+			}
+		},
+		{
+			"name": "Landstar Forces",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/24_Landstar Forces.png"
+			}
+		},
+		{
+			"name": "Agido",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/7_Agido.png"
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{W}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/42_Swords of Revealing Light.png"
+			}
+		},
+		{
+			"name": "Multiply",
+			"rarity": "rare",
+			"mana_cost": "{X}{2}{2/W}{2/W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/30_Multiply.png"
+			}
+		},
+		{
+			"name": "Solid Vision Spectre",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Construct",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/79_Solid Vision Spectre.png"
+			}
+		},
+		{
+			"name": "Destiny Draw",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/53_Destiny Draw.png"
+			}
+		},
+		{
+			"name": "Dark Magician Girl",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/51_Dark Magician Girl.png"
+			}
+		},
+		{
+			"name": "Hidden Temples of Necrovalley",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/61_Hidden Temples of Necrovalley.png"
+			}
+		},
+		{
+			"name": "Toon Kingdom",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/84_Toon Kingdom.png"
+			}
+		},
+		{
+			"name": "Magician of Black Chaos",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/70_Magician of Black Chaos.png"
+			}
+		},
+		{
+			"name": "Solemn Judgement",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/78_Solemn Judgement.png"
+			}
+		},
+		{
+			"name": "Rob the Grave",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/113_Rob the Grave.png"
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/104_Foolish Burial.png"
+			}
+		},
+		{
+			"name": "Shadow Game",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/117_Shadow Game.png"
+			}
+		},
+		{
+			"name": "Summoned Skull",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon Skeleton",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/122_Summoned Skull.png"
+			}
+		},
+		{
+			"name": "Sangan",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/114_Sangan.png"
+			}
+		},
+		{
+			"name": "Dark Time Wizard's Spin",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/96_Dark Time Wizard's Spin.png"
+			}
+		},
+		{
+			"name": "Shadow's Blaze",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/156_Shadow's Blaze.png"
+			}
+		},
+		{
+			"name": "Berserker Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/135_Berserker Soul.png"
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/140_Change of Heart.png"
+			}
+		},
+		{
+			"name": "Twin-Headed Thunder Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/162_Twin-Headed Thunder Dragon.png"
+			}
+		},
+		{
+			"name": "Reinforcements of the Army",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/154_Reinforcements of the Army.png"
+			}
+		},
+		{
+			"name": "Bandit Keith, Dexterous Deceiver",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/132_Bandit Keith, Dexterous Deceiver.png"
+			}
+		},
+		{
+			"name": "Barrel Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/133_Barrel Dragon.png"
+			}
+		},
+		{
+			"name": "Protector with Eyes of Blue",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/196_Protector with Eyes of Blue.png"
+			}
+		},
+		{
+			"name": "Summon Dice",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/201_Summon Dice.png"
+			}
+		},
+		{
+			"name": "Ancient Rules",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/170_Ancient Rules.png"
+			}
+		},
+		{
+			"name": "Multiplication of Ants",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/191_Multiplication of Ants.png"
+			}
+		},
+		{
+			"name": "Cocoon of Evolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/176_Cocoon of Evolution.png"
+			}
+		},
+		{
+			"name": "Toon Alligator",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Inkling Crocodile",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/204_Toon Alligator.png"
+			}
+		},
+		{
+			"name": "Magic Neutralizing Circle",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/186_Magic Neutralizing Circle.png"
+			}
+		},
+		{
+			"name": "Deck Master",
+			"rarity": "mythic",
+			"mana_cost": "{3}{2/W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/14_Deck Master.png"
+			}
+		},
+		{
+			"name": "Palladium Wizard",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/33_Palladium Wizard.png"
+			}
+		},
+		{
+			"name": "Toon World",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/85_Toon World.png"
+			}
+		},
+		{
+			"name": "Relinquished",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Nightmare",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/74_Relinquished.png"
+			}
+		},
+		{
+			"name": "Sentence of Doom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/115_Sentence of Doom.png"
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/109_Monster Reborn.png"
+			}
+		},
+		{
+			"name": "Raigeki",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/153_Raigeki.png"
+			}
+		},
+		{
+			"name": "Plasma Eel",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Eel Construct",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/152_Plasma Eel.png"
+			}
+		},
+		{
+			"name": "Ties of the Brethren",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/202_Ties of the Brethren.png"
+			}
+		},
+		{
+			"name": "Amazoness War Chief",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Noble Warrior",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/169_Amazoness War Chief.png"
+			}
+		},
+		{
+			"name": "Star Chips",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/284_Star Chips.png"
+			}
+		},
+		{
+			"name": "Valkyrion the Magnet Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{11}",
+			"type": "Legendary Artifact Creature — Construct Warrior",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/285_Valkyrion the Magnet Warrior.png"
+			}
+		},
+		{
+			"name": "Gamma Magnet Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/274_Gamma Magnet Warrior.png"
+			}
+		},
+		{
+			"name": "Alpha Magnet Warrior",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/271_Alpha Magnet Warrior.png"
+			}
+		},
+		{
+			"name": "Beta Magnet Warrior",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/272_Beta Magnet Warrior.png"
+			}
+		},
+		{
+			"name": "Pot of Greed",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/282_Pot of Greed.png"
+			}
+		},
+		{
+			"name": "Duel Disk",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/273_Duel Disk.png"
+			}
+		},
+		{
+			"name": "Infinite Cards",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/3_Infinite Cards.png"
+			}
+		},
+		{
+			"name": "Closed Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/289_Closed Forest.png"
+			}
+		},
+		{
+			"name": "Futuristic Arena",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/292_Futuristic Arena.png"
+			}
+		},
+		{
+			"name": "Ishizu Ishtar, Wise Gravekeeper",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/234_Ishizu Ishtar, Wise Gravekeeper.png"
+			}
+		},
+		{
+			"name": "Mai Valentine, Queen of Harpies",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/241_Mai Valentine, Queen of Harpies.png"
+			}
+		},
+		{
+			"name": "Odion, Marik's Protector",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/248_Odion, Marik's Protector.png"
+			}
+		},
+		{
+			"name": "Maximillion Pegasus, Inkling Illustrator",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/243_Maximillion Pegasus, Inkling Illustrator.png"
+			}
+		},
+		{
+			"name": "Doomed Travels",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/W}{2/U}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/220_Doomed Travels.png"
+			}
+		},
+		{
+			"name": "Harpy Lady",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Harpy",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/229_Harpy Lady.png"
+			}
+		},
+		{
+			"name": "Ghostly Pumpking",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/226_Ghostly Pumpking.png"
+			}
+		},
+		{
+			"name": "Black Illusion Ritual",
+			"rarity": "rare",
+			"mana_cost": "{2}{2/G}{2/U}{2/R}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/210_Black Illusion Ritual.png"
+			}
+		},
+		{
+			"name": "Red-Eyes Black Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/252_Red-Eyes Black Dragon.png"
+			}
+		},
+		{
+			"name": "Dark Magician",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/217_Dark Magician.png"
+			}
+		},
+		{
+			"name": "Dark Necrofear",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/218_Dark Necrofear.png"
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/238_Lava Golem.png"
+			}
+		},
+		{
+			"name": "Gandora-X",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/224_Gandora-X.png"
+			}
+		},
+		{
+			"name": "Magnet Reverse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{2/U}{2/R}{2/W}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/240_Magnet Reverse.png"
+			}
+		},
+		{
+			"name": "Haunting of the Twin Dolls",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/B}{2/R}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/232_Haunting of the Twin Dolls.png"
+			}
+		},
+		{
+			"name": "Three-Masked Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}{2/W}{2/B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/259_Three-Masked Beast.png"
+			}
+		},
+		{
+			"name": "Chaos Emperor Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{B}{R}{G}",
+			"type": "Creature — Demon Dragon",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/214_Chaos Emperor Dragon.png"
+			}
+		},
+		{
+			"name": "Black Luster Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/211_Black Luster Soldier.png"
+			}
+		},
+		{
+			"name": "Geh, the Divine Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}{G}{U}",
+			"type": "Legendary Creature — Elder Serpent",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/225_Geh, the Divine Serpent.png"
+			}
+		},
+		{
+			"name": "Gravekeeper's Supernaturalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/228_Gravekeeper's Supernaturalist.png"
+			}
+		},
+		{
+			"name": "Necro Cycle",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/B}{2/R}",
+			"type": "Enchantment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/245_Necro Cycle.png"
+			}
+		},
+		{
+			"name": "Red-Eyes Alternative Black Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/251_Red-Eyes Alternative Black Dragon.png"
+			}
+		},
+		{
+			"name": "Toon Masked Sorcerer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Creature — Inkling Sorcerer",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/261_Toon Masked Sorcerer.png"
+			}
+		},
+		{
+			"name": "Horakhty, Creator God of Light",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/233_Horakhty, Creator God of Light.png"
+			}
+		},
+		{
+			"name": "Obelisk, the Tormentor",
+			"rarity": "mythic",
+			"mana_cost": "{9}{B}{R}{G}",
+			"type": "Legendary Creature — God Warrior",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/247_Obelisk, the Tormentor.png"
+			}
+		},
+		{
+			"name": "The Winged Dragon of Ra",
+			"rarity": "mythic",
+			"mana_cost": "{10}{R}{W}{B}",
+			"type": "Legendary Creature — Dragon God",
+			"collector_number": "264",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://MSE-Hub/sets/YDM-files/img/264_The Winged Dragon of Ra_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/264_The Winged Dragon of Ra_front.png"
+			}
+		},
+		{
+			"name": "Slifer, the Sky Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{U}{B}",
+			"type": "Legendary Creature — Dragon God",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/258_Slifer, the Sky Dragon.png"
+			}
+		},
+		{
+			"name": "Ceremonial Duelground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/288_Ceremonial Duelground.png"
+			}
+		},
+		{
+			"name": "Lost World",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/294_Lost World.png"
+			}
+		},
+		{
+			"name": "Harpies' Hunting Ground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/293_Harpies' Hunting Ground.png"
+			}
+		},
+		{
+			"name": "Battle City",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/286_Battle City.png"
+			}
+		},
+		{
+			"name": "Necrovalley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/296_Necrovalley.png"
+			}
+		},
+		{
+			"name": "Temple of the Kings",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/297_Temple of the Kings.png"
+			}
+		},
+		{
+			"name": "Duelist Kingdom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/291_Duelist Kingdom.png"
+			}
+		},
+		{
+			"name": "Tomb of the Nameless Pharaoh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/298_Tomb of the Nameless Pharaoh.png"
+			}
+		},
+		{
+			"name": "Mystic Table",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/295_Mystic Table.png"
+			}
+		},
+		{
+			"name": "Castle of Dark Illusions",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/287_Castle of Dark Illusions.png"
+			}
+		},
+		{
+			"name": "Different Dimension",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/290_Different Dimension.png"
+			}
+		},
+		{
+			"name": "The Millennium Eye",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/275_The Millennium Eye.png"
+			}
+		},
+		{
+			"name": "The Millennium Puzzle",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/278_The Millennium Puzzle.png"
+			}
+		},
+		{
+			"name": "The Millennium Ring",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/279_The Millennium Ring.png"
+			}
+		},
+		{
+			"name": "The Millennium Scale",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/281_The Millennium Scale.png"
+			}
+		},
+		{
+			"name": "The Millennium Key",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/276_The Millennium Key.png"
+			}
+		},
+		{
+			"name": "The Millennium Rod",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/280_The Millennium Rod.png"
+			}
+		},
+		{
+			"name": "The Millennium Necklace",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/277_The Millennium Necklace.png"
+			}
+		},
+		{
+			"name": "Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/1t_Faerie.png"
+			}
+		},
+		{
+			"name": "The Seal of Orichalcos",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Enchantment — Class",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/6_The Seal of Orichalcos.png"
+			}
+		},
+		{
+			"name": "XYZ Dragon Cannon",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/265_XYZ Dragon Cannon.png"
+			}
+		},
+		{
+			"name": "Yugi Muto, Two Souls as One",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "269",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://MSE-Hub/sets/YDM-files/img/269_Yugi Muto, Two Souls as One_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/269_Yugi Muto, Two Souls as One_front.png"
+			}
+		},
+		{
+			"name": "Harpy's Pet Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/231_Harpy's Pet Dragon.png"
+			}
+		},
+		{
+			"name": "Goat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goat",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/3t_Goat.png"
+			}
+		},
+		{
+			"name": "Polymerization",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/5_Polymerization.png"
+			}
+		},
+		{
+			"name": "Mako Tsunami, Compassionnate Fisherman",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/242_Mako Tsunami, Compassionnate Fisherman.png"
+			}
+		},
+		{
+			"name": "The Legendary Fisherman",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Human Ranger",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/9t_The Legendary Fisherman.png"
+			}
+		},
+		{
+			"name": "Seto Kaiba, Duelist with Eyes of Blue",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Artificer Villain",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/255_Seto Kaiba, Duelist with Eyes of Blue.png"
+			}
+		},
+		{
+			"name": "Earl of Demise",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/221_Earl of Demise.png"
+			}
+		},
+		{
+			"name": "Aria From Beyond",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/208_Aria From Beyond.png"
+			}
+		},
+		{
+			"name": "Ghostly Pumprincess",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/227_Ghostly Pumprincess.png"
+			}
+		},
+		{
+			"name": "Joey Wheeler, Steadfast Friend",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Warrior Hero",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/237_Joey Wheeler, Steadfast Friend.png"
+			}
+		},
+		{
+			"name": "Jinzo, Psychic Lord",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{W}",
+			"type": "Legendary Creature — Human Horror Sorcerer",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/235_Jinzo, Psychic Lord.png"
+			}
+		},
+		{
+			"name": "Toy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Toy",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/4t_Toy.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/6t_Skeleton.png"
+			}
+		},
+		{
+			"name": "Fusion Substitute",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/2t_Fusion Substitute.png"
+			}
+		},
+		{
+			"name": "Inkling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Inkling",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/8t_Inkling.png"
+			}
+		},
+		{
+			"name": "Metalmorph",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/4_Metalmorph.png"
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/283_Pot of Prosperity.png"
+			}
+		},
+		{
+			"name": "High Speed Aria",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/2_High Speed Aria.png"
+			}
+		},
+		{
+			"name": "Dark Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/52_Dark Sanctuary.png"
+			}
+		},
+		{
+			"name": "Fiend Kraken",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}{G}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/223_Fiend Kraken.png"
+			}
+		},
+		{
+			"name": "Curse of Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/215_Curse of Dragon.png"
+			}
+		},
+		{
+			"name": "Weevil Underwood, Bug Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/263_Weevil Underwood, Bug Brawler.png"
+			}
+		},
+		{
+			"name": "Ectoplasmer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/222_Ectoplasmer.png"
+			}
+		},
+		{
+			"name": "Rex Raptor, Regional Rival",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/253_Rex Raptor, Regional Rival.png"
+			}
+		},
+		{
+			"name": "Watapon",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/262_Watapon.png"
+			}
+		},
+		{
+			"name": "Nutrient Z",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/246_Nutrient Z.png"
+			}
+		},
+		{
+			"name": "Salamandra",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/254_Salamandra.png"
+			}
+		},
+		{
+			"name": "Point to Point Transfer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/250_Point to Point Transfer.png"
+			}
+		},
+		{
+			"name": "Deep-Eyes White Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/219_Deep-Eyes White Dragon.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/7t_Insect.png"
+			}
+		},
+		{
+			"name": "Toon Goblin Attack Force",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{U}{R}",
+			"type": "Creature — Inkling Soldier",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/260_Toon Goblin Attack Force.png"
+			}
+		},
+		{
+			"name": "Baby Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}{2/G}{2/W}",
+			"type": "Creature — Dragon",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/209_Baby Dragon.png"
+			}
+		},
+		{
+			"name": "Harpy Lady Sisters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Harpy",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/230_Harpy Lady Sisters.png"
+			}
+		},
+		{
+			"name": "Ancient Vanguard Kelbek",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/207_Ancient Vanguard Kelbek.png"
+			}
+		},
+		{
+			"name": "Skim Through the Spellbook",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/R}{2/W}",
+			"type": "Instant",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/257_Skim Through the Spellbook.png"
+			}
+		},
+		{
+			"name": "Cyber Slash Harpy Lady",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{2/W}{2/B}{2/G}",
+			"type": "Artifact Creature — Harpy",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/270_Cyber Slash Harpy Lady.png"
+			}
+		},
+		{
+			"name": "Curse of the Masked Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}{2/W}{2/B}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/216_Curse of the Masked Beast.png"
+			}
+		},
+		{
+			"name": "Mystical Beast Serket",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}{2/G}{2/U}",
+			"type": "Creature — Scorpion",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/244_Mystical Beast Serket.png"
+			}
+		},
+		{
+			"name": "Magic Cylinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{2/W}{2/U}{2/B}",
+			"type": "Instant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/239_Magic Cylinder.png"
+			}
+		},
+		{
+			"name": "Blue-Eyes Ultimate Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{9}{B}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/212_Blue-Eyes Ultimate Dragon.png"
+			}
+		},
+		{
+			"name": "Skilled White Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/40_Skilled White Magician.png"
+			}
+		},
+		{
+			"name": "Luster Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard Knight",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/68_Luster Dragon.png"
+			}
+		},
+		{
+			"name": "Shallow Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/118_Shallow Grave.png"
+			}
+		},
+		{
+			"name": "Flame Swordsman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/142_Flame Swordsman.png"
+			}
+		},
+		{
+			"name": "Mudora",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/190_Mudora.png"
+			}
+		},
+		{
+			"name": "Tentacle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Tentacle",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/5t_Tentacle.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/10t_Treasure.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Gold Sarcophagus
+	1 The Pharaoh, Atem
+	1 Joey Wheeler, Lucky Duelist
+	1 Yami Marik, Sadistic Spirit
+	1 Yami Bakura, Vengeful Revenant
+	1 Seto Kaiba, Unstoppable Duelist
+	2 Blue-Eyes White Dragon
+	1 Yugi Muto, King of Games
+	2 Soul Exchange
+	2 Exchange of the Spirit
+	2 Mirror Force
+	2 De-Fusion
+	2 Block Dragon
+	2 Landstar Forces
+	2 Agido
+	2 Swords of Revealing Light
+	2 Multiply
+	2 Solid Vision Spectre
+	2 Destiny Draw
+	2 Dark Magician Girl
+	2 Toon Kingdom
+	2 Magician of Black Chaos
+	2 Rob the Grave
+	2 Foolish Burial
+	2 Shadow Game
+	2 Summoned Skull
+	2 Sangan
+	2 Dark Time Wizard's Spin
+	2 Shadow's Blaze
+	2 Berserker Soul
+	2 Change of Heart
+	2 Twin-Headed Thunder Dragon
+	2 Reinforcements of the Army
+	2 Bandit Keith, Dexterous Deceiver
+	2 Barrel Dragon
+	2 Protector with Eyes of Blue
+	2 Summon Dice
+	2 Ancient Rules
+	2 Multiplication of Ants
+	2 Cocoon of Evolution
+	2 Toon Alligator
+	2 Magic Neutralizing Circle
+	1 Deck Master
+	1 Palladium Wizard
+	1 Toon World
+	1 Relinquished
+	1 Sentence of Doom
+	1 Monster Reborn
+	1 Raigeki
+	1 Plasma Eel
+	1 Ties of the Brethren
+	1 Amazoness War Chief
+	2 Futuristic Arena
+	1 Ishizu Ishtar, Wise Gravekeeper
+	1 Mai Valentine, Queen of Harpies
+	1 Odion, Marik's Protector
+	1 Maximillion Pegasus, Inkling Illustrator
+	2 Doomed Travels
+	2 Harpy Lady
+	2 Ghostly Pumpking
+	2 Black Illusion Ritual
+	2 Dark Magician
+	2 Dark Necrofear
+	2 Lava Golem
+	2 Gandora-X
+	2 Red-Eyes Alternative Black Dragon
+	1 Horakhty, Creator God of Light
+	1 Obelisk, the Tormentor
+	1 The Winged Dragon of Ra
+	1 Slifer, the Sky Dragon
+	2 Ceremonial Duelground
+	2 Lost World
+	2 Harpies' Hunting Ground
+	2 Battle City
+	2 Necrovalley
+	2 Temple of the Kings
+	2 Duelist Kingdom
+	2 Tomb of the Nameless Pharaoh
+	2 Mystic Table
+	2 The Millennium Eye
+	2 The Millennium Puzzle
+	2 The Millennium Ring
+	2 The Millennium Scale
+	2 The Millennium Key
+	2 The Millennium Rod
+	2 The Millennium Necklace
+	2 The Seal of Orichalcos
+	2 XYZ Dragon Cannon
+	2 Yugi Muto, Two Souls as One
+	2 Harpy's Pet Dragon
+	2 Polymerization
+	2 Mako Tsunami, Compassionnate Fisherman
+	2 Seto Kaiba, Duelist with Eyes of Blue
+	2 Earl of Demise
+	2 Aria From Beyond
+	2 Ghostly Pumprincess
+	2 Joey Wheeler, Steadfast Friend
+	2 Jinzo, Psychic Lord
+	2 High Speed Aria
+	2 Dark Sanctuary
+[uncommon(3)]
+	4 Blockman
+	4 Skilled Blue Magician
+	4 Card of Last Will
+	4 Magical Stone Excavation
+	4 Gravekeeper's Spiritualist
+	4 Timely Scapegoats
+	4 Harpy's Feather Duster
+	4 Silent Paladin
+	4 Exodia, the Forbidden One
+	4 Left Arm of the Forbidden One
+	4 Right Arm of the Forbidden One
+	4 Left Leg of the Forbidden One
+	4 Right Leg of the Forbidden One
+	4 Dark Magical Circle
+	4 Gravekeeper's Oracle
+	4 Silent Magician
+	4 Kuriboh
+	4 Book of Moon
+	4 Time Jump
+	4 Interdimensional Matter Transporter
+	4 Strike of the Magical Mallet
+	4 Tournament Sabotage
+	4 Black Magic Ritual
+	4 Destiny Board — I
+	4 Destiny Board — N
+	4 Destiny Board — A
+	4 Destiny Board — L
+	4 Destiny Board — F
+	4 Revival Jam
+	4 Chain Destruction
+	4 Bonz, Ghastly Henchman
+	4 Skilled Dark Magician
+	4 Kaiser Vorse Raider
+	4 Outfit for Dueling
+	4 Silent Swordsman
+	4 Gaia the Fierce Knight
+	4 Thunder Dragon
+	4 Block Golem
+	4 Jam Breeding Machine
+	4 Duke Devlin, Dice Extraordinaire
+	4 Black Tyranno
+	4 Hand Destruction
+	4 Skilled Red Magician
+	4 Mystical Space Typhoon
+	4 Book of Taiyou
+	4 Roulette Spider
+	4 Blue-Eyes Bingo Machine
+	4 Sage with Eyes of Blue
+	4 Insect Queen
+	4 Skilled Brown Magician
+	4 Amazoness Spiritualist
+	4 Amazoness Sage
+	4 Hercules Beetle
+	4 Hidden Temples of Necrovalley
+	4 Solemn Judgement
+	4 Valkyrion the Magnet Warrior
+	4 Pot of Greed
+	4 Infinite Cards
+	4 Red-Eyes Black Dragon
+	4 Magnet Reverse
+	4 Haunting of the Twin Dolls
+	4 Three-Masked Beast
+	4 Chaos Emperor Dragon
+	4 Black Luster Soldier
+	4 Geh, the Divine Serpent
+	4 Gravekeeper's Supernaturalist
+	4 Necro Cycle
+	4 Toon Masked Sorcerer
+	4 Different Dimension
+	4 Metalmorph
+	4 Fiend Kraken
+	4 Curse of Dragon
+	4 Weevil Underwood, Bug Brawler
+	4 Ectoplasmer
+	4 Rex Raptor, Regional Rival
+	4 Watapon
+	4 Nutrient Z
+	4 Salamandra
+	4 Point to Point Transfer
+	4 Deep-Eyes White Dragon
+	4 Toon Goblin Attack Force
+	4 Baby Dragon
+	4 Harpy Lady Sisters
+	4 Ancient Vanguard Kelbek
+	4 Skim Through the Spellbook
+	4 Cyber Slash Harpy Lady
+	4 Curse of the Masked Beast
+	4 Mystical Beast Serket
+	4 Magic Cylinder
+	4 Blue-Eyes Ultimate Dragon
+	4 Skilled White Magician
+	4 Luster Dragon
+	4 Shallow Grave
+	4 Flame Swordsman
+	4 Mudora
+[common(6)]
+	8 Kaiser Sea Horse
+	8 Gearfried the Iron Knight
+	8 Lemon Magician Girl
+	8 Magical Warrior
+	8 Mystical Sheep
+	8 Gift of the Mystical Elf
+	8 Spellbinding Circle
+	8 Gravekeeper's Recruiter
+	8 Pump Up
+	8 Red-Eyes Toon Dragon
+	8 Toy Knight
+	8 Yellow Gadget
+	8 Red Gadget
+	8 Green Gadget
+	8 Banishing Trap Hole
+	8 Thousand Knives
+	8 Palladium Oracle
+	8 Amazoness Archer
+	8 Dramatic Rescue
+	8 Negate Attack
+	8 Chocolate Magician Girl
+	8 Kiwi Magician Girl
+	8 Electromagnetic Turtle
+	8 King of the Swamp
+	8 Toon Dark Magician
+	8 Toon Dark Magician Girl
+	8 Toy Magician
+	8 Graceful Charity
+	8 Dream Dice
+	8 Keldo
+	8 Magician's Rod
+	8 Greenkappa
+	8 Jar of Greed
+	8 Skill Drain
+	8 Magician of Faith
+	8 Called by the Grave
+	8 Orichalcos Soldier
+	8 Amazoness Chain Master
+	8 Toon Summoned Skull
+	8 Blast Held by a Tribute
+	8 Gravekeeper's Cursemaker
+	8 Dark Jeroid
+	8 Advance Draw
+	8 Skull Dice
+	8 Dark Magic Attack
+	8 Parasite Paracide
+	8 Embodiment of Apophis
+	8 Black Pendant
+	8 Fearful Earthbound
+	8 Zoma the Spirit
+	8 Headless Knight
+	8 Serpent Night Dragon
+	8 Vampiric Leech
+	8 Gross Ghost
+	8 Vorse Raider
+	8 Apple Magician Girl
+	8 Berry Magician Girl
+	8 X-Head Cannon
+	8 Y-Dragon Head
+	8 Z-Metal Tank
+	8 Alligator Swordsman
+	8 Rush Recklessly
+	8 Toy Soldier
+	8 Gil Garth
+	8 Lightning Blade
+	8 Burst Stream of Destruction
+	8 Mystical Genie of the Lamp
+	8 Kunai with Chain
+	8 Alexandrite Dragon
+	8 Bowganian
+	8 Arduous Decision
+	8 Slot Machine
+	8 7 Completed
+	8 Maiden with Eyes of Blue
+	8 It's Time to Duel!!!
+	8 Gravekeeper's Ambusher
+	8 Gravekeeper's Shaman
+	8 Panther Warrior
+	8 Giant Soldier of Stone
+	8 Blue Eyes Toon Dragon
+	8 Toon Mermaid
+	8 Mystic Tomato
+	8 Graceful Dice
+	8 Priestess with Eyes of Blue
+	8 Ties That Bind
+	8 Spear Dragon
+	8 Cave Dragon
+	8 Dark Wall of Wind
+	8 Man-Eater Bug
+	8 Big Bang Shot
+	8 Falling Strength
+	8 Jam Defender
+	8 Magic Jammer
+	8 Divine Hierarchy
+	8 Trade-In
+	8 Star Chips
+	8 Gamma Magnet Warrior
+	8 Alpha Magnet Warrior
+	8 Beta Magnet Warrior
+	8 Duel Disk
+	8 Closed Forest
+	8 Castle of Dark Illusions
+	8 Pot of Prosperity
+[common | masterpiece(1)]
+	8 Kaiser Sea Horse
+	8 Gearfried the Iron Knight
+	8 Lemon Magician Girl
+	8 Magical Warrior
+	8 Mystical Sheep
+	8 Gift of the Mystical Elf
+	8 Spellbinding Circle
+	8 Gravekeeper's Recruiter
+	8 Pump Up
+	8 Red-Eyes Toon Dragon
+	8 Toy Knight
+	8 Yellow Gadget
+	8 Red Gadget
+	8 Green Gadget
+	8 Banishing Trap Hole
+	8 Thousand Knives
+	8 Palladium Oracle
+	8 Amazoness Archer
+	8 Dramatic Rescue
+	8 Negate Attack
+	8 Chocolate Magician Girl
+	8 Kiwi Magician Girl
+	8 Electromagnetic Turtle
+	8 King of the Swamp
+	8 Toon Dark Magician
+	8 Toon Dark Magician Girl
+	8 Toy Magician
+	8 Graceful Charity
+	8 Dream Dice
+	8 Keldo
+	8 Magician's Rod
+	8 Greenkappa
+	8 Jar of Greed
+	8 Skill Drain
+	8 Magician of Faith
+	8 Called by the Grave
+	8 Orichalcos Soldier
+	8 Amazoness Chain Master
+	8 Toon Summoned Skull
+	8 Blast Held by a Tribute
+	8 Gravekeeper's Cursemaker
+	8 Dark Jeroid
+	8 Advance Draw
+	8 Skull Dice
+	8 Dark Magic Attack
+	8 Parasite Paracide
+	8 Embodiment of Apophis
+	8 Black Pendant
+	8 Fearful Earthbound
+	8 Zoma the Spirit
+	8 Headless Knight
+	8 Serpent Night Dragon
+	8 Vampiric Leech
+	8 Gross Ghost
+	8 Vorse Raider
+	8 Apple Magician Girl
+	8 Berry Magician Girl
+	8 X-Head Cannon
+	8 Y-Dragon Head
+	8 Z-Metal Tank
+	8 Alligator Swordsman
+	8 Rush Recklessly
+	8 Toy Soldier
+	8 Gil Garth
+	8 Lightning Blade
+	8 Burst Stream of Destruction
+	8 Mystical Genie of the Lamp
+	8 Kunai with Chain
+	8 Alexandrite Dragon
+	8 Bowganian
+	8 Arduous Decision
+	8 Slot Machine
+	8 7 Completed
+	8 Maiden with Eyes of Blue
+	8 It's Time to Duel!!!
+	8 Gravekeeper's Ambusher
+	8 Gravekeeper's Shaman
+	8 Panther Warrior
+	8 Giant Soldier of Stone
+	8 Blue Eyes Toon Dragon
+	8 Toon Mermaid
+	8 Mystic Tomato
+	8 Graceful Dice
+	8 Priestess with Eyes of Blue
+	8 Ties That Bind
+	8 Spear Dragon
+	8 Cave Dragon
+	8 Dark Wall of Wind
+	8 Man-Eater Bug
+	8 Big Bang Shot
+	8 Falling Strength
+	8 Jam Defender
+	8 Magic Jammer
+	8 Divine Hierarchy
+	8 Trade-In
+	8 Star Chips
+	8 Gamma Magnet Warrior
+	8 Alpha Magnet Warrior
+	8 Beta Magnet Warrior
+	8 Duel Disk
+	8 Closed Forest
+	8 Castle of Dark Illusions
+	8 Pot of Prosperity
+[foil(1)]
+	1 Gold Sarcophagus
+	1 The Pharaoh, Atem
+	1 Joey Wheeler, Lucky Duelist
+	1 Yami Marik, Sadistic Spirit
+	1 Yami Bakura, Vengeful Revenant
+	1 Seto Kaiba, Unstoppable Duelist
+	12 Kaiser Sea Horse
+	2 Blue-Eyes White Dragon
+	1 Yugi Muto, King of Games
+	12 Gearfried the Iron Knight
+	12 Lemon Magician Girl
+	12 Magical Warrior
+	12 Mystical Sheep
+	12 Gift of the Mystical Elf
+	12 Spellbinding Circle
+	12 Gravekeeper's Recruiter
+	12 Pump Up
+	12 Red-Eyes Toon Dragon
+	12 Toy Knight
+	6 Blockman
+	12 Yellow Gadget
+	12 Red Gadget
+	12 Green Gadget
+	12 Banishing Trap Hole
+	12 Thousand Knives
+	12 Palladium Oracle
+	12 Amazoness Archer
+	12 Dramatic Rescue
+	12 Negate Attack
+	12 Chocolate Magician Girl
+	12 Kiwi Magician Girl
+	12 Electromagnetic Turtle
+	12 King of the Swamp
+	12 Toon Dark Magician
+	12 Toon Dark Magician Girl
+	12 Toy Magician
+	12 Graceful Charity
+	12 Dream Dice
+	12 Keldo
+	12 Magician's Rod
+	12 Greenkappa
+	12 Jar of Greed
+	12 Skill Drain
+	6 Skilled Blue Magician
+	12 Magician of Faith
+	12 Called by the Grave
+	6 Card of Last Will
+	12 Orichalcos Soldier
+	12 Amazoness Chain Master
+	12 Toon Summoned Skull
+	12 Blast Held by a Tribute
+	12 Gravekeeper's Cursemaker
+	12 Dark Jeroid
+	12 Advance Draw
+	12 Skull Dice
+	12 Dark Magic Attack
+	12 Parasite Paracide
+	12 Embodiment of Apophis
+	12 Black Pendant
+	12 Fearful Earthbound
+	12 Zoma the Spirit
+	12 Headless Knight
+	12 Serpent Night Dragon
+	12 Vampiric Leech
+	12 Gross Ghost
+	12 Vorse Raider
+	12 Apple Magician Girl
+	12 Berry Magician Girl
+	12 X-Head Cannon
+	12 Y-Dragon Head
+	12 Z-Metal Tank
+	12 Alligator Swordsman
+	12 Rush Recklessly
+	12 Toy Soldier
+	12 Gil Garth
+	12 Lightning Blade
+	12 Burst Stream of Destruction
+	12 Mystical Genie of the Lamp
+	12 Kunai with Chain
+	12 Alexandrite Dragon
+	12 Bowganian
+	12 Arduous Decision
+	12 Slot Machine
+	12 7 Completed
+	12 Maiden with Eyes of Blue
+	12 It's Time to Duel!!!
+	12 Gravekeeper's Ambusher
+	12 Gravekeeper's Shaman
+	12 Panther Warrior
+	12 Giant Soldier of Stone
+	12 Blue Eyes Toon Dragon
+	12 Toon Mermaid
+	12 Mystic Tomato
+	12 Graceful Dice
+	12 Priestess with Eyes of Blue
+	12 Ties That Bind
+	12 Spear Dragon
+	12 Cave Dragon
+	12 Dark Wall of Wind
+	6 Magical Stone Excavation
+	12 Man-Eater Bug
+	12 Big Bang Shot
+	12 Falling Strength
+	6 Gravekeeper's Spiritualist
+	6 Timely Scapegoats
+	6 Harpy's Feather Duster
+	6 Silent Paladin
+	6 Exodia, the Forbidden One
+	6 Left Arm of the Forbidden One
+	6 Right Arm of the Forbidden One
+	6 Left Leg of the Forbidden One
+	6 Right Leg of the Forbidden One
+	6 Dark Magical Circle
+	12 Jam Defender
+	12 Magic Jammer
+	6 Gravekeeper's Oracle
+	6 Silent Magician
+	6 Kuriboh
+	6 Book of Moon
+	6 Time Jump
+	2 Soul Exchange
+	6 Interdimensional Matter Transporter
+	6 Strike of the Magical Mallet
+	2 Exchange of the Spirit
+	12 Divine Hierarchy
+	6 Tournament Sabotage
+	6 Black Magic Ritual
+	6 Destiny Board — I
+	6 Destiny Board — N
+	6 Destiny Board — A
+	6 Destiny Board — L
+	6 Destiny Board — F
+	6 Revival Jam
+	6 Chain Destruction
+	6 Bonz, Ghastly Henchman
+	6 Skilled Dark Magician
+	6 Kaiser Vorse Raider
+	6 Outfit for Dueling
+	6 Silent Swordsman
+	6 Gaia the Fierce Knight
+	6 Thunder Dragon
+	6 Block Golem
+	6 Jam Breeding Machine
+	6 Duke Devlin, Dice Extraordinaire
+	6 Black Tyranno
+	6 Hand Destruction
+	6 Skilled Red Magician
+	6 Mystical Space Typhoon
+	6 Book of Taiyou
+	6 Roulette Spider
+	6 Blue-Eyes Bingo Machine
+	6 Sage with Eyes of Blue
+	6 Insect Queen
+	12 Trade-In
+	6 Skilled Brown Magician
+	6 Amazoness Spiritualist
+	6 Amazoness Sage
+	6 Hercules Beetle
+	2 Mirror Force
+	2 De-Fusion
+	2 Block Dragon
+	2 Landstar Forces
+	2 Agido
+	2 Swords of Revealing Light
+	2 Multiply
+	2 Solid Vision Spectre
+	2 Destiny Draw
+	2 Dark Magician Girl
+	6 Hidden Temples of Necrovalley
+	2 Toon Kingdom
+	2 Magician of Black Chaos
+	6 Solemn Judgement
+	2 Rob the Grave
+	2 Foolish Burial
+	2 Shadow Game
+	2 Summoned Skull
+	2 Sangan
+	2 Dark Time Wizard's Spin
+	2 Shadow's Blaze
+	2 Berserker Soul
+	2 Change of Heart
+	2 Twin-Headed Thunder Dragon
+	2 Reinforcements of the Army
+	2 Bandit Keith, Dexterous Deceiver
+	2 Barrel Dragon
+	2 Protector with Eyes of Blue
+	2 Summon Dice
+	2 Ancient Rules
+	2 Multiplication of Ants
+	2 Cocoon of Evolution
+	2 Toon Alligator
+	2 Magic Neutralizing Circle
+	1 Deck Master
+	1 Palladium Wizard
+	1 Toon World
+	1 Relinquished
+	1 Sentence of Doom
+	1 Monster Reborn
+	1 Raigeki
+	1 Plasma Eel
+	1 Ties of the Brethren
+	1 Amazoness War Chief
+	12 Star Chips
+	6 Valkyrion the Magnet Warrior
+	12 Gamma Magnet Warrior
+	12 Alpha Magnet Warrior
+	12 Beta Magnet Warrior
+	6 Pot of Greed
+	12 Duel Disk
+	6 Infinite Cards
+	12 Closed Forest
+	2 Futuristic Arena
+	1 Ishizu Ishtar, Wise Gravekeeper
+	1 Mai Valentine, Queen of Harpies
+	1 Odion, Marik's Protector
+	1 Maximillion Pegasus, Inkling Illustrator
+	2 Doomed Travels
+	2 Harpy Lady
+	2 Ghostly Pumpking
+	2 Black Illusion Ritual
+	6 Red-Eyes Black Dragon
+	2 Dark Magician
+	2 Dark Necrofear
+	2 Lava Golem
+	2 Gandora-X
+	6 Magnet Reverse
+	6 Haunting of the Twin Dolls
+	6 Three-Masked Beast
+	6 Chaos Emperor Dragon
+	6 Black Luster Soldier
+	6 Geh, the Divine Serpent
+	6 Gravekeeper's Supernaturalist
+	6 Necro Cycle
+	2 Red-Eyes Alternative Black Dragon
+	6 Toon Masked Sorcerer
+	1 Horakhty, Creator God of Light
+	1 Obelisk, the Tormentor
+	1 The Winged Dragon of Ra
+	1 Slifer, the Sky Dragon
+	2 Ceremonial Duelground
+	2 Lost World
+	2 Harpies' Hunting Ground
+	2 Battle City
+	2 Necrovalley
+	2 Temple of the Kings
+	2 Duelist Kingdom
+	2 Tomb of the Nameless Pharaoh
+	2 Mystic Table
+	12 Castle of Dark Illusions
+	6 Different Dimension
+	2 The Millennium Eye
+	2 The Millennium Puzzle
+	2 The Millennium Ring
+	2 The Millennium Scale
+	2 The Millennium Key
+	2 The Millennium Rod
+	2 The Millennium Necklace
+	2 The Seal of Orichalcos
+	2 XYZ Dragon Cannon
+	2 Yugi Muto, Two Souls as One
+	2 Harpy's Pet Dragon
+	2 Polymerization
+	2 Mako Tsunami, Compassionnate Fisherman
+	2 Seto Kaiba, Duelist with Eyes of Blue
+	2 Earl of Demise
+	2 Aria From Beyond
+	2 Ghostly Pumprincess
+	2 Joey Wheeler, Steadfast Friend
+	2 Jinzo, Psychic Lord
+	6 Metalmorph
+	12 Pot of Prosperity
+	2 High Speed Aria
+	2 Dark Sanctuary
+	6 Fiend Kraken
+	6 Curse of Dragon
+	6 Weevil Underwood, Bug Brawler
+	6 Ectoplasmer
+	6 Rex Raptor, Regional Rival
+	6 Watapon
+	6 Nutrient Z
+	6 Salamandra
+	6 Point to Point Transfer
+	6 Deep-Eyes White Dragon
+	6 Toon Goblin Attack Force
+	6 Baby Dragon
+	6 Harpy Lady Sisters
+	6 Ancient Vanguard Kelbek
+	6 Skim Through the Spellbook
+	6 Cyber Slash Harpy Lady
+	6 Curse of the Masked Beast
+	6 Mystical Beast Serket
+	6 Magic Cylinder
+	6 Blue-Eyes Ultimate Dragon
+	6 Skilled White Magician
+	6 Luster Dragon
+	6 Shallow Grave
+	6 Flame Swordsman
+	6 Mudora
+[wildcard(1)]
+	4 Gold Sarcophagus
+	4 The Pharaoh, Atem
+	4 Joey Wheeler, Lucky Duelist
+	4 Yami Marik, Sadistic Spirit
+	4 Yami Bakura, Vengeful Revenant
+	4 Seto Kaiba, Unstoppable Duelist
+	6 Kaiser Sea Horse
+	7 Blue-Eyes White Dragon
+	4 Yugi Muto, King of Games
+	6 Gearfried the Iron Knight
+	6 Lemon Magician Girl
+	6 Magical Warrior
+	6 Mystical Sheep
+	6 Gift of the Mystical Elf
+	6 Spellbinding Circle
+	6 Gravekeeper's Recruiter
+	6 Pump Up
+	6 Red-Eyes Toon Dragon
+	6 Toy Knight
+	15 Blockman
+	6 Yellow Gadget
+	6 Red Gadget
+	6 Green Gadget
+	6 Banishing Trap Hole
+	6 Thousand Knives
+	6 Palladium Oracle
+	6 Amazoness Archer
+	6 Dramatic Rescue
+	6 Negate Attack
+	6 Chocolate Magician Girl
+	6 Kiwi Magician Girl
+	6 Electromagnetic Turtle
+	6 King of the Swamp
+	6 Toon Dark Magician
+	6 Toon Dark Magician Girl
+	6 Toy Magician
+	6 Graceful Charity
+	6 Dream Dice
+	6 Keldo
+	6 Magician's Rod
+	6 Greenkappa
+	6 Jar of Greed
+	6 Skill Drain
+	15 Skilled Blue Magician
+	6 Magician of Faith
+	6 Called by the Grave
+	15 Card of Last Will
+	6 Orichalcos Soldier
+	6 Amazoness Chain Master
+	6 Toon Summoned Skull
+	6 Blast Held by a Tribute
+	6 Gravekeeper's Cursemaker
+	6 Dark Jeroid
+	6 Advance Draw
+	6 Skull Dice
+	6 Dark Magic Attack
+	6 Parasite Paracide
+	6 Embodiment of Apophis
+	6 Black Pendant
+	6 Fearful Earthbound
+	6 Zoma the Spirit
+	6 Headless Knight
+	6 Serpent Night Dragon
+	6 Vampiric Leech
+	6 Gross Ghost
+	6 Vorse Raider
+	6 Apple Magician Girl
+	6 Berry Magician Girl
+	6 X-Head Cannon
+	6 Y-Dragon Head
+	6 Z-Metal Tank
+	6 Alligator Swordsman
+	6 Rush Recklessly
+	6 Toy Soldier
+	6 Gil Garth
+	6 Lightning Blade
+	6 Burst Stream of Destruction
+	6 Mystical Genie of the Lamp
+	6 Kunai with Chain
+	6 Alexandrite Dragon
+	6 Bowganian
+	6 Arduous Decision
+	6 Slot Machine
+	6 7 Completed
+	6 Maiden with Eyes of Blue
+	6 It's Time to Duel!!!
+	6 Gravekeeper's Ambusher
+	6 Gravekeeper's Shaman
+	6 Panther Warrior
+	6 Giant Soldier of Stone
+	6 Blue Eyes Toon Dragon
+	6 Toon Mermaid
+	6 Mystic Tomato
+	6 Graceful Dice
+	6 Priestess with Eyes of Blue
+	6 Ties That Bind
+	6 Spear Dragon
+	6 Cave Dragon
+	6 Dark Wall of Wind
+	15 Magical Stone Excavation
+	6 Man-Eater Bug
+	6 Big Bang Shot
+	6 Falling Strength
+	15 Gravekeeper's Spiritualist
+	15 Timely Scapegoats
+	15 Harpy's Feather Duster
+	15 Silent Paladin
+	15 Exodia, the Forbidden One
+	15 Left Arm of the Forbidden One
+	15 Right Arm of the Forbidden One
+	15 Left Leg of the Forbidden One
+	15 Right Leg of the Forbidden One
+	15 Dark Magical Circle
+	6 Jam Defender
+	6 Magic Jammer
+	15 Gravekeeper's Oracle
+	15 Silent Magician
+	15 Kuriboh
+	15 Book of Moon
+	15 Time Jump
+	7 Soul Exchange
+	15 Interdimensional Matter Transporter
+	15 Strike of the Magical Mallet
+	7 Exchange of the Spirit
+	6 Divine Hierarchy
+	15 Tournament Sabotage
+	15 Black Magic Ritual
+	15 Destiny Board — I
+	15 Destiny Board — N
+	15 Destiny Board — A
+	15 Destiny Board — L
+	15 Destiny Board — F
+	15 Revival Jam
+	15 Chain Destruction
+	15 Bonz, Ghastly Henchman
+	15 Skilled Dark Magician
+	15 Kaiser Vorse Raider
+	15 Outfit for Dueling
+	15 Silent Swordsman
+	15 Gaia the Fierce Knight
+	15 Thunder Dragon
+	15 Block Golem
+	15 Jam Breeding Machine
+	15 Duke Devlin, Dice Extraordinaire
+	15 Black Tyranno
+	15 Hand Destruction
+	15 Skilled Red Magician
+	15 Mystical Space Typhoon
+	15 Book of Taiyou
+	15 Roulette Spider
+	15 Blue-Eyes Bingo Machine
+	15 Sage with Eyes of Blue
+	15 Insect Queen
+	6 Trade-In
+	15 Skilled Brown Magician
+	15 Amazoness Spiritualist
+	15 Amazoness Sage
+	15 Hercules Beetle
+	7 Mirror Force
+	7 De-Fusion
+	7 Block Dragon
+	7 Landstar Forces
+	7 Agido
+	7 Swords of Revealing Light
+	7 Multiply
+	7 Solid Vision Spectre
+	7 Destiny Draw
+	7 Dark Magician Girl
+	15 Hidden Temples of Necrovalley
+	7 Toon Kingdom
+	7 Magician of Black Chaos
+	15 Solemn Judgement
+	7 Rob the Grave
+	7 Foolish Burial
+	7 Shadow Game
+	7 Summoned Skull
+	7 Sangan
+	7 Dark Time Wizard's Spin
+	7 Shadow's Blaze
+	7 Berserker Soul
+	7 Change of Heart
+	7 Twin-Headed Thunder Dragon
+	7 Reinforcements of the Army
+	7 Bandit Keith, Dexterous Deceiver
+	7 Barrel Dragon
+	7 Protector with Eyes of Blue
+	7 Summon Dice
+	7 Ancient Rules
+	7 Multiplication of Ants
+	7 Cocoon of Evolution
+	7 Toon Alligator
+	7 Magic Neutralizing Circle
+	4 Deck Master
+	4 Palladium Wizard
+	4 Toon World
+	4 Relinquished
+	4 Sentence of Doom
+	4 Monster Reborn
+	4 Raigeki
+	4 Plasma Eel
+	4 Ties of the Brethren
+	4 Amazoness War Chief
+	6 Star Chips
+	15 Valkyrion the Magnet Warrior
+	6 Gamma Magnet Warrior
+	6 Alpha Magnet Warrior
+	6 Beta Magnet Warrior
+	15 Pot of Greed
+	6 Duel Disk
+	15 Infinite Cards
+	6 Closed Forest
+	7 Futuristic Arena
+	4 Ishizu Ishtar, Wise Gravekeeper
+	4 Mai Valentine, Queen of Harpies
+	4 Odion, Marik's Protector
+	4 Maximillion Pegasus, Inkling Illustrator
+	7 Doomed Travels
+	7 Harpy Lady
+	7 Ghostly Pumpking
+	7 Black Illusion Ritual
+	15 Red-Eyes Black Dragon
+	7 Dark Magician
+	7 Dark Necrofear
+	7 Lava Golem
+	7 Gandora-X
+	15 Magnet Reverse
+	15 Haunting of the Twin Dolls
+	15 Three-Masked Beast
+	15 Chaos Emperor Dragon
+	15 Black Luster Soldier
+	15 Geh, the Divine Serpent
+	15 Gravekeeper's Supernaturalist
+	15 Necro Cycle
+	7 Red-Eyes Alternative Black Dragon
+	15 Toon Masked Sorcerer
+	4 Horakhty, Creator God of Light
+	4 Obelisk, the Tormentor
+	4 The Winged Dragon of Ra
+	4 Slifer, the Sky Dragon
+	7 Ceremonial Duelground
+	7 Lost World
+	7 Harpies' Hunting Ground
+	7 Battle City
+	7 Necrovalley
+	7 Temple of the Kings
+	7 Duelist Kingdom
+	7 Tomb of the Nameless Pharaoh
+	7 Mystic Table
+	6 Castle of Dark Illusions
+	15 Different Dimension
+	7 The Millennium Eye
+	7 The Millennium Puzzle
+	7 The Millennium Ring
+	7 The Millennium Scale
+	7 The Millennium Key
+	7 The Millennium Rod
+	7 The Millennium Necklace
+	7 The Seal of Orichalcos
+	7 XYZ Dragon Cannon
+	7 Yugi Muto, Two Souls as One
+	7 Harpy's Pet Dragon
+	7 Polymerization
+	7 Mako Tsunami, Compassionnate Fisherman
+	7 Seto Kaiba, Duelist with Eyes of Blue
+	7 Earl of Demise
+	7 Aria From Beyond
+	7 Ghostly Pumprincess
+	7 Joey Wheeler, Steadfast Friend
+	7 Jinzo, Psychic Lord
+	15 Metalmorph
+	6 Pot of Prosperity
+	7 High Speed Aria
+	7 Dark Sanctuary
+	15 Fiend Kraken
+	15 Curse of Dragon
+	15 Weevil Underwood, Bug Brawler
+	15 Ectoplasmer
+	15 Rex Raptor, Regional Rival
+	15 Watapon
+	15 Nutrient Z
+	15 Salamandra
+	15 Point to Point Transfer
+	15 Deep-Eyes White Dragon
+	15 Toon Goblin Attack Force
+	15 Baby Dragon
+	15 Harpy Lady Sisters
+	15 Ancient Vanguard Kelbek
+	15 Skim Through the Spellbook
+	15 Cyber Slash Harpy Lady
+	15 Curse of the Masked Beast
+	15 Mystical Beast Serket
+	15 Magic Cylinder
+	15 Blue-Eyes Ultimate Dragon
+	15 Skilled White Magician
+	15 Luster Dragon
+	15 Shallow Grave
+	15 Flame Swordsman
+	15 Mudora

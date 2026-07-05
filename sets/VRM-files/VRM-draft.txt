@@ -7,7 +7,7 @@
 			"type": "Enchantment Creature — Eye Illusion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/4_Astral Eye.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/4_Astral Eye.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Cat Knight",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/20_Kovekki Knight.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/20_Kovekki Knight.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/9_Creth Invader.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/9_Creth Invader.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Rhino",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/30_Rhinoback Lancer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/30_Rhinoback Lancer.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Cat Knight",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/12_Enlisted Duo.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/12_Enlisted Duo.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/11_Devout of Elio.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/11_Devout of Elio.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Enchantment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/24_Midnight Alarm.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/24_Midnight Alarm.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/25_Nu'Ul's Conclusion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/25_Nu'Ul's Conclusion.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/21_Lancer Formation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/21_Lancer Formation.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/17_Heights of Ascension.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/17_Heights of Ascension.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Griffin Knight",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/31_Riderless Skyknight.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/31_Riderless Skyknight.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Cat Cleric",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/32_Savanna Stalwart.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/32_Savanna Stalwart.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Human Artificer Knight",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/13_Experienced Battlesmith.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/13_Experienced Battlesmith.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/22_Lattice of Cleansing.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/22_Lattice of Cleansing.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/6_Bountiful Provisions.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/6_Bountiful Provisions.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/7_Coalition Cadre.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/7_Coalition Cadre.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Instant",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/27_Patronic Gift.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/27_Patronic Gift.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/14_Faultless Plate.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/14_Faultless Plate.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Creature — Dragon Cleric",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/36_Selorian Hallower.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/36_Selorian Hallower.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/69_Reexamine Fate.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/69_Reexamine Fate.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Dragon Sorcerer",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/71_Scalemaker Initiate.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/71_Scalemaker Initiate.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Lobster",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/77_Territorial Hardclaw.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/77_Territorial Hardclaw.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/56_Forced to Surrender.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/56_Forced to Surrender.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/70_Sanctimonious Revelation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/70_Sanctimonious Revelation.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Griffin",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/48_Cornered Griffin.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/48_Cornered Griffin.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/64_Messenger of Fate.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/64_Messenger of Fate.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Lobster",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/80_Wardshell Lobster.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/80_Wardshell Lobster.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Enchantment Creature — Illusion",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/44_Alley Shadowdoppel.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/44_Alley Shadowdoppel.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Human Rogue Sorcerer",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/45_Alley Spellthief.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/45_Alley Spellthief.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Human Monk Sorcerer",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/65_Monastery Timeseer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/65_Monastery Timeseer.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/62_Last Recourse.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/62_Last Recourse.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Lobster",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/46_Aquatic Abductor.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/46_Aquatic Abductor.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/60_Intelligent Technique.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/60_Intelligent Technique.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature — Lobster",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/61_Kellmight Thoughtcrusher.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/61_Kellmight Thoughtcrusher.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Dragon Sorcerer",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/52_Dragonborn Timeseer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/52_Dragonborn Timeseer.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/68_Plan in Advance.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/68_Plan in Advance.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Artifact Creature — Bird",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/79_Unrefined Dronewing.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/79_Unrefined Dronewing.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/73_Scan Through Fate.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/73_Scan Through Fate.png"
 			}
 		},
 		{
@@ -387,17 +387,17 @@
 			"type": "Creature — Elf Knight",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/120_Squire of Kalamax.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/120_Squire of Kalamax.png"
 			}
 		},
 		{
-			"name": "Cut Low",
+			"name": "Split in Twain",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/93_Cut Low.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/119_Split in Twain.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Marrdri Beast",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/99_Graveburglar Ossivore.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/98_Graveburglar Ossivore.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Dragon Cleric",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/111_Priest of Gologo.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/110_Priest of Gologo.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/110_Preposterous Prophecy.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/109_Preposterous Prophecy.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/90_Bonecrave Curse.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/90_Bonecrave Curse.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/102_Kellcursed Greatsword.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/101_Kellcursed Greatsword.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/87_Blackflame Madwing.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/87_Blackflame Madwing.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/113_Ragehorn Champion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/112_Ragehorn Champion.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/112_Pyrrhic Conquest.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/111_Pyrrhic Conquest.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Minotaur Berserker",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/114_Ragehorn Raider.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/113_Ragehorn Raider.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Elf Noble Sorcerer",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/124_Ushatan Lifesapper.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/124_Ushatan Lifesapper.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Marrdri Shaman",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/115_Respectful Gravewatcher.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/114_Respectful Gravewatcher.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Dragon Cleric",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/108_Mindtwisted Orator.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/107_Mindtwisted Orator.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Marrdri Beast",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/105_Marrow Feaster.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/104_Marrow Feaster.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/100_Illusive Diversion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/99_Illusive Diversion.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/107_Message Runner.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/106_Message Runner.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Phoenix",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/103_Kellmight Phoenix.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/102_Kellmight Phoenix.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/96_Fatal Impalement.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/95_Fatal Impalement.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/156_Snowpeak Timeseer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/156_Snowpeak Timeseer.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Enchantment Creature — Illusion",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/126_Blitz Shimmer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/126_Blitz Shimmer.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Sorcery",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/163_Uninformed Ingenuity.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/163_Uninformed Ingenuity.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/147_Lightning Unconstrained.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/147_Lightning Unconstrained.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/125_Active Premonition.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/125_Active Premonition.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/143_Green-Ear Ambusher.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/143_Green-Ear Ambusher.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Minotaur Pirate",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/130_Chaotic Pilferer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/130_Chaotic Pilferer.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/145_Improved Technique.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/145_Improved Technique.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/165_Voracious Woodcrasher.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/165_Voracious Woodcrasher.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/164_Urgent Excavation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/164_Urgent Excavation.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Minotaur Berserker",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/159_Thundering Berserker.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/159_Thundering Berserker.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/160_Trumpeting Terroraptor.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/160_Trumpeting Terroraptor.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/148_Optimistic Paladin.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/148_Optimistic Paladin.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/155_Slagmutation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/155_Slagmutation.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Minotaur Archer",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/132_Desperate Crossbolter.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/132_Desperate Crossbolter.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/158_Temple Desecration.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/158_Temple Desecration.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Creature — Dragon Warrior",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/134_Dragonborn Cavalry.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/134_Dragonborn Cavalry.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/157_Spectral Slammer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/157_Spectral Slammer.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/128_Carnivorous Expansion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/128_Carnivorous Expansion.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/190_Naive Nestling.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/190_Naive Nestling.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Creature — Plant Druid",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/193_Phytosaurian Trainer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/193_Phytosaurian Trainer.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/198_Sight Sifter.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/198_Sight Sifter.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/201_Thundering Grenisaur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/201_Thundering Grenisaur.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/180_Floraptor Pack.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/180_Floraptor Pack.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/172_Cyclic Witness.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/172_Cyclic Witness.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/183_Herbisaur Duo.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/183_Herbisaur Duo.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/200_Strength of Mind.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/200_Strength of Mind.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Sorcery",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/191_Path of Evolution.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/191_Path of Evolution.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Elf Ranger",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/177_Espratan Blademaster.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/177_Espratan Blademaster.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/203_Tower Warden.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/203_Tower Warden.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/204_Track Home.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/204_Track Home.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/185_Increasing Strength.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/185_Increasing Strength.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/202_Titanic Warbow.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/202_Titanic Warbow.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Sorcery",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/206_Wound Prey.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/206_Wound Prey.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/195_Rampaging Phytosaur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/195_Rampaging Phytosaur.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Elf Archer Druid",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/179_Farsight Farmtender.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/179_Farsight Farmtender.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/181_Grove Verdasaur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/181_Grove Verdasaur.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Instant",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/169_Bound Groundward.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/169_Bound Groundward.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/23_Logistical Relocation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/23_Logistical Relocation.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/3_Apportioned Spoils.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/3_Apportioned Spoils.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Human Soldier Ally",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/15_Foreign Lieutenant.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/15_Foreign Lieutenant.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Griffin Knight",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/38_Skysquad Griffin.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/38_Skysquad Griffin.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/28_Photostorm.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/28_Photostorm.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Cat Knight",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/39_Soven Elite.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/39_Soven Elite.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Creature — Cat Griffin Sorcerer",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/18_Inducted Photomancer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/18_Inducted Photomancer.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Enchantment",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/33_Scaling Proficiency.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/33_Scaling Proficiency.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Sorcery",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/41_Timely Turn.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/41_Timely Turn.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Human Griffin Knight",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/35_Selfless Skylancer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/35_Selfless Skylancer.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/5_Blessing of Selor.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/5_Blessing of Selor.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/83_Wizened Deconstruction.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/83_Wizened Deconstruction.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/49_Desperate Timesight.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/49_Desperate Timesight.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/55_Final Decree.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/55_Final Decree.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/67_Offhand Tarblade.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/67_Offhand Tarblade.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Dragon Cleric Sorcerer",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/72_Scalemaker Priest.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/72_Scalemaker Priest.png"
 			}
 		},
 		{
@@ -1117,17 +1117,17 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/54_Fallarai Transcriptor.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/54_Fallarai Transcriptor.png"
 			}
 		},
 		{
 			"name": "Griffinrider Skymage",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Griffin Socerer",
+			"type": "Creature — Human Griffin Sorcerer",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/57_Griffinrider Skymage.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/57_Griffinrider Skymage.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/53_Exhausting Distraction.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/53_Exhausting Distraction.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/74_Shadowdoppel Replication.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/74_Shadowdoppel Replication.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/63_Mass Reduction.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/63_Mass Reduction.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/50_Disillusion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/50_Disillusion.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Marrdri Beast",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/97_Fearsome Ossivore.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/96_Fearsome Ossivore.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Enchantment Creature — Illusion",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/92_Criminal Streetshimmer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/92_Criminal Streetshimmer.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/94_Dazzling Price.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/93_Dazzling Price.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/121_Survive Beyond Reason.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/121_Survive Beyond Reason.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Creature — Rhino",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/88_Blackhoof Charger.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/88_Blackhoof Charger.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Phoenix",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/118_Smokeborne Blightflame.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/117_Smokeborne Blightflame.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Enchantment",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/122_Tenets of Kell.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/122_Tenets of Kell.png"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Minotaur Pirate",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/104_Kellmight Slayer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/103_Kellmight Slayer.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/106_Memory Whorl.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/105_Memory Whorl.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Creature — Marrdri Cleric",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/86_Archpriest of Gologo.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/86_Archpriest of Gologo.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/85_Ancestor's Conscription.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/85_Ancestor's Conscription.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/131_Deglamored Emergence.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/131_Deglamored Emergence.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Creature — Goblin Archer",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/144_Green-Ear Crosshot.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/144_Green-Ear Crosshot.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Dragon Soldier",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/162_Underground Invader.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/162_Underground Invader.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/152_Relentless Phoenix.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/152_Relentless Phoenix.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Creature — Dragon Sorcerer",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/136_Duamrac's Augur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/136_Duamrac's Augur.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/150_Pyrobolt.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/150_Pyrobolt.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/137_Duplicitous Maneuver.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/137_Duplicitous Maneuver.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/129_Chaotic Impulse.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/129_Chaotic Impulse.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/146_Impulsive Phoenix.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/146_Impulsive Phoenix.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Creature — Human Druid Warrior",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/149_Phytosaurian Warmaster.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/149_Phytosaurian Warmaster.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Human Archer Pirate",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/154_Sharpshot Plunderer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/154_Sharpshot Plunderer.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/205_Verdure Bounty.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/205_Verdure Bounty.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Enchantment",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/175_Dredger's Expertise.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/175_Dredger's Expertise.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Creature — Plant Hydra",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/199_Sly Mawsprouter.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/199_Sly Mawsprouter.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Creature — Plant Druid",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/182_Groveyard Tender.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/182_Groveyard Tender.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/170_Brawl in the Mud.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/170_Brawl in the Mud.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Artifact",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/186_Leaf-Blessed Trinket.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/186_Leaf-Blessed Trinket.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Enchantment",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/166_Awaken the Jungle.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/166_Awaken the Jungle.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Rhino Beast",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/168_Bellowing Crashhorn.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/168_Bellowing Crashhorn.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/197_Roaming Herbisaur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/197_Roaming Herbisaur.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Plant Druid",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/176_Druidic Composter.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/176_Druidic Composter.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/167_Barkskin Plate.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/167_Barkskin Plate.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Cat Knight",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/40_Sunheart Liege.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/40_Sunheart Liege.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Enchantment",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/19_Invasion's Insurrection.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/19_Invasion's Insurrection.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Creature — Cat Cleric",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/37_Selorian Sister.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/37_Selorian Sister.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Legendary Creature — Cat Warrior",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/26_Orala, Elio's Chosen.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/26_Orala, Elio's Chosen.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Artifact",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/8_Commerce Hall.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/8_Commerce Hall.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/34_Scout for Supplies.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/34_Scout for Supplies.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Enchantment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/16_Gallant Gallop.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/16_Gallant Gallop.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/66_Nexen Liege.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/66_Nexen Liege.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Enchantment Creature — Illusion",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/58_Imagined Curiosity.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/58_Imagined Curiosity.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/51_Disruptive Illusionist.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/51_Disruptive Illusionist.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Creature — Human Griffin Knight",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/76_Skysquad Captain.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/76_Skysquad Captain.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/82_Wit's Bounty.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/82_Wit's Bounty.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/81_Wartime Logistics.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/81_Wartime Logistics.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/75_Shimmergale.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/75_Shimmergale.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Creature — Marrdri Knight",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/84_Alvahzan Liege.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/84_Alvahzan Liege.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Enchantment Creature — Illusion",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/123_Thought Shadow.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/123_Thought Shadow.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/109_Necrotic Smog.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/108_Necrotic Smog.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/95_Despairing Tutor.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/94_Despairing Tutor.png"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/98_Ferocious Impalement.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/97_Ferocious Impalement.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/89_Boneblight Phoenix.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/89_Boneblight Phoenix.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Phoenix",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/117_Smogwing Predator.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/116_Smogwing Predator.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Creature — Dragon Knight",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/140_Flechan Liege.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/140_Flechan Liege.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Enchantment",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/142_Go Big or Go Home.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/142_Go Big or Go Home.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Sorcery",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/127_Campaign for the Espra Wilds.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/127_Campaign for the Espra Wilds.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Legendary Creature — Dragon Sorcerer",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/135_Duamrac, Ruthless Conjurer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/135_Duamrac, Ruthless Conjurer.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/161_Trusty Manaxe.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/161_Trusty Manaxe.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Creature — Marrdri Sorcerer",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/151_Reckless Bonemage.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/151_Reckless Bonemage.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/153_Ritual of Anticipation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/153_Ritual of Anticipation.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Instant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/174_Dredge Contraband.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/174_Dredge Contraband.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Creature — Plant Knight",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/192_Pharani Liege.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/192_Pharani Liege.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/184_Impending Verdasaur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/184_Impending Verdasaur.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Creature — Plant Druid",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/194_Prophet of Cycles.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/194_Prophet of Cycles.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Enchantment",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/178_Explorer's Dream.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/178_Explorer's Dream.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/189_Meticulous Trailmaker.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/189_Meticulous Trailmaker.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Instant",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/196_Rise of the Pharani.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/196_Rise of the Pharani.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Legendary Planeswalker — Wolanne",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/42_Wolanne, Oppressed Protector.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/42_Wolanne, Oppressed Protector.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Artifact",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/10_Crusader's Conch.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/10_Crusader's Conch.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Artifact",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/78_Timeseer's Focus.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/78_Timeseer's Focus.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Legendary Planeswalker — Auriel",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/47_Auriel, Surging Spellcatcher.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/47_Auriel, Surging Spellcatcher.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Restra",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/116_Restra, Pactmaker.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/115_Restra, Pactmaker.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Marrdri Wizard",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/101_Kalamax, Bone Lord.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/100_Kalamax, Bone Lord.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Legendary Planeswalker — Gilban",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/141_Gilban, Uninhibited.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/141_Gilban, Uninhibited.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Creature — Minotaur Wizard",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/138_Fallarai Master.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/138_Fallarai Master.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Legendary Creature — Plant Druid",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/171_Cotay Leadon, Verdure Wildling.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/171_Cotay Leadon, Verdure Wildling.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Legendary Planeswalker — Licium",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/187_Licium, Disconnected Spore.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/187_Licium, Disconnected Spore.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Instant",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/233_Kneel Before Order.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/233_Kneel Before Order.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/224_Skysoaring Fatethief.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/224_Skysoaring Fatethief.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/212_Desperate Stampede.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/212_Desperate Stampede.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Creature — Plant Dinosaur",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/209_Bloodleaf Vinespine.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/209_Bloodleaf Vinespine.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/211_Cyclic Advantage.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/211_Cyclic Advantage.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Artifact",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/210_Ciphered Spellbook.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/210_Ciphered Spellbook.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Instant",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/219_Haestor's Invocation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/219_Haestor's Invocation.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Sorcery",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/221_Necrotic Loop.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/221_Necrotic Loop.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Sorcery",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/208_Blistering Invasion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/208_Blistering Invasion.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Instant",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/216_Evolving Growth.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/216_Evolving Growth.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Instant",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/223_Selor's Invocation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/223_Selor's Invocation.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Sorcery",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/228_Dreadful Future.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/228_Dreadful Future.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Instant",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/220_Kell's Invocation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/220_Kell's Invocation.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Legendary Creature — Plant Dinosaur",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/213_Diophine, Undiscovered Tyrant.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/213_Diophine, Undiscovered Tyrant.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Legendary Creature — Human Knight Noble",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/214_Effen, Nexen Trainer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/214_Effen, Nexen Trainer.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Instant",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/222_Nu'Ul's Invocation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/222_Nu'Ul's Invocation.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Artifact",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/227_Disorderstone.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/227_Disorderstone.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Sorcery",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/217_Gologo's Invocation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/217_Gologo's Invocation.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Legendary Creature — Dragon Scout Sorcerer",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/207_Arston, Blessed by Timesight.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/207_Arston, Blessed by Timesight.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Sorcery",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/218_Guise of Ignorance.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/218_Guise of Ignorance.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Artifact Creature — Fox",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/245_Mischievous Shine-Thief.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/245_Mischievous Shine-Thief.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Artifact Creature — Golem Archer",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/239_Crossbolt Animae.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/239_Crossbolt Animae.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/1_Farsight Delusion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/1_Farsight Delusion.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/250_Unexpected Evidence.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/250_Unexpected Evidence.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Artifact",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/242_Explorer's Chart.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/242_Explorer's Chart.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/247_Sleepless Protector.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/247_Sleepless Protector.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Artifact Creature — Golem Scout",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/241_Explorer's Assistant.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/241_Explorer's Assistant.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/249_Stonewing Animae.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/249_Stonewing Animae.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/243_Herbhammer.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/243_Herbhammer.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Artifact",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/244_Historian's Crypt.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/244_Historian's Crypt.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Land — Spire",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/263_Trade-Rich Lighthouse.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/263_Trade-Rich Lighthouse.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Land — Forest Island",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/255_Food-Rich Reef.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/255_Food-Rich Reef.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Legendary Enchantment Creature — Elder Ranger",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/232_Kell, Madness' Spiral.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/232_Kell, Madness' Spiral.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Legendary Land — Spire",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/253_Edasa, Spire of Parfolus.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/253_Edasa, Spire of Parfolus.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Token Creature — Plant Dinosaur",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/5t_Plant Dinosaur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/5t_Plant Dinosaur.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/1t_Knight.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/1t_Knight.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Token Creature — Bird Illusion",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/2t_Bird Illusion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/2t_Bird Illusion.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/3t_Skeleton.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/3t_Skeleton.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/248_Soulbinder's Gem.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/248_Soulbinder's Gem.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Token Creature — Illusion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/4t_Illusion.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/4t_Illusion.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Artifact",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/246_Sigil of the Vellon.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/246_Sigil of the Vellon.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Emblem",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/8t_Wolanne, Royal Protector.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/8t_Wolanne, Royal Protector.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Land — Plains Island",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/262_Time-Rich Lake.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/262_Time-Rich Lake.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Land — Forest Plains",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/258_Nutrient-Rich Farmland.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/258_Nutrient-Rich Farmland.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/252_Bone-Rich Graveyard.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/252_Bone-Rich Graveyard.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/256_Iron-Rich Bog.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/256_Iron-Rich Bog.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Land — Swamp Mountain",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/259_Ore-Rich Chasm.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/259_Ore-Rich Chasm.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Land — Mountain Forest",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/257_Life-Rich Grove.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/257_Life-Rich Grove.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/251_Blood-Rich Field.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/251_Blood-Rich Field.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Land — Island Swamp",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/264_Wreckage-Rich Shore.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/264_Wreckage-Rich Shore.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/261_Storm-Rich Peak.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/261_Storm-Rich Peak.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/260_Pretransmuted Ground.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/260_Pretransmuted Ground.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Legendary Land",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/254_Fek'Roth, School of the Arcane.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/254_Fek'Roth, School of the Arcane.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Legendary Creature — Serpent",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/215_Escrylla, Ocean's Terror.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/215_Escrylla, Ocean's Terror.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/6t_Clue.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/6t_Clue.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Artifact",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/240_Elio's Crest.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/240_Elio's Crest.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/2_Allied Intercession.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/2_Allied Intercession.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/43_Abrupt Disappearance.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/43_Abrupt Disappearance.png"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Instant",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/91_Cornered Spikelaunch.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/91_Cornered Spikelaunch.png"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/139_Fervent Adaptation.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/139_Fervent Adaptation.png"
 			}
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/173_Destruction of Evidence.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/173_Destruction of Evidence.png"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/29_Prescence Cleanse.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/29_Prescence Cleanse.png"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/59_Inspect Antiquity.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/59_Inspect Antiquity.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/119_Soaring Bonespikes.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/118_Soaring Bonespikes.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/133_Destructive Arrival.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/133_Destructive Arrival.png"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/188_Mass Renewal.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/188_Mass Renewal.png"
 			}
 		},
 		{
@@ -2617,7 +2617,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/7t_Treasure.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/7t_Treasure.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/238_Animae Colossus.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/238_Animae Colossus.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Legendary Enchantment Creature — Elder Elemental",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/237_Will, Life's Beginning.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/237_Will, Life's Beginning.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Legendary Enchantment Creature — Elder Horror",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/234_Nu'Ul, Cycles' End.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/234_Nu'Ul, Cycles' End.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Legendary Enchantment Creature — Elder Serpent",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/225_A'Aka, Observation's Evolution.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/225_A'Aka, Observation's Evolution.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Legendary Enchantment Creature — Elder Sorcerer",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/231_Haestor, Destiny's Chaos.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/231_Haestor, Destiny's Chaos.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Legendary Enchantment Creature — Elder Noble",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/236_Selor, Ascension's Achievement.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/236_Selor, Ascension's Achievement.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Legendary Enchantment Creature — Elder Wizard",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/226_Ban'Est, Fate's Augur.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/226_Ban'Est, Fate's Augur.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Legendary Enchantment Creature — Elder Beast",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/230_Gologo, Repetition's Catalyst.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/230_Gologo, Repetition's Catalyst.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Legendary Enchantment Creature — Elder Knight",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/229_Elio, Originality's Ideal.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/229_Elio, Originality's Ideal.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Legendary Enchantment Creature — Elder Plant",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/235_Phaetilis, Discovery's Idol.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/235_Phaetilis, Discovery's Idol.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/265_Plains.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/265_Plains.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/266_Island.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/266_Island.png"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/267_Swamp.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/267_Swamp.png"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/268_Mountain.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/268_Mountain.png"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/VRM-files/img/269_Forest.jpg"
+				"en": "https://MSE-Hub/sets/VRM-files/img/269_Forest.png"
 			}
 		}
 	]
@@ -2829,8 +2829,10 @@
 	2 Arston, Blessed by Timesight
 	2 Guise of Ignorance
 	1 Kell, Madness' Spiral
+	1 Edasa, Spire of Parfolus
 	2 Soulbinder's Gem
 	1 Sigil of the Vellon
+	2 Fek'Roth, School of the Arcane
 	1 Escrylla, Ocean's Terror
 	1 Will, Life's Beginning
 	1 Nu'Ul, Cycles' End
@@ -2912,6 +2914,16 @@
 	4 Stonewing Animae
 	4 Herbhammer
 	4 Historian's Crypt
+	4 Food-Rich Reef
+	4 Time-Rich Lake
+	4 Nutrient-Rich Farmland
+	4 Bone-Rich Graveyard
+	4 Iron-Rich Bog
+	4 Ore-Rich Chasm
+	4 Life-Rich Grove
+	4 Blood-Rich Field
+	4 Wreckage-Rich Shore
+	4 Storm-Rich Peak
 	4 Elio's Crest
 	4 Allied Intercession
 	4 Abrupt Disappearance
@@ -2924,7 +2936,7 @@
 	4 Destructive Arrival
 	4 Mass Renewal
 	4 Animae Colossus
-[common(7)]
+[common(6)]
 	8 Astral Eye
 	8 Kovekki Knight
 	8 Creth Invader
@@ -2964,7 +2976,7 @@
 	8 Unrefined Dronewing
 	8 Scan Through Fate
 	8 Squire of Kalamax
-	8 Cut Low
+	8 Split in Twain
 	8 Graveburglar Ossivore
 	8 Priest of Gologo
 	8 Preposterous Prophecy
@@ -3025,6 +3037,8 @@
 	8 Farsight Delusion
 	8 Unexpected Evidence
 	8 Explorer's Chart
+	8 Trade-Rich Lighthouse
+	8 Pretransmuted Ground
 [common | masterpiece(1)]
 	8 Astral Eye
 	8 Kovekki Knight
@@ -3065,7 +3079,7 @@
 	8 Unrefined Dronewing
 	8 Scan Through Fate
 	8 Squire of Kalamax
-	8 Cut Low
+	8 Split in Twain
 	8 Graveburglar Ossivore
 	8 Priest of Gologo
 	8 Preposterous Prophecy
@@ -3126,6 +3140,8 @@
 	8 Farsight Delusion
 	8 Unexpected Evidence
 	8 Explorer's Chart
+	8 Trade-Rich Lighthouse
+	8 Pretransmuted Ground
 [foil(1)]
 	12 Astral Eye
 	12 Kovekki Knight
@@ -3166,7 +3182,7 @@
 	12 Unrefined Dronewing
 	12 Scan Through Fate
 	12 Squire of Kalamax
-	12 Cut Low
+	12 Split in Twain
 	12 Graveburglar Ossivore
 	12 Priest of Gologo
 	12 Preposterous Prophecy
@@ -3352,9 +3368,23 @@
 	6 Stonewing Animae
 	6 Herbhammer
 	6 Historian's Crypt
+	12 Trade-Rich Lighthouse
+	6 Food-Rich Reef
 	1 Kell, Madness' Spiral
+	1 Edasa, Spire of Parfolus
 	2 Soulbinder's Gem
 	1 Sigil of the Vellon
+	6 Time-Rich Lake
+	6 Nutrient-Rich Farmland
+	6 Bone-Rich Graveyard
+	6 Iron-Rich Bog
+	6 Ore-Rich Chasm
+	6 Life-Rich Grove
+	6 Blood-Rich Field
+	6 Wreckage-Rich Shore
+	6 Storm-Rich Peak
+	12 Pretransmuted Ground
+	2 Fek'Roth, School of the Arcane
 	1 Escrylla, Ocean's Terror
 	6 Elio's Crest
 	6 Allied Intercession
@@ -3417,7 +3447,7 @@
 	6 Unrefined Dronewing
 	6 Scan Through Fate
 	6 Squire of Kalamax
-	6 Cut Low
+	6 Split in Twain
 	6 Graveburglar Ossivore
 	6 Priest of Gologo
 	6 Preposterous Prophecy
@@ -3603,9 +3633,23 @@
 	15 Stonewing Animae
 	15 Herbhammer
 	15 Historian's Crypt
+	6 Trade-Rich Lighthouse
+	15 Food-Rich Reef
 	4 Kell, Madness' Spiral
+	4 Edasa, Spire of Parfolus
 	7 Soulbinder's Gem
 	4 Sigil of the Vellon
+	15 Time-Rich Lake
+	15 Nutrient-Rich Farmland
+	15 Bone-Rich Graveyard
+	15 Iron-Rich Bog
+	15 Ore-Rich Chasm
+	15 Life-Rich Grove
+	15 Blood-Rich Field
+	15 Wreckage-Rich Shore
+	15 Storm-Rich Peak
+	6 Pretransmuted Ground
+	7 Fek'Roth, School of the Arcane
 	4 Escrylla, Ocean's Terror
 	15 Elio's Crest
 	15 Allied Intercession
@@ -3628,23 +3672,3 @@
 	4 Gologo, Repetition's Catalyst
 	4 Elio, Originality's Ideal
 	4 Phaetilis, Discovery's Idol
-[landslot(1)]
-	10 Food-Rich Reef
-	10 Time-Rich Lake
-	10 Nutrient-Rich Farmland
-	10 Bone-Rich Graveyard
-	10 Iron-Rich Bog
-	10 Ore-Rich Chasm
-	10 Life-Rich Grove
-	10 Blood-Rich Field
-	10 Wreckage-Rich Shore
-	10 Storm-Rich Peak
-	2 Edasa, Spire of Parfolus
-	7 Fek'Roth, School of the Arcane
-	20 Trade-Rich Lighthouse
-	20 Pretransmuted Ground
-	20 Plains
-	20 Island
-	20 Swamp
-	20 Mountain
-	20 Forest

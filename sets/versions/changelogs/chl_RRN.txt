@@ -1,4 +1,25 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+March of the Sentinels
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this Saga enters, for each spell, create a 1/1 white Spirit creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+Creatures you control get +1/+1 for each other creature you control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Create a 1/1 white Spirit creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+II — Creatures you control get +1/+1 for each other creature you control.
+​
+
+Crackshot Corsair
+rules_text: Whenever a card enters your graveyard from anywhere other than your library, Crackshot Corsair deals 1 damage to target opponent.
+{2}, {T}: Discard a card, then draw a card. => Whenever you discard a card, Crackshot Corsair deals 1 damage to target opponent.
+{2}, {T}: Discard a card, then draw a card.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
