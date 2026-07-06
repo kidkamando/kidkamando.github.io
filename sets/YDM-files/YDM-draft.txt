@@ -3093,6 +3093,56 @@
 			"image_uris": {
 				"en": "https://MSE-Hub/sets/YDM-files/img/10t_Treasure.jpg"
 			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/299_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/300_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/301_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/302_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YDM-files/img/303_Forest.jpg"
+			}
 		}
 	]
 
@@ -3149,7 +3199,6 @@
 	1 Plasma Eel
 	1 Ties of the Brethren
 	1 Amazoness War Chief
-	2 Futuristic Arena
 	1 Ishizu Ishtar, Wise Gravekeeper
 	1 Mai Valentine, Queen of Harpies
 	1 Odion, Marik's Protector
@@ -3168,14 +3217,6 @@
 	1 The Winged Dragon of Ra
 	1 Slifer, the Sky Dragon
 	2 Ceremonial Duelground
-	2 Lost World
-	2 Harpies' Hunting Ground
-	2 Battle City
-	2 Necrovalley
-	2 Temple of the Kings
-	2 Duelist Kingdom
-	2 Tomb of the Nameless Pharaoh
-	2 Mystic Table
 	2 The Millennium Eye
 	2 The Millennium Puzzle
 	2 The Millennium Ring
@@ -3266,7 +3307,6 @@
 	4 Gravekeeper's Supernaturalist
 	4 Necro Cycle
 	4 Toon Masked Sorcerer
-	4 Different Dimension
 	4 Metalmorph
 	4 Fiend Kraken
 	4 Curse of Dragon
@@ -3394,7 +3434,6 @@
 	8 Alpha Magnet Warrior
 	8 Beta Magnet Warrior
 	8 Duel Disk
-	8 Closed Forest
 	8 Castle of Dark Illusions
 	8 Pot of Prosperity
 [common | masterpiece(1)]
@@ -3498,7 +3537,6 @@
 	8 Alpha Magnet Warrior
 	8 Beta Magnet Warrior
 	8 Duel Disk
-	8 Closed Forest
 	8 Castle of Dark Illusions
 	8 Pot of Prosperity
 [foil(1)]
@@ -3712,8 +3750,6 @@
 	6 Pot of Greed
 	12 Duel Disk
 	6 Infinite Cards
-	12 Closed Forest
-	2 Futuristic Arena
 	1 Ishizu Ishtar, Wise Gravekeeper
 	1 Mai Valentine, Queen of Harpies
 	1 Odion, Marik's Protector
@@ -3741,17 +3777,6 @@
 	1 Obelisk, the Tormentor
 	1 The Winged Dragon of Ra
 	1 Slifer, the Sky Dragon
-	2 Ceremonial Duelground
-	2 Lost World
-	2 Harpies' Hunting Ground
-	2 Battle City
-	2 Necrovalley
-	2 Temple of the Kings
-	2 Duelist Kingdom
-	2 Tomb of the Nameless Pharaoh
-	2 Mystic Table
-	12 Castle of Dark Illusions
-	6 Different Dimension
 	2 The Millennium Eye
 	2 The Millennium Puzzle
 	2 The Millennium Ring
@@ -4011,8 +4036,6 @@
 	15 Pot of Greed
 	6 Duel Disk
 	15 Infinite Cards
-	6 Closed Forest
-	7 Futuristic Arena
 	4 Ishizu Ishtar, Wise Gravekeeper
 	4 Mai Valentine, Queen of Harpies
 	4 Odion, Marik's Protector
@@ -4040,17 +4063,6 @@
 	4 Obelisk, the Tormentor
 	4 The Winged Dragon of Ra
 	4 Slifer, the Sky Dragon
-	7 Ceremonial Duelground
-	7 Lost World
-	7 Harpies' Hunting Ground
-	7 Battle City
-	7 Necrovalley
-	7 Temple of the Kings
-	7 Duelist Kingdom
-	7 Tomb of the Nameless Pharaoh
-	7 Mystic Table
-	6 Castle of Dark Illusions
-	15 Different Dimension
 	7 The Millennium Eye
 	7 The Millennium Puzzle
 	7 The Millennium Ring
@@ -4099,3 +4111,22 @@
 	15 Shallow Grave
 	15 Flame Swordsman
 	15 Mudora
+[landslot(1)]
+	23 Closed Forest
+	2 Ceremonial Duelground
+	2 Lost World
+	2 Harpies' Hunting Ground
+	2 Battle City
+	2 Necrovalley
+	2 Temple of the Kings
+	2 Duelist Kingdom
+	2 Tomb of the Nameless Pharaoh
+	2 Mystic Table
+	2 Futuristic Arena
+	23 Castle of Dark Illusions
+	35 Different Dimension
+	23 Plains
+	23 Island
+	23 Mountain
+	23 Swamp
+	23 Forest
