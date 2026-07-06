@@ -1,6 +1,6 @@
 ﻿{
     "name": "YuGiOh! Duel Monsters",
-    "formats": "",
+    "formats": "Standard,Eternal,Commander,YGO",
     "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
