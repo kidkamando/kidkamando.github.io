@@ -1,6 +1,6 @@
 ﻿{
     "name": "Aramyth: Crimes in Shadow",
-    "formats": "Standard,Eternal,Commander,Other",
+    "formats": "",
     "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
@@ -5712,5 +5712,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 17
+    "version": 18
 }

@@ -1,4 +1,9 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+No changes.
+
+VERSION 9 CHANGELOG
 ====================
 
 Split in Twain added.

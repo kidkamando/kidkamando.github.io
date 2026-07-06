@@ -2,7 +2,7 @@
     "name": "Fractured Darkness",
     "formats": "",
     "trimmed": "n",
-    "image_type": "png",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -5280,5 +5280,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 4
+    "version": 5
 }

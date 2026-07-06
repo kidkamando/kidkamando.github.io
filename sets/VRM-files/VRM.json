@@ -2,7 +2,7 @@
     "name": "Velesta ReMade",
     "formats": "",
     "trimmed": "n",
-    "image_type": "png",
+    "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
         {
@@ -4992,5 +4992,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 9
+    "version": 10
 }
