@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Blue-Eyes Bingo Machine",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "YDM",
         "rotated": false,
@@ -736,7 +736,7 @@
         "position": ""
     },
     {
-        "card_name": "Shallow Grave",
+        "card_name": "Shallow Burial",
         "number": 118,
         "shape": "normal",
         "set": "YDM",
@@ -912,8 +912,8 @@
         "position": ""
     },
     {
-        "card_name": "Blue Eyes Toon Dragon",
-        "number": 172,
+        "card_name": "Blue-Eyes Toon Dragon",
+        "number": 173,
         "shape": "normal",
         "set": "YDM",
         "rotated": false,

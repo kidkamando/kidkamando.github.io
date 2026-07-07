@@ -5,7 +5,7 @@
 			<name>YDM</name>
 			<longname>YuGiOh! Duel Monsters</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-05</releasedate>
+			<releasedate>2026-07-06</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -178,7 +178,7 @@ Whenever Gearfried the Iron Knight becomes tapped, roll a d6. You gain life equa
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Construct Warrior</type>
+				<type>Artifact Creature — Construct Knight</type>
 				<maintype>Creature</maintype>
 				<manacost>4W</manacost>
 				<cmc>5</cmc>
@@ -1222,7 +1222,7 @@ Whenever you cast an instant or sorcery spell, Apple Magician Girl deals 1 damag
 		</card>
 		<card>
 			<name>X-Head Cannon</name>
-			<text>Unite with creature—{3} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
+			<text>Unite with creature—{3} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
 Reach
 When X-Head Cannon enters, you may discard a card. If you do, draw a card.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/164_X-Head Cannon.jpg" num="164">YDM</set>
@@ -1241,7 +1241,7 @@ When X-Head Cannon enters, you may discard a card. If you do, draw a card.</text
 		</card>
 		<card>
 			<name>Y-Dragon Head</name>
-			<text>Unite with creature—{4} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
+			<text>Unite with creature—{4} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
 Flying
 When Y-Dragon Head enters, for each opponent, create a tapped Treasure token.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/165_Y-Dragon Head.jpg" num="165">YDM</set>
@@ -1260,7 +1260,7 @@ When Y-Dragon Head enters, for each opponent, create a tapped Treasure token.</t
 		</card>
 		<card>
 			<name>Z-Metal Tank</name>
-			<text>Unite with creature—{4} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
+			<text>Unite with creature—{4} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
 When Z-Metal Tank deals combat damage to a player, put a +1/+1 counter on it.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/166_Z-Metal Tank.jpg" num="166">YDM</set>
 			<prop>
@@ -1531,6 +1531,7 @@ Flashback {2}{R} (You may cast this card from your graveyard for its flashback c
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1622,11 +1623,11 @@ When Giant Soldier of Stone enters, destroy up to two artifacts and/or enchantme
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Blue Eyes Toon Dragon</name>
+			<name>Blue-Eyes Toon Dragon</name>
 			<text>Flying
 When this creature enters, Toys, Inklings, and Dragons you control get +3/+3 and gain trample until end of turn.
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/172_Blue Eyes Toon Dragon.jpg" num="172">YDM</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/173_Blue-Eyes Toon Dragon.jpg" num="173">YDM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2121,6 +2122,7 @@ Foretell {1}{U} (During your turn, you may pay {2} and exile this card from your
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2493,7 +2495,7 @@ The first noncreature spell you cast each turn costs {X} less to cast, where X i
 		</card>
 		<card>
 			<name>Gaia the Fierce Knight</name>
-			<text>Unite with creature {1}{R} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
+			<text>Unite with creature {1}{R} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
 Haste
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/YDM-files/img/143_Gaia the Fierce Knight.jpg" num="143">YDM</set>
@@ -2512,7 +2514,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		</card>
 		<card>
 			<name>Thunder Dragon</name>
-			<text>Unite with creature {2}{R} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
+			<text>Unite with creature {2}{R} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)
 Flying
 When Thunder Dragon enters, it deals 2 damage to target creature.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/YDM-files/img/160_Thunder Dragon.jpg" num="160">YDM</set>
@@ -2699,7 +2701,7 @@ Whenever a player attacks one of your opponents, roll a d6.
 [b]1-2[/b]|Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 [b]3-4[/b]|Create a Treasure token.
 [b]5+[/b]|Create a Treasure token and put a +1/+1 counter on up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/YDM-files/img/173_Blue-Eyes Bingo Machine.jpg" num="173">YDM</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/YDM-files/img/172_Blue-Eyes Bingo Machine.jpg" num="172">YDM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2887,6 +2889,7 @@ Toys and Inklings you control get +1/+0.</text>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3647,7 +3650,7 @@ Cycling {2}</text>
 		<card>
 			<name>Gamma Magnet Warrior</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
-Unite with creature—{4} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)</text>
+Unite with creature—{4} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/274_Gamma Magnet Warrior.jpg" num="274">YDM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3679,7 +3682,7 @@ When Alpha Magnet Warrior enters or attacks, exile up to one target card from a 
 		<card>
 			<name>Beta Magnet Warrior</name>
 			<text>Reach (This creature can block creatures with flying.)
-Unite with creature—{2} (Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)</text>
+Unite with creature—{2} (Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/272_Beta Magnet Warrior.jpg" num="272">YDM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3884,7 +3887,7 @@ A deck may contain any number of cards named Harpy Lady.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Plant Spirit</type>
+				<type>Creature — Plant Spirit Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>1BGU</manacost>
 				<cmc>4</cmc>
@@ -3974,7 +3977,7 @@ At the beginning of your upkeep, you lose 3 life.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental</type>
+				<type>Creature — Elemental Golem</type>
 				<maintype>Creature</maintype>
 				<manacost>2RWB</manacost>
 				<cmc>5</cmc>
@@ -4047,7 +4050,7 @@ Whenever an opponent loses life for the first time during each of your turns, pu
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Nightmare</type>
+				<type>Creature — Nightmare Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>2/R2/W2/B</manacost>
 				<cmc>6</cmc>
@@ -4085,13 +4088,13 @@ Double strike (This creature deals both first-strike and regular combat damage.)
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Warrior</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>5WUB</manacost>
 				<cmc>8</cmc>
 				<colors>WUB</colors>
 				<coloridentity>WUB</coloridentity>
-				<pt>5/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4638,48 +4641,6 @@ When this creature enters, create two colorless enchantments named Fusion Substi
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Yugi Muto, Two Souls as One</name>
-			<text>When Yugi Muto enters or transforms, create a 1/1 colorless Faerie creature token.
-At the beginning of your upkeep, you may pay {W}. If you do, transform Yugi Muto.
----
-(Back): Yami Yugi, Two Souls as One</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/YDM-files/img/269_Yugi Muto, Two Souls as One_front.jpg" num="269a">YDM</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Hero</type>
-				<maintype>Creature</maintype>
-				<manacost>1WU</manacost>
-				<cmc>3</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Yami Yugi, Two Souls as One</related>
-		</card>
-		<card>
-			<name>Yami Yugi, Two Souls as One</name>
-			<text>When Yami Yugi transforms, draw a card.
-At the beginning of your upkeep, you may pay {U}. If you do, transform Yami Yugi.
----
-(Front): Yugi Muto, Two Souls as One</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/YDM-files/img/269_Yugi Muto, Two Souls as One_back.jpg" num="269b">YDM</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Creature — Spirit Noble Hero</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>4/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Yugi Muto, Two Souls as One</related>
-		</card>
-		<card>
 			<name>Harpy&apos;s Pet Dragon</name>
 			<text>Flying
 Other creatures you control with flying have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
@@ -4828,7 +4789,7 @@ Dragons you control get +1/+0.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Plant Spirit</type>
+				<type>Creature — Plant Spirit Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>1BG</manacost>
 				<cmc>3</cmc>
@@ -5343,7 +5304,7 @@ Whenever Mystical Beast Serket attacks, you may pay {2}. If you do, turn another
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Scorpion</type>
+				<type>Creature — Scorpion Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>2/B2/G2/U</manacost>
 				<cmc>6</cmc>
@@ -5430,9 +5391,9 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Shallow Grave</name>
+			<name>Shallow Burial</name>
 			<text>Each player returns a creature card from their graveyard to the battlefield face-down. It gains morph if it doesn&apos;t have morph. Its morph cost is equal to its mana cost reduced by {2}.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/YDM-files/img/118_Shallow Grave.jpg" num="118">YDM</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/YDM-files/img/118_Shallow Burial.jpg" num="118">YDM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5588,6 +5549,48 @@ As long as Mudora&apos;s power is five or greater, it has vigilance. (Attacking 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Yugi Muto, Two Souls as One</name>
+			<text>When Yugi Muto enters or transforms, create a 1/1 colorless Faerie creature token.
+At the beginning of your upkeep, you may pay {W}. If you do, transform Yugi Muto.
+---
+(Back): Yami Yugi, Two Souls as One</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/YDM-files/img/269_Yugi Muto, Two Souls as One_front.jpg" num="269a">YDM</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Yami Yugi, Two Souls as One</related>
+		</card>
+		<card>
+			<name>Yami Yugi, Two Souls as One</name>
+			<text>When Yami Yugi transforms, draw a card.
+At the beginning of your upkeep, you may pay {U}. If you do, transform Yami Yugi.
+---
+(Front): Yugi Muto, Two Souls as One</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/YDM-files/img/269_Yugi Muto, Two Souls as One_back.jpg" num="269b">YDM</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Spirit Noble Hero</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Yugi Muto, Two Souls as One</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

@@ -1,4 +1,88 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Blue-Eyes Toon Dragon added.
+Shallow Burial added.
+
+Blue Eyes Toon Dragon removed.
+Shallow Grave removed.
+
+Gearfried the Iron Knight
+type: Artifact Creature — Construct Warrior => Artifact Creature — Construct Knight
+
+X-Head Cannon
+rules_text: Unite with creature—{3} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Reach
+When X-Head Cannon enters, you may discard a card. If you do, draw a card. => Unite with creature—{3} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Reach
+When X-Head Cannon enters, you may discard a card. If you do, draw a card.
+
+Y-Dragon Head
+rules_text: Unite with creature—{4} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Flying
+When Y-Dragon Head enters, for each opponent, create a tapped Treasure token. => Unite with creature—{4} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Flying
+When Y-Dragon Head enters, for each opponent, create a tapped Treasure token.
+
+Z-Metal Tank
+rules_text: Unite with creature—{4} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+When Z-Metal Tank deals combat damage to a player, put a +1/+1 counter on it. => Unite with creature—{4} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+When Z-Metal Tank deals combat damage to a player, put a +1/+1 counter on it.
+
+Maiden with Eyes of Blue
+pt:  => 0/1
+
+Kuriboh
+pt:  => 0/3
+
+Gaia the Fierce Knight
+rules_text: Unite with creature {1}{R} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Haste
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Unite with creature {1}{R} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Haste
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Thunder Dragon
+rules_text: Unite with creature {2}{R} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Flying
+When Thunder Dragon enters, it deals 2 damage to target creature. => Unite with creature {2}{R} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+Flying
+When Thunder Dragon enters, it deals 2 damage to target creature.
+
+Block Dragon
+pt:  => 3/3
+
+Gamma Magnet Warrior
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Unite with creature—{4} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i] => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Unite with creature—{4} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+
+Beta Magnet Warrior
+rules_text: Reach [i](This creature can block creatures with flying.)[/i]
+Unite with creature—{2} [i](Unite this permanent with target creature. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i] => Reach [i](This creature can block creatures with flying.)[/i]
+Unite with creature—{2} [i](Unite this permanent with target creature you control. Its base power is equal to the total base power of all united permanents, the same for its toughness, and it has the abilities of all united permanents.)[/i]
+
+Ghostly Pumpking
+type: Creature — Plant Spirit => Creature — Plant Spirit Noble
+
+Lava Golem
+type: Creature — Elemental => Creature — Elemental Golem
+
+Three-Masked Beast
+type: Creature — Nightmare => Creature — Nightmare Beast
+
+Black Luster Soldier
+type: Creature — Human Warrior => Creature — Human Soldier
+pt: 5/4 => 3/4
+
+Ghostly Pumprincess
+type: Creature — Plant Spirit => Creature — Plant Spirit Noble
+
+Mystical Beast Serket
+type: Creature — Scorpion => Creature — Scorpion Beast
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
