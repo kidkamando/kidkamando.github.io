@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Alien Beast Horror",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/224_The Twilight Darkbeast.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/224_The Twilight Darkbeast.jpg"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/237_Entanglement Engine.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/237_Entanglement Engine.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Dinosaur Elephant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/35_Tumultuous Exhibit.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/35_Tumultuous Exhibit.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Wombat",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/164_Backwards Burrowbeast.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/164_Backwards Burrowbeast.jpg"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Thax Ranger",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/98_Phasebound Hunter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/98_Phasebound Hunter.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/111_Thaxian Phaseblade.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/111_Thaxian Phaseblade.jpg"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Thax Warrior",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/203_Charging Phasebound.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/203_Charging Phasebound.jpg"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/51_Exhibit Keeper.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/51_Exhibit Keeper.jpg"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Artifact Creature — Robot Scout",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/138_Lifestation Scout.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/138_Lifestation Scout.jpg"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/80_Wurmguard Commandcraft.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/80_Wurmguard Commandcraft.jpg"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/202_Archive Lifestation.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/202_Archive Lifestation.jpg"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Artifact",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/244_Solar Emulator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/244_Solar Emulator.jpg"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/167_Darkwurm Hatchling.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/167_Darkwurm Hatchling.jpg"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/157_Twilightborn Scavenger.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/157_Twilightborn Scavenger.jpg"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Salamander Shaman",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/220_Possibility Oracle.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/220_Possibility Oracle.jpg"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/85_Death of the Dawn.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/85_Death of the Dawn.jpg"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/71_Solar Search.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/71_Solar Search.jpg"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/248_Twilight Voidvessel.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/248_Twilight Voidvessel.jpg"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/186_Phaselight Colonyship.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/186_Phaselight Colonyship.jpg"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Artifact",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/22_Phaselight Engine.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/22_Phaselight Engine.jpg"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Artifact Creature — Robot Druid",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/236_Enclosure Caretaker.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/236_Enclosure Caretaker.jpg"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Artifact",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/232_Darkworld Relic.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/232_Darkworld Relic.jpg"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Artifact Creature — Robot Artificer",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/11_Habitat Architect.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/11_Habitat Architect.jpg"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Artifact",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/243_Phaselight Starforge.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/243_Phaselight Starforge.jpg"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/90_Legacy of the Phasebound.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/90_Legacy of the Phasebound.jpg"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/139_Mid-Warp Collision.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/139_Mid-Warp Collision.jpg"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Thax Wizard",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/219_Phasebound Voidmage.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/219_Phasebound Voidmage.jpg"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Thax Rhino",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/223_Thaxian Phasecrasher.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/223_Thaxian Phasecrasher.jpg"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/206_Fauna Abductor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/206_Fauna Abductor.jpg"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/207_Fighter Fabricator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/207_Fighter Fabricator.jpg"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Plant Beast",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/208_Flora Behemoth.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/208_Flora Behemoth.jpg"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/225_Twilight Starsnake.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/225_Twilight Starsnake.jpg"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/210_Havoc Render.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/210_Havoc Render.jpg"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature — Human Scientist",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/228_Deadworld Archaeologist.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/228_Deadworld Archaeologist.jpg"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Salamander Ranger",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/37_Twilight Starsearcher.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/37_Twilight Starsearcher.jpg"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/55_Glimpse of Hope.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/55_Glimpse of Hope.jpg"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Thax Cleric",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/114_Vaserian Apostle.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/114_Vaserian Apostle.jpg"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/144_Phasic Barrage.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/144_Phasic Barrage.jpg"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Elder Wurm",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/162_Ancient Darkwurm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/162_Ancient Darkwurm.jpg"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/267_Plains.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/267_Plains.jpg"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/268_Island.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/268_Island.jpg"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/269_Swamp.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/269_Swamp.jpg"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/270_Mountain.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/270_Mountain.jpg"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/271_Forest.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/271_Forest.jpg"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Enchantment",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/216_Otherworld Orders.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/216_Otherworld Orders.jpg"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Thax Scout",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/213_Light Tracker.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/213_Light Tracker.jpg"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Enchantment",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/204_Enclosed Hydroponics.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/204_Enclosed Hydroponics.jpg"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/214_Lightborn Agrariator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/214_Lightborn Agrariator.jpg"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/205_Escape Pod.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/205_Escape Pod.jpg"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/211_Hotshot Space Ace.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/211_Hotshot Space Ace.jpg"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Thax Scout",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/209_Forward Scout.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/209_Forward Scout.jpg"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/217_Otherworld Resonator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/217_Otherworld Resonator.jpg"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/201_Advanced Observation Post.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/201_Advanced Observation Post.jpg"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Creature — Thax Druid",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/218_Otherworld Wurmtamer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/218_Otherworld Wurmtamer.jpg"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Token Creature — Pangolin",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/1t_Pangolin.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/1t_Pangolin.jpg"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/5t_Clue.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/5t_Clue.jpg"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/6t_Food.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/6t_Food.jpg"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Token Artifact — Spacecraft",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/9t_Spacecraft.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/9t_Spacecraft.jpg"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/4t_Darkwurm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/4t_Darkwurm.jpg"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/31_Static Sequence.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/31_Static Sequence.jpg"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Enchantment",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/41_Allusions to Choice.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/41_Allusions to Choice.jpg"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Legendary Creature — Thax Soldier",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/221_Rhest Ko, Brutal Subjugator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/221_Rhest Ko, Brutal Subjugator.jpg"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Enchantment",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/131_Flechette Munitions.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/131_Flechette Munitions.jpg"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/169_Darkwurm Researchcraft.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/169_Darkwurm Researchcraft.jpg"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Squid",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/47_Elusive Starsquid.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/47_Elusive Starsquid.jpg"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/245_Specimen Savior.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/245_Specimen Savior.jpg"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/242_Phaselight Fighter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/242_Phaselight Fighter.jpg"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Instant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/20_Otherworld Vigil.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/20_Otherworld Vigil.jpg"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/121_Breakyard Salvager.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/121_Breakyard Salvager.jpg"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/193_Veiled Idyll.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/193_Veiled Idyll.jpg"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/197_Wurmhole Exploration.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/197_Wurmhole Exploration.jpg"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Wurm Horror",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/36_Twilight Darkwurm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/36_Twilight Darkwurm.jpg"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature — Salamander Shaman",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/52_Fate-Linked Twilightborn.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/52_Fate-Linked Twilightborn.jpg"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/116_Voracious Cosmipillar.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/116_Voracious Cosmipillar.jpg"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/142_Otherworld Assault Team.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/142_Otherworld Assault Team.jpg"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Land — Planet",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/251_Estevia, Otherworld Nebula.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/251_Estevia, Otherworld Nebula.jpg"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Land — Planet",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/258_Ovas III, Shrouded Moon.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/258_Ovas III, Shrouded Moon.jpg"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Land — Planet",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/259_Rukka, Comet Aurora.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/259_Rukka, Comet Aurora.jpg"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Land — Planet",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/263_Thellex, Phasic Warworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/263_Thellex, Phasic Warworld.jpg"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Land — Planet",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/250_Distar, Celestial Egg.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/250_Distar, Celestial Egg.jpg"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Land — Planet",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/262_Teeming Lushworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/262_Teeming Lushworld.jpg"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Land — Planet",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/256_Moonless Plageworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/256_Moonless Plageworld.jpg"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Land — Planet",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/254_Inclement Brineworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/254_Inclement Brineworld.jpg"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Land — Planet",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/266_Turbulent Stormworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/266_Turbulent Stormworld.jpg"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Land — Planet",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/255_Juvenile Slagworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/255_Juvenile Slagworld.jpg"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Land — Planet",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/260_Savage Wildworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/260_Savage Wildworld.jpg"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Land — Planet",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/253_Harmonic Farmworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/253_Harmonic Farmworld.jpg"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Land — Planet",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/252_Expired Gloomworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/252_Expired Gloomworld.jpg"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Land — Planet",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/261_Slough Wetworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/261_Slough Wetworld.jpg"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Land — Planet",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/265_Torrid Dustworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/265_Torrid Dustworld.jpg"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Legendary Artifact Land — Planet",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/230_Ark Epsilon, Ringworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/230_Ark Epsilon, Ringworld.jpg"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Token Basic Land",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/10t_Wastes.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/10t_Wastes.jpg"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Legendary Land — Planet",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/257_Nabarro, Glassworld.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/257_Nabarro, Glassworld.jpg"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Artifact Creature — Robot Rigger",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/39_Wildlife Preservator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/39_Wildlife Preservator.jpg"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/66_Retraction Beam.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/66_Retraction Beam.jpg"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/105_Salvage Equipment.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/105_Salvage Equipment.jpg"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/129_Federation Twilightborn.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/129_Federation Twilightborn.jpg"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/168_Darkwurm Light-Hunt.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/168_Darkwurm Light-Hunt.jpg"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Token Artifact — Junk",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/8t_Junk.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/8t_Junk.jpg"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/264_Thiris Mine.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/264_Thiris Mine.jpg"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Artifact",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/241_Phase Cannon.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/241_Phase Cannon.jpg"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/215_Lio, Fate Binder.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/215_Lio, Fate Binder.jpg"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/40_Wurmhole Surveyor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/40_Wurmhole Surveyor.jpg"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/43_Anomolous Study.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/43_Anomolous Study.jpg"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/119_Xenogen Exposure.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/119_Xenogen Exposure.jpg"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Sorcery",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/127_Emergency Preparations.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/127_Emergency Preparations.jpg"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Creature — Treefolk Citizen",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/192_Vagrant Fruitbearer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/192_Vagrant Fruitbearer.jpg"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/19_Otherworld Veteran.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/19_Otherworld Veteran.jpg"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/54_Fleetwide Engineer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/54_Fleetwide Engineer.jpg"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Sorcery",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/89_Exovitalize.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/89_Exovitalize.jpg"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Cat Elemental",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/130_Flame-Tongue Feline.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/130_Flame-Tongue Feline.jpg"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Enchantment",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/179_Infested Wurmgrounds.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/179_Infested Wurmgrounds.jpg"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Bird Artificer",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/38_Weapons Calibrator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/38_Weapons Calibrator.jpg"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Squid",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/68_Roving Starsquid.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/68_Roving Starsquid.jpg"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Crocodile Horror",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/117_Writhing Bogbeast.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/117_Writhing Bogbeast.jpg"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Instant",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/128_Fanatical Rage.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/128_Fanatical Rage.jpg"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Creature — Insect Cat Scout",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/175_Formicat Scout.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/175_Formicat Scout.jpg"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Legendary Creature — Rabbit Shaman",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/222_Shara, Luck-Linked.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/222_Shara, Luck-Linked.jpg"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/10_Fresh Reinforcements.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/10_Fresh Reinforcements.jpg"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/74_Suit Puncture.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/74_Suit Puncture.jpg"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/88_Exoskeletal Puppeteering.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/88_Exoskeletal Puppeteering.jpg"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Creature — Salamander Shaman",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/122_Chaos Reader.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/122_Chaos Reader.jpg"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/189_Rocket Punch.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/189_Rocket Punch.jpg"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/23_Phaselight Rupture.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/23_Phaselight Rupture.jpg"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/45_Destabilize.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/45_Destabilize.jpg"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/83_Bloody Exosoldier.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/83_Bloody Exosoldier.jpg"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Artifact",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/160_Vaserian Stormstone.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/160_Vaserian Stormstone.jpg"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Creature — Rabbit Druid",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/182_Lightborn Ecologist.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/182_Lightborn Ecologist.jpg"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/79_Veer Off Course.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/79_Veer Off Course.jpg"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/57_Hypothermic Reaction.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/57_Hypothermic Reaction.jpg"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/91_Lone Curse-Linked.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/91_Lone Curse-Linked.jpg"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/134_Improvised Craftwelder.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/134_Improvised Craftwelder.jpg"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Creature — Rabbit Druid",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/170_Deadworld Terraformer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/170_Deadworld Terraformer.jpg"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/24_Philanthropic Pathfinder.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/24_Philanthropic Pathfinder.jpg"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Creature — Leviathan Horror",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/64_Quantum Terror.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/64_Quantum Terror.jpg"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/109_Stray Bombardment.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/109_Stray Bombardment.jpg"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Dog Elemental",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/158_Unstable Stormhound.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/158_Unstable Stormhound.jpg"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Creature — Rabbit Ranger",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/166_Colony Pioneer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/166_Colony Pioneer.jpg"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/18_Otherworld Banishment.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/18_Otherworld Banishment.jpg"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/76_Twilight Disruption.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/76_Twilight Disruption.jpg"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Zombie Soldier",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/103_Regenerating Exosoldier.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/103_Regenerating Exosoldier.jpg"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/137_Last-Second Exchange.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/137_Last-Second Exchange.jpg"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/194_Voidhab Fabricator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/194_Voidhab Fabricator.jpg"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Token Creature — Thax Soldier",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/3t_Thax Soldier.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/3t_Thax Soldier.jpg"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/7_Curator's Intervention.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/7_Curator's Intervention.jpg"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/60_Phaselight Recalibration.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/60_Phaselight Recalibration.jpg"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/92_Macabre Prisonship.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/92_Macabre Prisonship.jpg"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/149_Scrapper's Lightcutter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/149_Scrapper's Lightcutter.jpg"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/173_Escape into Oasis.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/173_Escape into Oasis.jpg"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/3_Behavioral Analyst.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/3_Behavioral Analyst.jpg"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/78_Untangle Fate.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/78_Untangle Fate.jpg"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/94_Nihilistic Revelation.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/94_Nihilistic Revelation.jpg"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Creature — Salamander Shaman",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/159_Uproarious Sorcerer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/159_Uproarious Sorcerer.jpg"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/195_Voidmage's Blessing.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/195_Voidmage's Blessing.jpg"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Sorcery",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/16_Missing No Longer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/16_Missing No Longer.jpg"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/77_Twilight Stalker.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/77_Twilight Stalker.jpg"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/84_Costly Position.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/84_Costly Position.jpg"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Instant",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/126_Electrostorm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/126_Electrostorm.jpg"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Fungi Beast",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/199_Yutaran Hunter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/199_Yutaran Hunter.jpg"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Salamander Shaman",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/2_Augur's Assistant.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/2_Augur's Assistant.jpg"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/58_Lightborn Ace.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/58_Lightborn Ace.jpg"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Creature — Thax Cleric",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/115_Vaserian Chanter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/115_Vaserian Chanter.jpg"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/133_Hotshot Aeronaut.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/133_Hotshot Aeronaut.jpg"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/161_Aggressive Phasewurm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/161_Aggressive Phasewurm.jpg"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/27_Rapidfire Lightcutter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/27_Rapidfire Lightcutter.jpg"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Creature — Bird Scout",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/70_Soarnith Commando.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/70_Soarnith Commando.jpg"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/107_Solitary Captain.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/107_Solitary Captain.jpg"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Creature — Salamander Soldier",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/124_Curation Envoy.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/124_Curation Envoy.jpg"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/188_Relicworld Colonization.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/188_Relicworld Colonization.jpg"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/15_Memoriam Station.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/15_Memoriam Station.jpg"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Enchantment",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/67_Reverse Engineering.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/67_Reverse Engineering.jpg"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Creature — Thax Wizard",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/87_Exoskeletal Operator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/87_Exoskeletal Operator.jpg"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Artifact",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/145_Quantum Sightstone.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/145_Quantum Sightstone.jpg"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/171_Domebound Ecologist.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/171_Domebound Ecologist.jpg"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/8_Curator's Talent.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/8_Curator's Talent.jpg"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/49_Entanglement Engineer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/49_Entanglement Engineer.jpg"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/120_Xenogenic Bloodghoul.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/120_Xenogenic Bloodghoul.jpg"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/154_Targeted Termination.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/154_Targeted Termination.jpg"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Creature — Ape Turtle",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/163_Armorback Specimen.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/163_Armorback Specimen.jpg"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Artifact Creature — Robot Druid",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/249_Waste Recycler.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/249_Waste Recycler.jpg"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Artifact",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/239_Lost Cargo.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/239_Lost Cargo.jpg"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/229_Allied Shredder-Class Frigate.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/229_Allied Shredder-Class Frigate.jpg"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Artifact",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/240_Microstar Generator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/240_Microstar Generator.jpg"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Artifact Creature — Robot Rigger",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/234_Deadworld Precolonizer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/234_Deadworld Precolonizer.jpg"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Artifact — Habitat",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/233_Deadworld Dome.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/233_Deadworld Dome.jpg"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/235_Dyson Colossus.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/235_Dyson Colossus.jpg"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/231_Darkworld Monument.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/231_Darkworld Monument.jpg"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Artifact Creature — Robot Artificer",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/238_Fleetwide Repairbot.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/238_Fleetwide Repairbot.jpg"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Token Artifact — Habitat",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/7t_Habitat.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/7t_Habitat.jpg"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Legendary Creature — Salamander Pilot",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/212_Lae Sard, Baron of the Stars.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/212_Lae Sard, Baron of the Stars.jpg"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Legendary Creature — Salamander Wizard",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/226_Voya, Fate-Linked Savior.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/226_Voya, Fate-Linked Savior.jpg"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/104_Resource Raid.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/104_Resource Raid.jpg"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/246_Swarmlaunch Carrier.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/246_Swarmlaunch Carrier.jpg"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Creature — Salamander Soldier",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/32_Stereoscopic Tactician.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/32_Stereoscopic Tactician.jpg"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/46_Dire Departure.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/46_Dire Departure.jpg"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/110_Summoned Cosmipede.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/110_Summoned Cosmipede.jpg"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Creature — Bird Soldier",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/151_Soarnith Squaddie.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/151_Soarnith Squaddie.jpg"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/191_Soilless Tiller.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/191_Soilless Tiller.jpg"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/28_Re-Energize.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/28_Re-Energize.jpg"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/6_Crashed Transport.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/6_Crashed Transport.jpg"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/99_Phaseshred.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/99_Phaseshred.jpg"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/140_Nebula Stormship.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/140_Nebula Stormship.jpg"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/177_Gravitic Crush.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/177_Gravitic Crush.jpg"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Instant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/13_Last Ditch Maneuver.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/13_Last Ditch Maneuver.jpg"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/61_Plans For Development.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/61_Plans For Development.jpg"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/93_Manufactured Incident.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/93_Manufactured Incident.jpg"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/141_Orbital Shocktroop.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/141_Orbital Shocktroop.jpg"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/190_Roving Barkcrusher.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/190_Roving Barkcrusher.jpg"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/17_Omnidirectional Assault Gear.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/17_Omnidirectional Assault Gear.jpg"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/65_Researcher's Shuttlecraft.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/65_Researcher's Shuttlecraft.jpg"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Creature — Rat",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/101_Ration Nibbler.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/101_Ration Nibbler.jpg"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/148_Roving Garrison.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/148_Roving Garrison.jpg"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Instant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/174_Force Multiplier.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/174_Force Multiplier.jpg"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Rabbit Scout",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/5_Colony Surveyor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/5_Colony Surveyor.jpg"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/59_Lost In Space.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/59_Lost In Space.jpg"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/95_Orbital Droptroop.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/95_Orbital Droptroop.jpg"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/143_Overthrow Defenders.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/143_Overthrow Defenders.jpg"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Creature — Fungi Beast",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/183_Mycellic Crasher.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/183_Mycellic Crasher.jpg"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/4_Blockade Eluder.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/4_Blockade Eluder.jpg"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/73_Stranded Adrift.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/73_Stranded Adrift.jpg"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Creature — Thax Cleric",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/81_Archpriest of Twilight.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/81_Archpriest of Twilight.jpg"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/152_Stampeding Sergeant.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/152_Stampeding Sergeant.jpg"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/176_Geoengineer's Multitool.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/176_Geoengineer's Multitool.jpg"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Creature — Rabbit Cleric",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/30_Soul Archivist.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/30_Soul Archivist.jpg"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/69_Scrap Engineer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/69_Scrap Engineer.jpg"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Enchantment",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/96_Otherworldly Advantage.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/96_Otherworldly Advantage.jpg"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Creature — Thax Warrior",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/153_Station Raider.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/153_Station Raider.jpg"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/187_Phaselight Tellurcraft.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/187_Phaselight Tellurcraft.jpg"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Legendary Creature — Salamander Wizard",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/29_Rhosha, Time's Prisoner.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/29_Rhosha, Time's Prisoner.jpg"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/26_Prisonworld's Sentence.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/26_Prisonworld's Sentence.jpg"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Creature — Sphinx Advisor",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/53_Federation Advisor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/53_Federation Advisor.jpg"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Legendary Enchantment Creature — Saga Construct",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/63_Preservation, Sentient Directive.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/63_Preservation, Sentient Directive.jpg"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Artifact",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/112_Thaxian Voidstone.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/112_Thaxian Voidstone.jpg"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Legendary Creature — Thax Wizard",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/113_Unak, Exo Manipulator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/113_Unak, Exo Manipulator.jpg"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Legendary Creature — Thax Soldier Wizard",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/135_Jaster, Zionnoth's Second.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/135_Jaster, Zionnoth's Second.jpg"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Enchantment",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/123_Chaotic Clamor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/123_Chaotic Clamor.jpg"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Legendary Creature — Elder Wurm",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/181_Kai'Kellon, Fragmented Forebear.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/181_Kai'Kellon, Fragmented Forebear.jpg"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Enchantment",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/198_Wurmtaming.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/198_Wurmtaming.jpg"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Creature — Salamander Soldier",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/33_Tactical Communicator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/33_Tactical Communicator.jpg"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Creature — Leviathan Squid",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/42_Ancient Starsquid.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/42_Ancient Starsquid.jpg"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Creature — Human Survivor",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/86_Demise Evader.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/86_Demise Evader.jpg"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/132_Havoc Seer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/132_Havoc Seer.jpg"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/185_Otherworldly Blow.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/185_Otherworldly Blow.jpg"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/9_Forced Emigration.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/9_Forced Emigration.jpg"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/48_Engineer's Talent.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/48_Engineer's Talent.jpg"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/106_Shockfly Swarm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/106_Shockfly Swarm.jpg"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/136_Junker's Talent.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/136_Junker's Talent.jpg"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Creature — Treefolk Soldier",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/196_Wing Entangler.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/196_Wing Entangler.jpg"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/12_Inspiring Sergeant.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/12_Inspiring Sergeant.jpg"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/75_Supercooled Suspension.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/75_Supercooled Suspension.jpg"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/108_Spark Siphon.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/108_Spark Siphon.jpg"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Artifact Creature — Construct Soldier",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/146_Rampage Scorcher.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/146_Rampage Scorcher.jpg"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Artifact",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/165_Catalytic Processor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/165_Catalytic Processor.jpg"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/1_Active Shielding.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/1_Active Shielding.jpg"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Creature — Salamander Artificer",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/56_Hangar Bay Serviceman.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/56_Hangar Bay Serviceman.jpg"
 			}
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Artifact",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/118_Wurmtamer's Stone.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/118_Wurmtamer's Stone.jpg"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/125_Electromagnetic Disruption.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/125_Electromagnetic Disruption.jpg"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Creature — Bird Citizen",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/180_Interplanetary Trader.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/180_Interplanetary Trader.jpg"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/25_Planet Settler.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/25_Planet Settler.jpg"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Creature — Salamander Wizard",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/50_Escort Oracle.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/50_Escort Oracle.jpg"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Artifact Creature — Robot Pilot",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/82_Artificial Ace.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/82_Artificial Ace.jpg"
 			}
 		},
 		{
@@ -2617,7 +2617,7 @@
 			"type": "Creature — Wolf Elemental",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/156_Thrashing Cragwolf.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/156_Thrashing Cragwolf.jpg"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Creature — Fungi Beast",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/184_Mycellic Propagator.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/184_Mycellic Propagator.jpg"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/21_Phasebound Duelist.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/21_Phasebound Duelist.jpg"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/72_Star Ward.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/72_Star Ward.jpg"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/97_Overwhelming Loss.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/97_Overwhelming Loss.jpg"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Artifact Creature — Frog",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/147_Reactive Magnetoad.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/147_Reactive Magnetoad.jpg"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/178_Harmonic Darkwurm.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/178_Harmonic Darkwurm.jpg"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Creature — Thax Warrior",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/34_Territory Pillager.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/34_Territory Pillager.jpg"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/44_Collection Compiler.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/44_Collection Compiler.jpg"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/102_Ravenous Cosmipede.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/102_Ravenous Cosmipede.jpg"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/150_Shattering Cometcraft.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/150_Shattering Cometcraft.jpg"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/200_Yutaran Vigor.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/200_Yutaran Vigor.jpg"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Creature — Rabbit Citizen",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/14_Mechanized Croptender.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/14_Mechanized Croptender.jpg"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Creature — Salamander Wizard",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/62_Practiced Replicaster.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/62_Practiced Replicaster.jpg"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/100_Ransacker's Talent.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/100_Ransacker's Talent.jpg"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Artifact",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/155_Thiris Crystal.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/155_Thiris Crystal.jpg"
 			}
 		},
 		{
@@ -2777,7 +2777,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/172_Ecologist's Talent.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/172_Ecologist's Talent.jpg"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Legendary Creature — Dragon Noble",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/227_Zionnoth, Planet Conquerer.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/227_Zionnoth, Planet Conquerer.jpg"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Token Creature — Squid",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/2t_Starsquid.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/2t_Starsquid.jpg"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"type": "Artifact Creature — Thopter",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/LSL-files/img/247_Terrestrial Scouter.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/247_Terrestrial Scouter.jpg"
 			}
 		}
 	]

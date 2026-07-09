@@ -1,4 +1,13 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Luster Dragon
+type: Creature — Human Wizard Knight => Creature — Dragon
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Blue-Eyes Toon Dragon added.

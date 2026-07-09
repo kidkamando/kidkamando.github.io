@@ -5,7 +5,7 @@
 			<name>YDM</name>
 			<longname>YuGiOh! Duel Monsters</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-06</releasedate>
+			<releasedate>2026-07-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5380,7 +5380,7 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Wizard Knight</type>
+				<type>Creature — Dragon</type>
 				<maintype>Creature</maintype>
 				<manacost>3U</manacost>
 				<cmc>4</cmc>
