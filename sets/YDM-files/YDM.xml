@@ -3580,7 +3580,7 @@ Foretell {2}{R}{R} (During your turn, you may pay {2} and exile this card from y
 		<card>
 			<name>Ties of the Brethren</name>
 			<text>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
-Search your library for up to two creature cards with the same type, color, and mana value as a creature you control and put them into your hand. Those cards cannot have the same name as each other or that creature. If this spell was kicked, put one of those creatures onto the battlefield under your control.</text>
+Search your library for up to two creature cards with the same type, color, and mana value as a creature you control, reveal them, and put them into your hand. Those cards cannot have the same name as each other or that creature. If this spell was kicked, put one of those creatures onto the battlefield under your control.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/YDM-files/img/202_Ties of the Brethren.jpg" num="202">YDM</set>
 			<prop>
 				<layout>normal</layout>
