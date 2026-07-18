@@ -5,7 +5,7 @@
 			<name>YDM</name>
 			<longname>YuGiOh! Duel Monsters</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-08</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -330,7 +330,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 		</card>
 		<card>
 			<name>Toy Knight</name>
-			<text>When Toy Knight enters, you may search your library for a card named Toy Knight, put it into your hand, then shuffle.
+			<text>When Toy Knight enters, you may search your library for a card named Toy Knight, reveal it, put it into your hand, then shuffle.
 {3}{W}, Exile this card from your graveyard: Create a 3/3 white Toy artifact creature token with vigilance. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/45_Toy Knight.jpg" num="45">YDM</set>
 			<prop>
@@ -367,7 +367,7 @@ When this creature dies, create a 3/3 white Toy artifact creature tokens with vi
 		</card>
 		<card>
 			<name>Yellow Gadget</name>
-			<text>When this creature enters, you may search your library for a card named Green Gadget, then shuffle.
+			<text>When this creature enters, you may search your library for a card named Green Gadget, reveal it, then shuffle.
 {W}, Discard this card: Put a +1/+1 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/46_Yellow Gadget.jpg" num="46">YDM</set>
 			<prop>
@@ -385,7 +385,7 @@ When this creature dies, create a 3/3 white Toy artifact creature tokens with vi
 		</card>
 		<card>
 			<name>Red Gadget</name>
-			<text>When this creature enters, you may search your library for a card named Yellow Gadget, then shuffle.
+			<text>When this creature enters, you may search your library for a card named Yellow Gadget, reveal it, then shuffle.
 {1}{W}, Discard this card: Red Gadget deals 4 damage to target attacking or blocking creature.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/35_Red Gadget.jpg" num="35">YDM</set>
 			<prop>
@@ -403,7 +403,7 @@ When this creature dies, create a 3/3 white Toy artifact creature tokens with vi
 		</card>
 		<card>
 			<name>Green Gadget</name>
-			<text>When this creature enters, you may search your library for a card named Red Gadget, then shuffle.
+			<text>When this creature enters, you may search your library for a card named Red Gadget, reveal it, then shuffle.
 Basic Plainscycling {1}{W} ({1}{W}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/21_Green Gadget.jpg" num="21">YDM</set>
 			<prop>
@@ -3261,8 +3261,8 @@ Whenever Twin-Headed Thunder Dragon attacks, it deals 1 damage to each of up to 
 		<card>
 			<name>Reinforcements of the Army</name>
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
-Search your library for a Warrior creature card with mana value 4 or less, shuffle, then put it on top of your library.
-If this spell was kicked, instead search your library for a Warrior creature card, put it into your hand, then shuffle.</text>
+Search your library for a Warrior creature card with mana value 4 or less, reveal it, shuffle, then put it on top of your library.
+If this spell was kicked, instead search your library for a Warrior creature card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/YDM-files/img/154_Reinforcements of the Army.jpg" num="154">YDM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3316,7 +3316,7 @@ If this spell was kicked, instead search your library for a Warrior creature car
 		</card>
 		<card>
 			<name>Protector with Eyes of Blue</name>
-			<text>When Protector with Eyes of Blue enters, you may discard a card. If you do, search your library for a creature card, put it into your hand, then shuffle.
+			<text>When Protector with Eyes of Blue enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
 {T}: Add {G}{G}. Spend this mana only to cast spells with mana value 6 or greater.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/YDM-files/img/196_Protector with Eyes of Blue.jpg" num="196">YDM</set>
 			<prop>
@@ -3616,7 +3616,7 @@ When this creature enters, manifest up to one card in your hand. (To manifest a 
 			<name>Star Chips</name>
 			<text>When Star Chips is sacrificed, choose one — 
 • Draw a card.
-• Search your library for a basic land card, put it into your hand, then shuffle.
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {1}, {T}, Sacrifice Star Chips: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/YDM-files/img/284_Star Chips.jpg" num="284">YDM</set>
 			<prop>

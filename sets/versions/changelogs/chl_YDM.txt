@@ -1,4 +1,51 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Toy Knight
+rules_text: When Toy Knight enters, you may search your library for a card named Toy Knight, put it into your hand, then shuffle.
+{3}{W}, Exile this card from your graveyard: Create a 3/3 white Toy artifact creature token with vigilance. Activate only as a sorcery. => When Toy Knight enters, you may search your library for a card named Toy Knight, reveal it, put it into your hand, then shuffle.
+{3}{W}, Exile this card from your graveyard: Create a 3/3 white Toy artifact creature token with vigilance. Activate only as a sorcery.
+
+Yellow Gadget
+rules_text: When this creature enters, you may search your library for a card named Green Gadget, then shuffle.
+{W}, Discard this card: Put a +1/+1 counter on target creature you control. => When this creature enters, you may search your library for a card named Green Gadget, reveal it, then shuffle.
+{W}, Discard this card: Put a +1/+1 counter on target creature you control.
+
+Red Gadget
+rules_text: When this creature enters, you may search your library for a card named Yellow Gadget, then shuffle.
+{1}{W}, Discard this card: Red Gadget deals 4 damage to target attacking or blocking creature. => When this creature enters, you may search your library for a card named Yellow Gadget, reveal it, then shuffle.
+{1}{W}, Discard this card: Red Gadget deals 4 damage to target attacking or blocking creature.
+
+Green Gadget
+rules_text: When this creature enters, you may search your library for a card named Red Gadget, then shuffle.
+Basic Plainscycling {1}{W} [i]({1}{W}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, you may search your library for a card named Red Gadget, reveal it, then shuffle.
+Basic Plainscycling {1}{W} [i]({1}{W}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Reinforcements of the Army
+rules_text: Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+Search your library for a Warrior creature card with mana value 4 or less, shuffle, then put it on top of your library.
+If this spell was kicked, instead search your library for a Warrior creature card, put it into your hand, then shuffle. => Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+Search your library for a Warrior creature card with mana value 4 or less, reveal it, shuffle, then put it on top of your library.
+If this spell was kicked, instead search your library for a Warrior creature card, reveal it, put it into your hand, then shuffle.
+
+Protector with Eyes of Blue
+rules_text: When Protector with Eyes of Blue enters, you may discard a card. If you do, search your library for a creature card, put it into your hand, then shuffle.
+{T}: Add {G}{G}. Spend this mana only to cast spells with mana value 6 or greater. => When Protector with Eyes of Blue enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+{T}: Add {G}{G}. Spend this mana only to cast spells with mana value 6 or greater.
+
+Star Chips
+rules_text: When Star Chips is sacrificed, choose one — 
+• Draw a card.
+• Search your library for a basic land card, put it into your hand, then shuffle.
+{1}, {T}, Sacrifice Star Chips: Add one mana of any color. => When Star Chips is sacrificed, choose one — 
+• Draw a card.
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}, {T}, Sacrifice Star Chips: Add one mana of any color.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
