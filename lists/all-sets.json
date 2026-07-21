@@ -41,6 +41,11 @@
             "formats": "Standard,Eternal,Commander,RRI"
         },
         {
+            "set_code": "VDV",
+            "set_name": "Velesta Divided",
+            "formats": "Standard,Eternal,Commander,BVEL"
+        },
+        {
             "set_code": "VLC",
             "set_name": "Velesta Discovered Commander",
             "formats": "Eternal,Commander,VBC"
