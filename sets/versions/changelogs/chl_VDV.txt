@@ -1,4 +1,36 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Soaring Doombringer
+rules_text: Flying
+Immolate 1 [i](As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player's control.)[/i]
+When Soaring Doombringer enters, search your library for a card, put it into your hand, then shuffle. => Flying
+Immolate 1 [i](As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)[/i]
+When Soaring Doombringer enters, search your library for a card, put it into your hand, then shuffle.
+
+Deceptive Shimmer
+rules_text: Haste
+Immolate 1 [i](As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player's control.)[/i]
+At the beginning of your end step, return this card to its owner's hand and you draw a card. => Haste
+Immolate 1 [i](As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)[/i]
+At the beginning of your end step, return this card to its owner's hand and you draw a card.
+
+Ferocious Floraptor
+rules_text: Immolate 1 [i](As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player's control.)[/i]
+Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i] => Immolate 1 [i](As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)[/i]
+Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+
+Thiir Ma, History's Augur
+rules_text: Interlinked [i](When this creature enters, target player may search their library for another card with interlinked, put it into their hand, then shuffle. You can have two commanders if both are legendary and have interlinked.)[/i]
+Immolate 1 [i](As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player's control.)[/i]
+Pay 4 life: Draw a card. => Interlinked [i](When this creature enters, target player may search their library for another card with interlinked, put it into their hand, then shuffle. You can have two commanders if both are legendary and have interlinked.)[/i]
+Immolate 1 [i](As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)[/i]
+Pay 4 life: Draw a card.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

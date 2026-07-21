@@ -5,7 +5,7 @@
 			<name>VDV</name>
 			<longname>Velesta Divided</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-20</releasedate>
+			<releasedate>2026-07-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2978,7 +2978,7 @@ Desperate — As long as you are Desperate, Rise From Defeat has flashback—Sac
 		<card>
 			<name>Soaring Doombringer</name>
 			<text>Flying
-Immolate 1 (As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player&apos;s control.)
+Immolate 1 (As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)
 When Soaring Doombringer enters, search your library for a card, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/VDV-files/img/132_Soaring Doombringer.jpg" num="132">VDV</set>
 			<prop>
@@ -3153,7 +3153,7 @@ Whenever a creature you control deals 6 or more combat damage to a player, draw 
 		<card>
 			<name>Deceptive Shimmer</name>
 			<text>Haste
-Immolate 1 (As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player&apos;s control.)
+Immolate 1 (As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)
 At the beginning of your end step, return this card to its owner&apos;s hand and you draw a card.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/VDV-files/img/159_Deceptive Shimmer.jpg" num="159">VDV</set>
 			<prop>
@@ -3189,7 +3189,7 @@ At the beginning of your end step, return this card to its owner&apos;s hand and
 		</card>
 		<card>
 			<name>Ferocious Floraptor</name>
-			<text>Immolate 1 (As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player&apos;s control.)
+			<text>Immolate 1 (As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)
 Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/VDV-files/img/205_Ferocious Floraptor.jpg" num="205">VDV</set>
 			<prop>
@@ -4154,7 +4154,7 @@ Whenever you attack, for each card that left your library this turn, put a +1/+1
 		<card>
 			<name>Thiir Ma, History&apos;s Augur</name>
 			<text>Interlinked (When this creature enters, target player may search their library for another card with interlinked, put it into their hand, then shuffle. You can have two commanders if both are legendary and have interlinked.)
-Immolate 1 (As this creature enters the battlefield, choose a player. Exile this creature unless they sacrifice a nontoken creature. If they sacrifice that many creatures this way, it enters under that player&apos;s control.)
+Immolate 1 (As this creature enters the battlefield, choose a player. They must sacrifice a nontoken creature, if able. If they do, it enters under their control. Otherwise, exile this creature.)
 Pay 4 life: Draw a card.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/VDV-files/img/136_Thiir Ma, History&apos;s Augur.jpg" num="136">VDV</set>
 			<prop>
