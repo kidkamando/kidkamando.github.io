@@ -23,22 +23,22 @@
         {
             "set_code": "RAD",
             "set_name": "Runeterra Ascended",
-            "formats": "Standard,Eternal,Commander,RRI"
+            "formats": "Eternal,Commander,RRI"
         },
         {
             "set_code": "RDV",
             "set_name": "Runeterra Divided",
-            "formats": "Standard,Eternal,Commander,RRI"
+            "formats": "Eternal,Commander,RRI"
         },
         {
             "set_code": "RRN",
             "set_name": "Runeterra in Ruination",
-            "formats": "Standard,Eternal,Commander,RRI"
+            "formats": "Eternal,Commander,RRI"
         },
         {
             "set_code": "RTRA",
             "set_name": "Runeterra Reimagined Addendum",
-            "formats": "Standard,Eternal,Commander,RRI"
+            "formats": "Eternal,Commander,RRI"
         },
         {
             "set_code": "VDV",
