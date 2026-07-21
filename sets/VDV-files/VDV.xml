@@ -1663,7 +1663,7 @@ Team Equip {4}{G}{G} ({4}{G}{G}: Attach to target creature your team controls. E
 		<card>
 			<name>Shepard&apos;s Roarhorn</name>
 			<text>Equipped creature gets +3/+3 and has trample.
-When this Equipment enters, create a 4/4 green Plant Dinosaur creature token.
+When this Equipment enters, create a 3/3 green Plant Dinosaur creature token.
 Team Equip {3}{G} ({3}{G}: Attach to target creature your team controls. Equip only as a sorcery.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/VDV-files/img/222_Shepard&apos;s Roarhorn.jpg" num="222">VDV</set>
 			<prop>
