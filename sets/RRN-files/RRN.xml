@@ -5,7 +5,7 @@
 			<name>RRN</name>
 			<longname>Runeterra in Ruination</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-05</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1842,7 +1842,7 @@ When Duskrider enters, surveil 2. (Look at the top two cards of your library, th
 		<card>
 			<name>Fiora, Grand Duelist</name>
 			<text>Vigilance
-Last hit — Whenever Fiora deals lethal damage to another creature, you get an experience counter. Then if you have twenty or more experience counters, you win the game. Otherwise, draw a card.</text>
+Last hit — Whenever Fiora deals lethal damage to another permanent, you get an experience counter. Then if you have twenty or more experience counters, you win the game. Otherwise, draw a card.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/RRN-files/img/169_Fiora, Grand Duelist.jpg" num="169">RRN</set>
 			<prop>
 				<layout>normal</layout>

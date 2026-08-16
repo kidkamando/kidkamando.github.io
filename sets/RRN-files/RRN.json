@@ -1,6 +1,6 @@
 ﻿{
     "name": "Runeterra in Ruination",
-    "formats": "Eternal,Commander,RRI",
+    "formats": "RRN,Eternal,Commander",
     "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
@@ -1895,7 +1895,7 @@
             "number": 169,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
-            "rules_text": "Vigilance\n[i]Last hit[/i] \u2014 Whenever Fiora deals lethal damage to another creature, you get an experience counter. Then if you have twenty or more experience counters, you win the game. Otherwise, draw a card.",
+            "rules_text": "Vigilance\n[i]Last hit[/i] \u2014 Whenever Fiora deals lethal damage to another permanent, you get an experience counter. Then if you have twenty or more experience counters, you win the game. Otherwise, draw a card.",
             "flavor_text": "[i]\u201cFrom arena to tournament, training ground to battleground, I long for a worthy opponent. I will not rest until I know I am the greatest.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5562,5 +5562,5 @@
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }

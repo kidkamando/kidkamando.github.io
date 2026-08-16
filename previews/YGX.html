@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/YGX-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>YGX visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer { 
+       		position: fixed;     
+       		text-align: center;    
+       		bottom: 0px; 
+       		width: 100%;
+   		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/YGX-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ACS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FCD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PWR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RAD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RDV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RRN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RTRA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VDV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRM-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VWT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/YDM-files/icon.png" />
+		<img class="preload-hidden" src="../sets/YGX-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/YGX"><img src="../sets/YGX-files/icon.png">YuGiOh! GX</a>
+	
+		<a class="set-bar inactive" href="../previews/ACS"><img src="../sets/ACS-files/icon.png">Aramyth: Crimes in Shadow</a>
+	
+		<a class="set-bar inactive" href="../previews/FCD"><img src="../sets/FCD-files/icon.png">Fractured Darkness</a>
+	
+		<a class="set-bar inactive" href="../previews/LSL"><img src="../sets/LSL-files/icon.png">Last Starlight</a>
+	
+		<a class="set-bar inactive" href="../previews/PWR"><img src="../sets/PWR-files/icon.png">Power Rangers</a>
+	
+		<a class="set-bar inactive" href="../previews/RAD"><img src="../sets/RAD-files/icon.png">Runeterra Ascended</a>
+	
+		<a class="set-bar inactive" href="../previews/RDV"><img src="../sets/RDV-files/icon.png">Runeterra Divided</a>
+	
+		<a class="set-bar inactive" href="../previews/RRN"><img src="../sets/RRN-files/icon.png">Runeterra in Ruination</a>
+	
+		<a class="set-bar inactive" href="../previews/RTRA"><img src="../sets/RTRA-files/icon.png">Runeterra Reimagined Addendum</a>
+	
+		<a class="set-bar inactive" href="../previews/VDV"><img src="../sets/VDV-files/icon.png">Velesta Divided</a>
+	
+		<a class="set-bar inactive" href="../previews/VLC"><img src="../sets/VLC-files/icon.png">Velesta Discovered Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Velesta Discovered</a>
+	
+		<a class="set-bar inactive" href="../previews/VRG"><img src="../sets/VRG-files/icon.png">Velesta Reforged</a>
+	
+		<a class="set-bar inactive" href="../previews/VRM"><img src="../sets/VRM-files/icon.png">Velesta ReMade</a>
+	
+		<a class="set-bar inactive" href="../previews/VWT"><img src="../sets/VWT-files/icon.png">Velesta Wartorn</a>
+	
+		<a class="set-bar inactive" href="../previews/YDM"><img src="../sets/YDM-files/icon.png">YuGiOh! Duel Monsters</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/YGX-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\YGX-files\img\17_Fulfillment of the Contract.jpg" id="YGX_17_Fulfillment of the Contract" data-flag="@X" onclick="openSidebar('YGX_17_Fulfillment of the Contract',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\59_Cyber Angel Vrash.jpg" id="YGX_59_Cyber Angel Vrash" data-flag="@X" onclick="openSidebar('YGX_59_Cyber Angel Vrash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\103_Enchanting Fitting Room.jpg" id="YGX_103_Enchanting Fitting Room" data-flag="@X" onclick="openSidebar('YGX_103_Enchanting Fitting Room',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\124_Chicken Game.jpg" id="YGX_124_Chicken Game" data-flag="@X" onclick="openSidebar('YGX_124_Chicken Game',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\180_EN — Engage Neo Space.jpg" id="YGX_180_EN — Engage Neo Space" data-flag="@X" onclick="openSidebar('YGX_180_EN — Engage Neo Space',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\27_Neos Force.jpg" id="YGX_27_Neos Force" data-flag="@X" onclick="openSidebar('YGX_27_Neos Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\64_Drain Time.jpg" id="YGX_64_Drain Time" data-flag="@X" onclick="openSidebar('YGX_64_Drain Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\114_Nightshroud, Darkness Incarnate.jpg" id="YGX_114_Nightshroud, Darkness Incarnate" data-flag="@X" onclick="openSidebar('YGX_114_Nightshroud, Darkness Incarnate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\152_Power Bond.jpg" id="YGX_152_Power Bond" data-flag="@X" onclick="openSidebar('YGX_152_Power Bond',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\183_Gladiator Beast Heraklinos.jpg" id="YGX_183_Gladiator Beast Heraklinos" data-flag="@X" onclick="openSidebar('YGX_183_Gladiator Beast Heraklinos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\9_Elemental Hero Shining.jpg" id="YGX_9_Elemental Hero Shining" data-flag="@X" onclick="openSidebar('YGX_9_Elemental Hero Shining',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\46_Advanced Crystal Beast Sapphire Pegasus.jpg" id="YGX_46_Advanced Crystal Beast Sapphire Pegasus" data-flag="@X" onclick="openSidebar('YGX_46_Advanced Crystal Beast Sapphire Pegasus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\88_Cyber Valley.jpg" id="YGX_88_Cyber Valley" data-flag="@X" onclick="openSidebar('YGX_88_Cyber Valley',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\122_Armed Dragon.jpg" id="YGX_122_Armed Dragon" data-flag="@X" onclick="openSidebar('YGX_122_Armed Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\161_Advanced Crystal Beast Ruby Carbuncle.jpg" id="YGX_161_Advanced Crystal Beast Ruby Carbuncle" data-flag="@X" onclick="openSidebar('YGX_161_Advanced Crystal Beast Ruby Carbuncle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\22_Lightning Vortex.jpg" id="YGX_22_Lightning Vortex" data-flag="@X" onclick="openSidebar('YGX_22_Lightning Vortex',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\52_Copycat.jpg" id="YGX_52_Copycat" data-flag="@X" onclick="openSidebar('YGX_52_Copycat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\91_Dark Armed Dragon.jpg" id="YGX_91_Dark Armed Dragon" data-flag="@X" onclick="openSidebar('YGX_91_Dark Armed Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\126_Cyber Angel Natasha.jpg" id="YGX_126_Cyber Angel Natasha" data-flag="@X" onclick="openSidebar('YGX_126_Cyber Angel Natasha',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\181_Flute of Summoning Kuriboh.jpg" id="YGX_181_Flute of Summoning Kuriboh" data-flag="@X" onclick="openSidebar('YGX_181_Flute of Summoning Kuriboh',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\24_Mature Chronicle.jpg" id="YGX_24_Mature Chronicle" data-flag="@X" onclick="openSidebar('YGX_24_Mature Chronicle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\57_Cursed Seal of the Forbidden Spell.jpg" id="YGX_57_Cursed Seal of the Forbidden Spell" data-flag="@X" onclick="openSidebar('YGX_57_Cursed Seal of the Forbidden Spell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\92_Darkness Destroyer.jpg" id="YGX_92_Darkness Destroyer" data-flag="@X" onclick="openSidebar('YGX_92_Darkness Destroyer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\129_Cyber End Dragon.jpg" id="YGX_129_Cyber End Dragon" data-flag="@X" onclick="openSidebar('YGX_129_Cyber End Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\182_Gladiator Beast Alexander.jpg" id="YGX_182_Gladiator Beast Alexander" data-flag="@X" onclick="openSidebar('YGX_182_Gladiator Beast Alexander',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\31_Ojama Pink.jpg" id="YGX_31_Ojama Pink" data-flag="@X" onclick="openSidebar('YGX_31_Ojama Pink',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\60_Destiny Hero Denier.jpg" id="YGX_60_Destiny Hero Denier" data-flag="@X" onclick="openSidebar('YGX_60_Destiny Hero Denier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\93_Darkworld Dragon Lord.jpg" id="YGX_93_Darkworld Dragon Lord" data-flag="@X" onclick="openSidebar('YGX_93_Darkworld Dragon Lord',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\132_Demise of the Land.jpg" id="YGX_132_Demise of the Land" data-flag="@X" onclick="openSidebar('YGX_132_Demise of the Land',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\185_Hero's Guard.jpg" id="YGX_185_Heros Guard" data-flag="@X" onclick="openSidebar('YGX_185_Heros Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\37_Sun of Arcana.jpg" id="YGX_37_Sun of Arcana" data-flag="@X" onclick="openSidebar('YGX_37_Sun of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\63_DNA Surgery.jpg" id="YGX_63_DNA Surgery" data-flag="@X" onclick="openSidebar('YGX_63_DNA Surgery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\101_Destiny Hero Plasma.jpg" id="YGX_101_Destiny Hero Plasma" data-flag="@X" onclick="openSidebar('YGX_101_Destiny Hero Plasma',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\154_Stealthroid.jpg" id="YGX_154_Stealthroid" data-flag="@X" onclick="openSidebar('YGX_154_Stealthroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\187_Mecha Ojama King.jpg" id="YGX_187_Mecha Ojama King" data-flag="@X" onclick="openSidebar('YGX_187_Mecha Ojama King',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\38_Super Vehicroid Stealth Union.jpg" id="YGX_38_Super Vehicroid Stealth Union" data-flag="@X" onclick="openSidebar('YGX_38_Super Vehicroid Stealth Union',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\65_Drowning Mirror Force.jpg" id="YGX_65_Drowning Mirror Force" data-flag="@X" onclick="openSidebar('YGX_65_Drowning Mirror Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\110_Mad King of Darkworld.jpg" id="YGX_110_Mad King of Darkworld" data-flag="@X" onclick="openSidebar('YGX_110_Mad King of Darkworld',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\155_Super Conductor Tyranno.jpg" id="YGX_155_Super Conductor Tyranno" data-flag="@X" onclick="openSidebar('YGX_155_Super Conductor Tyranno',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\188_Mirror Gate.jpg" id="YGX_188_Mirror Gate" data-flag="@X" onclick="openSidebar('YGX_188_Mirror Gate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\43_World of Arcana.jpg" id="YGX_43_World of Arcana" data-flag="@X" onclick="openSidebar('YGX_43_World of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\79_Moon of Arcana.jpg" id="YGX_79_Moon of Arcana" data-flag="@X" onclick="openSidebar('YGX_79_Moon of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\86_Cyber Eternity Dragon.jpg" id="YGX_86_Cyber Eternity Dragon" data-flag="@X" onclick="openSidebar('YGX_86_Cyber Eternity Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\160_Wonder Garage.jpg" id="YGX_160_Wonder Garage" data-flag="@X" onclick="openSidebar('YGX_160_Wonder Garage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\196_Ultimate Tyranno.jpg" id="YGX_196_Ultimate Tyranno" data-flag="@X" onclick="openSidebar('YGX_196_Ultimate Tyranno',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\5_Ambulanceroid.jpg" id="YGX_5_Ambulanceroid" data-flag="@X" onclick="openSidebar('YGX_5_Ambulanceroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\44_Advanced Crystal Beast Cobalt Eagle.jpg" id="YGX_44_Advanced Crystal Beast Cobalt Eagle" data-flag="@X" onclick="openSidebar('YGX_44_Advanced Crystal Beast Cobalt Eagle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\87_Cyber Ouroboros.jpg" id="YGX_87_Cyber Ouroboros" data-flag="@X" onclick="openSidebar('YGX_87_Cyber Ouroboros',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\123_Carboneddon.jpg" id="YGX_123_Carboneddon" data-flag="@X" onclick="openSidebar('YGX_123_Carboneddon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\162_Advanced Crystal Beast Topaz Tiger.jpg" id="YGX_162_Advanced Crystal Beast Topaz Tiger" data-flag="@X" onclick="openSidebar('YGX_162_Advanced Crystal Beast Topaz Tiger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\6_Dark World Punishment.jpg" id="YGX_6_Dark World Punishment" data-flag="@X" onclick="openSidebar('YGX_6_Dark World Punishment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\49_Card of Reversal.jpg" id="YGX_49_Card of Reversal" data-flag="@X" onclick="openSidebar('YGX_49_Card of Reversal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\94_Darkworld Exarch.jpg" id="YGX_94_Darkworld Exarch" data-flag="@X" onclick="openSidebar('YGX_94_Darkworld Exarch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\125_Chthonian Alliance.jpg" id="YGX_125_Chthonian Alliance" data-flag="@X" onclick="openSidebar('YGX_125_Chthonian Alliance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\163_Air Hummingbird.jpg" id="YGX_163_Air Hummingbird" data-flag="@X" onclick="openSidebar('YGX_163_Air Hummingbird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\11_Emperor of Arcana.jpg" id="YGX_11_Emperor of Arcana" data-flag="@X" onclick="openSidebar('YGX_11_Emperor of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\51_Code Change.jpg" id="YGX_51_Code Change" data-flag="@X" onclick="openSidebar('YGX_51_Code Change',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\97_Darkworld Warlord.jpg" id="YGX_97_Darkworld Warlord" data-flag="@X" onclick="openSidebar('YGX_97_Darkworld Warlord',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\128_Cyber Dragon Zwei.jpg" id="YGX_128_Cyber Dragon Zwei" data-flag="@X" onclick="openSidebar('YGX_128_Cyber Dragon Zwei',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\169_Crystal Beast Topaz Tiger.jpg" id="YGX_169_Crystal Beast Topaz Tiger" data-flag="@X" onclick="openSidebar('YGX_169_Crystal Beast Topaz Tiger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\12_Emperor's Staff.jpg" id="YGX_12_Emperors Staff" data-flag="@X" onclick="openSidebar('YGX_12_Emperors Staff',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\54_Crystal Beast Cobalt Eagle.jpg" id="YGX_54_Crystal Beast Cobalt Eagle" data-flag="@X" onclick="openSidebar('YGX_54_Crystal Beast Cobalt Eagle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\100_Destiny Hero Dynatag.jpg" id="YGX_100_Destiny Hero Dynatag" data-flag="@X" onclick="openSidebar('YGX_100_Destiny Hero Dynatag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\134_Destroyersaurus.jpg" id="YGX_134_Destroyersaurus" data-flag="@X" onclick="openSidebar('YGX_134_Destroyersaurus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\172_Cyclone Wing.jpg" id="YGX_172_Cyclone Wing" data-flag="@X" onclick="openSidebar('YGX_172_Cyclone Wing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\19_Hanged of Arcana.jpg" id="YGX_19_Hanged of Arcana" data-flag="@X" onclick="openSidebar('YGX_19_Hanged of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\66_Duoterion.jpg" id="YGX_66_Duoterion" data-flag="@X" onclick="openSidebar('YGX_66_Duoterion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\104_Evil Hero Dark Gaia.jpg" id="YGX_104_Evil Hero Dark Gaia" data-flag="@X" onclick="openSidebar('YGX_104_Evil Hero Dark Gaia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\137_Drillroid.jpg" id="YGX_137_Drillroid" data-flag="@X" onclick="openSidebar('YGX_137_Drillroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\173_Dark Driceratops.jpg" id="YGX_173_Dark Driceratops" data-flag="@X" onclick="openSidebar('YGX_173_Dark Driceratops',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\25_Mirage Dragon.jpg" id="YGX_25_Mirage Dragon" data-flag="@X" onclick="openSidebar('YGX_25_Mirage Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\67_Elemental Hero Absolute Zero.jpg" id="YGX_67_Elemental Hero Absolute Zero" data-flag="@X" onclick="openSidebar('YGX_67_Elemental Hero Absolute Zero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\108_Hunter of Black Feathers.jpg" id="YGX_108_Hunter of Black Feathers" data-flag="@X" onclick="openSidebar('YGX_108_Hunter of Black Feathers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\139_Elemental Hero Blazeman.jpg" id="YGX_139_Elemental Hero Blazeman" data-flag="@X" onclick="openSidebar('YGX_139_Elemental Hero Blazeman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\175_E — Emergency Call.jpg" id="YGX_175_E — Emergency Call" data-flag="@X" onclick="openSidebar('YGX_175_E — Emergency Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\26_Mixeroid.jpg" id="YGX_26_Mixeroid" data-flag="@X" onclick="openSidebar('YGX_26_Mixeroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\68_Elemental Hero Bubbleman.jpg" id="YGX_68_Elemental Hero Bubbleman" data-flag="@X" onclick="openSidebar('YGX_68_Elemental Hero Bubbleman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\109_KA-2 Des Scissors.jpg" id="YGX_109_KA-2 Des Scissors" data-flag="@X" onclick="openSidebar('YGX_109_KA-2 Des Scissors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\142_Elemental Hero Nova Master.jpg" id="YGX_142_Elemental Hero Nova Master" data-flag="@X" onclick="openSidebar('YGX_142_Elemental Hero Nova Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\178_Elemental Hero Woodsman.jpg" id="YGX_178_Elemental Hero Woodsman" data-flag="@X" onclick="openSidebar('YGX_178_Elemental Hero Woodsman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\28_Nightmare Throne.jpg" id="YGX_28_Nightmare Throne" data-flag="@X" onclick="openSidebar('YGX_28_Nightmare Throne',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\72_Hierophant of Arcana.jpg" id="YGX_72_Hierophant of Arcana" data-flag="@X" onclick="openSidebar('YGX_72_Hierophant of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\112_Nightmare Pain.jpg" id="YGX_112_Nightmare Pain" data-flag="@X" onclick="openSidebar('YGX_112_Nightmare Pain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\143_Emergeroid Call.jpg" id="YGX_143_Emergeroid Call" data-flag="@X" onclick="openSidebar('YGX_143_Emergeroid Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\179_Elemental Recharge.jpg" id="YGX_179_Elemental Recharge" data-flag="@X" onclick="openSidebar('YGX_179_Elemental Recharge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\29_O — Oversoul.jpg" id="YGX_29_O — Oversoul" data-flag="@X" onclick="openSidebar('YGX_29_O — Oversoul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\75_Insurance.jpg" id="YGX_75_Insurance" data-flag="@X" onclick="openSidebar('YGX_75_Insurance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\116_Power Wall.jpg" id="YGX_116_Power Wall" data-flag="@X" onclick="openSidebar('YGX_116_Power Wall',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\144_Expressroid.jpg" id="YGX_144_Expressroid" data-flag="@X" onclick="openSidebar('YGX_144_Expressroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\186_Kaibaman.jpg" id="YGX_186_Kaibaman" data-flag="@X" onclick="openSidebar('YGX_186_Kaibaman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\36_Spirit Barrier.jpg" id="YGX_36_Spirit Barrier" data-flag="@X" onclick="openSidebar('YGX_36_Spirit Barrier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\76_King Mokey Mokey.jpg" id="YGX_76_King Mokey Mokey" data-flag="@X" onclick="openSidebar('YGX_76_King Mokey Mokey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\121_Umbral Soul.jpg" id="YGX_121_Umbral Soul" data-flag="@X" onclick="openSidebar('YGX_121_Umbral Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\157_Thrashing Stego.jpg" id="YGX_157_Thrashing Stego" data-flag="@X" onclick="openSidebar('YGX_157_Thrashing Stego',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\191_Ojamatch.jpg" id="YGX_191_Ojamatch" data-flag="@X" onclick="openSidebar('YGX_191_Ojamatch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\41_Vehicroid Connection Zone.jpg" id="YGX_41_Vehicroid Connection Zone" data-flag="@X" onclick="openSidebar('YGX_41_Vehicroid Connection Zone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\78_Mokey Mokey.jpg" id="YGX_78_Mokey Mokey" data-flag="@X" onclick="openSidebar('YGX_78_Mokey Mokey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\83_Chthonian Polymer.jpg" id="YGX_83_Chthonian Polymer" data-flag="@X" onclick="openSidebar('YGX_83_Chthonian Polymer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\158_Thunder Crash.jpg" id="YGX_158_Thunder Crash" data-flag="@X" onclick="openSidebar('YGX_158_Thunder Crash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\197_Unhappy Maiden.jpg" id="YGX_197_Unhappy Maiden" data-flag="@X" onclick="openSidebar('YGX_197_Unhappy Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\7_Destiny Hero Defender.jpg" id="YGX_7_Destiny Hero Defender" data-flag="@X" onclick="openSidebar('YGX_7_Destiny Hero Defender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\45_Advanced Crystal Beast Emerald Tortoise.jpg" id="YGX_45_Advanced Crystal Beast Emerald Tortoise" data-flag="@X" onclick="openSidebar('YGX_45_Advanced Crystal Beast Emerald Tortoise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\84_Cthonian Soldier.jpg" id="YGX_84_Cthonian Soldier" data-flag="@X" onclick="openSidebar('YGX_84_Cthonian Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\127_Cyber Dragon Core.jpg" id="YGX_127_Cyber Dragon Core" data-flag="@X" onclick="openSidebar('YGX_127_Cyber Dragon Core',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\164_Archeonys.jpg" id="YGX_164_Archeonys" data-flag="@X" onclick="openSidebar('YGX_164_Archeonys',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\8_Elemental Hero Avian.jpg" id="YGX_8_Elemental Hero Avian" data-flag="@X" onclick="openSidebar('YGX_8_Elemental Hero Avian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\47_Angel Wing.jpg" id="YGX_47_Angel Wing" data-flag="@X" onclick="openSidebar('YGX_47_Angel Wing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\85_Cyber Barrier Dragon.jpg" id="YGX_85_Cyber Barrier Dragon" data-flag="@X" onclick="openSidebar('YGX_85_Cyber Barrier Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\130_Cyber Laser Dragon.jpg" id="YGX_130_Cyber Laser Dragon" data-flag="@X" onclick="openSidebar('YGX_130_Cyber Laser Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\165_Babycerasaurus.jpg" id="YGX_165_Babycerasaurus" data-flag="@X" onclick="openSidebar('YGX_165_Babycerasaurus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\10_Elemental Hero Solid Soldier.jpg" id="YGX_10_Elemental Hero Solid Soldier" data-flag="@X" onclick="openSidebar('YGX_10_Elemental Hero Solid Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\48_Arcana Spread.jpg" id="YGX_48_Arcana Spread" data-flag="@X" onclick="openSidebar('YGX_48_Arcana Spread',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\90_Cybernetic Overflow.jpg" id="YGX_90_Cybernetic Overflow" data-flag="@X" onclick="openSidebar('YGX_90_Cybernetic Overflow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\131_Cycroid.jpg" id="YGX_131_Cycroid" data-flag="@X" onclick="openSidebar('YGX_131_Cycroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\166_Crystal Beast Amber Mammoth.jpg" id="YGX_166_Crystal Beast Amber Mammoth" data-flag="@X" onclick="openSidebar('YGX_166_Crystal Beast Amber Mammoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\13_Empress of Arcana.jpg" id="YGX_13_Empress of Arcana" data-flag="@X" onclick="openSidebar('YGX_13_Empress of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\50_Chariot of Arcana.jpg" id="YGX_50_Chariot of Arcana" data-flag="@X" onclick="openSidebar('YGX_50_Chariot of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\95_Darkworld Gateman.jpg" id="YGX_95_Darkworld Gateman" data-flag="@X" onclick="openSidebar('YGX_95_Darkworld Gateman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\133_Destiny Hero Dasher.jpg" id="YGX_133_Destiny Hero Dasher" data-flag="@X" onclick="openSidebar('YGX_133_Destiny Hero Dasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\167_Crystal Beast Amethyst Cat.jpg" id="YGX_167_Crystal Beast Amethyst Cat" data-flag="@X" onclick="openSidebar('YGX_167_Crystal Beast Amethyst Cat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\14_Eternal Favorite.jpg" id="YGX_14_Eternal Favorite" data-flag="@X" onclick="openSidebar('YGX_14_Eternal Favorite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\53_Counter Gem.jpg" id="YGX_53_Counter Gem" data-flag="@X" onclick="openSidebar('YGX_53_Counter Gem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\96_Darkworld Vanguard.jpg" id="YGX_96_Darkworld Vanguard" data-flag="@X" onclick="openSidebar('YGX_96_Darkworld Vanguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\135_Dino Blast.jpg" id="YGX_135_Dino Blast" data-flag="@X" onclick="openSidebar('YGX_135_Dino Blast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\168_Crystal Beast Ruby Carbuncle.jpg" id="YGX_168_Crystal Beast Ruby Carbuncle" data-flag="@X" onclick="openSidebar('YGX_168_Crystal Beast Ruby Carbuncle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\15_Fool of Arcana.jpg" id="YGX_15_Fool of Arcana" data-flag="@X" onclick="openSidebar('YGX_15_Fool of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\55_Crystal Beast Emerald Tortoise.jpg" id="YGX_55_Crystal Beast Emerald Tortoise" data-flag="@X" onclick="openSidebar('YGX_55_Crystal Beast Emerald Tortoise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\98_Destiny Hero Captain Tenacious.jpg" id="YGX_98_Destiny Hero Captain Tenacious" data-flag="@X" onclick="openSidebar('YGX_98_Destiny Hero Captain Tenacious',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\136_Dragonroid.jpg" id="YGX_136_Dragonroid" data-flag="@X" onclick="openSidebar('YGX_136_Dragonroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\170_Crystal Blessing.jpg" id="YGX_170_Crystal Blessing" data-flag="@X" onclick="openSidebar('YGX_170_Crystal Blessing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\16_Forces of Darkness.jpg" id="YGX_16_Forces of Darkness" data-flag="@X" onclick="openSidebar('YGX_16_Forces of Darkness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\56_Crystal Beast Sapphire Pegasus.jpg" id="YGX_56_Crystal Beast Sapphire Pegasus" data-flag="@X" onclick="openSidebar('YGX_56_Crystal Beast Sapphire Pegasus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\99_Destiny Hero Dread Servant.jpg" id="YGX_99_Destiny Hero Dread Servant" data-flag="@X" onclick="openSidebar('YGX_99_Destiny Hero Dread Servant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\138_Element Saurus.jpg" id="YGX_138_Element Saurus" data-flag="@X" onclick="openSidebar('YGX_138_Element Saurus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\171_Crystal Release.jpg" id="YGX_171_Crystal Release" data-flag="@X" onclick="openSidebar('YGX_171_Crystal Release',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\18_Generation Next.jpg" id="YGX_18_Generation Next" data-flag="@X" onclick="openSidebar('YGX_18_Generation Next',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\58_Cyber Angel Benten.jpg" id="YGX_58_Cyber Angel Benten" data-flag="@X" onclick="openSidebar('YGX_58_Cyber Angel Benten',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\102_Elemental Hero Necroshade.jpg" id="YGX_102_Elemental Hero Necroshade" data-flag="@X" onclick="openSidebar('YGX_102_Elemental Hero Necroshade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\140_Elemental Hero Burstinatrix.jpg" id="YGX_140_Elemental Hero Burstinatrix" data-flag="@X" onclick="openSidebar('YGX_140_Elemental Hero Burstinatrix',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\174_Dark Tyranno.jpg" id="YGX_174_Dark Tyranno" data-flag="@X" onclick="openSidebar('YGX_174_Dark Tyranno',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\20_Jetroid.jpg" id="YGX_20_Jetroid" data-flag="@X" onclick="openSidebar('YGX_20_Jetroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\61_Destiny Hero Diamond Dude.jpg" id="YGX_61_Destiny Hero Diamond Dude" data-flag="@X" onclick="openSidebar('YGX_61_Destiny Hero Diamond Dude',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\105_Geistgrinder Golem.jpg" id="YGX_105_Geistgrinder Golem" data-flag="@X" onclick="openSidebar('YGX_105_Geistgrinder Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\141_Elemental Hero Lady Heat.jpg" id="YGX_141_Elemental Hero Lady Heat" data-flag="@X" onclick="openSidebar('YGX_141_Elemental Hero Lady Heat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\176_Elemental Hero Clayman.jpg" id="YGX_176_Elemental Hero Clayman" data-flag="@X" onclick="openSidebar('YGX_176_Elemental Hero Clayman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\21_Light Force.jpg" id="YGX_21_Light Force" data-flag="@X" onclick="openSidebar('YGX_21_Light Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\62_Destiny Hero Dreamer.jpg" id="YGX_62_Destiny Hero Dreamer" data-flag="@X" onclick="openSidebar('YGX_62_Destiny Hero Dreamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\106_Gift of the Martyr.jpg" id="YGX_106_Gift of the Martyr" data-flag="@X" onclick="openSidebar('YGX_106_Gift of the Martyr',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\145_Get Your Game On!.jpg" id="YGX_145_Get Your Game On!" data-flag="@X" onclick="openSidebar('YGX_145_Get Your Game On!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\177_Elemental Hero Wildheart.jpg" id="YGX_177_Elemental Hero Wildheart" data-flag="@X" onclick="openSidebar('YGX_177_Elemental Hero Wildheart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\23_Magnet Force.jpg" id="YGX_23_Magnet Force" data-flag="@X" onclick="openSidebar('YGX_23_Magnet Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\69_Emergency Evasion.jpg" id="YGX_69_Emergency Evasion" data-flag="@X" onclick="openSidebar('YGX_69_Emergency Evasion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\107_Gruesome Grave Squirmer.jpg" id="YGX_107_Gruesome Grave Squirmer" data-flag="@X" onclick="openSidebar('YGX_107_Gruesome Grave Squirmer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\146_Gilasaurus.jpg" id="YGX_146_Gilasaurus" data-flag="@X" onclick="openSidebar('YGX_146_Gilasaurus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\184_H — Heated Heart.jpg" id="YGX_184_H — Heated Heart" data-flag="@X" onclick="openSidebar('YGX_184_H — Heated Heart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\30_Ojama Delta Hurricane.jpg" id="YGX_30_Ojama Delta Hurricane" data-flag="@X" onclick="openSidebar('YGX_30_Ojama Delta Hurricane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\70_Gladiator Beast Torax.jpg" id="YGX_70_Gladiator Beast Torax" data-flag="@X" onclick="openSidebar('YGX_70_Gladiator Beast Torax',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\111_Nightmare Horse.jpg" id="YGX_111_Nightmare Horse" data-flag="@X" onclick="openSidebar('YGX_111_Nightmare Horse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\147_Hero Signal.jpg" id="YGX_147_Hero Signal" data-flag="@X" onclick="openSidebar('YGX_147_Hero Signal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\189_Ojama Green.jpg" id="YGX_189_Ojama Green" data-flag="@X" onclick="openSidebar('YGX_189_Ojama Green',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\32_Ojama Yellow.jpg" id="YGX_32_Ojama Yellow" data-flag="@X" onclick="openSidebar('YGX_32_Ojama Yellow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\71_Gladiator Beast Vespasius.jpg" id="YGX_71_Gladiator Beast Vespasius" data-flag="@X" onclick="openSidebar('YGX_71_Gladiator Beast Vespasius',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\113_Nightmare Shuffle.jpg" id="YGX_113_Nightmare Shuffle" data-flag="@X" onclick="openSidebar('YGX_113_Nightmare Shuffle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\148_Hyper Hammerhead.jpg" id="YGX_148_Hyper Hammerhead" data-flag="@X" onclick="openSidebar('YGX_148_Hyper Hammerhead',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\190_Ojamachine Yellow.jpg" id="YGX_190_Ojamachine Yellow" data-flag="@X" onclick="openSidebar('YGX_190_Ojamachine Yellow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\33_Rescueroid.jpg" id="YGX_33_Rescueroid" data-flag="@X" onclick="openSidebar('YGX_33_Rescueroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\73_Hydrogeddon.jpg" id="YGX_73_Hydrogeddon" data-flag="@X" onclick="openSidebar('YGX_73_Hydrogeddon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\115_Ojama Black.jpg" id="YGX_115_Ojama Black" data-flag="@X" onclick="openSidebar('YGX_115_Ojama Black',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\149_Ojama Red.jpg" id="YGX_149_Ojama Red" data-flag="@X" onclick="openSidebar('YGX_149_Ojama Red',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\192_R — Righteous Justice.jpg" id="YGX_192_R — Righteous Justice" data-flag="@X" onclick="openSidebar('YGX_192_R — Righteous Justice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\34_Samsara Lotus.jpg" id="YGX_34_Samsara Lotus" data-flag="@X" onclick="openSidebar('YGX_34_Samsara Lotus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\74_Hyozanryu.jpg" id="YGX_74_Hyozanryu" data-flag="@X" onclick="openSidebar('YGX_74_Hyozanryu',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\117_Return Soul.jpg" id="YGX_117_Return Soul" data-flag="@X" onclick="openSidebar('YGX_117_Return Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\150_Oxygeddon.jpg" id="YGX_150_Oxygeddon" data-flag="@X" onclick="openSidebar('YGX_150_Oxygeddon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\193_Rainbow Refraction.jpg" id="YGX_193_Rainbow Refraction" data-flag="@X" onclick="openSidebar('YGX_193_Rainbow Refraction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\35_Soul Release.jpg" id="YGX_35_Soul Release" data-flag="@X" onclick="openSidebar('YGX_35_Soul Release',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\77_Magician of Arcana.jpg" id="YGX_77_Magician of Arcana" data-flag="@X" onclick="openSidebar('YGX_77_Magician of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\118_Ruthless Denial.jpg" id="YGX_118_Ruthless Denial" data-flag="@X" onclick="openSidebar('YGX_118_Ruthless Denial',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\151_Patroid.jpg" id="YGX_151_Patroid" data-flag="@X" onclick="openSidebar('YGX_151_Patroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\194_Saurobeast Brachion.jpg" id="YGX_194_Saurobeast Brachion" data-flag="@X" onclick="openSidebar('YGX_194_Saurobeast Brachion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\39_Terrifying Trap Hole Nightmare.jpg" id="YGX_39_Terrifying Trap Hole Nightmare" data-flag="@X" onclick="openSidebar('YGX_39_Terrifying Trap Hole Nightmare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\80_Ojama Blue.jpg" id="YGX_80_Ojama Blue" data-flag="@X" onclick="openSidebar('YGX_80_Ojama Blue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\119_Shrink.jpg" id="YGX_119_Shrink" data-flag="@X" onclick="openSidebar('YGX_119_Shrink',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\153_Requited Acceptance.jpg" id="YGX_153_Requited Acceptance" data-flag="@X" onclick="openSidebar('YGX_153_Requited Acceptance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\195_Spirit of the Breeze.jpg" id="YGX_195_Spirit of the Breeze" data-flag="@X" onclick="openSidebar('YGX_195_Spirit of the Breeze',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\40_UFOroid.jpg" id="YGX_40_UFOroid" data-flag="@X" onclick="openSidebar('YGX_40_UFOroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\81_Ojama Pajama.jpg" id="YGX_81_Ojama Pajama" data-flag="@X" onclick="openSidebar('YGX_81_Ojama Pajama',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\120_Simorgh of Darkness.jpg" id="YGX_120_Simorgh of Darkness" data-flag="@X" onclick="openSidebar('YGX_120_Simorgh of Darkness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\156_Supercharge.jpg" id="YGX_156_Supercharge" data-flag="@X" onclick="openSidebar('YGX_156_Supercharge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\198_V-Tiger Jet.jpg" id="YGX_198_V-Tiger Jet" data-flag="@X" onclick="openSidebar('YGX_198_V-Tiger Jet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\42_W-Wing Catapult.jpg" id="YGX_42_W-Wing Catapult" data-flag="@X" onclick="openSidebar('YGX_42_W-Wing Catapult',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\82_Tin Goldfish.jpg" id="YGX_82_Tin Goldfish" data-flag="@X" onclick="openSidebar('YGX_82_Tin Goldfish',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\159_Tyrannic Tail Swipe.jpg" id="YGX_159_Tyrannic Tail Swipe" data-flag="@X" onclick="openSidebar('YGX_159_Tyrannic Tail Swipe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\199_Winged Kuribo.jpg" id="YGX_199_Winged Kuribo" data-flag="@X" onclick="openSidebar('YGX_199_Winged Kuribo',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\224_The Ojama Emperor.jpg" id="YGX_224_The Ojama Emperor" data-flag="@X" onclick="openSidebar('YGX_224_The Ojama Emperor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\201_Aster Phoenix, Professional Duelist.jpg" id="YGX_201_Aster Phoenix, Professional Duelist" data-flag="@X" onclick="openSidebar('YGX_201_Aster Phoenix, Professional Duelist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\236_Zane Truesdale, Hell Kaiser.jpg" id="YGX_236_Zane Truesdale, Hell Kaiser" data-flag="@X" onclick="openSidebar('YGX_236_Zane Truesdale, Hell Kaiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\232_Tyranno Hassleberry, Saurian Sargeant.jpg" id="YGX_232_Tyranno Hassleberry, Saurian Sargeant" data-flag="@X" onclick="openSidebar('YGX_232_Tyranno Hassleberry, Saurian Sargeant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\220_Jaden Yuki, Hopeful Initiate.jpg" id="YGX_220_Jaden Yuki, Hopeful Initiate" data-flag="@X" onclick="openSidebar('YGX_220_Jaden Yuki, Hopeful Initiate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\230_Sartorius Kumar, Light of Arcana.jpg" id="YGX_230_Sartorius Kumar, Light of Arcana" data-flag="@X" onclick="openSidebar('YGX_230_Sartorius Kumar, Light of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\211_Destiny Hero Dreadmaster.jpg" id="YGX_211_Destiny Hero Dreadmaster" data-flag="@X" onclick="openSidebar('YGX_211_Destiny Hero Dreadmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\209_Cyberdark Dragon.jpg" id="YGX_209_Cyberdark Dragon" data-flag="@X" onclick="openSidebar('YGX_209_Cyberdark Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\213_Elemental Hero Flame Wingman.jpg" id="YGX_213_Elemental Hero Flame Wingman" data-flag="@X" onclick="openSidebar('YGX_213_Elemental Hero Flame Wingman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\214_Elemental Hero Neos.jpg" id="YGX_214_Elemental Hero Neos" data-flag="@X" onclick="openSidebar('YGX_214_Elemental Hero Neos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\203_Chaos Ruler of Arcana.jpg" id="YGX_203_Chaos Ruler of Arcana" data-flag="@X" onclick="openSidebar('YGX_203_Chaos Ruler of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\210_Destiny Hero Decider.jpg" id="YGX_210_Destiny Hero Decider" data-flag="@X" onclick="openSidebar('YGX_210_Destiny Hero Decider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\208_Cyber Dragon.jpg" id="YGX_208_Cyber Dragon" data-flag="@X" onclick="openSidebar('YGX_208_Cyber Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\212_Dyna Tank.jpg" id="YGX_212_Dyna Tank" data-flag="@X" onclick="openSidebar('YGX_212_Dyna Tank',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\216_Fifth Hope.jpg" id="YGX_216_Fifth Hope" data-flag="@X" onclick="openSidebar('YGX_216_Fifth Hope',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\206_Cup of Ace.jpg" id="YGX_206_Cup of Ace" data-flag="@X" onclick="openSidebar('YGX_206_Cup of Ace',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\235_Yubel, Phantom Nightmare.jpg" id="YGX_235_Yubel, Phantom Nightmare" data-flag="@X" onclick="openSidebar('YGX_235_Yubel, Phantom Nightmare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\200_Alexis Rhodes, Queen of Obelisk Blue.jpg" id="YGX_200_Alexis Rhodes, Queen of Obelisk Blue" data-flag="@X" onclick="openSidebar('YGX_200_Alexis Rhodes, Queen of Obelisk Blue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\204_Chazz Princeton, Black Thunder.jpg" id="YGX_204_Chazz Princeton, Black Thunder" data-flag="@X" onclick="openSidebar('YGX_204_Chazz Princeton, Black Thunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\231_Syrus Truesdale, Cyber Successor.jpg" id="YGX_231_Syrus Truesdale, Cyber Successor" data-flag="@X" onclick="openSidebar('YGX_231_Syrus Truesdale, Cyber Successor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\222_Jesse Anderson, Crystal Keeper.jpg" id="YGX_222_Jesse Anderson, Crystal Keeper" data-flag="@X" onclick="openSidebar('YGX_222_Jesse Anderson, Crystal Keeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\226_Phatom of Yubel.jpg" id="YGX_226_Phatom of Yubel" data-flag="@X" onclick="openSidebar('YGX_226_Phatom of Yubel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\202_Bastion Misawa, Dueling Mastermind.jpg" id="YGX_202_Bastion Misawa, Dueling Mastermind" data-flag="@X" onclick="openSidebar('YGX_202_Bastion Misawa, Dueling Mastermind',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\225_Ojama Knight.jpg" id="YGX_225_Ojama Knight" data-flag="@X" onclick="openSidebar('YGX_225_Ojama Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\223_Mask Change.jpg" id="YGX_223_Mask Change" data-flag="@X" onclick="openSidebar('YGX_223_Mask Change',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\228_Rainbow Dragon.jpg" id="YGX_228_Rainbow Dragon" data-flag="@X" onclick="openSidebar('YGX_228_Rainbow Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\221_Jaden Yuki, The Supreme King.jpg" id="YGX_221_Jaden Yuki, The Supreme King" data-flag="@X" onclick="openSidebar('YGX_221_Jaden Yuki, The Supreme King',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\207_Cyber Angel Izana.jpg" id="YGX_207_Cyber Angel Izana" data-flag="@X" onclick="openSidebar('YGX_207_Cyber Angel Izana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\217_Giant Rat.jpg" id="YGX_217_Giant Rat" data-flag="@X" onclick="openSidebar('YGX_217_Giant Rat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\215_Elemental Hero Sparkman.jpg" id="YGX_215_Elemental Hero Sparkman" data-flag="@X" onclick="openSidebar('YGX_215_Elemental Hero Sparkman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\227_Rainbow Dark Dragon.jpg" id="YGX_227_Rainbow Dark Dragon" data-flag="@X" onclick="openSidebar('YGX_227_Rainbow Dark Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\234_Water Dragon.jpg" id="YGX_234_Water Dragon" data-flag="@X" onclick="openSidebar('YGX_234_Water Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\205_Claudius, Gladiator Beast.jpg" id="YGX_205_Claudius, Gladiator Beast" data-flag="@X" onclick="openSidebar('YGX_205_Claudius, Gladiator Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\218_Hamon, Lord of Phantasms.jpg" id="YGX_218_Hamon, Lord of Phantasms" data-flag="@X" onclick="openSidebar('YGX_218_Hamon, Lord of Phantasms',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\229_Raviel, Lord of Striking Thunder.jpg" id="YGX_229_Raviel, Lord of Striking Thunder" data-flag="@X" onclick="openSidebar('YGX_229_Raviel, Lord of Striking Thunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\233_Uria, Lord of Searing Flames.jpg" id="YGX_233_Uria, Lord of Searing Flames" data-flag="@X" onclick="openSidebar('YGX_233_Uria, Lord of Searing Flames',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\219_Jaden and Yubel, Suffering Intertwined.jpg" id="YGX_219_Jaden and Yubel, Suffering Intertwined" data-flag="@X" onclick="openSidebar('YGX_219_Jaden and Yubel, Suffering Intertwined',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\4_Super Polymerization.jpg" id="YGX_4_Super Polymerization" data-flag="@X" onclick="openSidebar('YGX_4_Super Polymerization',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\1_Ojama King.jpg" id="YGX_1_Ojama King" data-flag="@X" onclick="openSidebar('YGX_1_Ojama King',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\2_Ojama Solidarity.jpg" id="YGX_2_Ojama Solidarity" data-flag="@X" onclick="openSidebar('YGX_2_Ojama Solidarity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\3_Polymerization.jpg" id="YGX_3_Polymerization" data-flag="@X" onclick="openSidebar('YGX_3_Polymerization',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\241_Fusion Gate.jpg" id="YGX_241_Fusion Gate" data-flag="@X" onclick="openSidebar('YGX_241_Fusion Gate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\238_Cyber Angel Dakini.jpg" id="YGX_238_Cyber Angel Dakini" data-flag="@X" onclick="openSidebar('YGX_238_Cyber Angel Dakini',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\242_Hero Shield.jpg" id="YGX_242_Hero Shield" data-flag="@X" onclick="openSidebar('YGX_242_Hero Shield',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\243_Photon Generator Unit.jpg" id="YGX_243_Photon Generator Unit" data-flag="@X" onclick="openSidebar('YGX_243_Photon Generator Unit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\245_Pot of Riches.jpg" id="YGX_245_Pot of Riches" data-flag="@X" onclick="openSidebar('YGX_245_Pot of Riches',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\246_Rainbow Bridge.jpg" id="YGX_246_Rainbow Bridge" data-flag="@X" onclick="openSidebar('YGX_246_Rainbow Bridge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\237_Crystal Beacon.jpg" id="YGX_237_Crystal Beacon" data-flag="@X" onclick="openSidebar('YGX_237_Crystal Beacon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\239_Dragon Heart.jpg" id="YGX_239_Dragon Heart" data-flag="@X" onclick="openSidebar('YGX_239_Dragon Heart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\240_Duel Vest.jpg" id="YGX_240_Duel Vest" data-flag="@X" onclick="openSidebar('YGX_240_Duel Vest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\244_Pot of Benevolence.jpg" id="YGX_244_Pot of Benevolence" data-flag="@X" onclick="openSidebar('YGX_244_Pot of Benevolence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\247_Swing of Memories.jpg" id="YGX_247_Swing of Memories" data-flag="@X" onclick="openSidebar('YGX_247_Swing of Memories',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\248_Arcana Barrier.jpg" id="YGX_248_Arcana Barrier" data-flag="@X" onclick="openSidebar('YGX_248_Arcana Barrier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\250_Clock Tower Prison.jpg" id="YGX_250_Clock Tower Prison" data-flag="@X" onclick="openSidebar('YGX_250_Clock Tower Prison',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\251_Cybernetic Fusion Reactor.jpg" id="YGX_251_Cybernetic Fusion Reactor" data-flag="@X" onclick="openSidebar('YGX_251_Cybernetic Fusion Reactor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\257_Jurassic World.jpg" id="YGX_257_Jurassic World" data-flag="@X" onclick="openSidebar('YGX_257_Jurassic World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\256_Heroic Skyscraper.jpg" id="YGX_256_Heroic Skyscraper" data-flag="@X" onclick="openSidebar('YGX_256_Heroic Skyscraper',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\253_Darkworld Door.jpg" id="YGX_253_Darkworld Door" data-flag="@X" onclick="openSidebar('YGX_253_Darkworld Door',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\249_Chemical Lab.jpg" id="YGX_249_Chemical Lab" data-flag="@X" onclick="openSidebar('YGX_249_Chemical Lab',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\260_Ojama Country.jpg" id="YGX_260_Ojama Country" data-flag="@X" onclick="openSidebar('YGX_260_Ojama Country',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\258_Megaroid City.jpg" id="YGX_258_Megaroid City" data-flag="@X" onclick="openSidebar('YGX_258_Megaroid City',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\262_Rainbow Ruins.jpg" id="YGX_262_Rainbow Ruins" data-flag="@X" onclick="openSidebar('YGX_262_Rainbow Ruins',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\254_Duel Academy.jpg" id="YGX_254_Duel Academy" data-flag="@X" onclick="openSidebar('YGX_254_Duel Academy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\259_Obelisk Blue Dorm.jpg" id="YGX_259_Obelisk Blue Dorm" data-flag="@X" onclick="openSidebar('YGX_259_Obelisk Blue Dorm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\261_Ra Yellow Dorm.jpg" id="YGX_261_Ra Yellow Dorm" data-flag="@X" onclick="openSidebar('YGX_261_Ra Yellow Dorm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\263_Slifer Red Dorm.jpg" id="YGX_263_Slifer Red Dorm" data-flag="@X" onclick="openSidebar('YGX_263_Slifer Red Dorm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\252_Dark World.jpg" id="YGX_252_Dark World" data-flag="@X" onclick="openSidebar('YGX_252_Dark World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\255_Duel Arena.jpg" id="YGX_255_Duel Arena" data-flag="@X" onclick="openSidebar('YGX_255_Duel Arena',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\264_Plains.jpg" id="YGX_264_Plains" data-flag="@X" onclick="openSidebar('YGX_264_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\265_Island.jpg" id="YGX_265_Island" data-flag="@X" onclick="openSidebar('YGX_265_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\266_Swamp.jpg" id="YGX_266_Swamp" data-flag="@X" onclick="openSidebar('YGX_266_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\267_Mountain.jpg" id="YGX_267_Mountain" data-flag="@X" onclick="openSidebar('YGX_267_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\268_Forest.jpg" id="YGX_268_Forest" data-flag="@X" onclick="openSidebar('YGX_268_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\1t_Fusion Substitute.jpg" id="YGX_1t_Fusion Substitute" data-flag="@X" onclick="openSidebar('YGX_1t_Fusion Substitute',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\2t_Hero.jpg" id="YGX_2t_Hero" data-flag="@X" onclick="openSidebar('YGX_2t_Hero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\9t_Treasure.jpg" id="YGX_9t_Treasure" data-flag="@X" onclick="openSidebar('YGX_9t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\3t_Duel Spirit.jpg" id="YGX_3t_Duel Spirit" data-flag="@X" onclick="openSidebar('YGX_3t_Duel Spirit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\4t_Faerie.jpg" id="YGX_4t_Faerie" data-flag="@X" onclick="openSidebar('YGX_4t_Faerie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\5t_Toy Construct.jpg" id="YGX_5t_Toy Construct" data-flag="@X" onclick="openSidebar('YGX_5t_Toy Construct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\6t_Dinosaur.jpg" id="YGX_6t_Dinosaur" data-flag="@X" onclick="openSidebar('YGX_6t_Dinosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\7t_Beast Warrior.jpg" id="YGX_7t_Beast Warrior" data-flag="@X" onclick="openSidebar('YGX_7t_Beast Warrior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\YGX-files\img\8t_Cyber Soldier.jpg" id="YGX_8t_Cyber Soldier" data-flag="@X" onclick="openSidebar('YGX_8t_Cyber Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="YGX_e" data-flag="@E" onclick="openSidebar('YGX_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="YGX_er" data-flag="@E" onclick="openSidebar('YGX_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+	<div class="footer">All Rights belong to their respective holders. Cards and material are not for sale and are intended only for personal use.</div>
+</body>
+</html>

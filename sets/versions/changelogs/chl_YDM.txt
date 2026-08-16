@@ -1,4 +1,15 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Ties of the Brethren
+rules_text: Kicker {2}{G} [i](You may pay an additional {2}{G} as you cast this spell.)[/i]
+Search your library for up to two creature cards with the same type, color, and mana value as a creature you control, reveal them, and put them into your hand. Those cards cannot have the same name as each other or that creature. If this spell was kicked, put one of those creatures onto the battlefield under your control. => Kicker {2}{G}
+Search your library for up to two creature cards that share at least one creature type, and with the same color and mana value as a creature you control, reveal them, and put them into your hand. Those cards cannot have the same name as each other or that creature. If this spell was kicked, put one of those creatures onto the battlefield under your control.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

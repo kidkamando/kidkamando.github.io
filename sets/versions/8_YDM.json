@@ -1,6 +1,6 @@
 ﻿{
     "name": "YuGiOh! Duel Monsters",
-    "formats": "",
+    "formats": "Standard,YGO,Eternal,Commander",
     "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
@@ -3613,7 +3613,7 @@
             "number": 202,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Kicker {2}{G} [i](You may pay an additional {2}{G} as you cast this spell.)[/i]\nSearch your library for up to two creature cards with the same type, color, and mana value as a creature you control, reveal them, and put them into your hand. Those cards cannot have the same name as each other or that creature. If this spell was kicked, put one of those creatures onto the battlefield under your control.",
+            "rules_text": "Kicker {2}{G}\nSearch your library for up to two creature cards that share at least one creature type, and with the same color and mana value as a creature you control, reveal them, and put them into your hand. Those cards cannot have the same name as each other or that creature. If this spell was kicked, put one of those creatures onto the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

@@ -1,0 +1,3671 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/264_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/265_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/266_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/267_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/268_Forest.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Avian",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental Bird Hero",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/8_Elemental Hero Avian.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Solid Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Elemental Hero",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/10_Elemental Hero Solid Soldier.jpg"
+			}
+		},
+		{
+			"name": "Ojama Yellow",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/32_Ojama Yellow.jpg"
+			}
+		},
+		{
+			"name": "Jetroid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/20_Jetroid.jpg"
+			}
+		},
+		{
+			"name": "Eternal Favorite",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/14_Eternal Favorite.jpg"
+			}
+		},
+		{
+			"name": "Samsara Lotus",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Plant Nightmare",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/34_Samsara Lotus.jpg"
+			}
+		},
+		{
+			"name": "Ojama Delta Hurricane",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/30_Ojama Delta Hurricane.jpg"
+			}
+		},
+		{
+			"name": "Soul Release",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/35_Soul Release.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Defender",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Golem Hero Villain",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/7_Destiny Hero Defender.jpg"
+			}
+		},
+		{
+			"name": "UFOroid",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Alien Toy Construct",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/40_UFOroid.jpg"
+			}
+		},
+		{
+			"name": "Fool of Arcana",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Faerie Bard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/15_Fool of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Terrifying Trap Hole Nightmare",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Kindred Enchantment — Nightmare",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/39_Terrifying Trap Hole Nightmare.jpg"
+			}
+		},
+		{
+			"name": "Rescueroid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/33_Rescueroid.jpg"
+			}
+		},
+		{
+			"name": "Magnet Force",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Construct",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/23_Magnet Force.jpg"
+			}
+		},
+		{
+			"name": "W-Wing Catapult",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/42_W-Wing Catapult.jpg"
+			}
+		},
+		{
+			"name": "Empress of Arcana",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Faerie Noble",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/13_Empress of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Generation Next",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/18_Generation Next.jpg"
+			}
+		},
+		{
+			"name": "Light Force",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/21_Light Force.jpg"
+			}
+		},
+		{
+			"name": "Forces of Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/16_Forces of Darkness.jpg"
+			}
+		},
+		{
+			"name": "Hydrogeddon",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Dinosaur",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/73_Hydrogeddon.jpg"
+			}
+		},
+		{
+			"name": "Duoterion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Dinosaur",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/66_Duoterion.jpg"
+			}
+		},
+		{
+			"name": "Hyozanryu",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Elemental Dragon",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/74_Hyozanryu.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Diamond Dude",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Hero Villain",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/61_Destiny Hero Diamond Dude.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Emerald Tortoise",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Gem Beast Turtle",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/55_Crystal Beast Emerald Tortoise.jpg"
+			}
+		},
+		{
+			"name": "Emergency Evasion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/69_Emergency Evasion.jpg"
+			}
+		},
+		{
+			"name": "Ojama Pajama",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Kindred Enchantment — Spirit Aura",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/81_Ojama Pajama.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Sapphire Pegasus",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Gem Beast Pegasus",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/56_Crystal Beast Sapphire Pegasus.jpg"
+			}
+		},
+		{
+			"name": "Magician of Arcana",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/77_Magician of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Arcana Spread",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Sorcery — Faerie",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/48_Arcana Spread.jpg"
+			}
+		},
+		{
+			"name": "Chariot of Arcana",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/50_Chariot of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Tin Goldfish",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Toy Fish Construct",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/82_Tin Goldfish.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Dreamer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie Hero Villain",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/62_Destiny Hero Dreamer.jpg"
+			}
+		},
+		{
+			"name": "Advanced Crystal Beast Emerald Tortoise",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Gem Beast Turtle",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/45_Advanced Crystal Beast Emerald Tortoise.jpg"
+			}
+		},
+		{
+			"name": "Gladiator Beast Torax",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Beast Warrior Fish",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/70_Gladiator Beast Torax.jpg"
+			}
+		},
+		{
+			"name": "Counter Gem",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Gem",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/53_Counter Gem.jpg"
+			}
+		},
+		{
+			"name": "Gladiator Beast Vespasius",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Beast Warrior Serpent",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/71_Gladiator Beast Vespasius.jpg"
+			}
+		},
+		{
+			"name": "Angel Wing",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Kindred Sorcery — Angel",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/47_Angel Wing.jpg"
+			}
+		},
+		{
+			"name": "Cyber Angel Benten",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/58_Cyber Angel Benten.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Necroshade",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental Demon Hero",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/102_Elemental Hero Necroshade.jpg"
+			}
+		},
+		{
+			"name": "Ojama Black",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/115_Ojama Black.jpg"
+			}
+		},
+		{
+			"name": "Geistgrinder Golem",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Nightmare Golem",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/105_Geistgrinder Golem.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Captain Tenacious",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Hero Villain",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/98_Destiny Hero Captain Tenacious.jpg"
+			}
+		},
+		{
+			"name": "Cyber Barrier Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/85_Cyber Barrier Dragon.jpg"
+			}
+		},
+		{
+			"name": "Cybernetic Overflow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Instant — Serpent",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/90_Cybernetic Overflow.jpg"
+			}
+		},
+		{
+			"name": "Gruesome Grave Squirmer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Nightmare Zombie",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/107_Gruesome Grave Squirmer.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Horse",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare Horse",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/111_Nightmare Horse.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Shuffle",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Sorcery — Nightmare",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/113_Nightmare Shuffle.jpg"
+			}
+		},
+		{
+			"name": "Cthonian Soldier",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Nightmare Soldier",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/84_Cthonian Soldier.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Dread Servant",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Hero Villain Knight",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/99_Destiny Hero Dread Servant.jpg"
+			}
+		},
+		{
+			"name": "Shrink",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/119_Shrink.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Denial",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/118_Ruthless Denial.jpg"
+			}
+		},
+		{
+			"name": "Return Soul",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/117_Return Soul.jpg"
+			}
+		},
+		{
+			"name": "Darkworld Vanguard",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare Spirit Soldier",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/96_Darkworld Vanguard.jpg"
+			}
+		},
+		{
+			"name": "Darkworld Gateman",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nightmare Spirit Soldier",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/95_Darkworld Gateman.jpg"
+			}
+		},
+		{
+			"name": "Simorgh of Darkness",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nightmare Spirit Bird",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/120_Simorgh of Darkness.jpg"
+			}
+		},
+		{
+			"name": "Gift of the Martyr",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/106_Gift of the Martyr.jpg"
+			}
+		},
+		{
+			"name": "Chthonian Polymer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Enchantment — Nightmare Aura",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/83_Chthonian Polymer.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Burstinatrix",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Hero Sorcerer",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/140_Elemental Hero Burstinatrix.jpg"
+			}
+		},
+		{
+			"name": "Get Your Game On!",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/145_Get Your Game On!.jpg"
+			}
+		},
+		{
+			"name": "Oxygeddon",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Dinosaur",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/150_Oxygeddon.jpg"
+			}
+		},
+		{
+			"name": "Ojama Red",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/149_Ojama Red.jpg"
+			}
+		},
+		{
+			"name": "Cyber Laser Dragon",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/130_Cyber Laser Dragon.jpg"
+			}
+		},
+		{
+			"name": "Requited Acceptance",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/153_Requited Acceptance.jpg"
+			}
+		},
+		{
+			"name": "Cycroid",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/131_Cycroid.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Lady Heat",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Hero",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/141_Elemental Hero Lady Heat.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Dasher",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hero Villain Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/133_Destiny Hero Dasher.jpg"
+			}
+		},
+		{
+			"name": "Element Saurus",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dinosaur Elemental",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/138_Element Saurus.jpg"
+			}
+		},
+		{
+			"name": "Hyper Hammerhead",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/148_Hyper Hammerhead.jpg"
+			}
+		},
+		{
+			"name": "Dino Blast",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Kindred Instant — Dinosaur",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/135_Dino Blast.jpg"
+			}
+		},
+		{
+			"name": "Tyrannic Tail Swipe",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Kindred Instant — Dinosaur",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/159_Tyrannic Tail Swipe.jpg"
+			}
+		},
+		{
+			"name": "Gilasaurus",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/146_Gilasaurus.jpg"
+			}
+		},
+		{
+			"name": "Dragonroid",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Toy Dragon",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/136_Dragonroid.jpg"
+			}
+		},
+		{
+			"name": "Patroid",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/151_Patroid.jpg"
+			}
+		},
+		{
+			"name": "Hero Signal",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Instant — Hero",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/147_Hero Signal.jpg"
+			}
+		},
+		{
+			"name": "Supercharge",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/156_Supercharge.jpg"
+			}
+		},
+		{
+			"name": "H — Heated Heart",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Enchantment — Hero Aura",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/184_H — Heated Heart.jpg"
+			}
+		},
+		{
+			"name": "R — Righteous Justice",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Sorcery — Hero",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/192_R — Righteous Justice.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Clayman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Elemental Golem Hero",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/176_Elemental Hero Clayman.jpg"
+			}
+		},
+		{
+			"name": "Ojama Green",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/189_Ojama Green.jpg"
+			}
+		},
+		{
+			"name": "Winged Kuribo",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie Spirit",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/199_Winged Kuribo.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Wildheart",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Human Hero Warrior",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/177_Elemental Hero Wildheart.jpg"
+			}
+		},
+		{
+			"name": "Rainbow Refraction",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Sorcery — Beast",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/193_Rainbow Refraction.jpg"
+			}
+		},
+		{
+			"name": "Saurobeast Brachion",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur Beast",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/194_Saurobeast Brachion.jpg"
+			}
+		},
+		{
+			"name": "Crystal Blessing",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Kindred Instant — Beast",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/170_Crystal Blessing.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Ruby Carbuncle",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Gem Beast Cat",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/168_Crystal Beast Ruby Carbuncle.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Amber Mammoth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Gem Beast Elephant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/166_Crystal Beast Amber Mammoth.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Topaz Tiger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Gem Beast Cat",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/169_Crystal Beast Topaz Tiger.jpg"
+			}
+		},
+		{
+			"name": "Archeonys",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/164_Archeonys.jpg"
+			}
+		},
+		{
+			"name": "Babycerasaurus",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/165_Babycerasaurus.jpg"
+			}
+		},
+		{
+			"name": "Dark Tyranno",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/174_Dark Tyranno.jpg"
+			}
+		},
+		{
+			"name": "Ojamachine Yellow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact Creature — Spirit Construct",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/190_Ojamachine Yellow.jpg"
+			}
+		},
+		{
+			"name": "Spirit of the Breeze",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/195_Spirit of the Breeze.jpg"
+			}
+		},
+		{
+			"name": "V-Tiger Jet",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Beast Construct",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/198_V-Tiger Jet.jpg"
+			}
+		},
+		{
+			"name": "Crystal Release",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Kindred Enchantment — Beast Aura",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/171_Crystal Release.jpg"
+			}
+		},
+		{
+			"name": "O — Oversoul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Kindred Sorcery — Hero",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/29_O — Oversoul.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Throne",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Kindred Enchantment — Nightmare",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/28_Nightmare Throne.jpg"
+			}
+		},
+		{
+			"name": "Ojama Pink",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/31_Ojama Pink.jpg"
+			}
+		},
+		{
+			"name": "Emperor's Staff",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Faerie",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/12_Emperor's Staff.jpg"
+			}
+		},
+		{
+			"name": "Sun of Arcana",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Faerie Construct",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/37_Sun of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Ambulanceroid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/5_Ambulanceroid.jpg"
+			}
+		},
+		{
+			"name": "Mixeroid",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/26_Mixeroid.jpg"
+			}
+		},
+		{
+			"name": "Vehicroid Connection Zone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Kindred Enchantment — Toy",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/41_Vehicroid Connection Zone.jpg"
+			}
+		},
+		{
+			"name": "Mirage Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dragon Illusion",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/25_Mirage Dragon.jpg"
+			}
+		},
+		{
+			"name": "Dark World Punishment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/6_Dark World Punishment.jpg"
+			}
+		},
+		{
+			"name": "Spirit Barrier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Kindred Enchantment — Spirit Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/36_Spirit Barrier.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Bubbleman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Hero Artificer",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/68_Elemental Hero Bubbleman.jpg"
+			}
+		},
+		{
+			"name": "Ojama Blue",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/80_Ojama Blue.jpg"
+			}
+		},
+		{
+			"name": "Mokey Mokey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/78_Mokey Mokey.jpg"
+			}
+		},
+		{
+			"name": "Insurance",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/75_Insurance.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Absolute Zero",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Hero",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/67_Elemental Hero Absolute Zero.jpg"
+			}
+		},
+		{
+			"name": "Code Change",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/51_Code Change.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Cobalt Eagle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Gem Beast Bird",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/54_Crystal Beast Cobalt Eagle.jpg"
+			}
+		},
+		{
+			"name": "Hierophant of Arcana",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Cleric",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/72_Hierophant of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Card of Reversal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/49_Card of Reversal.jpg"
+			}
+		},
+		{
+			"name": "Advanced Crystal Beast Cobalt Eagle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Gem Beast Bird",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/44_Advanced Crystal Beast Cobalt Eagle.jpg"
+			}
+		},
+		{
+			"name": "King Mokey Mokey",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Faerie Noble",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/76_King Mokey Mokey.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Pain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Enchantment — Nightmare",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/112_Nightmare Pain.jpg"
+			}
+		},
+		{
+			"name": "Evil Hero Dark Gaia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Villain Warrior",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/104_Evil Hero Dark Gaia.jpg"
+			}
+		},
+		{
+			"name": "Cyber Ouroboros",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/87_Cyber Ouroboros.jpg"
+			}
+		},
+		{
+			"name": "Power Wall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/116_Power Wall.jpg"
+			}
+		},
+		{
+			"name": "Darkworld Warlord",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nightmare Spirit Soldier",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/97_Darkworld Warlord.jpg"
+			}
+		},
+		{
+			"name": "Darkworld Exarch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Nightmare Spirit Cleric",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/94_Darkworld Exarch.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Dynatag",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Hero Villain",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/100_Destiny Hero Dynatag.jpg"
+			}
+		},
+		{
+			"name": "Hunter of Black Feathers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nightmare Spirit Harpy",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/108_Hunter of Black Feathers.jpg"
+			}
+		},
+		{
+			"name": "Umbral Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nightmare Spirit Lizard",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/121_Umbral Soul.jpg"
+			}
+		},
+		{
+			"name": "KA-2 Des Scissors",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Nightmare Crab",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/109_KA-2 Des Scissors.jpg"
+			}
+		},
+		{
+			"name": "Cyber Eternity Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/86_Cyber Eternity Dragon.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Blazeman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Hero",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/139_Elemental Hero Blazeman.jpg"
+			}
+		},
+		{
+			"name": "Carboneddon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Elemental Dinosaur",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/123_Carboneddon.jpg"
+			}
+		},
+		{
+			"name": "Cyber Dragon Zwei",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/128_Cyber Dragon Zwei.jpg"
+			}
+		},
+		{
+			"name": "Drillroid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/137_Drillroid.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Nova Master",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Hero Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/142_Elemental Hero Nova Master.jpg"
+			}
+		},
+		{
+			"name": "Expressroid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/144_Expressroid.jpg"
+			}
+		},
+		{
+			"name": "Chthonian Alliance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/125_Chthonian Alliance.jpg"
+			}
+		},
+		{
+			"name": "Destroyersaurus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/134_Destroyersaurus.jpg"
+			}
+		},
+		{
+			"name": "Thrashing Stego",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/157_Thrashing Stego.jpg"
+			}
+		},
+		{
+			"name": "Emergeroid Call",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Toy",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/143_Emergeroid Call.jpg"
+			}
+		},
+		{
+			"name": "Thunder Crash",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/158_Thunder Crash.jpg"
+			}
+		},
+		{
+			"name": "E — Emergency Call",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Kindred Sorcery — Hero",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/175_E — Emergency Call.jpg"
+			}
+		},
+		{
+			"name": "Kaibaman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/186_Kaibaman.jpg"
+			}
+		},
+		{
+			"name": "Ojamatch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Sorcery — Spirit",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/191_Ojamatch.jpg"
+			}
+		},
+		{
+			"name": "Air Hummingbird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Alien Hero",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/163_Air Hummingbird.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Woodsman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Plant Hero",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/178_Elemental Hero Woodsman.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beast Amethyst Cat",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Gem Beast Cat",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/167_Crystal Beast Amethyst Cat.jpg"
+			}
+		},
+		{
+			"name": "Dark Driceratops",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/173_Dark Driceratops.jpg"
+			}
+		},
+		{
+			"name": "Advanced Crystal Beast Topaz Tiger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Gem Beast Cat",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/162_Advanced Crystal Beast Topaz Tiger.jpg"
+			}
+		},
+		{
+			"name": "Cyclone Wing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/172_Cyclone Wing.jpg"
+			}
+		},
+		{
+			"name": "Unhappy Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Sprit Wizard",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/197_Unhappy Maiden.jpg"
+			}
+		},
+		{
+			"name": "Mirror Gate",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/188_Mirror Gate.jpg"
+			}
+		},
+		{
+			"name": "Mature Chronicle",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/24_Mature Chronicle.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Shining",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Hero",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/9_Elemental Hero Shining.jpg"
+			}
+		},
+		{
+			"name": "Emperor of Arcana",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Faerie Noble",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/11_Emperor of Arcana.jpg"
+			}
+		},
+		{
+			"name": "World of Arcana",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/43_World of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Hanged of Arcana",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/19_Hanged of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Super Vehicroid Stealth Union",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/38_Super Vehicroid Stealth Union.jpg"
+			}
+		},
+		{
+			"name": "Lightning Vortex",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/22_Lightning Vortex.jpg"
+			}
+		},
+		{
+			"name": "Copycat",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/52_Copycat.jpg"
+			}
+		},
+		{
+			"name": "Cursed Seal of the Forbidden Spell",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/57_Cursed Seal of the Forbidden Spell.jpg"
+			}
+		},
+		{
+			"name": "DNA Surgery",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/63_DNA Surgery.jpg"
+			}
+		},
+		{
+			"name": "Moon of Arcana",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Faerie Construct",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/79_Moon of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Denier",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Hero Villain",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/60_Destiny Hero Denier.jpg"
+			}
+		},
+		{
+			"name": "Advanced Crystal Beast Sapphire Pegasus",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Gem Beast Pegasus",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/46_Advanced Crystal Beast Sapphire Pegasus.jpg"
+			}
+		},
+		{
+			"name": "Drowning Mirror Force",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/65_Drowning Mirror Force.jpg"
+			}
+		},
+		{
+			"name": "Cyberdark Dragon",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Artifact Creature — Dragon Serpent Hydra Construct",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/89_Cyberdark Dragon.jpg"
+			}
+		},
+		{
+			"name": "Dark Armed Dragon",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/91_Dark Armed Dragon.jpg"
+			}
+		},
+		{
+			"name": "Cyber Valley",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Zombie Dragon Serpent Construct",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/88_Cyber Valley.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Plasma",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Hero Villain",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/101_Destiny Hero Plasma.jpg"
+			}
+		},
+		{
+			"name": "Mad King of Darkworld",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Nightmare Spirit Noble",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/110_Mad King of Darkworld.jpg"
+			}
+		},
+		{
+			"name": "Darkworld Dragon Lord",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Nightmare Spirit Dragon",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/93_Darkworld Dragon Lord.jpg"
+			}
+		},
+		{
+			"name": "Darkness Destroyer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Nightmare Spirit Dragon",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/92_Darkness Destroyer.jpg"
+			}
+		},
+		{
+			"name": "Cyber End Dragon",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Artifact Creature — Dragon Serpent Hydra Construct",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/129_Cyber End Dragon.jpg"
+			}
+		},
+		{
+			"name": "Super Conductor Tyranno",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/155_Super Conductor Tyranno.jpg"
+			}
+		},
+		{
+			"name": "Stealthroid",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Toy Construct",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/154_Stealthroid.jpg"
+			}
+		},
+		{
+			"name": "Armed Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/122_Armed Dragon.jpg"
+			}
+		},
+		{
+			"name": "Wonder Garage",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/160_Wonder Garage.jpg"
+			}
+		},
+		{
+			"name": "Demise of the Land",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/132_Demise of the Land.jpg"
+			}
+		},
+		{
+			"name": "Cyber Angel Natasha",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/126_Cyber Angel Natasha.jpg"
+			}
+		},
+		{
+			"name": "Ultimate Tyranno",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/196_Ultimate Tyranno.jpg"
+			}
+		},
+		{
+			"name": "Mecha Ojama King",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact Creature — Spirit Construct",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/187_Mecha Ojama King.jpg"
+			}
+		},
+		{
+			"name": "Advanced Crystal Beast Ruby Carbuncle",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Gem Beast Cat",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/161_Advanced Crystal Beast Ruby Carbuncle.jpg"
+			}
+		},
+		{
+			"name": "Gladiator Beast Alexander",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Beast Warrior Cat",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/182_Gladiator Beast Alexander.jpg"
+			}
+		},
+		{
+			"name": "Hero's Guard",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Kindred Instant — Hero",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/185_Hero's Guard.jpg"
+			}
+		},
+		{
+			"name": "Flute of Summoning Kuriboh",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/181_Flute of Summoning Kuriboh.jpg"
+			}
+		},
+		{
+			"name": "Elemental Recharge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/179_Elemental Recharge.jpg"
+			}
+		},
+		{
+			"name": "Fulfillment of the Contract",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/17_Fulfillment of the Contract.jpg"
+			}
+		},
+		{
+			"name": "Neos Force",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/27_Neos Force.jpg"
+			}
+		},
+		{
+			"name": "Drain Time",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/64_Drain Time.jpg"
+			}
+		},
+		{
+			"name": "Cyber Angel Vrash",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/59_Cyber Angel Vrash.jpg"
+			}
+		},
+		{
+			"name": "Enchanting Fitting Room",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/103_Enchanting Fitting Room.jpg"
+			}
+		},
+		{
+			"name": "Nightshroud, Darkness Incarnate",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Nightmare Spirit Incarnation",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/114_Nightshroud, Darkness Incarnate.jpg"
+			}
+		},
+		{
+			"name": "Power Bond",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/152_Power Bond.jpg"
+			}
+		},
+		{
+			"name": "EN — Engage Neo Space",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/180_EN — Engage Neo Space.jpg"
+			}
+		},
+		{
+			"name": "Gladiator Beast Heraklinos",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast Warrior Cat",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/183_Gladiator Beast Heraklinos.jpg"
+			}
+		},
+		{
+			"name": "Cup of Ace",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/206_Cup of Ace.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Decider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Hero Villain Warrior",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/210_Destiny Hero Decider.jpg"
+			}
+		},
+		{
+			"name": "Cyber Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/208_Cyber Dragon.jpg"
+			}
+		},
+		{
+			"name": "Dyna Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Artifact Creature — Dinosaur Construct",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/212_Dyna Tank.jpg"
+			}
+		},
+		{
+			"name": "Fifth Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Kindred Sorcery — Hero",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/216_Fifth Hope.jpg"
+			}
+		},
+		{
+			"name": "Jaden Yuki, The Supreme King",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/221_Jaden Yuki, The Supreme King.jpg"
+			}
+		},
+		{
+			"name": "Water Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Creature — Serpent Dragon",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/234_Water Dragon.jpg"
+			}
+		},
+		{
+			"name": "Giant Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Beast Rat",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/217_Giant Rat.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Sparkman",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Hero Warrior",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/215_Elemental Hero Sparkman.jpg"
+			}
+		},
+		{
+			"name": "Rainbow Dark Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}{U}{U}",
+			"type": "Artifact Creature — Gem Dragon Beast",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/227_Rainbow Dark Dragon.jpg"
+			}
+		},
+		{
+			"name": "Sartorius Kumar, Light of Arcana",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Cleric Villain",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/230_Sartorius Kumar, Light of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Destiny Hero Dreadmaster",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Human Hero Villain Warrior",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/211_Destiny Hero Dreadmaster.jpg"
+			}
+		},
+		{
+			"name": "Cyberdark Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/209_Cyberdark Dragon.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Flame Wingman",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Elemental Hero Warrior",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/213_Elemental Hero Flame Wingman.jpg"
+			}
+		},
+		{
+			"name": "Elemental Hero Neos",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Elemental Hero",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/214_Elemental Hero Neos.jpg"
+			}
+		},
+		{
+			"name": "Phatom of Yubel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Nightmare Spirit Illusion",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/226_Phatom of Yubel.jpg"
+			}
+		},
+		{
+			"name": "Cyber Angel Izana",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Artifact Creature — Angel Construct Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/207_Cyber Angel Izana.jpg"
+			}
+		},
+		{
+			"name": "Ojama Knight",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/225_Ojama Knight.jpg"
+			}
+		},
+		{
+			"name": "Mask Change",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Kindred Instant — Hero",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/223_Mask Change.jpg"
+			}
+		},
+		{
+			"name": "Rainbow Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{U}{U}",
+			"type": "Artifact Creature — Gem Dragon Beast",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/228_Rainbow Dragon.jpg"
+			}
+		},
+		{
+			"name": "Duel Vest",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/240_Duel Vest.jpg"
+			}
+		},
+		{
+			"name": "Pot of Benevolence",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/244_Pot of Benevolence.jpg"
+			}
+		},
+		{
+			"name": "Crystal Beacon",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Gem",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/237_Crystal Beacon.jpg"
+			}
+		},
+		{
+			"name": "Dragon Heart",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/239_Dragon Heart.jpg"
+			}
+		},
+		{
+			"name": "Swing of Memories",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/247_Swing of Memories.jpg"
+			}
+		},
+		{
+			"name": "Pot of Riches",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/245_Pot of Riches.jpg"
+			}
+		},
+		{
+			"name": "Rainbow Bridge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/246_Rainbow Bridge.jpg"
+			}
+		},
+		{
+			"name": "Photon Generator Unit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/243_Photon Generator Unit.jpg"
+			}
+		},
+		{
+			"name": "Cyber Angel Dakini",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/238_Cyber Angel Dakini.jpg"
+			}
+		},
+		{
+			"name": "Hero Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/242_Hero Shield.jpg"
+			}
+		},
+		{
+			"name": "Duel Arena",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/255_Duel Arena.jpg"
+			}
+		},
+		{
+			"name": "Ojama Country",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/260_Ojama Country.jpg"
+			}
+		},
+		{
+			"name": "Cybernetic Fusion Reactor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/251_Cybernetic Fusion Reactor.jpg"
+			}
+		},
+		{
+			"name": "Arcana Barrier",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/248_Arcana Barrier.jpg"
+			}
+		},
+		{
+			"name": "Heroic Skyscraper",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/256_Heroic Skyscraper.jpg"
+			}
+		},
+		{
+			"name": "Jurassic World",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/257_Jurassic World.jpg"
+			}
+		},
+		{
+			"name": "Fusion Gate",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/241_Fusion Gate.jpg"
+			}
+		},
+		{
+			"name": "Ojama King",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Creature — Spirit Noble",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/1_Ojama King.jpg"
+			}
+		},
+		{
+			"name": "Ojama Solidarity",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Kindred Sorcery — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/2_Ojama Solidarity.jpg"
+			}
+		},
+		{
+			"name": "Alexis Rhodes, Queen of Obelisk Blue",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/200_Alexis Rhodes, Queen of Obelisk Blue.jpg"
+			}
+		},
+		{
+			"name": "Claudius, Gladiator Beast",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Beast Warrior Cat",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/205_Claudius, Gladiator Beast.jpg"
+			}
+		},
+		{
+			"name": "Super Polymerization",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/4_Super Polymerization.jpg"
+			}
+		},
+		{
+			"name": "The Ojama Emperor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/224_The Ojama Emperor.jpg"
+			}
+		},
+		{
+			"name": "Uria, Lord of Searing Flames",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{B}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/233_Uria, Lord of Searing Flames.jpg"
+			}
+		},
+		{
+			"name": "Raviel, Lord of Striking Thunder",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{G}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/229_Raviel, Lord of Striking Thunder.jpg"
+			}
+		},
+		{
+			"name": "Hamon, Lord of Phantasms",
+			"rarity": "mythic",
+			"mana_cost": "{10}{W}{B}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/218_Hamon, Lord of Phantasms.jpg"
+			}
+		},
+		{
+			"name": "Polymerization",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/3_Polymerization.jpg"
+			}
+		},
+		{
+			"name": "Jesse Anderson, Crystal Keeper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/222_Jesse Anderson, Crystal Keeper.jpg"
+			}
+		},
+		{
+			"name": "Chazz Princeton, Black Thunder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/204_Chazz Princeton, Black Thunder.jpg"
+			}
+		},
+		{
+			"name": "Aster Phoenix, Professional Duelist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/201_Aster Phoenix, Professional Duelist.jpg"
+			}
+		},
+		{
+			"name": "Syrus Truesdale, Cyber Successor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/231_Syrus Truesdale, Cyber Successor.jpg"
+			}
+		},
+		{
+			"name": "Bastion Misawa, Dueling Mastermind",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/202_Bastion Misawa, Dueling Mastermind.jpg"
+			}
+		},
+		{
+			"name": "Zane Truesdale, Hell Kaiser",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/236_Zane Truesdale, Hell Kaiser.jpg"
+			}
+		},
+		{
+			"name": "Jaden Yuki, Hopeful Initiate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/220_Jaden Yuki, Hopeful Initiate.jpg"
+			}
+		},
+		{
+			"name": "Tyranno Hassleberry, Saurian Sargeant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/232_Tyranno Hassleberry, Saurian Sargeant.jpg"
+			}
+		},
+		{
+			"name": "Yubel, Phantom Nightmare",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Nightmare Spirit",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/235_Yubel, Phantom Nightmare.jpg"
+			}
+		},
+		{
+			"name": "Chaos Ruler of Arcana",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Creature — Faerie Noble",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/203_Chaos Ruler of Arcana.jpg"
+			}
+		},
+		{
+			"name": "Jaden and Yubel, Suffering Intertwined",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Legendary Creature — Human Spirit Hero",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/219_Jaden and Yubel, Suffering Intertwined.jpg"
+			}
+		},
+		{
+			"name": "Cyber Dragon Core",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Dragon Serpent Construct",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/127_Cyber Dragon Core.jpg"
+			}
+		},
+		{
+			"name": "Darkworld Door",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/253_Darkworld Door.jpg"
+			}
+		},
+		{
+			"name": "Rainbow Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/262_Rainbow Ruins.jpg"
+			}
+		},
+		{
+			"name": "Clock Tower Prison",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/250_Clock Tower Prison.jpg"
+			}
+		},
+		{
+			"name": "Megaroid City",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/258_Megaroid City.jpg"
+			}
+		},
+		{
+			"name": "Chemical Lab",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/249_Chemical Lab.jpg"
+			}
+		},
+		{
+			"name": "Chicken Game",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/124_Chicken Game.jpg"
+			}
+		},
+		{
+			"name": "Duel Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/3t_Duel Spirit.jpg"
+			}
+		},
+		{
+			"name": "Hero",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hero",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/2t_Hero.jpg"
+			}
+		},
+		{
+			"name": "Toy Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Toy Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/5t_Toy Construct.jpg"
+			}
+		},
+		{
+			"name": "Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/4t_Faerie.jpg"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/6t_Dinosaur.jpg"
+			}
+		},
+		{
+			"name": "Cyber Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nightmare Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/8t_Cyber Soldier.jpg"
+			}
+		},
+		{
+			"name": "Duel Academy",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/254_Duel Academy.jpg"
+			}
+		},
+		{
+			"name": "Fusion Substitute",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/1t_Fusion Substitute.jpg"
+			}
+		},
+		{
+			"name": "Ra Yellow Dorm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/261_Ra Yellow Dorm.jpg"
+			}
+		},
+		{
+			"name": "Obelisk Blue Dorm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/259_Obelisk Blue Dorm.jpg"
+			}
+		},
+		{
+			"name": "Slifer Red Dorm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/263_Slifer Red Dorm.jpg"
+			}
+		},
+		{
+			"name": "Dark World",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/252_Dark World.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/9t_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Beast Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/YGX-files/img/7t_Beast Warrior.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Ojama Pink
+	2 Sun of Arcana
+	2 Mirror Gate
+	2 Mature Chronicle
+	2 Elemental Hero Shining
+	2 World of Arcana
+	2 Super Vehicroid Stealth Union
+	2 Lightning Vortex
+	2 Copycat
+	2 Cursed Seal of the Forbidden Spell
+	2 DNA Surgery
+	2 Moon of Arcana
+	2 Destiny Hero Denier
+	2 Advanced Crystal Beast Sapphire Pegasus
+	2 Drowning Mirror Force
+	2 Cyberdark Dragon
+	2 Dark Armed Dragon
+	2 Cyber Valley
+	2 Destiny Hero Plasma
+	2 Mad King of Darkworld
+	2 Darkworld Dragon Lord
+	2 Darkness Destroyer
+	2 Cyber End Dragon
+	2 Super Conductor Tyranno
+	2 Stealthroid
+	2 Armed Dragon
+	2 Wonder Garage
+	2 Demise of the Land
+	2 Cyber Angel Natasha
+	2 Ultimate Tyranno
+	2 Mecha Ojama King
+	2 Advanced Crystal Beast Ruby Carbuncle
+	2 Gladiator Beast Alexander
+	2 Hero's Guard
+	2 Flute of Summoning Kuriboh
+	1 Fulfillment of the Contract
+	1 Neos Force
+	1 Drain Time
+	1 Cyber Angel Vrash
+	1 Enchanting Fitting Room
+	1 Nightshroud, Darkness Incarnate
+	1 Power Bond
+	1 EN — Engage Neo Space
+	1 Gladiator Beast Heraklinos
+	1 Sartorius Kumar, Light of Arcana
+	2 Destiny Hero Dreadmaster
+	2 Cyberdark Dragon
+	2 Elemental Hero Flame Wingman
+	2 Elemental Hero Neos
+	2 Phatom of Yubel
+	2 Cyber Angel Izana
+	2 Ojama Knight
+	2 Mask Change
+	2 Rainbow Dragon
+	2 Fusion Gate
+	2 Ojama King
+	2 Ojama Solidarity
+	1 Alexis Rhodes, Queen of Obelisk Blue
+	1 Claudius, Gladiator Beast
+	1 Super Polymerization
+	1 The Ojama Emperor
+	1 Uria, Lord of Searing Flames
+	1 Raviel, Lord of Striking Thunder
+	1 Hamon, Lord of Phantasms
+	2 Polymerization
+	1 Jesse Anderson, Crystal Keeper
+	1 Chazz Princeton, Black Thunder
+	1 Aster Phoenix, Professional Duelist
+	1 Syrus Truesdale, Cyber Successor
+	1 Bastion Misawa, Dueling Mastermind
+	1 Zane Truesdale, Hell Kaiser
+	1 Jaden Yuki, Hopeful Initiate
+	1 Tyranno Hassleberry, Saurian Sargeant
+	1 Yubel, Phantom Nightmare
+	2 Chaos Ruler of Arcana
+	1 Jaden and Yubel, Suffering Intertwined
+	1 Chicken Game
+	1 Duel Academy
+	2 Ra Yellow Dorm
+	2 Obelisk Blue Dorm
+	2 Slifer Red Dorm
+[uncommon(3)]
+	4 Duoterion
+	4 Crystal Beast Topaz Tiger
+	4 O — Oversoul
+	4 Nightmare Throne
+	4 Emperor's Staff
+	4 Ambulanceroid
+	4 Mixeroid
+	4 Vehicroid Connection Zone
+	4 Mirage Dragon
+	4 Dark World Punishment
+	4 Spirit Barrier
+	4 Elemental Hero Bubbleman
+	4 Mokey Mokey
+	4 Insurance
+	4 Elemental Hero Absolute Zero
+	4 Code Change
+	4 Crystal Beast Cobalt Eagle
+	4 Hierophant of Arcana
+	4 Card of Reversal
+	4 Advanced Crystal Beast Cobalt Eagle
+	4 King Mokey Mokey
+	4 Nightmare Pain
+	4 Evil Hero Dark Gaia
+	4 Cyber Ouroboros
+	4 Power Wall
+	4 Darkworld Warlord
+	4 Darkworld Exarch
+	4 Destiny Hero Dynatag
+	4 Hunter of Black Feathers
+	4 Umbral Soul
+	4 KA-2 Des Scissors
+	4 Cyber Eternity Dragon
+	4 Elemental Hero Blazeman
+	4 Carboneddon
+	4 Cyber Dragon Zwei
+	4 Drillroid
+	4 Elemental Hero Nova Master
+	4 Expressroid
+	4 Chthonian Alliance
+	4 Destroyersaurus
+	4 Thrashing Stego
+	4 Emergeroid Call
+	4 Thunder Crash
+	4 E — Emergency Call
+	4 Kaibaman
+	4 Ojamatch
+	4 Air Hummingbird
+	4 Elemental Hero Woodsman
+	4 Dark Driceratops
+	4 Advanced Crystal Beast Topaz Tiger
+	4 Cyclone Wing
+	4 Unhappy Maiden
+	4 Emperor of Arcana
+	4 Hanged of Arcana
+	4 Elemental Recharge
+	4 Cup of Ace
+	4 Destiny Hero Decider
+	4 Cyber Dragon
+	4 Dyna Tank
+	4 Fifth Hope
+	4 Jaden Yuki, The Supreme King
+	4 Water Dragon
+	4 Giant Rat
+	4 Elemental Hero Sparkman
+	4 Rainbow Dark Dragon
+	4 Pot of Riches
+	4 Rainbow Bridge
+	4 Photon Generator Unit
+	4 Cyber Angel Dakini
+	4 Hero Shield
+	4 Ojama Country
+	4 Cybernetic Fusion Reactor
+	4 Arcana Barrier
+	4 Heroic Skyscraper
+	4 Jurassic World
+	4 Darkworld Door
+	4 Rainbow Ruins
+	4 Clock Tower Prison
+	4 Megaroid City
+	4 Chemical Lab
+[common(6)]
+	8 Elemental Hero Avian
+	8 Elemental Hero Solid Soldier
+	8 Ojama Yellow
+	8 Jetroid
+	8 Eternal Favorite
+	8 Samsara Lotus
+	8 Ojama Delta Hurricane
+	8 Soul Release
+	8 Destiny Hero Defender
+	8 UFOroid
+	8 Fool of Arcana
+	8 Terrifying Trap Hole Nightmare
+	8 Rescueroid
+	8 Magnet Force
+	8 W-Wing Catapult
+	8 Empress of Arcana
+	8 Generation Next
+	8 Light Force
+	8 Forces of Darkness
+	8 Hydrogeddon
+	8 Hyozanryu
+	8 Destiny Hero Diamond Dude
+	8 Crystal Beast Emerald Tortoise
+	8 Emergency Evasion
+	8 Ojama Pajama
+	8 Crystal Beast Sapphire Pegasus
+	8 Magician of Arcana
+	8 Arcana Spread
+	8 Chariot of Arcana
+	8 Tin Goldfish
+	8 Destiny Hero Dreamer
+	8 Advanced Crystal Beast Emerald Tortoise
+	8 Gladiator Beast Torax
+	8 Counter Gem
+	8 Gladiator Beast Vespasius
+	8 Angel Wing
+	8 Cyber Angel Benten
+	8 Elemental Hero Necroshade
+	8 Ojama Black
+	8 Geistgrinder Golem
+	8 Destiny Hero Captain Tenacious
+	8 Cyber Barrier Dragon
+	8 Cybernetic Overflow
+	8 Gruesome Grave Squirmer
+	8 Nightmare Horse
+	8 Nightmare Shuffle
+	8 Cthonian Soldier
+	8 Destiny Hero Dread Servant
+	8 Shrink
+	8 Ruthless Denial
+	8 Return Soul
+	8 Darkworld Vanguard
+	8 Darkworld Gateman
+	8 Simorgh of Darkness
+	8 Gift of the Martyr
+	8 Chthonian Polymer
+	8 Elemental Hero Burstinatrix
+	8 Get Your Game On!
+	8 Oxygeddon
+	8 Ojama Red
+	8 Cyber Laser Dragon
+	8 Requited Acceptance
+	8 Cycroid
+	8 Elemental Hero Lady Heat
+	8 Destiny Hero Dasher
+	8 Element Saurus
+	8 Hyper Hammerhead
+	8 Dino Blast
+	8 Tyrannic Tail Swipe
+	8 Gilasaurus
+	8 Dragonroid
+	8 Patroid
+	8 Hero Signal
+	8 Supercharge
+	8 H — Heated Heart
+	8 R — Righteous Justice
+	8 Elemental Hero Clayman
+	8 Ojama Green
+	8 Winged Kuribo
+	8 Elemental Hero Wildheart
+	8 Rainbow Refraction
+	8 Saurobeast Brachion
+	8 Crystal Blessing
+	8 Crystal Beast Ruby Carbuncle
+	8 Crystal Beast Amber Mammoth
+	8 Archeonys
+	8 Babycerasaurus
+	8 Dark Tyranno
+	8 Ojamachine Yellow
+	8 Spirit of the Breeze
+	8 V-Tiger Jet
+	8 Crystal Release
+	8 Ojama Blue
+	8 Crystal Beast Amethyst Cat
+	8 Duel Vest
+	8 Pot of Benevolence
+	8 Crystal Beacon
+	8 Dragon Heart
+	8 Swing of Memories
+	8 Duel Arena
+	8 Cyber Dragon Core
+	8 Dark World
+[common | masterpiece(1)]
+	8 Elemental Hero Avian
+	8 Elemental Hero Solid Soldier
+	8 Ojama Yellow
+	8 Jetroid
+	8 Eternal Favorite
+	8 Samsara Lotus
+	8 Ojama Delta Hurricane
+	8 Soul Release
+	8 Destiny Hero Defender
+	8 UFOroid
+	8 Fool of Arcana
+	8 Terrifying Trap Hole Nightmare
+	8 Rescueroid
+	8 Magnet Force
+	8 W-Wing Catapult
+	8 Empress of Arcana
+	8 Generation Next
+	8 Light Force
+	8 Forces of Darkness
+	8 Hydrogeddon
+	8 Hyozanryu
+	8 Destiny Hero Diamond Dude
+	8 Crystal Beast Emerald Tortoise
+	8 Emergency Evasion
+	8 Ojama Pajama
+	8 Crystal Beast Sapphire Pegasus
+	8 Magician of Arcana
+	8 Arcana Spread
+	8 Chariot of Arcana
+	8 Tin Goldfish
+	8 Destiny Hero Dreamer
+	8 Advanced Crystal Beast Emerald Tortoise
+	8 Gladiator Beast Torax
+	8 Counter Gem
+	8 Gladiator Beast Vespasius
+	8 Angel Wing
+	8 Cyber Angel Benten
+	8 Elemental Hero Necroshade
+	8 Ojama Black
+	8 Geistgrinder Golem
+	8 Destiny Hero Captain Tenacious
+	8 Cyber Barrier Dragon
+	8 Cybernetic Overflow
+	8 Gruesome Grave Squirmer
+	8 Nightmare Horse
+	8 Nightmare Shuffle
+	8 Cthonian Soldier
+	8 Destiny Hero Dread Servant
+	8 Shrink
+	8 Ruthless Denial
+	8 Return Soul
+	8 Darkworld Vanguard
+	8 Darkworld Gateman
+	8 Simorgh of Darkness
+	8 Gift of the Martyr
+	8 Chthonian Polymer
+	8 Elemental Hero Burstinatrix
+	8 Get Your Game On!
+	8 Oxygeddon
+	8 Ojama Red
+	8 Cyber Laser Dragon
+	8 Requited Acceptance
+	8 Cycroid
+	8 Elemental Hero Lady Heat
+	8 Destiny Hero Dasher
+	8 Element Saurus
+	8 Hyper Hammerhead
+	8 Dino Blast
+	8 Tyrannic Tail Swipe
+	8 Gilasaurus
+	8 Dragonroid
+	8 Patroid
+	8 Hero Signal
+	8 Supercharge
+	8 H — Heated Heart
+	8 R — Righteous Justice
+	8 Elemental Hero Clayman
+	8 Ojama Green
+	8 Winged Kuribo
+	8 Elemental Hero Wildheart
+	8 Rainbow Refraction
+	8 Saurobeast Brachion
+	8 Crystal Blessing
+	8 Crystal Beast Ruby Carbuncle
+	8 Crystal Beast Amber Mammoth
+	8 Archeonys
+	8 Babycerasaurus
+	8 Dark Tyranno
+	8 Ojamachine Yellow
+	8 Spirit of the Breeze
+	8 V-Tiger Jet
+	8 Crystal Release
+	8 Ojama Blue
+	8 Crystal Beast Amethyst Cat
+	8 Duel Vest
+	8 Pot of Benevolence
+	8 Crystal Beacon
+	8 Dragon Heart
+	8 Swing of Memories
+	8 Duel Arena
+	8 Cyber Dragon Core
+	8 Dark World
+[foil(1)]
+	12 Elemental Hero Avian
+	12 Elemental Hero Solid Soldier
+	12 Ojama Yellow
+	12 Jetroid
+	12 Eternal Favorite
+	12 Samsara Lotus
+	12 Ojama Delta Hurricane
+	12 Soul Release
+	12 Destiny Hero Defender
+	12 UFOroid
+	12 Fool of Arcana
+	12 Terrifying Trap Hole Nightmare
+	12 Rescueroid
+	12 Magnet Force
+	12 W-Wing Catapult
+	12 Empress of Arcana
+	12 Generation Next
+	12 Light Force
+	12 Forces of Darkness
+	12 Hydrogeddon
+	6 Duoterion
+	12 Hyozanryu
+	12 Destiny Hero Diamond Dude
+	12 Crystal Beast Emerald Tortoise
+	12 Emergency Evasion
+	12 Ojama Pajama
+	12 Crystal Beast Sapphire Pegasus
+	12 Magician of Arcana
+	12 Arcana Spread
+	12 Chariot of Arcana
+	12 Tin Goldfish
+	12 Destiny Hero Dreamer
+	12 Advanced Crystal Beast Emerald Tortoise
+	12 Gladiator Beast Torax
+	12 Counter Gem
+	12 Gladiator Beast Vespasius
+	12 Angel Wing
+	12 Cyber Angel Benten
+	12 Elemental Hero Necroshade
+	12 Ojama Black
+	12 Geistgrinder Golem
+	12 Destiny Hero Captain Tenacious
+	12 Cyber Barrier Dragon
+	12 Cybernetic Overflow
+	12 Gruesome Grave Squirmer
+	12 Nightmare Horse
+	12 Nightmare Shuffle
+	12 Cthonian Soldier
+	12 Destiny Hero Dread Servant
+	12 Shrink
+	12 Ruthless Denial
+	12 Return Soul
+	12 Darkworld Vanguard
+	12 Darkworld Gateman
+	12 Simorgh of Darkness
+	12 Gift of the Martyr
+	12 Chthonian Polymer
+	12 Elemental Hero Burstinatrix
+	12 Get Your Game On!
+	12 Oxygeddon
+	12 Ojama Red
+	12 Cyber Laser Dragon
+	12 Requited Acceptance
+	12 Cycroid
+	12 Elemental Hero Lady Heat
+	12 Destiny Hero Dasher
+	12 Element Saurus
+	12 Hyper Hammerhead
+	12 Dino Blast
+	12 Tyrannic Tail Swipe
+	12 Gilasaurus
+	12 Dragonroid
+	12 Patroid
+	12 Hero Signal
+	12 Supercharge
+	12 H — Heated Heart
+	12 R — Righteous Justice
+	12 Elemental Hero Clayman
+	12 Ojama Green
+	12 Winged Kuribo
+	12 Elemental Hero Wildheart
+	12 Rainbow Refraction
+	12 Saurobeast Brachion
+	12 Crystal Blessing
+	12 Crystal Beast Ruby Carbuncle
+	12 Crystal Beast Amber Mammoth
+	6 Crystal Beast Topaz Tiger
+	12 Archeonys
+	12 Babycerasaurus
+	12 Dark Tyranno
+	12 Ojamachine Yellow
+	12 Spirit of the Breeze
+	12 V-Tiger Jet
+	12 Crystal Release
+	6 O — Oversoul
+	6 Nightmare Throne
+	2 Ojama Pink
+	6 Emperor's Staff
+	2 Sun of Arcana
+	6 Ambulanceroid
+	6 Mixeroid
+	6 Vehicroid Connection Zone
+	6 Mirage Dragon
+	6 Dark World Punishment
+	6 Spirit Barrier
+	6 Elemental Hero Bubbleman
+	12 Ojama Blue
+	6 Mokey Mokey
+	6 Insurance
+	6 Elemental Hero Absolute Zero
+	6 Code Change
+	6 Crystal Beast Cobalt Eagle
+	6 Hierophant of Arcana
+	6 Card of Reversal
+	6 Advanced Crystal Beast Cobalt Eagle
+	6 King Mokey Mokey
+	6 Nightmare Pain
+	6 Evil Hero Dark Gaia
+	6 Cyber Ouroboros
+	6 Power Wall
+	6 Darkworld Warlord
+	6 Darkworld Exarch
+	6 Destiny Hero Dynatag
+	6 Hunter of Black Feathers
+	6 Umbral Soul
+	6 KA-2 Des Scissors
+	6 Cyber Eternity Dragon
+	6 Elemental Hero Blazeman
+	6 Carboneddon
+	6 Cyber Dragon Zwei
+	6 Drillroid
+	6 Elemental Hero Nova Master
+	6 Expressroid
+	6 Chthonian Alliance
+	6 Destroyersaurus
+	6 Thrashing Stego
+	6 Emergeroid Call
+	6 Thunder Crash
+	6 E — Emergency Call
+	6 Kaibaman
+	6 Ojamatch
+	6 Air Hummingbird
+	6 Elemental Hero Woodsman
+	12 Crystal Beast Amethyst Cat
+	6 Dark Driceratops
+	6 Advanced Crystal Beast Topaz Tiger
+	6 Cyclone Wing
+	6 Unhappy Maiden
+	2 Mirror Gate
+	2 Mature Chronicle
+	2 Elemental Hero Shining
+	6 Emperor of Arcana
+	2 World of Arcana
+	6 Hanged of Arcana
+	2 Super Vehicroid Stealth Union
+	2 Lightning Vortex
+	2 Copycat
+	2 Cursed Seal of the Forbidden Spell
+	2 DNA Surgery
+	2 Moon of Arcana
+	2 Destiny Hero Denier
+	2 Advanced Crystal Beast Sapphire Pegasus
+	2 Drowning Mirror Force
+	2 Cyberdark Dragon
+	2 Dark Armed Dragon
+	2 Cyber Valley
+	2 Destiny Hero Plasma
+	2 Mad King of Darkworld
+	2 Darkworld Dragon Lord
+	2 Darkness Destroyer
+	2 Cyber End Dragon
+	2 Super Conductor Tyranno
+	2 Stealthroid
+	2 Armed Dragon
+	2 Wonder Garage
+	2 Demise of the Land
+	2 Cyber Angel Natasha
+	2 Ultimate Tyranno
+	2 Mecha Ojama King
+	2 Advanced Crystal Beast Ruby Carbuncle
+	2 Gladiator Beast Alexander
+	2 Hero's Guard
+	2 Flute of Summoning Kuriboh
+	6 Elemental Recharge
+	1 Fulfillment of the Contract
+	1 Neos Force
+	1 Drain Time
+	1 Cyber Angel Vrash
+	1 Enchanting Fitting Room
+	1 Nightshroud, Darkness Incarnate
+	1 Power Bond
+	1 EN — Engage Neo Space
+	1 Gladiator Beast Heraklinos
+	6 Cup of Ace
+	6 Destiny Hero Decider
+	6 Cyber Dragon
+	6 Dyna Tank
+	6 Fifth Hope
+	6 Jaden Yuki, The Supreme King
+	6 Water Dragon
+	6 Giant Rat
+	6 Elemental Hero Sparkman
+	6 Rainbow Dark Dragon
+	1 Sartorius Kumar, Light of Arcana
+	2 Destiny Hero Dreadmaster
+	2 Cyberdark Dragon
+	2 Elemental Hero Flame Wingman
+	2 Elemental Hero Neos
+	2 Phatom of Yubel
+	2 Cyber Angel Izana
+	2 Ojama Knight
+	2 Mask Change
+	2 Rainbow Dragon
+	12 Duel Vest
+	12 Pot of Benevolence
+	12 Crystal Beacon
+	12 Dragon Heart
+	12 Swing of Memories
+	6 Pot of Riches
+	6 Rainbow Bridge
+	6 Photon Generator Unit
+	6 Cyber Angel Dakini
+	6 Hero Shield
+	12 Duel Arena
+	6 Ojama Country
+	6 Cybernetic Fusion Reactor
+	6 Arcana Barrier
+	6 Heroic Skyscraper
+	6 Jurassic World
+	2 Fusion Gate
+	2 Ojama King
+	2 Ojama Solidarity
+	1 Alexis Rhodes, Queen of Obelisk Blue
+	1 Claudius, Gladiator Beast
+	1 Super Polymerization
+	1 The Ojama Emperor
+	1 Uria, Lord of Searing Flames
+	1 Raviel, Lord of Striking Thunder
+	1 Hamon, Lord of Phantasms
+	2 Polymerization
+	1 Jesse Anderson, Crystal Keeper
+	1 Chazz Princeton, Black Thunder
+	1 Aster Phoenix, Professional Duelist
+	1 Syrus Truesdale, Cyber Successor
+	1 Bastion Misawa, Dueling Mastermind
+	1 Zane Truesdale, Hell Kaiser
+	1 Jaden Yuki, Hopeful Initiate
+	1 Tyranno Hassleberry, Saurian Sargeant
+	1 Yubel, Phantom Nightmare
+	2 Chaos Ruler of Arcana
+	1 Jaden and Yubel, Suffering Intertwined
+	12 Cyber Dragon Core
+	6 Darkworld Door
+	6 Rainbow Ruins
+	6 Clock Tower Prison
+	6 Megaroid City
+	6 Chemical Lab
+	1 Chicken Game
+	1 Duel Academy
+	2 Ra Yellow Dorm
+	2 Obelisk Blue Dorm
+	2 Slifer Red Dorm
+	12 Dark World
+[wildcard(1)]
+	6 Elemental Hero Avian
+	6 Elemental Hero Solid Soldier
+	6 Ojama Yellow
+	6 Jetroid
+	6 Eternal Favorite
+	6 Samsara Lotus
+	6 Ojama Delta Hurricane
+	6 Soul Release
+	6 Destiny Hero Defender
+	6 UFOroid
+	6 Fool of Arcana
+	6 Terrifying Trap Hole Nightmare
+	6 Rescueroid
+	6 Magnet Force
+	6 W-Wing Catapult
+	6 Empress of Arcana
+	6 Generation Next
+	6 Light Force
+	6 Forces of Darkness
+	6 Hydrogeddon
+	15 Duoterion
+	6 Hyozanryu
+	6 Destiny Hero Diamond Dude
+	6 Crystal Beast Emerald Tortoise
+	6 Emergency Evasion
+	6 Ojama Pajama
+	6 Crystal Beast Sapphire Pegasus
+	6 Magician of Arcana
+	6 Arcana Spread
+	6 Chariot of Arcana
+	6 Tin Goldfish
+	6 Destiny Hero Dreamer
+	6 Advanced Crystal Beast Emerald Tortoise
+	6 Gladiator Beast Torax
+	6 Counter Gem
+	6 Gladiator Beast Vespasius
+	6 Angel Wing
+	6 Cyber Angel Benten
+	6 Elemental Hero Necroshade
+	6 Ojama Black
+	6 Geistgrinder Golem
+	6 Destiny Hero Captain Tenacious
+	6 Cyber Barrier Dragon
+	6 Cybernetic Overflow
+	6 Gruesome Grave Squirmer
+	6 Nightmare Horse
+	6 Nightmare Shuffle
+	6 Cthonian Soldier
+	6 Destiny Hero Dread Servant
+	6 Shrink
+	6 Ruthless Denial
+	6 Return Soul
+	6 Darkworld Vanguard
+	6 Darkworld Gateman
+	6 Simorgh of Darkness
+	6 Gift of the Martyr
+	6 Chthonian Polymer
+	6 Elemental Hero Burstinatrix
+	6 Get Your Game On!
+	6 Oxygeddon
+	6 Ojama Red
+	6 Cyber Laser Dragon
+	6 Requited Acceptance
+	6 Cycroid
+	6 Elemental Hero Lady Heat
+	6 Destiny Hero Dasher
+	6 Element Saurus
+	6 Hyper Hammerhead
+	6 Dino Blast
+	6 Tyrannic Tail Swipe
+	6 Gilasaurus
+	6 Dragonroid
+	6 Patroid
+	6 Hero Signal
+	6 Supercharge
+	6 H — Heated Heart
+	6 R — Righteous Justice
+	6 Elemental Hero Clayman
+	6 Ojama Green
+	6 Winged Kuribo
+	6 Elemental Hero Wildheart
+	6 Rainbow Refraction
+	6 Saurobeast Brachion
+	6 Crystal Blessing
+	6 Crystal Beast Ruby Carbuncle
+	6 Crystal Beast Amber Mammoth
+	15 Crystal Beast Topaz Tiger
+	6 Archeonys
+	6 Babycerasaurus
+	6 Dark Tyranno
+	6 Ojamachine Yellow
+	6 Spirit of the Breeze
+	6 V-Tiger Jet
+	6 Crystal Release
+	15 O — Oversoul
+	15 Nightmare Throne
+	7 Ojama Pink
+	15 Emperor's Staff
+	7 Sun of Arcana
+	15 Ambulanceroid
+	15 Mixeroid
+	15 Vehicroid Connection Zone
+	15 Mirage Dragon
+	15 Dark World Punishment
+	15 Spirit Barrier
+	15 Elemental Hero Bubbleman
+	6 Ojama Blue
+	15 Mokey Mokey
+	15 Insurance
+	15 Elemental Hero Absolute Zero
+	15 Code Change
+	15 Crystal Beast Cobalt Eagle
+	15 Hierophant of Arcana
+	15 Card of Reversal
+	15 Advanced Crystal Beast Cobalt Eagle
+	15 King Mokey Mokey
+	15 Nightmare Pain
+	15 Evil Hero Dark Gaia
+	15 Cyber Ouroboros
+	15 Power Wall
+	15 Darkworld Warlord
+	15 Darkworld Exarch
+	15 Destiny Hero Dynatag
+	15 Hunter of Black Feathers
+	15 Umbral Soul
+	15 KA-2 Des Scissors
+	15 Cyber Eternity Dragon
+	15 Elemental Hero Blazeman
+	15 Carboneddon
+	15 Cyber Dragon Zwei
+	15 Drillroid
+	15 Elemental Hero Nova Master
+	15 Expressroid
+	15 Chthonian Alliance
+	15 Destroyersaurus
+	15 Thrashing Stego
+	15 Emergeroid Call
+	15 Thunder Crash
+	15 E — Emergency Call
+	15 Kaibaman
+	15 Ojamatch
+	15 Air Hummingbird
+	15 Elemental Hero Woodsman
+	6 Crystal Beast Amethyst Cat
+	15 Dark Driceratops
+	15 Advanced Crystal Beast Topaz Tiger
+	15 Cyclone Wing
+	15 Unhappy Maiden
+	7 Mirror Gate
+	7 Mature Chronicle
+	7 Elemental Hero Shining
+	15 Emperor of Arcana
+	7 World of Arcana
+	15 Hanged of Arcana
+	7 Super Vehicroid Stealth Union
+	7 Lightning Vortex
+	7 Copycat
+	7 Cursed Seal of the Forbidden Spell
+	7 DNA Surgery
+	7 Moon of Arcana
+	7 Destiny Hero Denier
+	7 Advanced Crystal Beast Sapphire Pegasus
+	7 Drowning Mirror Force
+	7 Cyberdark Dragon
+	7 Dark Armed Dragon
+	7 Cyber Valley
+	7 Destiny Hero Plasma
+	7 Mad King of Darkworld
+	7 Darkworld Dragon Lord
+	7 Darkness Destroyer
+	7 Cyber End Dragon
+	7 Super Conductor Tyranno
+	7 Stealthroid
+	7 Armed Dragon
+	7 Wonder Garage
+	7 Demise of the Land
+	7 Cyber Angel Natasha
+	7 Ultimate Tyranno
+	7 Mecha Ojama King
+	7 Advanced Crystal Beast Ruby Carbuncle
+	7 Gladiator Beast Alexander
+	7 Hero's Guard
+	7 Flute of Summoning Kuriboh
+	15 Elemental Recharge
+	4 Fulfillment of the Contract
+	4 Neos Force
+	4 Drain Time
+	4 Cyber Angel Vrash
+	4 Enchanting Fitting Room
+	4 Nightshroud, Darkness Incarnate
+	4 Power Bond
+	4 EN — Engage Neo Space
+	4 Gladiator Beast Heraklinos
+	15 Cup of Ace
+	15 Destiny Hero Decider
+	15 Cyber Dragon
+	15 Dyna Tank
+	15 Fifth Hope
+	15 Jaden Yuki, The Supreme King
+	15 Water Dragon
+	15 Giant Rat
+	15 Elemental Hero Sparkman
+	15 Rainbow Dark Dragon
+	4 Sartorius Kumar, Light of Arcana
+	7 Destiny Hero Dreadmaster
+	7 Cyberdark Dragon
+	7 Elemental Hero Flame Wingman
+	7 Elemental Hero Neos
+	7 Phatom of Yubel
+	7 Cyber Angel Izana
+	7 Ojama Knight
+	7 Mask Change
+	7 Rainbow Dragon
+	6 Duel Vest
+	6 Pot of Benevolence
+	6 Crystal Beacon
+	6 Dragon Heart
+	6 Swing of Memories
+	15 Pot of Riches
+	15 Rainbow Bridge
+	15 Photon Generator Unit
+	15 Cyber Angel Dakini
+	15 Hero Shield
+	6 Duel Arena
+	15 Ojama Country
+	15 Cybernetic Fusion Reactor
+	15 Arcana Barrier
+	15 Heroic Skyscraper
+	15 Jurassic World
+	7 Fusion Gate
+	7 Ojama King
+	7 Ojama Solidarity
+	4 Alexis Rhodes, Queen of Obelisk Blue
+	4 Claudius, Gladiator Beast
+	4 Super Polymerization
+	4 The Ojama Emperor
+	4 Uria, Lord of Searing Flames
+	4 Raviel, Lord of Striking Thunder
+	4 Hamon, Lord of Phantasms
+	7 Polymerization
+	4 Jesse Anderson, Crystal Keeper
+	4 Chazz Princeton, Black Thunder
+	4 Aster Phoenix, Professional Duelist
+	4 Syrus Truesdale, Cyber Successor
+	4 Bastion Misawa, Dueling Mastermind
+	4 Zane Truesdale, Hell Kaiser
+	4 Jaden Yuki, Hopeful Initiate
+	4 Tyranno Hassleberry, Saurian Sargeant
+	4 Yubel, Phantom Nightmare
+	7 Chaos Ruler of Arcana
+	4 Jaden and Yubel, Suffering Intertwined
+	6 Cyber Dragon Core
+	15 Darkworld Door
+	15 Rainbow Ruins
+	15 Clock Tower Prison
+	15 Megaroid City
+	15 Chemical Lab
+	4 Chicken Game
+	4 Duel Academy
+	7 Ra Yellow Dorm
+	7 Obelisk Blue Dorm
+	7 Slifer Red Dorm
+	6 Dark World
