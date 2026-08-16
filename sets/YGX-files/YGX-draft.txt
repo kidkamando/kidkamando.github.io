@@ -521,13 +521,13 @@
 			}
 		},
 		{
-			"name": "Cthonian Soldier",
+			"name": "Chthonian Soldier",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Nightmare Soldier",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSE-Hub/sets/YGX-files/img/84_Cthonian Soldier.jpg"
+				"en": "https://MSE-Hub/sets/YGX-files/img/84_Chthonian Soldier.jpg"
 			}
 		},
 		{
@@ -2968,7 +2968,7 @@
 	8 Gruesome Grave Squirmer
 	8 Nightmare Horse
 	8 Nightmare Shuffle
-	8 Cthonian Soldier
+	8 Chthonian Soldier
 	8 Destiny Hero Dread Servant
 	8 Shrink
 	8 Ruthless Denial
@@ -3071,7 +3071,7 @@
 	8 Gruesome Grave Squirmer
 	8 Nightmare Horse
 	8 Nightmare Shuffle
-	8 Cthonian Soldier
+	8 Chthonian Soldier
 	8 Destiny Hero Dread Servant
 	8 Shrink
 	8 Ruthless Denial
@@ -3175,7 +3175,7 @@
 	12 Gruesome Grave Squirmer
 	12 Nightmare Horse
 	12 Nightmare Shuffle
-	12 Cthonian Soldier
+	12 Chthonian Soldier
 	12 Destiny Hero Dread Servant
 	12 Shrink
 	12 Ruthless Denial
@@ -3423,7 +3423,7 @@
 	6 Gruesome Grave Squirmer
 	6 Nightmare Horse
 	6 Nightmare Shuffle
-	6 Cthonian Soldier
+	6 Chthonian Soldier
 	6 Destiny Hero Dread Servant
 	6 Shrink
 	6 Ruthless Denial

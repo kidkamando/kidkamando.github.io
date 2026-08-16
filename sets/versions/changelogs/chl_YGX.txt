@@ -1,4 +1,12 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Chthonian Soldier added.
+
+Cthonian Soldier removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

@@ -921,11 +921,11 @@ Foretell {B} (During your turn, you may pay {2} and exile this card from your ha
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Cthonian Soldier</name>
+			<name>Chthonian Soldier</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
-When Cthonian Soldier dies, each opponent loses life equal to Cthonian Soldier&apos;s power.
+When Chthonian Soldier dies, each opponent loses life equal to Chthonian Soldier&apos;s power.
 Foretell {2}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/YGX-files/img/84_Cthonian Soldier.jpg" num="84">YGX</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/YGX-files/img/84_Chthonian Soldier.jpg" num="84">YGX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
