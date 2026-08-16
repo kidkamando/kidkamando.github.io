@@ -1377,7 +1377,7 @@
             "card_name": "Dragonroid",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Toy Dragon",
+            "type": "Artifact Creature \u2014 Toy Dragon Construct",
             "number": 136,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2655,7 +2655,7 @@
             "card_name": "Elemental Hero Woodsman",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Plant Hero",
+            "type": "Creature \u2014 Elemental Plant Hero",
             "number": 178,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -3717,7 +3717,7 @@
             "card_name": "Elemental Hero Sparkman",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Hero Warrior",
+            "type": "Creature \u2014 Elemental Hero Warrior",
             "number": 215,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -4992,5 +4992,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

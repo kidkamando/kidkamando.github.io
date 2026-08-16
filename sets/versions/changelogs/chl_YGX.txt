@@ -1,4 +1,19 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Dragonroid
+type: Artifact Creature — Toy Dragon => Artifact Creature — Toy Dragon Construct
+
+Elemental Hero Woodsman
+type: Creature — Plant Hero => Creature — Elemental Plant Hero
+
+Elemental Hero Sparkman
+type: Creature — Hero Warrior => Creature — Elemental Hero Warrior
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

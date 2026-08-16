@@ -1359,7 +1359,7 @@ Cooperation — When this creature dies, create a 1/1 red Toy Construct artifact
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Toy Dragon</type>
+				<type>Artifact Creature — Toy Dragon Construct</type>
 				<maintype>Creature</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
@@ -2640,7 +2640,7 @@ Heroes you control have &quot;{T}: Add one mana of any color.&quot;</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Plant Hero</type>
+				<type>Creature — Elemental Plant Hero</type>
 				<maintype>Creature</maintype>
 				<manacost>1GG</manacost>
 				<cmc>3</cmc>
@@ -3697,7 +3697,7 @@ Spark Blaster — {1}{R}{W}: Elemental Hero Sparkman deals 1 damage to any targe
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Hero Warrior</type>
+				<type>Creature — Elemental Hero Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>RW</manacost>
 				<cmc>2</cmc>
