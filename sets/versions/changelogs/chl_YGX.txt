@@ -1,4 +1,27 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Mature Chronicle
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Spirit creature tokens named Duel Spirit.
+II, III — Put a +1/+1 counter and an aether counter on target creature you control.
+IV — Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.
+V — Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 white Spirit creature tokens named Duel Spirit.
+Put a +1/+1 counter and an aether counter on target creature you control.
+Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.
+Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle.
+
+Toy Construct
+type: Token Creature — Toy Construct => Token Artifact Creature — Toy Construct
+
+Cyber Soldier
+type: Token Creature — Nightmare Soldier => Token Artifact Creature — Nightmare Soldier
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

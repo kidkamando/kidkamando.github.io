@@ -4710,7 +4710,7 @@ Menace
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Toy Construct</type>
+				<type>Token Artifact Creature — Toy Construct</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4764,7 +4764,7 @@ Menace
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Nightmare Soldier</type>
+				<type>Token Artifact Creature — Nightmare Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
