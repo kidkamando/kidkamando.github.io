@@ -2850,10 +2850,6 @@
 	2 Chaos Ruler of Arcana
 	1 Jaden and Yubel, Suffering Intertwined
 	1 Chicken Game
-	1 Duel Academy
-	2 Ra Yellow Dorm
-	2 Obelisk Blue Dorm
-	2 Slifer Red Dorm
 [uncommon(3)]
 	4 Duoterion
 	4 Crystal Beast Topaz Tiger
@@ -2925,16 +2921,6 @@
 	4 Photon Generator Unit
 	4 Cyber Angel Dakini
 	4 Hero Shield
-	4 Ojama Country
-	4 Cybernetic Fusion Reactor
-	4 Arcana Barrier
-	4 Heroic Skyscraper
-	4 Jurassic World
-	4 Darkworld Door
-	4 Rainbow Ruins
-	4 Clock Tower Prison
-	4 Megaroid City
-	4 Chemical Lab
 [common(6)]
 	8 Elemental Hero Avian
 	8 Elemental Hero Solid Soldier
@@ -3365,12 +3351,6 @@
 	6 Photon Generator Unit
 	6 Cyber Angel Dakini
 	6 Hero Shield
-	12 Duel Arena
-	6 Ojama Country
-	6 Cybernetic Fusion Reactor
-	6 Arcana Barrier
-	6 Heroic Skyscraper
-	6 Jurassic World
 	2 Fusion Gate
 	2 Ojama King
 	2 Ojama Solidarity
@@ -3394,17 +3374,7 @@
 	2 Chaos Ruler of Arcana
 	1 Jaden and Yubel, Suffering Intertwined
 	12 Cyber Dragon Core
-	6 Darkworld Door
-	6 Rainbow Ruins
-	6 Clock Tower Prison
-	6 Megaroid City
-	6 Chemical Lab
 	1 Chicken Game
-	1 Duel Academy
-	2 Ra Yellow Dorm
-	2 Obelisk Blue Dorm
-	2 Slifer Red Dorm
-	12 Dark World
 [wildcard(1)]
 	6 Elemental Hero Avian
 	6 Elemental Hero Solid Soldier
@@ -3629,12 +3599,6 @@
 	15 Photon Generator Unit
 	15 Cyber Angel Dakini
 	15 Hero Shield
-	6 Duel Arena
-	15 Ojama Country
-	15 Cybernetic Fusion Reactor
-	15 Arcana Barrier
-	15 Heroic Skyscraper
-	15 Jurassic World
 	7 Fusion Gate
 	7 Ojama King
 	7 Ojama Solidarity
@@ -3658,14 +3622,26 @@
 	7 Chaos Ruler of Arcana
 	4 Jaden and Yubel, Suffering Intertwined
 	6 Cyber Dragon Core
-	15 Darkworld Door
-	15 Rainbow Ruins
-	15 Clock Tower Prison
-	15 Megaroid City
-	15 Chemical Lab
 	4 Chicken Game
-	4 Duel Academy
-	7 Ra Yellow Dorm
-	7 Obelisk Blue Dorm
-	7 Slifer Red Dorm
-	6 Dark World
+[landslot(1)]
+	22 Plains
+	22 Island
+	22 Swamp
+	22 Mountain
+	22 Forest
+	22 Dark World
+	22 Duel Arena
+	2 Duel Academy
+	5 Ra Yellow Dorm
+	5 Obelisk Blue Dorm
+	5 Slifer Red Dorm
+	5 Ojama Country
+	5 Cybernetic Fusion Reactor
+	5 Arcana Barrier
+	5 Heroic Skyscraper
+	5 Jurassic World
+	5 Darkworld Door
+	5 Rainbow Ruins
+	5 Clock Tower Prison
+	5 Megaroid City
+	5 Chemical Lab
