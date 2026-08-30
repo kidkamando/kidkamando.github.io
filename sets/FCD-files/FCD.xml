@@ -5,7 +5,7 @@
 			<name>FCD</name>
 			<longname>Fractured Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-05</releasedate>
+			<releasedate>2026-08-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3489,7 +3489,7 @@ Equip {1}</text>
 When this Equipment enters, attach it to target creature you control.
 Equipped creature has indestructible.
 Equip {3}
-Warp {3} (You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/251_Personal Phaselight Generator.jpg" num="251">FCD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4021,7 +4021,7 @@ Create a token copy of the sacrificed permanent. It gains haste until end of tur
 		<card>
 			<name>Matter Harvester</name>
 			<text>Fuel X (When this legendary artifact enters, exile the top X cards of your library as this legendary artifact&apos;s fuel.)
-Whenever you sacrifice a nontoken permanent, create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the number of cards among artifact&apos;s fuel. Sacrifice it at the beginning of the next end step.</text>
+Whenever you sacrifice a nontoken permanent, create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the number of cards among this artifact&apos;s fuel. Sacrifice it at the beginning of the next end step.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/FCD-files/img/145_Matter Harvester.jpg" num="145">FCD</set>
 			<prop>
 				<layout>normal</layout>

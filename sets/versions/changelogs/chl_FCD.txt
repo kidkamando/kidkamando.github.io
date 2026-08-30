@@ -1,4 +1,26 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Personal Phaselight Generator
+rules_text: Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature has indestructible.
+Equip {3}
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature has indestructible.
+Equip {3}
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Matter Harvester
+rules_text: Fuel X [i](When this legendary artifact enters, exile the top X cards of your library as this legendary artifact's fuel.)[/i]
+Whenever you sacrifice a nontoken permanent, create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the number of cards among artifact's fuel. Sacrifice it at the beginning of the next end step. => Fuel X [i](When this legendary artifact enters, exile the top X cards of your library as this legendary artifact's fuel.)[/i]
+Whenever you sacrifice a nontoken permanent, create an X/X colorless Robot artifact creature token with haste named Ameliorator, where X is the number of cards among this artifact's fuel. Sacrifice it at the beginning of the next end step.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.

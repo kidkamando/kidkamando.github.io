@@ -1,4 +1,15 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+The Millennium Puzzle
+rules_text: When The Millennium Puzzle enters and at the beginning of your end step, exile two cards from your library face down.
+{T}: If your life total is 5 or less, choose a card exiled with The Millennium Puzzle. Otherwise, choose a card exiled with The Millennium Puzzle at random. Reveal it. You may cast it this turn. If your life total is less than half your starting life total, you may cast it without paying its man cost. => When The Millennium Puzzle enters and at the beginning of your end step, exile one card of your choice from your library and one card from the top of your library face down.
+{T}: If your life total is 5 or less, choose a card exiled with The Millennium Puzzle. Otherwise, choose a card exiled with The Millennium Puzzle at random. Reveal it. You may cast it this turn. If your life total is less than half your starting life total, you may cast it without paying its man cost.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

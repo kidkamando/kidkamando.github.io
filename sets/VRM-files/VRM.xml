@@ -5,7 +5,7 @@
 			<name>VRM</name>
 			<longname>Velesta ReMade</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-05</releasedate>
+			<releasedate>2026-08-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2483,7 +2483,7 @@ As long as you are Bountiful, creatures you control get +1/+1. (You are Bountifu
 			<name>Dredger&apos;s Expertise</name>
 			<text>When Dredger&apos;s Expertise enters, you mill four cards.
 {2}{G}{G}: Put a dredge counter on this enchantment.
-At the beginning of your upkeep, as long as this enchantment has a dredge counter on it, if you would draw a card you may return a card from your graveyard to your hand instead.</text>
+As long as this enchantment has a dredge counter on it, whenever you would draw a card, you may return a card from your graveyard to your hand instead.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/175_Dredger&apos;s Expertise.jpg" num="175">VRM</set>
 			<prop>
 				<layout>normal</layout>

@@ -2533,7 +2533,7 @@
             "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When Dredger's Expertise enters, you mill four cards.\n{2}{G}{G}: Put a dredge counter on this enchantment.\nAt the beginning of your upkeep, as long as this enchantment has a dredge counter on it, if you would draw a card you may return a card from your graveyard to your hand instead.",
+            "rules_text": "When Dredger's Expertise enters, you mill four cards.\n{2}{G}{G}: Put a dredge counter on this enchantment.\nAs long as this enchantment has a dredge counter on it, whenever you would draw a card, you may return a card from your graveyard to your hand instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4992,5 +4992,5 @@
             "notes": "!landslot"
         }
     ],
-    "version": 10
+    "version": 11
 }

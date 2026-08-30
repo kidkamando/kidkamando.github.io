@@ -1,4 +1,17 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Dredger's Expertise
+rules_text: When Dredger's Expertise enters, you mill four cards.
+{2}{G}{G}: Put a dredge counter on this enchantment.
+At the beginning of your upkeep, as long as this enchantment has a dredge counter on it, if you would draw a card you may return a card from your graveyard to your hand instead. => When Dredger's Expertise enters, you mill four cards.
+{2}{G}{G}: Put a dredge counter on this enchantment.
+As long as this enchantment has a dredge counter on it, whenever you would draw a card, you may return a card from your graveyard to your hand instead.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 No changes.
