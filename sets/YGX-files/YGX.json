@@ -1435,7 +1435,7 @@
             "number": 156,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "This spell costs {1} less to cast for each attacking creature your team controls.\nEnchant creature\nEnchanted creature gets +3/+1 and has menace.\nWhen this aura dies, draw a card.",
+            "rules_text": "Flash\nThis spell costs {1} less to cast for each attacking creature your team controls.\nEnchant creature\nEnchanted creature gets +3/+1 and has menace.\nWhen this aura dies, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3840,14 +3840,14 @@
             "notes": ""
         },
         {
-            "card_name": "Phatom of Yubel",
+            "card_name": "Phantom of Yubel",
             "color": "WB",
             "rarity": "rare",
             "type": "Creature \u2014 Nightmare Spirit Illusion",
             "number": 226,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "Combination Sequence 1\u2014{1}{W}{B} [i](Split second. Sacrifice a creature united with one permanent. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)[/i]\nFlying, lifelink\nWhen Phatom of Yubel dies, search your library for a Nightmare card, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Combination Sequence 1\u2014{1}{W}{B} [i](Split second. Sacrifice a creature united with one permanent. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)[/i]\nFlying, lifelink\nWhen Phantom of Yubel dies, search your library for a Nightmare card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4992,5 +4992,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

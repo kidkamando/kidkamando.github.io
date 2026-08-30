@@ -1,4 +1,22 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Phantom of Yubel added.
+
+Phatom of Yubel removed.
+
+Supercharge
+rules_text: This spell costs {1} less to cast for each attacking creature your team controls.
+Enchant creature
+Enchanted creature gets +3/+1 and has menace.
+When this aura dies, draw a card. => Flash
+This spell costs {1} less to cast for each attacking creature your team controls.
+Enchant creature
+Enchanted creature gets +3/+1 and has menace.
+When this aura dies, draw a card.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Chthonian Soldier added.

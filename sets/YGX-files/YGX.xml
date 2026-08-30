@@ -5,7 +5,7 @@
 			<name>YGX</name>
 			<longname>YuGiOh! GX</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-16</releasedate>
+			<releasedate>2026-08-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1406,7 +1406,8 @@ Target creature gets +3/+1 and gains trample until end of turn. If this spell wa
 		</card>
 		<card>
 			<name>Supercharge</name>
-			<text>This spell costs {1} less to cast for each attacking creature your team controls.
+			<text>Flash
+This spell costs {1} less to cast for each attacking creature your team controls.
 Enchant creature
 Enchanted creature gets +3/+1 and has menace.
 When this aura dies, draw a card.</text>
@@ -3818,11 +3819,11 @@ Landfall — Whenever a land you control enters, create a 1/1 colorless Hero cre
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Phatom of Yubel</name>
+			<name>Phantom of Yubel</name>
 			<text>Combination Sequence 1—{1}{W}{B} (Split second. Sacrifice a creature united with one permanent. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)
 Flying, lifelink
-When Phatom of Yubel dies, search your library for a Nightmare card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/YGX-files/img/226_Phatom of Yubel.jpg" num="226">YGX</set>
+When Phantom of Yubel dies, search your library for a Nightmare card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/YGX-files/img/226_Phantom of Yubel.jpg" num="226">YGX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
