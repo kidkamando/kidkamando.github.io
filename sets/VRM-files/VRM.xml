@@ -4254,7 +4254,7 @@ Renew — {2}{R}{R}, Exile this card from your graveyard: Double target creature
 		<card>
 			<name>Destruction of Evidence</name>
 			<text>Choose one — 
-• Exile up to three target cards from a single graveyard. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+• Exile up to three target cards from a single graveyard. Investigate. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 • Destroy target artifact or enchantment with mana value 2 or less.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/VRM-files/img/243.jpg" num="173">VRM</set>
 			<prop>
@@ -4684,7 +4684,7 @@ As long as Auriel entered this turn, you may activate Auriel&apos;s loyalty abil
 		</card>
 		<card>
 			<name>Gilban, Uninhibited</name>
-			<text>[+2]: Target creature you control gets +2/+0 until end of turn.
+			<text>[+2]: Up to target creature you control gets +2/+0 until end of turn.
 [0]: Exile the top card of your library. You may play it this turn.
 [-X]: Gilban deals X damage to any target.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/267.jpg" num="141">VRM</set>

@@ -5118,7 +5118,7 @@
             "number": 173,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Choose one \u2014 \n\u2022 Exile up to three target cards from a single graveyard. Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\n\u2022 Destroy target artifact or enchantment with mana value 2 or less.",
+            "rules_text": "Choose one \u2014 \n\u2022 Exile up to three target cards from a single graveyard. Investigate. [i](To investigate, create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\n\u2022 Destroy target artifact or enchantment with mana value 2 or less.",
             "flavor_text": "[i]The poachers hid their tracks, hopeful that the Pharani would not find them.[/i]",
             "pt": "",
             "special_text": "",
@@ -5622,10 +5622,10 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "[+2]: Target creature you control gets +2/+0 until end of turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[-X]: Gilban deals X damage to any target.",
+            "rules_text": "[+2]: Up to target creature you control gets +2/+0 until end of turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[-X]: Gilban deals X damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+2]: Target creature you control gets +2/+0 until end of turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[-X]: Gilban deals X damage to any target.",
+            "special_text": "[+2]: Up to target creature you control gets +2/+0 until end of turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[-X]: Gilban deals X damage to any target.",
             "shape": "planeswalker",
             "set": "VRM",
             "loyalty": "4",
@@ -5825,5 +5825,5 @@
             "notes": ""
         }
     ],
-    "version": 13
+    "version": 14
 }
