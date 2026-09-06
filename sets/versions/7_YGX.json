@@ -1,6 +1,6 @@
 ﻿{
     "name": "YuGiOh! GX",
-    "formats": "Standard,YGO,Eternal,Commander",
+    "formats": "Standard,Eternal,Commander,YGO",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
