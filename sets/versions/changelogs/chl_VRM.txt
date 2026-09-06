@@ -1,4 +1,584 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+No changes.
+
+VERSION 12 CHANGELOG
+====================
+
+
+
+Astral Eye
+
+Kovekki Knight
+
+Creth Invader
+
+Rhinoback Lancer
+
+Enlisted Duo
+
+Devout of Elio
+
+Midnight Alarm
+
+Nu'Ul's Conclusion
+
+Lancer Formation
+
+Heights of Ascension
+
+Riderless Skyknight
+
+Savanna Stalwart
+
+Experienced Battlesmith
+
+Lattice of Cleansing
+
+Bountiful Provisions
+
+Coalition Cadre
+
+Patronic Gift
+
+Faultless Plate
+rules_text: Equipped creature gets +2/+2 and has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Equip {3}. This ability costs {1} less to activate for each forge counter on this Equipment. [i](For each forge counter on this Equipment , enchanted creature gets +1/+1.)[/i] => Equipped creature gets +2/+2 and has ward {1}. [i](Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Equip {3}. This ability costs {1} less to activate for each forge counter on this Equipment. [i](For each forge counter on this Equipment , enchanted creature gets +1/+1.)[/i]
+
+Selorian Hallower
+
+Reexamine Fate
+
+Scalemaker Initiate
+
+Territorial Hardclaw
+
+Forced to Surrender
+
+Sanctimonious Revelation
+
+Cornered Griffin
+
+Messenger of Fate
+
+Wardshell Lobster
+
+Alley Shadowdoppel
+
+Alley Spellthief
+
+Monastery Timeseer
+
+Last Recourse
+
+Aquatic Abductor
+
+Intelligent Technique
+
+Kellmight Thoughtcrusher
+
+Dragonborn Timeseer
+
+Plan in Advance
+
+Unrefined Dronewing
+
+Scan Through Fate
+
+Squire of Kalamax
+
+Split in Twain
+
+Graveburglar Ossivore
+
+Priest of Gologo
+
+Preposterous Prophecy
+
+Bonecrave Curse
+
+Kellcursed Greatsword
+
+Blackflame Madwing
+
+Ragehorn Champion
+
+Pyrrhic Conquest
+
+Ragehorn Raider
+
+Ushatan Lifesapper
+
+Respectful Gravewatcher
+
+Mindtwisted Orator
+
+Marrow Feaster
+
+Illusive Diversion
+
+Message Runner
+
+Kellmight Phoenix
+
+Fatal Impalement
+
+Snowpeak Timeseer
+
+Blitz Shimmer
+
+Uninformed Ingenuity
+
+Lightning Unconstrained
+
+Active Premonition
+
+Green-Ear Ambusher
+
+Chaotic Pilferer
+
+Improved Technique
+
+Voracious Woodcrasher
+
+Urgent Excavation
+
+Thundering Berserker
+
+Trumpeting Terroraptor
+
+Optimistic Paladin
+
+Slagmutation
+
+Desperate Crossbolter
+
+Temple Desecration
+
+Dragonborn Cavalry
+
+Spectral Slammer
+
+Carnivorous Expansion
+
+Naive Nestling
+
+Phytosaurian Trainer
+
+Sight Sifter
+
+Thundering Grenisaur
+
+Floraptor Pack
+
+Cyclic Witness
+
+Herbisaur Duo
+
+Strength of Mind
+
+Path of Evolution
+
+Espratan Blademaster
+
+Tower Warden
+
+Track Home
+
+Increasing Strength
+
+Titanic Warbow
+
+Wound Prey
+
+Rampaging Phytosaur
+
+Farsight Farmtender
+
+Grove Verdasaur
+
+Bound Groundward
+
+Logistical Relocation
+
+Apportioned Spoils
+
+Foreign Lieutenant
+
+Skysquad Griffin
+
+Photostorm
+
+Soven Elite
+
+Inducted Photomancer
+
+Scaling Proficiency
+
+Timely Turn
+
+Selfless Skylancer
+
+Blessing of Selor
+
+Wizened Deconstruction
+
+Desperate Timesight
+
+Final Decree
+
+Offhand Tarblade
+
+Scalemaker Priest
+
+Fallarai Transcriptor
+
+Griffinrider Skymage
+
+Exhausting Distraction
+
+Shadowdoppel Replication
+
+Mass Reduction
+
+Disillusion
+
+Fearsome Ossivore
+
+Criminal Streetshimmer
+
+Dazzling Price
+
+Survive Beyond Reason
+
+Blackhoof Charger
+
+Smokeborne Blightflame
+
+Tenets of Kell
+
+Kellmight Slayer
+
+Memory Whorl
+
+Archpriest of Gologo
+
+Ancestor's Conscription
+
+Deglamored Emergence
+
+Green-Ear Crosshot
+
+Underground Invader
+
+Relentless Phoenix
+
+Duamrac's Augur
+
+Pyrobolt
+
+Duplicitous Maneuver
+
+Chaotic Impulse
+
+Impulsive Phoenix
+
+Phytosaurian Warmaster
+
+Sharpshot Plunderer
+
+Verdure Bounty
+
+Dredger's Expertise
+
+Sly Mawsprouter
+
+Groveyard Tender
+
+Brawl in the Mud
+
+Leaf-Blessed Trinket
+
+Awaken the Jungle
+
+Bellowing Crashhorn
+
+Roaming Herbisaur
+
+Druidic Composter
+
+Barkskin Plate
+
+Sunheart Liege
+
+Invasion's Insurrection
+
+Selorian Sister
+
+Orala, Elio's Chosen
+
+Commerce Hall
+
+Scout for Supplies
+
+Gallant Gallop
+
+Nexen Liege
+
+Imagined Curiosity
+
+Disruptive Illusionist
+
+Skysquad Captain
+
+Wit's Bounty
+
+Wartime Logistics
+
+Shimmergale
+
+Alvahzan Liege
+
+Thought Shadow
+
+Necrotic Smog
+
+Despairing Tutor
+
+Ferocious Impalement
+
+Boneblight Phoenix
+
+Smogwing Predator
+
+Flechan Liege
+
+Go Big or Go Home
+
+Campaign for the Espra Wilds
+
+Duamrac, Ruthless Conjurer
+
+Trusty Manaxe
+
+Reckless Bonemage
+
+Ritual of Anticipation
+
+Dredge Contraband
+
+Pharani Liege
+
+Impending Verdasaur
+
+Prophet of Cycles
+
+Explorer's Dream
+
+Meticulous Trailmaker
+
+Rise of the Pharani
+
+Crusader's Conch
+
+Timeseer's Focus
+
+Kalamax, Bone Lord
+
+Fallarai Master
+
+Cotay Leadon, Verdure Wildling
+
+Kneel Before Order
+
+Skysoaring Fatethief
+
+Desperate Stampede
+
+Bloodleaf Vinespine
+
+Cyclic Advantage
+
+Ciphered Spellbook
+
+Haestor's Invocation
+
+Necrotic Loop
+
+Blistering Invasion
+
+Evolving Growth
+
+Selor's Invocation
+
+Dreadful Future
+
+Kell's Invocation
+
+Diophine, Undiscovered Tyrant
+
+Effen, Nexen Trainer
+
+Nu'Ul's Invocation
+
+Disorderstone
+
+Gologo's Invocation
+
+Arston, Blessed by Timesight
+
+Guise of Ignorance
+
+Mischievous Shine-Thief
+
+Crossbolt Animae
+
+Farsight Delusion
+
+Unexpected Evidence
+
+Explorer's Chart
+
+Sleepless Protector
+
+Explorer's Assistant
+
+Stonewing Animae
+
+Herbhammer
+
+Historian's Crypt
+
+Trade-Rich Lighthouse
+
+Food-Rich Reef
+
+Kell, Madness' Spiral
+
+Edasa, Spire of Parfolus
+
+Soulbinder's Gem
+
+Sigil of the Vellon
+
+Time-Rich Lake
+
+Nutrient-Rich Farmland
+
+Bone-Rich Graveyard
+
+Iron-Rich Bog
+
+Ore-Rich Chasm
+
+Life-Rich Grove
+
+Blood-Rich Field
+
+Wreckage-Rich Shore
+
+Storm-Rich Peak
+
+Pretransmuted Ground
+
+Fek'Roth, School of the Arcane
+
+Escrylla, Ocean's Terror
+
+Elio's Crest
+
+Allied Intercession
+
+Abrupt Disappearance
+
+Cornered Spikelaunch
+
+Fervent Adaptation
+
+Destruction of Evidence
+
+Prescence Cleanse
+
+Inspect Antiquity
+
+Soaring Bonespikes
+
+Destructive Arrival
+
+Mass Renewal
+
+Animae Colossus
+
+Will, Life's Beginning
+
+Nu'Ul, Cycles' End
+
+A'Aka, Observation's Evolution
+
+Haestor, Destiny's Chaos
+
+Selor, Ascension's Achievement
+
+Ban'Est, Fate's Augur
+
+Gologo, Repetition's Catalyst
+
+Elio, Originality's Ideal
+
+Phaetilis, Discovery's Idol
+
+Wolanne, Oppressed Protector
+rules_text:  => [+1]: Create a 2/2 white Knight creature token.
+[-2]: Exile target creature with power 4 or greater.
+[-4]: You get an emblem with “Token creatures you control get +1/+1.”
+
+Auriel, Surging Spellcatcher
+rules_text:  => Flash
+As long as Auriel entered this turn, you may activate Auriel's loyalty abilities any time you could cast an instant.
+[+2]: Draw a card, then discard a card.
+[-3]: Counter target spell.
+[-3]: Put Auriel from the battlefield into its owner's hand.
+
+Restra, Pactmaker
+rules_text:  => [+1]: Create a 1/1 black Skeleton creature token with menace.
+[-1]: Put two -1/-1 counters on target creature.
+[-5]: Each player discards cards until they have the same number of cards in their hand as the player with the lowest.
+
+Gilban, Uninhibited
+rules_text:  => [+2]: Target creature you control gets +2/+0 until end of turn.
+[0]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target.
+special_text: [+2]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target.
+[-8]: Creatures you control get +X/+X and gain haste until end of turn, where X is 7 minus the number of cards in your hand. => [+2]: Target creature you control gets +2/+0 until end of turn.
+[0]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target.
+
+Licium, Disconnected Spore
+rules_text:  => [+1]: Mill two cards. You gain 1 life.
+[-1]: Creatures your opponents control get -2/-0 until the beginning of your next upkeep.
+[-3]: Return a land card from your graveyard to your hand.
+
+Plant Dinosaur
+
+Knight
+
+Bird Illusion
+
+Skeleton
+
+Illusion
+
+Wolanne, Royal Protector
+
+Clue
+
+Treasure
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

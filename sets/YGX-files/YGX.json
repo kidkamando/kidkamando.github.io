@@ -1,9 +1,11 @@
 ﻿{
     "name": "YuGiOh! GX",
     "formats": "Standard,YGO,Eternal,Commander",
-    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Plains",
@@ -21,6 +23,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -39,6 +44,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +65,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +86,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +107,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,6 +170,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +191,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +212,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +233,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +254,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -237,6 +275,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -255,6 +296,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +317,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +338,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,6 +359,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -327,6 +380,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -345,6 +401,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -363,6 +422,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -373,7 +435,7 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nWhen this creature enters, flip a coin. If the coin comes up heads, you may foretell a card from your hand. Otherwise, create a 1/1 blue Faerie creature token.",
+            "rules_text": "Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]\nWhen this creature enters, flip a coin. If the coin comes up heads, you may foretell a card from your hand. Otherwise, create a 1/1 blue Faerie creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -381,6 +443,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -399,6 +464,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -417,6 +485,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -435,6 +506,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -453,6 +527,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -471,6 +548,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -489,6 +569,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -507,6 +590,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -525,6 +611,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,6 +632,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -561,6 +653,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -579,6 +674,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -597,6 +695,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -615,6 +716,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -633,6 +737,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -651,6 +758,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -669,6 +779,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -687,6 +800,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -705,6 +821,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -723,6 +842,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -741,6 +863,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -759,6 +884,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -777,6 +905,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -795,6 +926,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -813,6 +947,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -831,6 +968,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -849,6 +989,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -867,6 +1010,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -885,6 +1031,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -903,6 +1052,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -921,6 +1073,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -939,6 +1094,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -957,6 +1115,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -975,6 +1136,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -993,6 +1157,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1011,6 +1178,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1029,6 +1199,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1047,6 +1220,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1065,6 +1241,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1083,6 +1262,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1101,6 +1283,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1119,6 +1304,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1137,6 +1325,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1155,6 +1346,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1173,6 +1367,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1191,6 +1388,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1209,6 +1409,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1227,6 +1430,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1245,6 +1451,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1263,6 +1472,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1281,6 +1493,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1299,6 +1514,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1317,6 +1535,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1335,6 +1556,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1353,6 +1577,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1371,6 +1598,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1389,6 +1619,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1407,6 +1640,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1425,6 +1661,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1443,6 +1682,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1461,6 +1703,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1479,6 +1724,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1497,6 +1745,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1515,6 +1766,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1533,6 +1787,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1551,6 +1808,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1569,6 +1829,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1587,6 +1850,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1605,6 +1871,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1623,6 +1892,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1641,6 +1913,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1659,6 +1934,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1677,6 +1955,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1695,6 +1976,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1713,6 +1997,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1731,6 +2018,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1749,6 +2039,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1767,6 +2060,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1777,7 +2073,7 @@
             "number": 171,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Enchant creature\nEnchanted creature gets +2/+2 and has ward {2}. As long as enchanted creature is a Beast, it gets +3/+3 and has ward {2} instead. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Enchant creature\nEnchanted creature gets +2/+2 and has ward {2}. As long as enchanted creature is a Beast, it gets +3/+3 and has ward {2} instead. [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1785,6 +2081,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1803,6 +2102,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1821,6 +2123,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1839,6 +2144,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1857,6 +2165,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1875,6 +2186,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1893,6 +2207,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1903,7 +2220,7 @@
             "number": 26,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\n[i]Cooperation[/i] \u2014 Whenever another creature you control enters, you gain 1 life. As long as you control three or more creatures that share a creature type, put a +1/+1 counter on it.",
+            "rules_text": "Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]\n[i]Cooperation[/i] \u2014 Whenever another creature you control enters, you gain 1 life. As long as you control three or more creatures that share a creature type, put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1911,6 +2228,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1929,6 +2249,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1947,6 +2270,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1965,6 +2291,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1983,6 +2312,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2001,6 +2333,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2019,6 +2354,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2037,6 +2375,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2055,6 +2396,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2073,6 +2417,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2091,6 +2438,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2109,6 +2459,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2127,6 +2480,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2145,6 +2501,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2163,6 +2522,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2181,6 +2543,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2199,6 +2564,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2217,6 +2585,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2235,6 +2606,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2253,6 +2627,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2271,6 +2648,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2289,6 +2669,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2307,6 +2690,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2325,6 +2711,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2343,6 +2732,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2361,6 +2753,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2379,6 +2774,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2397,6 +2795,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2415,6 +2816,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2433,6 +2837,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2451,6 +2858,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2469,6 +2879,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2487,6 +2900,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2505,6 +2921,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2523,6 +2942,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2541,6 +2963,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2550,7 +2975,7 @@
             "type": "Kindred Sorcery \u2014 Toy",
             "number": 143,
             "color_identity": "R",
-            "cost": "{1}{R}",
+            "cost": "{1}{R}{R}",
             "rules_text": "Choose one. If you control a Toy, choose one or more instead \u2014 \n\u2022 Create two 1/1 red Toy Construct artifact creature tokens with flying.\n\u2022 Creatures your team controls get +1/+0 and gain haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -2559,6 +2984,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2577,6 +3005,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2595,6 +3026,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2613,6 +3047,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2631,6 +3068,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2649,6 +3089,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2667,6 +3110,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2685,6 +3131,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2703,6 +3152,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2721,6 +3173,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2739,6 +3194,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2757,6 +3215,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2775,24 +3236,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Mature Chronicle",
-            "color": "W",
-            "rarity": "rare",
-            "type": "Enchantment \u2014 Saga",
-            "number": 24,
-            "color_identity": "W",
-            "cost": "{1}{W}{W}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate two 1/1 white Spirit creature tokens named Duel Spirit.\nPut a +1/+1 counter and an aether counter on target creature you control.\nSpirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.\nSearch your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle.",
-            "shape": "saga",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2811,6 +3257,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2829,6 +3278,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2847,6 +3299,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2865,6 +3320,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2883,6 +3341,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2901,6 +3362,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2919,6 +3383,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2937,6 +3404,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2955,6 +3425,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2973,6 +3446,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2991,6 +3467,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3009,6 +3488,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3027,6 +3509,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3045,6 +3530,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3063,6 +3551,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3081,6 +3572,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3099,6 +3593,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3117,6 +3614,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3135,6 +3635,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3153,6 +3656,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3171,6 +3677,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3189,6 +3698,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3207,6 +3719,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3225,6 +3740,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3243,6 +3761,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3261,6 +3782,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3271,7 +3795,7 @@
             "number": 126,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Combination Sequence 0\u2014{2}{R}{R} [i](Split second. Sacrifice a creature united with zero permanents. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)[/i]\nHaste, trample\nWhen this creature enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.",
+            "rules_text": "Combination Sequence 0\u2014{2}{R}{R} [i](Split second. Sacrifice a creature united with zero permanents. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)[/i]\nTrample\nWhen this creature enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3279,6 +3803,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3297,6 +3824,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3315,6 +3845,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3333,6 +3866,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3351,6 +3887,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3369,6 +3908,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3387,6 +3929,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3405,6 +3950,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3423,6 +3971,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3441,6 +3992,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3459,6 +4013,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3477,6 +4034,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3495,6 +4055,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3513,6 +4076,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3522,8 +4088,8 @@
             "type": "Sorcery",
             "number": 152,
             "color_identity": "R",
-            "cost": "{3}{R}",
-            "rules_text": "Unite up to two creatures you control.\n[i]Fusion[/i] \u2014 Then you may sacrifice a united permanent. If you do, reveal a card with Combination Sequence X from your hand or outside the game and put it onto the battlefield, where X is the number of permanents it was united with. It gains haste until end of turn.\nThen choose a creature you control. Double its power until end of turn.",
+            "cost": "{4}{R}{R}",
+            "rules_text": "Unite up to two creatures you control.\n[i]Fusion[/i] \u2014 Then you may sacrifice a united permanent. If you do, reveal a card with Combination Sequence X from your hand or outside the game and put it onto the battlefield, where X is the number of permanents it was united with. It gains haste until end of turn.\nThen choose a creature you control. Double its power until end of turn. Exile it at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3531,6 +4097,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3549,6 +4118,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3567,6 +4139,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3585,6 +4160,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3603,6 +4181,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3621,6 +4202,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3639,6 +4223,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3657,6 +4244,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3675,6 +4265,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3693,6 +4286,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3711,6 +4307,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3729,6 +4328,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3747,6 +4349,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3765,6 +4370,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3783,6 +4391,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3801,6 +4412,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3819,6 +4433,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3837,6 +4454,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3855,6 +4475,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3873,6 +4496,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3891,6 +4517,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3909,6 +4538,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3927,6 +4559,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3945,6 +4580,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3963,6 +4601,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3981,6 +4622,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3999,6 +4643,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4017,6 +4664,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4035,6 +4685,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4053,6 +4706,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4071,6 +4727,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4089,6 +4748,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4107,6 +4769,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4125,6 +4790,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4143,6 +4811,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4161,6 +4832,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4179,6 +4853,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4197,6 +4874,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4215,6 +4895,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4233,6 +4916,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4251,6 +4937,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4269,6 +4958,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4287,6 +4979,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4305,6 +5000,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4323,6 +5021,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4341,6 +5042,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4359,6 +5063,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4377,6 +5084,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4395,6 +5105,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4413,6 +5126,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4431,6 +5147,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4449,6 +5168,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4467,6 +5189,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4485,6 +5210,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4503,6 +5231,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4521,6 +5252,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4539,6 +5273,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4557,6 +5294,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4575,6 +5315,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4593,6 +5336,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4611,6 +5357,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4629,6 +5378,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4647,6 +5399,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4665,6 +5420,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4683,6 +5441,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4701,6 +5462,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4719,6 +5483,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4737,114 +5504,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Duel Spirit",
-            "color": "W",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Spirit",
-            "number": 3,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Hero",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Hero",
-            "number": 2,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Toy Construct",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Toy Construct",
-            "number": 5,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "Flying",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Faerie",
-            "color": "U",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Faerie",
-            "number": 4,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Dinosaur",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Dinosaur",
-            "number": 6,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Cyber Soldier",
-            "color": "BR",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Nightmare Soldier",
-            "number": 8,
-            "color_identity": "BR",
-            "cost": "",
-            "rules_text": "This creature can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4863,24 +5525,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Fusion Substitute",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Enchantment",
-            "number": 1,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGX",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4899,6 +5546,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4917,6 +5567,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4935,6 +5588,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4953,6 +5609,177 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Mature Chronicle",
+            "color": "W",
+            "rarity": "rare",
+            "type": "Enchantment \u2014 Saga",
+            "number": 24,
+            "color_identity": "W",
+            "cost": "{1}{W}{W}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nI \u2014 Create two 1/1 white Spirit creature tokens named Duel Spirit.\nII, III \u2014 Put a +1/+1 counter and an aether counter on target creature you control.\nIV \u2014 Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.\nV \u2014 Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nI \u2014 Create two 1/1 white Spirit creature tokens named Duel Spirit.\nII, III \u2014 Put a +1/+1 counter and an aether counter on target creature you control.\nIV \u2014 Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.\nV \u2014 Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle.",
+            "shape": "saga",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Duel Spirit",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Spirit",
+            "number": 3,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Hero",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Hero",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Toy Construct",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Toy Construct",
+            "number": 5,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Faerie",
+            "color": "U",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Faerie",
+            "number": 4,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Dinosaur",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Dinosaur",
+            "number": 6,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Cyber Soldier",
+            "color": "BR",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Nightmare Soldier",
+            "number": 8,
+            "color_identity": "BR",
+            "cost": "",
+            "rules_text": "This creature can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Fusion Substitute",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Enchantment",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "YGX",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4971,6 +5798,9 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4989,8 +5819,11 @@
             "set": "YGX",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }

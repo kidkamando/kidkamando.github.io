@@ -1,4 +1,591 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Elemental Hero Avian
+
+Elemental Hero Solid Soldier
+
+Ojama Yellow
+
+Jetroid
+
+Eternal Favorite
+
+Samsara Lotus
+
+Ojama Delta Hurricane
+
+Soul Release
+
+Destiny Hero Defender
+
+UFOroid
+
+Fool of Arcana
+
+Terrifying Trap Hole Nightmare
+
+Rescueroid
+
+Magnet Force
+
+W-Wing Catapult
+
+Empress of Arcana
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When this creature enters, flip a coin. If the coin comes up heads, you may foretell a card from your hand. Otherwise, create a 1/1 blue Faerie creature token. => Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+When this creature enters, flip a coin. If the coin comes up heads, you may foretell a card from your hand. Otherwise, create a 1/1 blue Faerie creature token.
+
+Generation Next
+
+Light Force
+
+Forces of Darkness
+
+Hydrogeddon
+
+Duoterion
+
+Hyozanryu
+
+Destiny Hero Diamond Dude
+
+Crystal Beast Emerald Tortoise
+
+Emergency Evasion
+
+Ojama Pajama
+
+Crystal Beast Sapphire Pegasus
+
+Magician of Arcana
+
+Arcana Spread
+
+Chariot of Arcana
+
+Tin Goldfish
+
+Destiny Hero Dreamer
+
+Advanced Crystal Beast Emerald Tortoise
+
+Gladiator Beast Torax
+
+Counter Gem
+
+Gladiator Beast Vespasius
+
+Angel Wing
+
+Cyber Angel Benten
+
+Elemental Hero Necroshade
+
+Ojama Black
+
+Geistgrinder Golem
+
+Destiny Hero Captain Tenacious
+
+Cyber Barrier Dragon
+
+Cybernetic Overflow
+
+Gruesome Grave Squirmer
+
+Nightmare Horse
+
+Nightmare Shuffle
+
+Chthonian Soldier
+
+Destiny Hero Dread Servant
+
+Shrink
+
+Ruthless Denial
+
+Return Soul
+
+Darkworld Vanguard
+
+Darkworld Gateman
+
+Simorgh of Darkness
+
+Gift of the Martyr
+
+Chthonian Polymer
+
+Elemental Hero Burstinatrix
+
+Get Your Game On!
+
+Oxygeddon
+
+Ojama Red
+
+Cyber Laser Dragon
+
+Requited Acceptance
+
+Cycroid
+
+Elemental Hero Lady Heat
+
+Destiny Hero Dasher
+
+Element Saurus
+
+Hyper Hammerhead
+
+Dino Blast
+
+Tyrannic Tail Swipe
+
+Gilasaurus
+
+Dragonroid
+
+Patroid
+
+Hero Signal
+
+Supercharge
+
+H — Heated Heart
+
+R — Righteous Justice
+
+Elemental Hero Clayman
+
+Ojama Green
+
+Winged Kuribo
+
+Elemental Hero Wildheart
+
+Rainbow Refraction
+
+Saurobeast Brachion
+
+Crystal Blessing
+
+Crystal Beast Ruby Carbuncle
+
+Crystal Beast Amber Mammoth
+
+Crystal Beast Topaz Tiger
+
+Archeonys
+
+Babycerasaurus
+
+Dark Tyranno
+
+Ojamachine Yellow
+
+Spirit of the Breeze
+
+V-Tiger Jet
+
+Crystal Release
+rules_text: Enchant creature
+Enchanted creature gets +2/+2 and has ward {2}. As long as enchanted creature is a Beast, it gets +3/+3 and has ward {2} instead. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Enchant creature
+Enchanted creature gets +2/+2 and has ward {2}. As long as enchanted creature is a Beast, it gets +3/+3 and has ward {2} instead. [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+O — Oversoul
+
+Nightmare Throne
+
+Ojama Pink
+
+Emperor's Staff
+
+Sun of Arcana
+
+Ambulanceroid
+
+Mixeroid
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+[i]Cooperation[/i] — Whenever another creature you control enters, you gain 1 life. As long as you control three or more creatures that share a creature type, put a +1/+1 counter on it. => Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+[i]Cooperation[/i] — Whenever another creature you control enters, you gain 1 life. As long as you control three or more creatures that share a creature type, put a +1/+1 counter on it.
+
+Vehicroid Connection Zone
+
+Mirage Dragon
+
+Dark World Punishment
+
+Spirit Barrier
+
+Elemental Hero Bubbleman
+
+Ojama Blue
+
+Mokey Mokey
+
+Insurance
+
+Elemental Hero Absolute Zero
+
+Code Change
+
+Crystal Beast Cobalt Eagle
+
+Hierophant of Arcana
+
+Card of Reversal
+
+Advanced Crystal Beast Cobalt Eagle
+
+King Mokey Mokey
+
+Nightmare Pain
+
+Evil Hero Dark Gaia
+
+Cyber Ouroboros
+
+Power Wall
+
+Darkworld Warlord
+
+Darkworld Exarch
+
+Destiny Hero Dynatag
+
+Hunter of Black Feathers
+
+Umbral Soul
+
+KA-2 Des Scissors
+
+Cyber Eternity Dragon
+
+Elemental Hero Blazeman
+
+Carboneddon
+
+Cyber Dragon Zwei
+
+Drillroid
+
+Elemental Hero Nova Master
+
+Expressroid
+
+Chthonian Alliance
+
+Destroyersaurus
+
+Thrashing Stego
+
+Emergeroid Call
+cost: {1}{R} => {1}{R}{R}
+
+Thunder Crash
+
+E — Emergency Call
+
+Kaibaman
+
+Ojamatch
+
+Air Hummingbird
+
+Elemental Hero Woodsman
+
+Crystal Beast Amethyst Cat
+
+Dark Driceratops
+
+Advanced Crystal Beast Topaz Tiger
+
+Cyclone Wing
+
+Unhappy Maiden
+
+Mirror Gate
+
+Elemental Hero Shining
+
+Emperor of Arcana
+
+World of Arcana
+
+Hanged of Arcana
+
+Super Vehicroid Stealth Union
+
+Lightning Vortex
+
+Copycat
+
+Cursed Seal of the Forbidden Spell
+
+DNA Surgery
+
+Moon of Arcana
+
+Destiny Hero Denier
+
+Advanced Crystal Beast Sapphire Pegasus
+
+Drowning Mirror Force
+
+Cyberdark Dragon
+
+Dark Armed Dragon
+
+Cyber Valley
+
+Destiny Hero Plasma
+
+Mad King of Darkworld
+
+Darkworld Dragon Lord
+
+Darkness Destroyer
+
+Cyber End Dragon
+
+Super Conductor Tyranno
+
+Stealthroid
+
+Armed Dragon
+
+Wonder Garage
+
+Demise of the Land
+
+Cyber Angel Natasha
+rules_text: Combination Sequence 0—{2}{R}{R} [i](Split second. Sacrifice a creature united with zero permanents. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)[/i]
+Haste, trample
+When this creature enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn. => Combination Sequence 0—{2}{R}{R} [i](Split second. Sacrifice a creature united with zero permanents. Put this card onto the battlefield under your control from your hand, the command zone, or from outside the game. Activate only as a sorcery.)[/i]
+Trample
+When this creature enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+
+Ultimate Tyranno
+
+Mecha Ojama King
+
+Advanced Crystal Beast Ruby Carbuncle
+
+Gladiator Beast Alexander
+
+Hero's Guard
+
+Flute of Summoning Kuriboh
+
+Elemental Recharge
+
+Fulfillment of the Contract
+
+Neos Force
+
+Drain Time
+
+Cyber Angel Vrash
+
+Enchanting Fitting Room
+
+Nightshroud, Darkness Incarnate
+
+Power Bond
+cost: {3}{R} => {4}{R}{R}
+rules_text: Unite up to two creatures you control.
+[i]Fusion[/i] — Then you may sacrifice a united permanent. If you do, reveal a card with Combination Sequence X from your hand or outside the game and put it onto the battlefield, where X is the number of permanents it was united with. It gains haste until end of turn.
+Then choose a creature you control. Double its power until end of turn. => Unite up to two creatures you control.
+[i]Fusion[/i] — Then you may sacrifice a united permanent. If you do, reveal a card with Combination Sequence X from your hand or outside the game and put it onto the battlefield, where X is the number of permanents it was united with. It gains haste until end of turn.
+Then choose a creature you control. Double its power until end of turn. Exile it at the beginning of the next end step.
+
+EN — Engage Neo Space
+
+Gladiator Beast Heraklinos
+
+Cup of Ace
+
+Destiny Hero Decider
+
+Cyber Dragon
+
+Dyna Tank
+
+Fifth Hope
+
+Jaden Yuki, The Supreme King
+
+Water Dragon
+
+Giant Rat
+
+Elemental Hero Sparkman
+
+Rainbow Dark Dragon
+
+Sartorius Kumar, Light of Arcana
+
+Destiny Hero Dreadmaster
+
+Cyberdark Dragon
+
+Elemental Hero Flame Wingman
+
+Elemental Hero Neos
+
+Phantom of Yubel
+
+Cyber Angel Izana
+
+Ojama Knight
+
+Mask Change
+
+Rainbow Dragon
+
+Duel Vest
+
+Pot of Benevolence
+
+Crystal Beacon
+
+Dragon Heart
+
+Swing of Memories
+
+Pot of Riches
+
+Rainbow Bridge
+
+Photon Generator Unit
+
+Cyber Angel Dakini
+
+Hero Shield
+
+Duel Arena
+
+Ojama Country
+
+Cybernetic Fusion Reactor
+
+Arcana Barrier
+
+Heroic Skyscraper
+
+Jurassic World
+
+Fusion Gate
+
+Ojama King
+
+Ojama Solidarity
+
+Alexis Rhodes, Queen of Obelisk Blue
+
+Claudius, Gladiator Beast
+
+Super Polymerization
+
+The Ojama Emperor
+
+Uria, Lord of Searing Flames
+
+Raviel, Lord of Striking Thunder
+
+Hamon, Lord of Phantasms
+
+Polymerization
+
+Jesse Anderson, Crystal Keeper
+
+Chazz Princeton, Black Thunder
+
+Aster Phoenix, Professional Duelist
+
+Syrus Truesdale, Cyber Successor
+
+Bastion Misawa, Dueling Mastermind
+
+Zane Truesdale, Hell Kaiser
+
+Jaden Yuki, Hopeful Initiate
+
+Tyranno Hassleberry, Saurian Sargeant
+
+Yubel, Phantom Nightmare
+
+Chaos Ruler of Arcana
+
+Jaden and Yubel, Suffering Intertwined
+
+Cyber Dragon Core
+
+Darkworld Door
+
+Rainbow Ruins
+
+Clock Tower Prison
+
+Megaroid City
+
+Chemical Lab
+
+Chicken Game
+
+Duel Academy
+
+Ra Yellow Dorm
+
+Obelisk Blue Dorm
+
+Slifer Red Dorm
+
+Dark World
+
+Mature Chronicle
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — Create two 1/1 white Spirit creature tokens named Duel Spirit.
+II, III — Put a +1/+1 counter and an aether counter on target creature you control.
+IV — Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.
+V — Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 white Spirit creature tokens named Duel Spirit.
+Put a +1/+1 counter and an aether counter on target creature you control.
+Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.
+Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — Create two 1/1 white Spirit creature tokens named Duel Spirit.
+II, III — Put a +1/+1 counter and an aether counter on target creature you control.
+IV — Spirits, Nightmares, and modified creatures you control get +2/+0 until end of turn.
+V — Search your library for a colorless instant or sorcery card, reveal it, put it into your hand, then shuffle.
+
+Duel Spirit
+
+Hero
+
+Toy Construct
+
+Faerie
+
+Dinosaur
+
+Cyber Soldier
+
+Fusion Substitute
+
+Treasure
+
+Beast Warrior
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Phantom of Yubel added.
