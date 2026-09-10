@@ -5,7 +5,7 @@
 			<name>VRM</name>
 			<longname>Velesta ReMade</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-06</releasedate>
+			<releasedate>2026-09-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4684,7 +4684,7 @@ As long as Auriel entered this turn, you may activate Auriel&apos;s loyalty abil
 		</card>
 		<card>
 			<name>Gilban, Uninhibited</name>
-			<text>[+2]: Up to target creature you control gets +2/+0 until end of turn.
+			<text>[+2]: Up to one target creature you control gets +2/+0 until end of turn.
 [0]: Exile the top card of your library. You may play it this turn.
 [-X]: Gilban deals X damage to any target.</text>
 			<set rarity="mythic" picurl="https://MSE-Hub/sets/VRM-files/img/267.jpg" num="141">VRM</set>

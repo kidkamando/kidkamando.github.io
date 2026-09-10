@@ -1,4 +1,22 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Gilban, Uninhibited
+rules_text: [+2]: Up to target creature you control gets +2/+0 until end of turn.
+[0]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target. => [+2]: Up to one target creature you control gets +2/+0 until end of turn.
+[0]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target.
+special_text: [+2]: Up to target creature you control gets +2/+0 until end of turn.
+[0]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target. => [+2]: Up to one target creature you control gets +2/+0 until end of turn.
+[0]: Exile the top card of your library. You may play it this turn.
+[-X]: Gilban deals X damage to any target.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

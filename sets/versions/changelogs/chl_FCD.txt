@@ -1,4 +1,682 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Logistics Runner
+
+Habitat Constructor
+
+Voidic Channeler
+
+Thaxian Mentor
+
+Coalition Combatant
+
+Overburdened Packbot
+
+Starship Weaponsmith
+
+Phasebound Lookout
+
+Shatter the Void
+
+Targeted Barrage
+
+Promising Charge
+
+Stellas Lightblade
+
+Old-Era Starsuit
+
+Phasic Return
+
+Phaselight Barrier
+
+Transiate
+
+Uncollapsible State
+
+Enlisted Ordnance
+
+Thought Feeder
+
+Cosmic Study
+
+Voidchasm Emergence
+
+Voidling Nourishment
+
+Coolant Injector System
+
+Hack
+
+Thoughtless Descent
+
+Absent Archive
+rules_text:  => When this artifact enters, return target nonland permanent to its owner's hand. They mill cards equal to its mana value.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] Flying
+At the beginning of your upkeep, target player mills a card. [3/4]
+
+Thought Inverter
+
+Spurning Starsquid
+rules_text: Flash
+During your turn, this spell costs {2} less to cast.
+When Spurning Starsquid enters, target permanent's owner puts it on their choice of the top or bottom of their library. => Flash
+During your turn, this spell costs {2} less to cast.
+When Spurning Starsquid enters, target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+
+Indelidan
+
+Battlefront Sentinel
+
+Agile Cosmagician
+
+Accumulated Insight
+
+Idiom Robber
+
+Emergency Summit
+
+Perverted Raptor
+
+Asteroid Excavator
+
+Fuel Leak
+
+Duskborn Commando
+
+Phasebound Voidling
+
+Unak's Tragic Descent
+
+Edict Eater
+
+Duskborn Wayfinder
+
+Darkwurm Voidling
+
+Exo Voidling
+
+Duskborn Arrival
+
+Concept Scraper
+
+Shielded Assault Troop
+
+Antimaterial Aberration
+
+Calamitous Dreadmaw
+
+Bloodborn Witherer
+
+Soarnith Surveyor
+
+Corruptive Rebirth
+
+Zionnoth Undone
+
+Twilight Founder
+
+Stabilized Darklight
+
+Wurmway Electrowave
+
+Ace's Assistant
+
+Starry-Eyed Preacher
+
+Grounded Pilot
+
+Lightborn Shockspitter
+
+Alliance Searslicer
+
+Stellastorm Knight
+
+Reckless Maneuver
+
+Short-Circuit
+
+Retrofit
+
+Destructive Stereolithograph
+
+Reduce Load
+
+Afterburner Dogfighter
+
+Autonomous Combat Protocol
+rules_text: Enchant creature
+Enchanted creature must be blocked if able.
+Enchanted creature gets +1/+1 and has “[i]Alert[/i] — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, this creature gains ward {1} until end of turn.” [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Enchant creature
+Enchanted creature must be blocked if able.
+Enchanted creature gets +1/+1 and has “[i]Alert[/i] — Whenever a triggered ability of a permanent an opponent controls triggers for the first time each turn, this creature gains ward {1} until end of turn.” [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+Excited Specialist
+
+Orbital Deployment Railcannon
+rules_text: Fuel 1 [i](When this artifact enters, exile the top card of your library as this artifact's fuel.)[/i] => {R}, Sacrifice this Spacecraft: Draw a card. The next spell you cast this turn can't be countered. Activate only as a sorcery.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 10+] Flying, trample [5/5]
+
+Corrupted Mauler
+
+Accelerated Terraformation
+
+Thaxian Accomodation
+
+Lorren Cultivator
+
+Quenching Ooze
+
+Lightweft Meteorologist
+
+Tranquil Slime
+
+Blooming Nuisance
+
+Twinhead Tyrant
+
+Branch Awner
+
+Wall Strider
+
+Rip From Orbit
+
+Infrared Camouflage
+
+Curated Modification
+
+Phasic Amp Hammer
+
+Astral Expansion
+
+Swelling Swarm
+
+Non-Newtonian Slime
+
+Simulated Exisistence
+
+Serraphic Furybringer
+
+Hangar Marshall
+
+Battery Scrounger
+
+Virtuous Strike
+
+Tideskimmer Silkfisher
+
+Coordinated Offensive
+
+Thrust Booster
+
+Covenant Transportship
+rules_text:  => When this Spacecraft enters, create two 1/1 white Thax Soldier Ally creature tokens.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 9+] Flying, lifelink [3/4]
+
+Perfidous Gambit
+
+Oppose
+
+Stellar Rift
+
+Refuel
+
+Tank Repletion
+
+Gusting Wavemaker
+
+Time-Stretched Riddlemaker
+
+Advanced Overwatch
+
+Curated Corvette
+rules_text: {T}: Draw a card, then discard a card. => {T}: Draw a card, then discard a card.
+{1}: Put a charge counter on this Spacecraft.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [3/4]
+
+Stellas Revelation
+
+Calculated Maneuver
+
+Hyperburn Exo-Trooper
+
+Siege Charger
+
+Sanity Spiral
+
+Duskborn Constructor
+
+Terrors of the Twilight
+
+Distorted Volunteer
+
+Duskborn Corvette
+rules_text:  => At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] Flying, deathtouch [2/4]
+
+Void's Whisper
+
+Ominous Pull
+
+Ore-rich Asteroid
+
+Uncovered Worlds
+
+Weapons Inspector
+
+Rapid Deployment
+
+Planet Blazer
+
+Ancillary Operator
+
+Osuna Stormwaker
+
+Scoric Instigator
+
+Heroic Bombardment
+
+Immediate Deployment
+
+Planetoid Miner
+
+Lunar Explorer
+
+Origin's Slimebinder
+
+Sown Rewards
+
+Shielded Priority
+
+Shielded Brawl
+
+Instinctive Aim
+
+Coney Commando
+
+Curated Reshaper
+rules_text:  => You may play an additional land on each of your turns.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 11+] Flying, trample
+Other creatures you control get +2/+2. [6/5]
+
+Weather Satellite
+rules_text:  => At the beginning of your upkeep, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] Flying [2/3]
+
+Sire of Origin
+
+Stellas Honor Guard
+
+Force of Honor
+
+Charismatic Chaplain
+
+Conscript's Prisonstation
+rules_text:  => When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft's fuel.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] At the beginning of your end step, put a card from among this Spacecraft's fuel into its owner's graveyard. When you do, create two 1/1 white Thax Soldier Ally creature tokens.
+
+Unlikely Outcome
+
+Unnatural Stabilization
+
+Involuntary Gifts
+
+Starsquid Voidling
+
+Dock Inspector
+
+Force of Ingenuity
+
+Disconnected Relay
+rules_text:  => Whenever a charge counter is put on this Spacecraft, each opponent mills a card.
+Station
+Flying
+[level 12+] Whenever you draw one or more cards or scry one or more cards, put a charge counter on target artifact you control. [4/4]
+
+Wurmway Collapse
+
+Lifestation, Emptied
+
+Caustic Darkbeast
+
+Zionnoth, Corrupted
+
+Force of Spite
+
+Exopuppet Fabricator
+
+Propagating Darkbeast
+
+Twilight Madness
+
+Swirling Voidcore
+
+Force of Passion
+
+Darklight Elemental
+
+Squadron Leader
+
+Combat Replicator
+
+Combustible Colossus
+
+Biosphere Monitor
+
+Force of Stability
+
+Antimaterial Reflection
+
+Genetic Germination
+
+Gloop Thrower
+
+Origin, Engineered Entity
+
+Runic Darkwurm
+
+Conman's Wurmway
+
+Dread Ambusher
+
+Kai'Kellon, Spacetime Protector
+
+Augur of Preparation
+
+Voidling Sanighoyf
+
+Encroaching Twilight
+
+Cleansing Clag
+
+Farmworld Altruist
+
+Voya's Apprentice
+
+Caustic Goop
+
+Resourceful Skipper
+
+Fabricate Biosphere
+
+Stellas Caretaker
+
+Unak, Twisted Duskborn
+
+Darklight Mirrorship
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 2+] At the beginning of combat on your turn, choose a creature that stationed this Spacecraft this turn. Create a token copy of it. It gains haste. Sacrifice it at the beginning of the next end step.
+[level 7+] Whenever a token you control would deal damage to an opponent, it deals double that damage instead.
+
+Bloodbraid Darkwurm
+
+Phaselight Captain
+
+Rhest Ko, Vaserian Dissenter
+
+Unstable Replication
+
+Wetworld Behemoth
+
+Coalition Commander
+
+Osuna Stormserpent
+
+Phaselight Converter
+
+Scatterblaster
+
+Vaserian Jetboots
+
+Infinite Mass Cannon
+
+Personal Phaselight Generator
+rules_text: Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature has indestructible.
+Equip {3}
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature has indestructible.
+Equip {3}
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Hull Plater
+
+Silent Tower
+
+Scrambler Satellite
+rules_text: When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library. => When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 3+] Flying, trample
+Whenever this Spacecraft attacks, target player mills ten cards. [7/9]
+
+Wurmway Watcher
+rules_text: Vigilance
+When Wurmway Watcher enters, scry 4. [i](Look at the top four cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => When Wurmway Watcher enters, scry 4. [i](Look at the top four cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+{4}: Put a charge counter on this artifact.
+[level 1+] Flying, vigilance [4/4]
+
+Rhest's Reinforcements
+
+Starlight Shaman
+
+Coalition Tradeship
+rules_text:  => {1}, {T}: Create a tapped Treasure token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Flying, vigilance
+{T}, Sacrifice an artifact: Draw a card. [3/2]
+
+Reseeded Biosphere
+
+Fractured Horizon
+
+Voya, Rejector of Prophecy
+
+Weft-Taught Strength
+
+The Twilight Voidchasm
+
+Twilight Malediction
+
+Mass Desertion
+
+Attentive Voidwatcher
+
+Rhosha, Unbound Researcher
+
+Lio, Fate Unsure
+
+Jaster, Zionnoth's Successor
+
+Shara, Chance Multiplied
+
+Tenuous Ally
+
+Imperfect Imitation
+
+Memory of a Friend
+
+Disruptor Field
+
+Young Neoline
+
+Dire Ejection
+
+Echoed Price
+
+Nebula Harvester
+
+Void Harvester
+
+Amelioration
+
+Darklight Replication
+
+Matter Harvester
+
+Spell Gunger
+
+Energy Clag
+
+Duskborn Envoy
+
+Catalystic Caretaker
+
+Planet-Cracker, World Harvester
+
+Soul Harvester
+
+Deepspace Scanner
+
+Duskborn Dwelling
+
+Curated Seedpod
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 1+] {1}, {T}, Sacrifice this artifact: Create a Wastes basic land token. [i](It's a colorless land with “{T}: Add {C}.”)[/i]
+[level 3+] Flying
+{T}, Sacrifice this artifact: Choose a basic land type. Target land you control becomes that type in addition to its other types. [3/2]
+
+Leeching Voidmite
+
+Thirisene Depot
+
+Exotic Utopia
+rules_text:  => {T}: Add one mana of any color that a land another player controls could produce.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] {T}: Add two mana of any one color.
+
+Genetic Goopworld
+rules_text:  => This land enters tapped.
+{T}: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Vigilance
+This creature is an Ooze in addition to its other types. [3/3]
+
+Obstructing Asteroid
+rules_text:  => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 4+] {T}, Sacrifice this land: Destroy target land. You and that land's controller each create a Wastes basic land token. [i](It's a colorless land with “{T}: Add {C}.”)[/i]
+
+Shifting Polycore
+
+Breach Reality
+
+Curation Scoutprobe
+
+Duskborn Vendor
+
+Birth of Starlight
+
+Wandering Comet
+rules_text:  => {T}: Add {C}
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {6}, {T}: Search your library for a creature card, put it into your hand, then shuffle.
+
+Thirisene Condenser
+
+Stellas Umbra
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has lifelink.
+Totem armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has lifelink.
+Totem armor
+
+Wurmway Stabilizer
+
+Fas Ellor, Unak's Successor
+
+Amelioration Factory
+
+Domed Crofter
+
+Sequestered Sanctuary
+rules_text:  => {T}: Add {C}.
+{1}: Put a charge counter on this land.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 7+] Vigilance [4/4]
+
+Raised in Twilight
+
+Kol, Thaxian Homeworld
+
+Baelis Prime, Lorren Homeworld
+
+Osuna, Starsquid Homeworld
+
+Voidchasm, Darkbeast's Ingress
+
+Eln-4, Alliance Homeworld
+
+Hollow Exhibit
+
+Computation Deck
+
+Scorching Barrow
+
+Zoetic Pool
+
+Impact Site
+
+Gentle Pasture
+
+Basking Rock
+
+Nihil Graveyard
+
+Creophagous Wood
+
+Mercantile Guildstation
+rules_text:  => {T}: Add {C}.
+{4}, {T}: Create a tapped Treasure token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] {3}, {T}: Create two 1/1 white Thax Soldier Ally creature tokens.
+
+Curated Surveillance Unit
+
+Grim Massman
+
+Aeronautic Psycho
+
+Swelling Jelly
+
+Vaserian Darkwurm
+
+Reefcovered Serpent
+
+Relentless Assailant
+
+Debate Further
+
+Habitat
+
+Treasure
+
+Thax Soldier Ally
+
+Ameliorator
+
+Ooze
+
+Horror
+
+Spacecraft
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
