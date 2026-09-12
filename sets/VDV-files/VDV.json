@@ -1,9 +1,11 @@
 ﻿{
     "name": "Velesta Divided",
     "formats": "Standard,Eternal,Commander,BVEL",
-    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Olmod, Artistic Flatterrer",
@@ -21,6 +23,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -31,7 +36,7 @@
             "number": 42,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\n{1}{W}, Exile this card from your graveyard: Create a colorless Equipment artifact token named Spirit Weapon with \u201cEquipped creature gets +1/+1\u201d and equip {1}.",
+            "rules_text": "Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]\n{1}{W}, Exile this card from your graveyard: Create a colorless Equipment artifact token named Spirit Weapon with \u201cEquipped creature gets +1/+1\u201d and equip {1}.",
             "flavor_text": "[i]The heirloom of a soldier is often more burden than blessing.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -39,6 +44,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +65,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +86,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +107,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,6 +170,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +191,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +212,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +233,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +254,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -237,6 +275,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -255,6 +296,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +317,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +338,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,6 +359,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -327,6 +380,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -345,6 +401,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -363,6 +422,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -381,6 +443,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -399,6 +464,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -417,6 +485,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -435,6 +506,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -453,6 +527,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -471,6 +548,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -489,6 +569,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -507,6 +590,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -525,6 +611,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,6 +632,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -561,6 +653,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -579,6 +674,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -597,6 +695,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -615,6 +716,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -633,6 +737,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -651,6 +758,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -669,6 +779,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -687,6 +800,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -705,6 +821,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -723,6 +842,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -741,6 +863,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -759,6 +884,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -777,6 +905,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -795,6 +926,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -813,6 +947,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -831,6 +968,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -849,6 +989,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -867,6 +1010,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -885,6 +1031,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -903,6 +1052,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -921,6 +1073,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -939,6 +1094,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -957,6 +1115,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -975,6 +1136,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -993,6 +1157,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1011,6 +1178,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1029,6 +1199,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1047,6 +1220,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1065,6 +1241,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1083,6 +1262,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1101,6 +1283,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1119,6 +1304,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1137,6 +1325,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1155,6 +1346,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1173,6 +1367,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1191,6 +1388,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1209,6 +1409,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1227,6 +1430,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1245,6 +1451,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1263,6 +1472,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1281,6 +1493,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1299,6 +1514,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1317,6 +1535,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1335,6 +1556,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1353,6 +1577,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1371,6 +1598,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1389,6 +1619,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1407,6 +1640,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1425,6 +1661,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1443,6 +1682,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1461,6 +1703,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1479,6 +1724,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1497,6 +1745,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1515,6 +1766,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1533,6 +1787,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1551,6 +1808,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1569,6 +1829,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1587,6 +1850,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1605,6 +1871,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1623,6 +1892,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1641,6 +1913,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1659,6 +1934,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1677,6 +1955,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1695,6 +1976,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1713,6 +1997,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1731,6 +2018,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1749,6 +2039,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1767,6 +2060,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1785,6 +2081,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1803,6 +2102,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1821,6 +2123,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1831,7 +2136,7 @@
             "number": 24,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Enchant creature\nWard {1} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nEnchanted creature has double strike. [i](That creature deals both first-strike and regular combat damage.)[/i]",
+            "rules_text": "Enchant creature\nWard {1} [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nEnchanted creature has double strike. [i](That creature deals both first-strike and regular combat damage.)[/i]",
             "flavor_text": "[i]\u201cStrike, parry, riposte.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1839,6 +2144,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1857,6 +2165,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1875,6 +2186,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1893,6 +2207,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1911,6 +2228,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1929,6 +2249,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1947,6 +2270,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1965,6 +2291,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1983,6 +2312,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2001,6 +2333,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2019,6 +2354,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2037,6 +2375,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2055,6 +2396,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2073,6 +2417,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2091,6 +2438,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2109,6 +2459,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2127,6 +2480,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2145,6 +2501,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2163,6 +2522,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2181,6 +2543,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2199,6 +2564,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2217,6 +2585,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2235,6 +2606,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2253,6 +2627,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2271,6 +2648,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2289,6 +2669,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2307,6 +2690,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2325,6 +2711,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2343,6 +2732,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2361,6 +2753,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2379,6 +2774,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2397,6 +2795,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2415,6 +2816,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2433,6 +2837,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2451,6 +2858,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2469,6 +2879,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2487,6 +2900,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2505,6 +2921,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2523,6 +2942,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2541,6 +2963,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2559,6 +2984,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2577,6 +3005,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2595,6 +3026,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2613,6 +3047,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2631,6 +3068,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2649,6 +3089,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2667,6 +3110,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2685,6 +3131,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2703,6 +3152,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2721,6 +3173,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2739,6 +3194,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2757,6 +3215,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2775,6 +3236,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2793,6 +3257,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2811,6 +3278,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2829,6 +3299,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2847,6 +3320,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2865,6 +3341,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2883,6 +3362,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2901,6 +3383,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2919,6 +3404,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2937,6 +3425,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2955,6 +3446,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2973,6 +3467,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2991,6 +3488,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3009,6 +3509,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3027,6 +3530,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3045,6 +3551,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3063,6 +3572,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3081,6 +3593,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3099,6 +3614,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3117,6 +3635,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3135,6 +3656,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3153,6 +3677,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3171,6 +3698,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3189,6 +3719,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3207,6 +3740,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3225,6 +3761,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3243,6 +3782,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3261,6 +3803,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3279,6 +3824,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3297,6 +3845,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3315,6 +3866,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3333,6 +3887,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3351,6 +3908,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3369,6 +3929,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3387,6 +3950,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3405,6 +3971,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3423,6 +3992,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3441,6 +4013,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3459,6 +4034,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3477,6 +4055,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3495,6 +4076,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3513,6 +4097,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3531,6 +4118,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3549,6 +4139,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3567,6 +4160,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3585,6 +4181,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3603,6 +4202,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3621,6 +4223,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3639,6 +4244,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3657,6 +4265,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3675,6 +4286,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3693,6 +4307,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3711,6 +4328,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3729,6 +4349,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3747,6 +4370,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3765,6 +4391,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3783,6 +4412,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3801,6 +4433,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3819,6 +4454,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3837,6 +4475,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3855,6 +4496,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3873,6 +4517,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3891,6 +4538,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3909,6 +4559,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3927,6 +4580,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3945,6 +4601,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3963,6 +4622,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3981,6 +4643,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3999,6 +4664,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4017,6 +4685,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4035,6 +4706,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4053,6 +4727,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4071,6 +4748,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4089,6 +4769,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -4107,6 +4790,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -4125,6 +4811,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -4143,6 +4832,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -4161,6 +4853,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -4179,6 +4874,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -4197,6 +4895,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4215,6 +4916,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4233,6 +4937,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4251,6 +4958,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4269,6 +4979,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4287,6 +5000,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4305,6 +5021,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4323,6 +5042,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4341,42 +5063,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Spirit Weapon",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Equipment",
-            "number": 10,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Equipped creature gets +1/+1.\nEquip {1}",
-            "flavor_text": "[i]The fragment of the soldier's soul shimmered with ghostly power, conjured by their very will to fight.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Patron's Blessing",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Enchantment \u2014 Aura",
-            "number": 1,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Enchant creature\nEnchanted creature gets +1/+1.",
-            "flavor_text": "[i]The mark was a promise to the Patron, each fragment given in exchange for influence or devotion.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4395,24 +5084,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Soldier",
-            "color": "WG",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Soldier",
-            "number": 8,
-            "color_identity": "WG",
-            "cost": "",
-            "rules_text": "At the beginning of your upkeep, put a forge counter on up to one Aura or Equipment attached to this creature. [i](For each forge counter on that Aura or Equipment, enchanted or equipped creature gets +1/+1.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4431,6 +5105,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4449,6 +5126,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4467,6 +5147,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4485,6 +5168,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4503,42 +5189,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Griffin",
-            "color": "U",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Griffin",
-            "number": 2,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "As long as you control three or more artifacts, this creature has flying.",
-            "flavor_text": "[i]The Nexen forces rarely flew without lances in-hand, the might of their winged charges enough to break any army.[/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Mercenary",
-            "color": "BR",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Mercenary",
-            "number": 6,
-            "color_identity": "BR",
-            "cost": "",
-            "rules_text": "{T}: Put a +1/+1 on target creature. At the beginning of the next end step, remove a +1/+1 counter from that creature. Activate only as a sorcery.",
-            "flavor_text": "[i]\u201cBetter underhanded than under the dirt.\u201d[/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4557,6 +5210,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4575,6 +5231,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4593,6 +5252,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4611,6 +5273,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4629,6 +5294,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4647,6 +5315,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4665,6 +5336,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4683,24 +5357,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Golem",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Golem",
-            "number": 9,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "This creature can't block nonartifact creatures.",
-            "flavor_text": "[i]The Gatebreakers fell to the hammers at their knees, their powerful blows not meant for moving mortals.[/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4719,6 +5378,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4737,6 +5399,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4755,6 +5420,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4773,6 +5441,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4791,6 +5462,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4801,7 +5475,7 @@
             "number": 52,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\n{W}, Sacrifice this creature: Destroy target artifact or enchantment.",
+            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nLifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]\n{W}, Sacrifice this creature: Destroy target artifact or enchantment.",
             "flavor_text": "[i]\u201cSelor bless me! I will rise us up higher than before!\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4809,6 +5483,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4827,6 +5504,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4845,6 +5525,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4863,6 +5546,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4881,6 +5567,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4899,6 +5588,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4917,6 +5609,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4935,6 +5630,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4953,6 +5651,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4971,6 +5672,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4989,6 +5693,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5007,6 +5714,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5025,6 +5735,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5043,6 +5756,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5061,6 +5777,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5079,6 +5798,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5097,42 +5819,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Treasure",
-            "number": 11,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Illusion",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Enchantment Creature \u2014 Illusion",
-            "number": 3,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "This creature can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5151,24 +5840,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Plant Dinosaur",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Plant Dinosaur",
-            "number": 4,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "*/*",
-            "special_text": "",
-            "shape": "token",
-            "set": "VDV",
-            "loyalty": "",
-            "artist": "",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5187,6 +5861,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5205,6 +5882,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5223,6 +5903,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5233,7 +5916,7 @@
             "number": 272,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Equipped creature has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nWhenever equipped creature attacks, create a 3/3 red and green Plant Dinosaur creature token.\nTeam Equip {3} [i]({3}: Attach to target creature your team controls. Equip only as a sorcery.)[/i]",
+            "rules_text": "Equipped creature has ward {1}. [i](Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nWhenever equipped creature attacks, create a 3/3 red and green Plant Dinosaur creature token.\nTeam Equip {3} [i]({3}: Attach to target creature your team controls. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5241,6 +5924,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5259,6 +5945,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5277,6 +5966,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5295,6 +5987,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5313,6 +6008,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5331,6 +6029,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5349,6 +6050,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5367,6 +6071,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5385,6 +6092,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5403,6 +6113,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5421,6 +6134,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5439,6 +6155,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5457,6 +6176,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5475,6 +6197,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5493,6 +6218,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "295",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5511,6 +6239,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "296",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5529,6 +6260,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "297",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5547,6 +6281,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "298",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5565,6 +6302,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "299",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5583,6 +6323,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "300",
+            "rotated": false,
             "notes": "!landslot"
         },
         {
@@ -5601,6 +6344,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "301",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5619,6 +6365,198 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "302",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Spirit Weapon",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Equipment",
+            "number": 10,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Equipped creature gets +1/+1.\nEquip {1}",
+            "flavor_text": "[i]The fragment of the soldier's soul shimmered with ghostly power, conjured by their very will to fight.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "303",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Patron's Blessing",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Enchantment \u2014 Aura",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Enchant creature\nEnchanted creature gets +1/+1.",
+            "flavor_text": "[i]The mark was a promise to the Patron, each fragment given in exchange for influence or devotion.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "304",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Soldier",
+            "color": "WG",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Soldier",
+            "number": 8,
+            "color_identity": "WG",
+            "cost": "",
+            "rules_text": "At the beginning of your upkeep, put a forge counter on up to one Aura or Equipment attached to this creature. [i](For each forge counter on that Aura or Equipment, enchanted or equipped creature gets +1/+1.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "305",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Griffin",
+            "color": "U",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Griffin",
+            "number": 2,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "As long as you control three or more artifacts, this creature has flying.",
+            "flavor_text": "[i]The Nexen forces rarely flew without lances in-hand, the might of their winged charges enough to break any army.[/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "306",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Mercenary",
+            "color": "BR",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Mercenary",
+            "number": 6,
+            "color_identity": "BR",
+            "cost": "",
+            "rules_text": "{T}: Put a +1/+1 on target creature. At the beginning of the next end step, remove a +1/+1 counter from that creature. Activate only as a sorcery.",
+            "flavor_text": "[i]\u201cBetter underhanded than under the dirt.\u201d[/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "307",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Golem",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Golem",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "This creature can't block nonartifact creatures.",
+            "flavor_text": "[i]The Gatebreakers fell to the hammers at their knees, their powerful blows not meant for moving mortals.[/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "308",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 11,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "309",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Illusion",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Enchantment Creature \u2014 Illusion",
+            "number": 3,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "This creature can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "310",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Plant Dinosaur",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Plant Dinosaur",
+            "number": 4,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "*/*",
+            "special_text": "",
+            "shape": "token",
+            "set": "VDV",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "311",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5637,6 +6575,9 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "312",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5655,8 +6596,11 @@
             "set": "VDV",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "313",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

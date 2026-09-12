@@ -1,4 +1,646 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Olmod, Artistic Flatterrer
+
+Senior Soldier
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+{1}{W}, Exile this card from your graveyard: Create a colorless Equipment artifact token named Spirit Weapon with “Equipped creature gets +1/+1” and equip {1}. => Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+{1}{W}, Exile this card from your graveyard: Create a colorless Equipment artifact token named Spirit Weapon with “Equipped creature gets +1/+1” and equip {1}.
+
+Angelic Ascension
+
+Glyph of Perception
+
+Study of Quality
+
+Ingenius Bladesmith
+
+Bestower of Blessings
+
+Glyphcarving Armorer
+
+Snap Strike
+
+Starsteel Sword
+
+Scrambling Lancer
+
+Arming Arms
+
+Finisher's Flail
+
+Blessed Brawler
+
+Impaled Clayguard
+
+Protector of the Clan
+
+Prisoner of Battle
+
+Patrons Willing
+
+Erroneous Hubris
+
+Expunge Fragility
+
+Winged Helm
+
+Optimistic Artificer
+
+Rockshopper Crab
+
+Fierce Captain
+
+Artoras' Familiar
+
+Growing Knowledge
+
+Cloudtop Partners
+
+Elusive Spellblade
+
+Sword Hoarder
+
+Pylonic Golem
+
+Magnetic Dispersal
+
+Starsteel Amulet
+
+Glyph of Soaring
+
+Teach by Tool
+
+Soulsword Soldier
+
+Craftsman's Anvil
+
+Ferrous Fetterment
+
+Bladeback Golem
+
+Artificer's Retrieval
+
+Nihilblade Recruit
+
+Ferocious Bonemasher
+
+Glyph of Fright
+
+Trade of Steel
+
+Gologian Prophet
+
+Marrdri Marauder
+
+Swallowing Singewing
+
+Rover's Hawk
+
+Warrior's Lineage
+
+Thought Scalpel
+
+Fated Decay
+
+Hired Blades
+
+Might-Minded Memory
+
+Crypt Watcher
+
+Battle Madness
+
+Anvillic Metalshaper
+
+Gift to Progeny
+
+Venerated Fountain
+
+Misplaced Confidence
+
+Swift Slasher
+
+Fierce Raider
+
+Reforge
+
+Greatsword Mageblade
+
+Glyph of Truculence
+
+Chosen's Blast
+
+Brothers in Banditry
+
+Maraudic Mayhem
+
+Captain's Crest
+
+Devastating Polehammer
+
+Thieving Deckjumper
+
+Rakish Rebel
+
+Show of Force
+
+Armored Armasaur
+
+Chaotic Empowerment
+
+Scrapsteel Worker
+
+Disorienting Flashflame
+
+Coruscate Collection
+
+Change of Perspective
+
+Underwood Protector
+
+Glyph of Belligerence
+
+Patronic Intervention
+
+Utopic Blessing
+
+Observant Outfitter
+
+Emboldened Evangel
+
+Hidden Archer
+
+Blessed Bloomblade
+
+Instinctual Blow
+
+Undiscovered Might
+
+Curator of Evolution
+
+Flourishing Flamebloom
+
+Undergrove Vigil
+
+Escalation Exarch
+
+Bloomblessed Warhammer
+
+Underwood Meganeae
+
+Shepard's Roarhorn
+
+Auratic Ant
+
+Swordspinner
+
+Espratan Spellblade
+
+Bereavement
+
+Soaring Forgespear
+
+Spirit Welder
+
+Squire of Selor
+
+Fencer's Expertise
+rules_text: Enchant creature
+Ward {1} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Enchanted creature has double strike. [i](That creature deals both first-strike and regular combat damage.)[/i] => Enchant creature
+Ward {1} [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Enchanted creature has double strike. [i](That creature deals both first-strike and regular combat damage.)[/i]
+
+Supplied Surveyor
+
+Linked Offensive
+
+Ascendant's Crown
+
+Lancer's Expertise
+
+Phalanx Formation
+
+Conduit Leecher
+
+Stall Out
+
+Reactionary Step
+
+Sculptormite
+
+Selorian Caduceus
+
+Prideful Smith
+
+Stonecarved Stonecarver
+
+Model Duplication
+
+Trade for Secrets
+
+Leadened Foot
+
+Monstrous Metalshell
+
+Corpseground Comber
+
+Gologian Ritetaker
+
+Thieving Bloodrager
+
+Nihilic Witness
+
+Roadway Ambush
+
+Kell's Edict
+
+Brigand Boss
+
+Ceaseless Combatant
+
+Life to Waste
+
+Spoils of War
+
+Purchase of Power
+
+Novel Search
+
+Aggressive Glyphcarver
+
+Inspired Mightmaker
+
+Bladed Twin-Staff
+
+Bone-Chilling Berserker
+
+Outfit for War
+
+Rage of the Underwood
+
+Haestoric Blaze
+
+Trash Trader
+
+Influential Waylayman
+
+Underwood Emblazer
+
+Sprouting Thornsword
+
+Akic Assault
+
+Chosen Champion
+
+Adaptive Phylosaur
+
+Bloom Nurturer
+
+Ordeal of Phaetilis
+
+Phaetillic Heirloom
+
+Carve Into Strength
+
+Cornered Ferocity
+
+Fly Home
+
+Observe Adaptation
+
+Magnelephant, Living Weapon
+
+Escara, Phalanx Captain
+
+Cleansing Manathief
+
+Compounding Commendation
+
+Selorian Plate
+
+Patronic Divulgence
+
+Royal Armorer
+
+Artoras, Stone Shaper
+
+Magnetic Stormbringer
+
+Graviturgic Ferrotomaton
+
+Awakened Shieldguard
+
+Consult the Oracle
+
+Transmutant Gem
+
+Magnetic Repulse
+
+Rise From Defeat
+
+Known Absence
+
+Shadowy Familiar
+
+Soaring Doombringer
+
+Blessed Reckoner
+
+Crumbling Force
+
+Fool's Memorose
+
+Aggravated Axe-Pitcher
+
+Lance of Divergence
+
+Renowned Metalsmith
+
+Capricious Stormslasher
+
+Sigil of Elio
+
+Ferocity of Phaetilis
+
+Deceptive Shimmer
+
+Calamitous Chlorotyrant
+
+Ferocious Floraptor
+
+Phytomaw, Rampaging Dreadclaw
+
+Tyrannic Strength
+
+Flourishing Undergrove
+
+Akic Resolve
+
+Unrelenting Slimestool
+
+Starsteel Jitte
+
+Army-Wide Surrender
+
+Ciren, Skyknight Strategist
+
+Patient Control
+
+Vira Ironhorn, Doubly Gifted
+
+Shimmerstorm
+
+Carbur Skullrunner, Charging Brute
+
+Patronic Evolution
+
+Roar of the Herd
+
+Voice of A'Aka
+
+Unrelenting Skycharger
+
+Flitting Nihilblade
+
+Wailing Whorl
+
+Fervid Floraptor
+
+Nurturer of Bounty
+
+Expose Mortality
+
+Magnetize
+
+Cyclic Soultender
+
+Herald of the Helix
+
+Deepblue Cetacean
+
+Exalted Prayermaster
+
+Tricksy Dustsharer
+
+Mayhem Spewer
+
+Ardent Aflamer
+
+Shimmering Glimmergiver
+
+Fading Prowess
+
+Recast Steel
+
+Respectful Skulltender
+
+Unmatched Smith
+
+Burgeoning Hydra
+
+Traveler's Bo-Staff
+
+Nexen Warbow
+
+Armory Enforcer
+
+Wanderer's Whetstone
+
+Impure Crystal
+
+Griffin's Warmantle
+
+Mercenary's Mace
+
+Escara's Frontbearer
+
+Slothic Shimmer
+
+Starsteel Plate
+
+Tectonic Forge
+
+Tumultuous Isle
+
+Tumultuous Grove
+
+Tumultuous Bog
+
+Tumultuous Crag
+
+Tumultuous Field
+
+Cotay Leadon, Undergrove Warden
+
+Wolanne, Honorary Sunheart
+
+Oenaan, Torn by Patronage
+
+Thiir Ma, History's Augur
+
+Asdel, Armory of Esprata
+
+Cellopage, Loose-Leaf Ledger
+
+Codex of Velesta
+
+Blessing of Chaos
+
+Da'Vhen, Rites of Ancestry
+
+Kryrin Lunstride, Storied General
+
+Enaff, Compulsive Conjurer
+
+Phylus Razh, Seeder of Life
+
+Kalamax, Rapacious Apostle
+
+Kestin Vasp, Nexen Magnokinetic
+
+Attiran, Blade of the Chosen
+
+Apparate Enforcer
+
+Armory-gang Defender
+
+Conduit's Galemaker
+
+Twisted Terrorbeak
+
+Incredulous Verdasaur
+
+Territorial Dreadmaw
+
+Damping Bauble
+
+Chosen of the Patron
+
+Shatter
+
+Stealth Twice
+
+Unstoppable Desecrator
+
+Magnetic Drake
+
+Scavenge the Ruins
+
+Uplifted Medic
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+{W}, Sacrifice this creature: Destroy target artifact or enchantment. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+{W}, Sacrifice this creature: Destroy target artifact or enchantment.
+
+Expansive Chonofield
+
+Discarded Destiny
+
+Cleansing of the Underwood
+
+Flowering Ivydon
+
+Auriel, Chosen by Fate
+
+Gilban, Chosen by Discovery
+
+Licium, Chosen by Life
+
+Restra, Chosen by Madness
+
+Wolanne, Chosen by Originality
+
+Apparate Dreamee
+
+Frost Trap
+
+Apostle of Ascension
+
+Apostle of Chaos
+
+Apostle of Endings
+
+Apostle of Repetition
+
+Apostle of Observation
+
+Doubled Delusion
+
+Relaxing Paradise
+
+Mount Drimmalak, Volcanic Forge
+
+Obscuring Billowbreath
+
+Herdleader's Staff
+rules_text: Equipped creature has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever equipped creature attacks, create a 3/3 red and green Plant Dinosaur creature token.
+Team Equip {3} [i]({3}: Attach to target creature your team controls. Equip only as a sorcery.)[/i] => Equipped creature has ward {1}. [i](Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever equipped creature attacks, create a 3/3 red and green Plant Dinosaur creature token.
+Team Equip {3} [i]({3}: Attach to target creature your team controls. Equip only as a sorcery.)[/i]
+
+Tiresome Project
+
+Chosen's Signet
+
+Temple of Discovery
+
+Temple of Madness
+
+Temple of Ascension
+
+Temple of Fate
+
+Temple of Chaos
+
+Temple of Observation
+
+Temple of Originality
+
+Temple of Cycles
+
+Temple of Beginnings
+
+Temple of Nihility
+
+Patronic Ground
+
+Skytouched Silo
+
+Ensparked Reunion
+
+Planar Shift
+
+Spirit Weapon
+
+Patron's Blessing
+
+Soldier
+
+Griffin
+
+Mercenary
+
+Golem
+
+Treasure
+
+Illusion
+
+Plant Dinosaur
+
+Plant Dinosaur
+
+Plant Dinosaur
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
