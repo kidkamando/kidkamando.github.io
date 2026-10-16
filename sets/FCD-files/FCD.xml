@@ -5,7 +5,7 @@
 			<name>FCD</name>
 			<longname>Fractured Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-09</releasedate>
+			<releasedate>2026-10-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2538,7 +2538,7 @@ Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this
 		</card>
 		<card>
 			<name>Conscript&apos;s Prisonstation</name>
-			<text>When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft&apos;s fuel.
+			<text>When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft&apos;s fuel until it leaves.
 Station (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It&apos;s an artifact creature at 8+.)
 [level 8+] At the beginning of your end step, put a card from among this Spacecraft&apos;s fuel into its owner&apos;s graveyard. When you do, create two 1/1 white Thax Soldier Ally creature tokens.</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/FCD-files/img/142.jpg" num="7">FCD</set>
@@ -3560,8 +3560,7 @@ When this land enters, you may discard a card and pay 2 life. When you do, draw 
 		</card>
 		<card>
 			<name>Scrambler Satellite</name>
-			<text>When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.
-Station (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)
+			<text>Station (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)
 [level 3+] Flying, trample
 Whenever this Spacecraft attacks, target player mills ten cards. [7/9]</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/FCD-files/img/200.jpg" num="254">FCD</set>

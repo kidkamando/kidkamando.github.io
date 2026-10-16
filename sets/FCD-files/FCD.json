@@ -2997,10 +2997,10 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft's fuel.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 8+.)[/i]\n[level 8+] At the beginning of your end step, put a card from among this Spacecraft's fuel into its owner's graveyard. When you do, create two 1/1 white Thax Soldier Ally creature tokens.",
+            "rules_text": "When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft's fuel until it leaves.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 8+.)[/i]\n[level 8+] At the beginning of your end step, put a card from among this Spacecraft's fuel into its owner's graveyard. When you do, create two 1/1 white Thax Soldier Ally creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft's fuel.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 8+.)[/i]\n[level 8+] At the beginning of your end step, put a card from among this Spacecraft's fuel into its owner's graveyard. When you do, create two 1/1 white Thax Soldier Ally creature tokens.",
+            "special_text": "When this Spacecraft enters, exile each other artifact and/or creature with mana value 3 or less as this Spacecraft's fuel until it leaves.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 8+.)[/i]\n[level 8+] At the beginning of your end step, put a card from among this Spacecraft's fuel into its owner's graveyard. When you do, create two 1/1 white Thax Soldier Ally creature tokens.",
             "shape": "leveler",
             "set": "FCD",
             "loyalty": "",
@@ -4215,10 +4215,10 @@
             "number": 254,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 3+] Flying, trample\nWhenever this Spacecraft attacks, target player mills ten cards. [7/9]",
+            "rules_text": "\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 3+] Flying, trample\nWhenever this Spacecraft attacks, target player mills ten cards. [7/9]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When Scrambler Satellite enters your graveyard, you may shuffle your graveyard into your library.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 3+] Flying, trample\nWhenever this Spacecraft attacks, target player mills ten cards. [7/9]",
+            "special_text": "\nStation [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]\n[level 3+] Flying, trample\nWhenever this Spacecraft attacks, target player mills ten cards. [7/9]",
             "shape": "leveler",
             "set": "FCD",
             "loyalty": "",
@@ -6161,5 +6161,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }

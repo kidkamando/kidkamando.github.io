@@ -1,0 +1,4552 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Righteous Footman",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Unconstrained Duo",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Elf Cleric",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Courageous Clanmate",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Squired Soldier",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Embolded Swordsman",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Espratan Strike Leader",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Okkan Ascendant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Flanking Pounce",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Wiped Clean",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Slain in Battle",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Timely Champion",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Safeguard's Halberd",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Cleanse Through Devotion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Outbladed Surrender",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Steppe Rallier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Knight",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Moment's Blessing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Charge of the Sunhearts",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Field Rations",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Food",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Spryfield Keeper",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Druid Noble",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Strategic Outmaneuvering",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Hidden Hunter",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Soldier Scout",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Political Dismissal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Nexen Warcaster",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Aerial Linebreaker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Bartered Orders",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Return to Premonition",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Decipher the Past",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Winged Galebringer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Griffin Sorcerer",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Ipri Blankclaw",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Lobster",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Leverage Momentum",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Impel Retreat",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Sift Through Destinies",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Haestoric Moot",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Stormeye Warleader",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Slothic Temptation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Hasty Cogitation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Monocular Entoiler",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Awarded Aegisfoil",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Brutal Nihilblade",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Reverent Familiar",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Marrdri Cleric Shaman",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Eternal-Bound Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Mindbent Puppetteer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Rampaging Rendhorn",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Ruinous Rotbone",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Marrdri Beast",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Taurid Entrant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Banished From Death",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Rip From the Socket",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Tenacious Eradiation",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Bonescrounger",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Marrdri Cleric",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Voracious Scavenger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Marrdri Druid",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Puppet the Blank",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Leveraged Life",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Stampeding Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Nuulian Blightmage",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Twisted Thoughtblight",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Phoenix Beast",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Malevolent Morningstar",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Maiming Wound",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Fallarai Spellfist",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Fire Dart",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Bedlam Bruiser",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Towering Havoc-horn",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Soldier Cleric",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Tumultuous Theurgist",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Lianic Spinax",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Skilled Stormslinger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Veldland Minuteman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Geodic Divulgence",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Voltaic Burst",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Emboldened Blitz",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Thrilling Prospect",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Sudden Stampedes",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Fortune",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Unithalmic Flamestomper",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Galvanic Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Chaotic Selection",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Scaldsand Shadow",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Enchantment Creature — Human Illusion",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Haphazard Ritualist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Sprout Seeder",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Scout",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Enserviced Sower",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Scythestem Slayer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Cleric",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Thrashing Branchiodon",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Farsight Pioneer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Gologian Ritegiver",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Strength of the Groveland",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Defense of the Groveland",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Phytosaurian Stomp",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Verdant Discovery",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Groveland Warden",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Butt Heads",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Saurosage Rider",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Dinosaur Soldier",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Mistveil",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Might of Motivation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Front Regrown",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Siege Brachlorus",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Beating Groveheart",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Zealous Snipebolt",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Druid Archer",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Virtuous Vitality",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Husk Beckoning",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Compliance Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Unspecialized Bannerbearer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Cleric Flagbearer",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Combat Support",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Retrieve the Livery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Battlefield Message-runner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Ray of Simplicity",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Armor of Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Cavalry-Gang Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Expunge From Existence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Prophecy",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Chosen Forthseer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Nexen Galemage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Conceited Spellblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier Sorcerer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Interpret the Earth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Weakening Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Twin Omens",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Unithamlic Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Galeguard Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Griffin Knight",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Sudden Slumber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Arcane Lancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Griffin Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Return to Battle",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Draining Disdain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Disrupt Scheme",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Famished Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Marrdri Cleric",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Destination Shift",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Augur of Ban'Est",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Thought Blank",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Forfeit Identity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Awakening From Ennui",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Languorbloom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Violent Scourgewing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment Creature — Phoenix Illusion",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Sudden Superstorm",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Zealous Spellsword",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Flora Razer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Plant Cleric",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Depthless Flameshot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cyclops Archer Cleric",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Stormshot Zealot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Archer Cleric",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Imperialist Ideation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Defensive Disaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Spotter of Susceptibility",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout Archer",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Incessant Everburn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Regaled Haft-Pike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Erratic Superstorm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Trice Growth",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Dendromorph",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Strength of the Thicket",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Pursuit of Territory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Scout Ahead",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Smitebolt Reinforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Archer Knight",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Canopy Entangler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Alla-Leaf Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Scout",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Keepback Branchiodon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Rootblessed Staff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Plot Demolition",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Recruiter of Originality",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Exios, Guardian of the Pride",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Cat Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Campaign Across Velesta",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Authority of Excellency",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Captive Servitude",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Leader of the Warband",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Archmage of Chaos",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Cyclops Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Kestral Squall",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Emboldened Battlemage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cyclops Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Distract Forces",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Attuned Latticeweaver",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cyclops Sorcerer",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Tuulvoke Spellring",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Reckless Berserker",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Minotaur Berserker",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Greater Medium of Nu'Ul",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Devotee of Simplicity",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Marrdri Cleric",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Missionary of Madness",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Delusion Enforcer",
+			"rarity": "rare",
+			"mana_cost": "{5}{2/B}{2/B}",
+			"type": "Enchantment Creature — Demon Illusion",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Inevitable Resurgence",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Sparkstorm Bottler",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Avure, Fiery Purifier",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Plant Druid",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Fervent Flechan",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Raucous Branchiodon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Havoc Spewer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Cleric",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Vokios, Blood Eye",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Cyclops Sorcerer",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Cotay Leadon, Grove Seeder",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Plant Druid",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Grovetending",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Ragebound Dryasia",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Noble",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Return of the Grovetender",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Barkfrill Protector",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Titanwood Warden",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Chosen Ascendancy",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Echo of Endlessness",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Devastate Sanity",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Famished Earthshaker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Elder Wurm",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Primeval Devasaur",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Selorian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Banian Morrowmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}{B}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Regenerator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Marrdri Beast",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Verdant Pyromaniac",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Orchard Attendant",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Drabic Determinism",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Monoptic Volitation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Graveland Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Archer Scout",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Fanatic Confrontation",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Akian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Divine Inception",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Enchanter's Pursuit",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Surging Witherwing",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Enrazer Captain",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Blooming Grove Heart",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "March of the Mindless",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Chaos Channeler",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Battleground Recycler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Zealot's Cache",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Seaside Skywatcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Tuulvoke Shard",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Treasured Snapper",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Serpent Turtle Construct",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Evoker's Manual",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Book",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Conduit's Condor",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Drifter's Handheld",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Patronic Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Lancer's Spear",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Fleetfoot Greaves",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Starsteel Treasure",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Current Reader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Leviathan Construct",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Redoubted Monastery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Château Nareaux",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Jagged Anchorage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Fortified Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Storied Battlefield",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Lush Landing",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Patronic Domain",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Column-Filled Hills",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Conscript's Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Crumbling Foretress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Haunted Keep",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Battlefront Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Highland Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Blighted Moot",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Scorched Thicket",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Raided Archive",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Blasphemous Pyre",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Moor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Teeming Sea",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Invaluable Depot",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Ransacked Granary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Scouted Pass",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Neutral Settlement",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Prized Trade Route",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Squalling Peak",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Beast-Ridden Backwood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Weapons Foundry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Still River",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Cratered Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Sundered Hall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Experimental Repository",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Perilous Steppe",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Skirmish Ground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Battleground",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Mausoleum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Monastery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Library",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Armory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Clash of Identity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Clash of Territory",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Clash of Legacy",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Clash of Cause",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Clash of Interference",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Liberated Claim",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Sanctific Wildfire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Hollow Exchange",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Mana Breach",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Reinforced Line",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Cotay Leadon, Inception Anew",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Plant Cleric",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Anguillic Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Subordiante Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Banian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Kellian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Phaetillic Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Willian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Nuulian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Haestoran Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Gologian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Elioran Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Trios Ambermane, Heroic Idol",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Cat Cleric",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Eyari Aithlar, Frailty's Fall",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Avox, Codacic Herald",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Marrdri Cleric",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Drotek, Scale of Superiority",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Dragon Cleric",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Raika, Moray Guide",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Alif, Devastation Enraged",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Plant Cleric",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Vara, Thought Thief",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Kavanox, Mocking Marauder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Minotaur Cleric",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Carrak Stormblessed, Anarchomancer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Minotaur Cleric",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Eye of Haestor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Equalized Influence",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Communal Grovemate",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Plant Druid",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Rubble to Resource",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Earthquake Stomper",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Speaker of Savagery",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Enchantment Creature — Demon Illusion",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Forefound Malaise",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Hierarchal Spellbinder",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Growing Discovery",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "There Can Only Be One",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "The Legend of Majesty",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "The Legend of Patronic Augury",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "The Legend of the First Felling",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "The Legend of the Quaking World",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "The Legend of Creation",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Plant Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Cyclops Sorcerer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cyclops Sorcerer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Marrdri Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Marrdri Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Elf Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elf Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Talisman of Chaos",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Phaetillic Rites",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Sorcery",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Gologian Rites",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Sorcery",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Akian Rites",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Sorcery",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Banian Rites",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Elioran Rites",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Sorcery",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Kellian Rites",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Haestoran Rites",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Selorian Rites",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Sorcery",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Willian Rites",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Sorcery",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Nuulian Rites",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Sorcery",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Amulet of Motivation",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Mana Mirage",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment Creature — Illusion",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "Livened Livery",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Distant Scryglass",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Graveshroud",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Vivid Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Enchantment Creature — Illusion",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Spectral Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{8}",
+			"type": "Enchantment Creature — Spirit Illusion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "Devoted to the Cause",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Disputed Lotus",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Augur's Tome",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Book",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Nu'Ul, Arbiter of Compliance",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Enchantment — Elder Horror",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/332.jpg"
+			}
+		},
+		{
+			"name": "Will, Nature's Guide",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Enchantment — Elder Elemental",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/333.jpg"
+			}
+		},
+		{
+			"name": "Phaetilis, Nature's Cleansing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Enchantment — Elder Plant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/334.jpg"
+			}
+		},
+		{
+			"name": "Ban'Est, Resistance Personified",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Enchantment — Elder Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/335.jpg"
+			}
+		},
+		{
+			"name": "A'Aka, Pursuit of Mindfulness",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Enchantment — Elder Serpent",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/336.jpg"
+			}
+		},
+		{
+			"name": "Gologo, Acceptance Personified",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Enchantment — Elder Beast",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/337.jpg"
+			}
+		},
+		{
+			"name": "Haestor, Fervor of Blood",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Enchantment — Elder Sorcerer",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/338.jpg"
+			}
+		},
+		{
+			"name": "Selor, Pursuit of Advancement",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Enchantment — Elder Noble",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/339.jpg"
+			}
+		},
+		{
+			"name": "Elio, Arbiter of Self",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Enchantment — Elder Knight",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/340.jpg"
+			}
+		},
+		{
+			"name": "Kell, Fervor of Purpose",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Enchantment — Elder Ranger",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/341.jpg"
+			}
+		},
+		{
+			"name": "Trident of Nu'Ul",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://MSE-Hub/sets/COV-files/img/342.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Stormeye Warleader
+	2 Virtuous Vitality
+	2 Ancestral Prophecy
+	2 Return to Battle
+	2 Sudden Superstorm
+	2 Trice Growth
+	2 Recruiter of Originality
+	2 Exios, Guardian of the Pride
+	2 Campaign Across Velesta
+	2 Authority of Excellency
+	2 Captive Servitude
+	2 Leader of the Warband
+	2 Archmage of Chaos
+	2 Kestral Squall
+	2 Emboldened Battlemage
+	2 Distract Forces
+	2 Tuulvoke Spellring
+	2 Reckless Berserker
+	2 Greater Medium of Nu'Ul
+	2 Devotee of Simplicity
+	2 Missionary of Madness
+	2 Delusion Enforcer
+	2 Inevitable Resurgence
+	2 Sparkstorm Bottler
+	2 Avure, Fiery Purifier
+	2 Fervent Flechan
+	2 Raucous Branchiodon
+	2 Havoc Spewer
+	2 Vokios, Blood Eye
+	2 Cotay Leadon, Grove Seeder
+	2 Grovetending
+	2 Ragebound Dryasia
+	2 Return of the Grovetender
+	2 Barkfrill Protector
+	2 Titanwood Warden
+	1 Chosen Ascendancy
+	1 Echo of Endlessness
+	1 Devastate Sanity
+	1 Famished Earthshaker
+	1 Primeval Devasaur
+	2 Divine Inception
+	2 Enchanter's Pursuit
+	2 Surging Witherwing
+	2 Enrazer Captain
+	2 Blooming Grove Heart
+	2 March of the Mindless
+	2 Chaos Channeler
+	2 Battleground Recycler
+	2 Zealot's Cache
+	2 Seaside Skywatcher
+	2 Château Nareaux
+	2 Jagged Anchorage
+	2 Fortified Grove
+	2 Storied Battlefield
+	2 Lush Landing
+	2 Patronic Domain
+	2 Column-Filled Hills
+	2 Conscript's Citadel
+	2 Crumbling Foretress
+	2 Haunted Keep
+	2 Battlefront Barracks
+	2 Uncovered Mausoleum
+	2 Uncovered Grove
+	2 Uncovered Monastery
+	2 Uncovered Library
+	2 Uncovered Armory
+	1 Clash of Identity
+	1 Clash of Territory
+	1 Clash of Legacy
+	1 Clash of Cause
+	1 Clash of Interference
+	1 Cotay Leadon, Inception Anew
+	1 Trios Ambermane, Heroic Idol
+	1 Eyari Aithlar, Frailty's Fall
+	1 Avox, Codacic Herald
+	1 Drotek, Scale of Superiority
+	1 Raika, Moray Guide
+	1 Alif, Devastation Enraged
+	1 Vara, Thought Thief
+	1 Kavanox, Mocking Marauder
+	1 Carrak Stormblessed, Anarchomancer
+	2 Eye of Haestor
+	2 Equalized Influence
+	2 Communal Grovemate
+	2 Rubble to Resource
+	2 Earthquake Stomper
+	2 Speaker of Savagery
+	2 Forefound Malaise
+	2 Hierarchal Spellbinder
+	2 Growing Discovery
+	2 There Can Only Be One
+	1 The Legend of Majesty
+	1 The Legend of Patronic Augury
+	1 The Legend of the First Felling
+	1 The Legend of the Quaking World
+	1 The Legend of Creation
+	2 Amulet of Motivation
+	2 Distant Scryglass
+	2 Disputed Lotus
+	2 Augur's Tome
+	1 Nu'Ul, Arbiter of Compliance
+	1 Will, Nature's Guide
+	1 Phaetilis, Nature's Cleansing
+	1 Ban'Est, Resistance Personified
+	1 A'Aka, Pursuit of Mindfulness
+	1 Gologo, Acceptance Personified
+	1 Haestor, Fervor of Blood
+	1 Selor, Pursuit of Advancement
+	1 Elio, Arbiter of Self
+	1 Kell, Fervor of Purpose
+	1 Trident of Nu'Ul
+[uncommon(3)]
+	4 Husk Beckoning
+	4 Compliance Commander
+	4 Unspecialized Bannerbearer
+	4 Combat Support
+	4 Retrieve the Livery
+	4 Battlefield Message-runner
+	4 Ray of Simplicity
+	4 Armor of Faith
+	4 Cavalry-Gang Commander
+	4 Expunge From Existence
+	4 Chosen Forthseer
+	4 Nexen Galemage
+	4 Conceited Spellblade
+	4 Interpret the Earth
+	4 Weakening Wave
+	4 Twin Omens
+	4 Unithamlic Trickster
+	4 Galeguard Warden
+	4 Sudden Slumber
+	4 Arcane Lancer
+	4 Draining Disdain
+	4 Disrupt Scheme
+	4 Famished Ritualist
+	4 Destination Shift
+	4 Augur of Ban'Est
+	4 Thought Blank
+	4 Forfeit Identity
+	4 Awakening From Ennui
+	4 Languorbloom
+	4 Violent Scourgewing
+	4 Zealous Spellsword
+	4 Flora Razer
+	4 Depthless Flameshot
+	4 Stormshot Zealot
+	4 Imperialist Ideation
+	4 Defensive Disaster
+	4 Spotter of Susceptibility
+	4 Incessant Everburn
+	4 Regaled Haft-Pike
+	4 Erratic Superstorm
+	4 Dendromorph
+	4 Strength of the Thicket
+	4 Pursuit of Territory
+	4 Scout Ahead
+	4 Smitebolt Reinforcer
+	4 Canopy Entangler
+	4 Alla-Leaf Scout
+	4 Keepback Branchiodon
+	4 Rootblessed Staff
+	4 Plot Demolition
+	4 Selorian Charm
+	4 Banian Morrowmaker
+	4 Rapacious Regenerator
+	4 Verdant Pyromaniac
+	4 Orchard Attendant
+	4 Drabic Determinism
+	4 Monoptic Volitation
+	4 Graveland Surveyor
+	4 Fanatic Confrontation
+	4 Akian Charm
+	4 Patronic Offering
+	4 Lancer's Spear
+	4 Fleetfoot Greaves
+	4 Starsteel Treasure
+	4 Current Reader
+	4 Redoubted Monastery
+	4 Blighted Moot
+	4 Scorched Thicket
+	4 Raided Archive
+	4 Blasphemous Pyre
+	4 Hallowed Moor
+	4 Teeming Sea
+	4 Ransacked Granary
+	4 Squalling Peak
+	4 Perilous Steppe
+	4 Liberated Claim
+	4 Sanctific Wildfire
+	4 Hollow Exchange
+	4 Mana Breach
+	4 Reinforced Line
+	4 Anguillic Titan
+	4 Subordiante Denial
+	4 Banian Charm
+	4 Kellian Charm
+	4 Phaetillic Charm
+	4 Willian Charm
+	4 Nuulian Charm
+	4 Haestoran Charm
+	4 Gologian Charm
+	4 Elioran Charm
+	4 Vivid Vision
+	4 Spectral Colossus
+	4 Devoted to the Cause
+[common(6)]
+	8 Righteous Footman
+	8 Unconstrained Duo
+	8 Courageous Clanmate
+	8 Squired Soldier
+	8 Embolded Swordsman
+	8 Espratan Strike Leader
+	8 Okkan Ascendant
+	8 Flanking Pounce
+	8 Wiped Clean
+	8 Slain in Battle
+	8 Timely Champion
+	8 Safeguard's Halberd
+	8 Cleanse Through Devotion
+	8 Outbladed Surrender
+	8 Steppe Rallier
+	8 Moment's Blessing
+	8 Charge of the Sunhearts
+	8 Field Rations
+	8 Spryfield Keeper
+	8 Strategic Outmaneuvering
+	8 Hidden Hunter
+	8 Political Dismissal
+	8 Nexen Warcaster
+	8 Aerial Linebreaker
+	8 Bartered Orders
+	8 Return to Premonition
+	8 Decipher the Past
+	8 Winged Galebringer
+	8 Ipri Blankclaw
+	8 Leverage Momentum
+	8 Impel Retreat
+	8 Sift Through Destinies
+	8 Haestoric Moot
+	8 Slothic Temptation
+	8 Hasty Cogitation
+	8 Monocular Entoiler
+	8 Awarded Aegisfoil
+	8 Brutal Nihilblade
+	8 Reverent Familiar
+	8 Eternal-Bound Brute
+	8 Mindbent Puppetteer
+	8 Rampaging Rendhorn
+	8 Ruinous Rotbone
+	8 Taurid Entrant
+	8 Banished From Death
+	8 Rip From the Socket
+	8 Tenacious Eradiation
+	8 Rapacious Bonescrounger
+	8 Voracious Scavenger
+	8 Puppet the Blank
+	8 Leveraged Life
+	8 Stampeding Brute
+	8 Nuulian Blightmage
+	8 Twisted Thoughtblight
+	8 Malevolent Morningstar
+	8 Maiming Wound
+	8 Fallarai Spellfist
+	8 Fire Dart
+	8 Bedlam Bruiser
+	8 Towering Havoc-horn
+	8 Tumultuous Theurgist
+	8 Lianic Spinax
+	8 Skilled Stormslinger
+	8 Veldland Minuteman
+	8 Geodic Divulgence
+	8 Voltaic Burst
+	8 Emboldened Blitz
+	8 Thrilling Prospect
+	8 Sudden Stampedes
+	8 Fleeting Fortune
+	8 Unithalmic Flamestomper
+	8 Galvanic Strike
+	8 Chaotic Selection
+	8 Scaldsand Shadow
+	8 Haphazard Ritualist
+	8 Sprout Seeder
+	8 Enserviced Sower
+	8 Scythestem Slayer
+	8 Thrashing Branchiodon
+	8 Farsight Pioneer
+	8 Gologian Ritegiver
+	8 Strength of the Groveland
+	8 Defense of the Groveland
+	8 Phytosaurian Stomp
+	8 Verdant Discovery
+	8 Groveland Warden
+	8 Butt Heads
+	8 Saurosage Rider
+	8 Mistveil
+	8 Might of Motivation
+	8 Front Regrown
+	8 Siege Brachlorus
+	8 Beating Groveheart
+	8 Zealous Snipebolt
+	8 Attuned Latticeweaver
+	8 Tuulvoke Shard
+	8 Treasured Snapper
+	8 Evoker's Manual
+	8 Conduit's Condor
+	8 Drifter's Handheld
+	8 Highland Falls
+	8 Invaluable Depot
+	8 Scouted Pass
+	8 Neutral Settlement
+	8 Prized Trade Route
+	8 Beast-Ridden Backwood
+	8 Weapons Foundry
+	8 Still River
+	8 Cratered Barrens
+	8 Sundered Hall
+	8 Experimental Repository
+	8 Skirmish Ground
+	8 Phaetillic Rites
+	8 Gologian Rites
+	8 Akian Rites
+	8 Banian Rites
+	8 Elioran Rites
+	8 Kellian Rites
+	8 Haestoran Rites
+	8 Selorian Rites
+	8 Willian Rites
+	8 Nuulian Rites
+	8 Mana Mirage
+	8 Livened Livery
+	8 Graveshroud
+[common | masterpiece(1)]
+	8 Righteous Footman
+	8 Unconstrained Duo
+	8 Courageous Clanmate
+	8 Squired Soldier
+	8 Embolded Swordsman
+	8 Espratan Strike Leader
+	8 Okkan Ascendant
+	8 Flanking Pounce
+	8 Wiped Clean
+	8 Slain in Battle
+	8 Timely Champion
+	8 Safeguard's Halberd
+	8 Cleanse Through Devotion
+	8 Outbladed Surrender
+	8 Steppe Rallier
+	8 Moment's Blessing
+	8 Charge of the Sunhearts
+	8 Field Rations
+	8 Spryfield Keeper
+	8 Strategic Outmaneuvering
+	8 Hidden Hunter
+	8 Political Dismissal
+	8 Nexen Warcaster
+	8 Aerial Linebreaker
+	8 Bartered Orders
+	8 Return to Premonition
+	8 Decipher the Past
+	8 Winged Galebringer
+	8 Ipri Blankclaw
+	8 Leverage Momentum
+	8 Impel Retreat
+	8 Sift Through Destinies
+	8 Haestoric Moot
+	8 Slothic Temptation
+	8 Hasty Cogitation
+	8 Monocular Entoiler
+	8 Awarded Aegisfoil
+	8 Brutal Nihilblade
+	8 Reverent Familiar
+	8 Eternal-Bound Brute
+	8 Mindbent Puppetteer
+	8 Rampaging Rendhorn
+	8 Ruinous Rotbone
+	8 Taurid Entrant
+	8 Banished From Death
+	8 Rip From the Socket
+	8 Tenacious Eradiation
+	8 Rapacious Bonescrounger
+	8 Voracious Scavenger
+	8 Puppet the Blank
+	8 Leveraged Life
+	8 Stampeding Brute
+	8 Nuulian Blightmage
+	8 Twisted Thoughtblight
+	8 Malevolent Morningstar
+	8 Maiming Wound
+	8 Fallarai Spellfist
+	8 Fire Dart
+	8 Bedlam Bruiser
+	8 Towering Havoc-horn
+	8 Tumultuous Theurgist
+	8 Lianic Spinax
+	8 Skilled Stormslinger
+	8 Veldland Minuteman
+	8 Geodic Divulgence
+	8 Voltaic Burst
+	8 Emboldened Blitz
+	8 Thrilling Prospect
+	8 Sudden Stampedes
+	8 Fleeting Fortune
+	8 Unithalmic Flamestomper
+	8 Galvanic Strike
+	8 Chaotic Selection
+	8 Scaldsand Shadow
+	8 Haphazard Ritualist
+	8 Sprout Seeder
+	8 Enserviced Sower
+	8 Scythestem Slayer
+	8 Thrashing Branchiodon
+	8 Farsight Pioneer
+	8 Gologian Ritegiver
+	8 Strength of the Groveland
+	8 Defense of the Groveland
+	8 Phytosaurian Stomp
+	8 Verdant Discovery
+	8 Groveland Warden
+	8 Butt Heads
+	8 Saurosage Rider
+	8 Mistveil
+	8 Might of Motivation
+	8 Front Regrown
+	8 Siege Brachlorus
+	8 Beating Groveheart
+	8 Zealous Snipebolt
+	8 Attuned Latticeweaver
+	8 Tuulvoke Shard
+	8 Treasured Snapper
+	8 Evoker's Manual
+	8 Conduit's Condor
+	8 Drifter's Handheld
+	8 Highland Falls
+	8 Invaluable Depot
+	8 Scouted Pass
+	8 Neutral Settlement
+	8 Prized Trade Route
+	8 Beast-Ridden Backwood
+	8 Weapons Foundry
+	8 Still River
+	8 Cratered Barrens
+	8 Sundered Hall
+	8 Experimental Repository
+	8 Skirmish Ground
+	8 Phaetillic Rites
+	8 Gologian Rites
+	8 Akian Rites
+	8 Banian Rites
+	8 Elioran Rites
+	8 Kellian Rites
+	8 Haestoran Rites
+	8 Selorian Rites
+	8 Willian Rites
+	8 Nuulian Rites
+	8 Mana Mirage
+	8 Livened Livery
+	8 Graveshroud
+[foil(1)]
+	12 Righteous Footman
+	12 Unconstrained Duo
+	12 Courageous Clanmate
+	12 Squired Soldier
+	12 Embolded Swordsman
+	12 Espratan Strike Leader
+	12 Okkan Ascendant
+	12 Flanking Pounce
+	12 Wiped Clean
+	12 Slain in Battle
+	12 Timely Champion
+	12 Safeguard's Halberd
+	12 Cleanse Through Devotion
+	12 Outbladed Surrender
+	12 Steppe Rallier
+	12 Moment's Blessing
+	12 Charge of the Sunhearts
+	12 Field Rations
+	12 Spryfield Keeper
+	12 Strategic Outmaneuvering
+	12 Hidden Hunter
+	12 Political Dismissal
+	12 Nexen Warcaster
+	12 Aerial Linebreaker
+	12 Bartered Orders
+	12 Return to Premonition
+	12 Decipher the Past
+	12 Winged Galebringer
+	12 Ipri Blankclaw
+	12 Leverage Momentum
+	12 Impel Retreat
+	12 Sift Through Destinies
+	12 Haestoric Moot
+	2 Stormeye Warleader
+	12 Slothic Temptation
+	12 Hasty Cogitation
+	12 Monocular Entoiler
+	12 Awarded Aegisfoil
+	12 Brutal Nihilblade
+	12 Reverent Familiar
+	12 Eternal-Bound Brute
+	12 Mindbent Puppetteer
+	12 Rampaging Rendhorn
+	12 Ruinous Rotbone
+	12 Taurid Entrant
+	12 Banished From Death
+	12 Rip From the Socket
+	12 Tenacious Eradiation
+	12 Rapacious Bonescrounger
+	12 Voracious Scavenger
+	12 Puppet the Blank
+	12 Leveraged Life
+	12 Stampeding Brute
+	12 Nuulian Blightmage
+	12 Twisted Thoughtblight
+	12 Malevolent Morningstar
+	12 Maiming Wound
+	12 Fallarai Spellfist
+	12 Fire Dart
+	12 Bedlam Bruiser
+	12 Towering Havoc-horn
+	12 Tumultuous Theurgist
+	12 Lianic Spinax
+	12 Skilled Stormslinger
+	12 Veldland Minuteman
+	12 Geodic Divulgence
+	12 Voltaic Burst
+	12 Emboldened Blitz
+	12 Thrilling Prospect
+	12 Sudden Stampedes
+	12 Fleeting Fortune
+	12 Unithalmic Flamestomper
+	12 Galvanic Strike
+	12 Chaotic Selection
+	12 Scaldsand Shadow
+	12 Haphazard Ritualist
+	12 Sprout Seeder
+	12 Enserviced Sower
+	12 Scythestem Slayer
+	12 Thrashing Branchiodon
+	12 Farsight Pioneer
+	12 Gologian Ritegiver
+	12 Strength of the Groveland
+	12 Defense of the Groveland
+	12 Phytosaurian Stomp
+	12 Verdant Discovery
+	12 Groveland Warden
+	12 Butt Heads
+	12 Saurosage Rider
+	12 Mistveil
+	12 Might of Motivation
+	12 Front Regrown
+	12 Siege Brachlorus
+	12 Beating Groveheart
+	12 Zealous Snipebolt
+	2 Virtuous Vitality
+	6 Husk Beckoning
+	6 Compliance Commander
+	6 Unspecialized Bannerbearer
+	6 Combat Support
+	6 Retrieve the Livery
+	6 Battlefield Message-runner
+	6 Ray of Simplicity
+	6 Armor of Faith
+	6 Cavalry-Gang Commander
+	6 Expunge From Existence
+	2 Ancestral Prophecy
+	6 Chosen Forthseer
+	6 Nexen Galemage
+	6 Conceited Spellblade
+	6 Interpret the Earth
+	6 Weakening Wave
+	6 Twin Omens
+	6 Unithamlic Trickster
+	6 Galeguard Warden
+	6 Sudden Slumber
+	6 Arcane Lancer
+	2 Return to Battle
+	6 Draining Disdain
+	6 Disrupt Scheme
+	6 Famished Ritualist
+	6 Destination Shift
+	6 Augur of Ban'Est
+	6 Thought Blank
+	6 Forfeit Identity
+	6 Awakening From Ennui
+	6 Languorbloom
+	6 Violent Scourgewing
+	2 Sudden Superstorm
+	6 Zealous Spellsword
+	6 Flora Razer
+	6 Depthless Flameshot
+	6 Stormshot Zealot
+	6 Imperialist Ideation
+	6 Defensive Disaster
+	6 Spotter of Susceptibility
+	6 Incessant Everburn
+	6 Regaled Haft-Pike
+	6 Erratic Superstorm
+	2 Trice Growth
+	6 Dendromorph
+	6 Strength of the Thicket
+	6 Pursuit of Territory
+	6 Scout Ahead
+	6 Smitebolt Reinforcer
+	6 Canopy Entangler
+	6 Alla-Leaf Scout
+	6 Keepback Branchiodon
+	6 Rootblessed Staff
+	6 Plot Demolition
+	2 Recruiter of Originality
+	2 Exios, Guardian of the Pride
+	2 Campaign Across Velesta
+	2 Authority of Excellency
+	2 Captive Servitude
+	2 Leader of the Warband
+	2 Archmage of Chaos
+	2 Kestral Squall
+	2 Emboldened Battlemage
+	2 Distract Forces
+	12 Attuned Latticeweaver
+	2 Tuulvoke Spellring
+	2 Reckless Berserker
+	2 Greater Medium of Nu'Ul
+	2 Devotee of Simplicity
+	2 Missionary of Madness
+	2 Delusion Enforcer
+	2 Inevitable Resurgence
+	2 Sparkstorm Bottler
+	2 Avure, Fiery Purifier
+	2 Fervent Flechan
+	2 Raucous Branchiodon
+	2 Havoc Spewer
+	2 Vokios, Blood Eye
+	2 Cotay Leadon, Grove Seeder
+	2 Grovetending
+	2 Ragebound Dryasia
+	2 Return of the Grovetender
+	2 Barkfrill Protector
+	2 Titanwood Warden
+	1 Chosen Ascendancy
+	1 Echo of Endlessness
+	1 Devastate Sanity
+	1 Famished Earthshaker
+	1 Primeval Devasaur
+	6 Selorian Charm
+	6 Banian Morrowmaker
+	6 Rapacious Regenerator
+	6 Verdant Pyromaniac
+	6 Orchard Attendant
+	6 Drabic Determinism
+	6 Monoptic Volitation
+	6 Graveland Surveyor
+	6 Fanatic Confrontation
+	6 Akian Charm
+	2 Divine Inception
+	2 Enchanter's Pursuit
+	2 Surging Witherwing
+	2 Enrazer Captain
+	2 Blooming Grove Heart
+	2 March of the Mindless
+	2 Chaos Channeler
+	2 Battleground Recycler
+	2 Zealot's Cache
+	2 Seaside Skywatcher
+	12 Tuulvoke Shard
+	12 Treasured Snapper
+	12 Evoker's Manual
+	12 Conduit's Condor
+	12 Drifter's Handheld
+	6 Patronic Offering
+	6 Lancer's Spear
+	6 Fleetfoot Greaves
+	6 Starsteel Treasure
+	6 Current Reader
+	6 Redoubted Monastery
+	2 Château Nareaux
+	2 Jagged Anchorage
+	2 Fortified Grove
+	2 Storied Battlefield
+	2 Lush Landing
+	2 Patronic Domain
+	2 Column-Filled Hills
+	2 Conscript's Citadel
+	2 Crumbling Foretress
+	2 Haunted Keep
+	2 Battlefront Barracks
+	12 Highland Falls
+	6 Blighted Moot
+	6 Scorched Thicket
+	6 Raided Archive
+	6 Blasphemous Pyre
+	6 Hallowed Moor
+	6 Teeming Sea
+	12 Invaluable Depot
+	6 Ransacked Granary
+	12 Scouted Pass
+	12 Neutral Settlement
+	12 Prized Trade Route
+	6 Squalling Peak
+	12 Beast-Ridden Backwood
+	12 Weapons Foundry
+	12 Still River
+	12 Cratered Barrens
+	12 Sundered Hall
+	12 Experimental Repository
+	6 Perilous Steppe
+	12 Skirmish Ground
+	2 Uncovered Mausoleum
+	2 Uncovered Grove
+	2 Uncovered Monastery
+	2 Uncovered Library
+	2 Uncovered Armory
+	1 Clash of Identity
+	1 Clash of Territory
+	1 Clash of Legacy
+	1 Clash of Cause
+	1 Clash of Interference
+	6 Liberated Claim
+	6 Sanctific Wildfire
+	6 Hollow Exchange
+	6 Mana Breach
+	6 Reinforced Line
+	1 Cotay Leadon, Inception Anew
+	6 Anguillic Titan
+	6 Subordiante Denial
+	6 Banian Charm
+	6 Kellian Charm
+	6 Phaetillic Charm
+	6 Willian Charm
+	6 Nuulian Charm
+	6 Haestoran Charm
+	6 Gologian Charm
+	6 Elioran Charm
+	1 Trios Ambermane, Heroic Idol
+	1 Eyari Aithlar, Frailty's Fall
+	1 Avox, Codacic Herald
+	1 Drotek, Scale of Superiority
+	1 Raika, Moray Guide
+	1 Alif, Devastation Enraged
+	1 Vara, Thought Thief
+	1 Kavanox, Mocking Marauder
+	1 Carrak Stormblessed, Anarchomancer
+	2 Eye of Haestor
+	2 Equalized Influence
+	2 Communal Grovemate
+	2 Rubble to Resource
+	2 Earthquake Stomper
+	2 Speaker of Savagery
+	2 Forefound Malaise
+	2 Hierarchal Spellbinder
+	2 Growing Discovery
+	2 There Can Only Be One
+	1 The Legend of Majesty
+	1 The Legend of Patronic Augury
+	1 The Legend of the First Felling
+	1 The Legend of the Quaking World
+	1 The Legend of Creation
+	12 Phaetillic Rites
+	12 Gologian Rites
+	12 Akian Rites
+	12 Banian Rites
+	12 Elioran Rites
+	12 Kellian Rites
+	12 Haestoran Rites
+	12 Selorian Rites
+	12 Willian Rites
+	12 Nuulian Rites
+	2 Amulet of Motivation
+	12 Mana Mirage
+	12 Livened Livery
+	2 Distant Scryglass
+	12 Graveshroud
+	6 Vivid Vision
+	6 Spectral Colossus
+	6 Devoted to the Cause
+	2 Disputed Lotus
+	2 Augur's Tome
+	1 Nu'Ul, Arbiter of Compliance
+	1 Will, Nature's Guide
+	1 Phaetilis, Nature's Cleansing
+	1 Ban'Est, Resistance Personified
+	1 A'Aka, Pursuit of Mindfulness
+	1 Gologo, Acceptance Personified
+	1 Haestor, Fervor of Blood
+	1 Selor, Pursuit of Advancement
+	1 Elio, Arbiter of Self
+	1 Kell, Fervor of Purpose
+	1 Trident of Nu'Ul
+[wildcard(1)]
+	6 Righteous Footman
+	6 Unconstrained Duo
+	6 Courageous Clanmate
+	6 Squired Soldier
+	6 Embolded Swordsman
+	6 Espratan Strike Leader
+	6 Okkan Ascendant
+	6 Flanking Pounce
+	6 Wiped Clean
+	6 Slain in Battle
+	6 Timely Champion
+	6 Safeguard's Halberd
+	6 Cleanse Through Devotion
+	6 Outbladed Surrender
+	6 Steppe Rallier
+	6 Moment's Blessing
+	6 Charge of the Sunhearts
+	6 Field Rations
+	6 Spryfield Keeper
+	6 Strategic Outmaneuvering
+	6 Hidden Hunter
+	6 Political Dismissal
+	6 Nexen Warcaster
+	6 Aerial Linebreaker
+	6 Bartered Orders
+	6 Return to Premonition
+	6 Decipher the Past
+	6 Winged Galebringer
+	6 Ipri Blankclaw
+	6 Leverage Momentum
+	6 Impel Retreat
+	6 Sift Through Destinies
+	6 Haestoric Moot
+	7 Stormeye Warleader
+	6 Slothic Temptation
+	6 Hasty Cogitation
+	6 Monocular Entoiler
+	6 Awarded Aegisfoil
+	6 Brutal Nihilblade
+	6 Reverent Familiar
+	6 Eternal-Bound Brute
+	6 Mindbent Puppetteer
+	6 Rampaging Rendhorn
+	6 Ruinous Rotbone
+	6 Taurid Entrant
+	6 Banished From Death
+	6 Rip From the Socket
+	6 Tenacious Eradiation
+	6 Rapacious Bonescrounger
+	6 Voracious Scavenger
+	6 Puppet the Blank
+	6 Leveraged Life
+	6 Stampeding Brute
+	6 Nuulian Blightmage
+	6 Twisted Thoughtblight
+	6 Malevolent Morningstar
+	6 Maiming Wound
+	6 Fallarai Spellfist
+	6 Fire Dart
+	6 Bedlam Bruiser
+	6 Towering Havoc-horn
+	6 Tumultuous Theurgist
+	6 Lianic Spinax
+	6 Skilled Stormslinger
+	6 Veldland Minuteman
+	6 Geodic Divulgence
+	6 Voltaic Burst
+	6 Emboldened Blitz
+	6 Thrilling Prospect
+	6 Sudden Stampedes
+	6 Fleeting Fortune
+	6 Unithalmic Flamestomper
+	6 Galvanic Strike
+	6 Chaotic Selection
+	6 Scaldsand Shadow
+	6 Haphazard Ritualist
+	6 Sprout Seeder
+	6 Enserviced Sower
+	6 Scythestem Slayer
+	6 Thrashing Branchiodon
+	6 Farsight Pioneer
+	6 Gologian Ritegiver
+	6 Strength of the Groveland
+	6 Defense of the Groveland
+	6 Phytosaurian Stomp
+	6 Verdant Discovery
+	6 Groveland Warden
+	6 Butt Heads
+	6 Saurosage Rider
+	6 Mistveil
+	6 Might of Motivation
+	6 Front Regrown
+	6 Siege Brachlorus
+	6 Beating Groveheart
+	6 Zealous Snipebolt
+	7 Virtuous Vitality
+	15 Husk Beckoning
+	15 Compliance Commander
+	15 Unspecialized Bannerbearer
+	15 Combat Support
+	15 Retrieve the Livery
+	15 Battlefield Message-runner
+	15 Ray of Simplicity
+	15 Armor of Faith
+	15 Cavalry-Gang Commander
+	15 Expunge From Existence
+	7 Ancestral Prophecy
+	15 Chosen Forthseer
+	15 Nexen Galemage
+	15 Conceited Spellblade
+	15 Interpret the Earth
+	15 Weakening Wave
+	15 Twin Omens
+	15 Unithamlic Trickster
+	15 Galeguard Warden
+	15 Sudden Slumber
+	15 Arcane Lancer
+	7 Return to Battle
+	15 Draining Disdain
+	15 Disrupt Scheme
+	15 Famished Ritualist
+	15 Destination Shift
+	15 Augur of Ban'Est
+	15 Thought Blank
+	15 Forfeit Identity
+	15 Awakening From Ennui
+	15 Languorbloom
+	15 Violent Scourgewing
+	7 Sudden Superstorm
+	15 Zealous Spellsword
+	15 Flora Razer
+	15 Depthless Flameshot
+	15 Stormshot Zealot
+	15 Imperialist Ideation
+	15 Defensive Disaster
+	15 Spotter of Susceptibility
+	15 Incessant Everburn
+	15 Regaled Haft-Pike
+	15 Erratic Superstorm
+	7 Trice Growth
+	15 Dendromorph
+	15 Strength of the Thicket
+	15 Pursuit of Territory
+	15 Scout Ahead
+	15 Smitebolt Reinforcer
+	15 Canopy Entangler
+	15 Alla-Leaf Scout
+	15 Keepback Branchiodon
+	15 Rootblessed Staff
+	15 Plot Demolition
+	7 Recruiter of Originality
+	7 Exios, Guardian of the Pride
+	7 Campaign Across Velesta
+	7 Authority of Excellency
+	7 Captive Servitude
+	7 Leader of the Warband
+	7 Archmage of Chaos
+	7 Kestral Squall
+	7 Emboldened Battlemage
+	7 Distract Forces
+	6 Attuned Latticeweaver
+	7 Tuulvoke Spellring
+	7 Reckless Berserker
+	7 Greater Medium of Nu'Ul
+	7 Devotee of Simplicity
+	7 Missionary of Madness
+	7 Delusion Enforcer
+	7 Inevitable Resurgence
+	7 Sparkstorm Bottler
+	7 Avure, Fiery Purifier
+	7 Fervent Flechan
+	7 Raucous Branchiodon
+	7 Havoc Spewer
+	7 Vokios, Blood Eye
+	7 Cotay Leadon, Grove Seeder
+	7 Grovetending
+	7 Ragebound Dryasia
+	7 Return of the Grovetender
+	7 Barkfrill Protector
+	7 Titanwood Warden
+	4 Chosen Ascendancy
+	4 Echo of Endlessness
+	4 Devastate Sanity
+	4 Famished Earthshaker
+	4 Primeval Devasaur
+	15 Selorian Charm
+	15 Banian Morrowmaker
+	15 Rapacious Regenerator
+	15 Verdant Pyromaniac
+	15 Orchard Attendant
+	15 Drabic Determinism
+	15 Monoptic Volitation
+	15 Graveland Surveyor
+	15 Fanatic Confrontation
+	15 Akian Charm
+	7 Divine Inception
+	7 Enchanter's Pursuit
+	7 Surging Witherwing
+	7 Enrazer Captain
+	7 Blooming Grove Heart
+	7 March of the Mindless
+	7 Chaos Channeler
+	7 Battleground Recycler
+	7 Zealot's Cache
+	7 Seaside Skywatcher
+	6 Tuulvoke Shard
+	6 Treasured Snapper
+	6 Evoker's Manual
+	6 Conduit's Condor
+	6 Drifter's Handheld
+	15 Patronic Offering
+	15 Lancer's Spear
+	15 Fleetfoot Greaves
+	15 Starsteel Treasure
+	15 Current Reader
+	15 Redoubted Monastery
+	7 Château Nareaux
+	7 Jagged Anchorage
+	7 Fortified Grove
+	7 Storied Battlefield
+	7 Lush Landing
+	7 Patronic Domain
+	7 Column-Filled Hills
+	7 Conscript's Citadel
+	7 Crumbling Foretress
+	7 Haunted Keep
+	7 Battlefront Barracks
+	6 Highland Falls
+	15 Blighted Moot
+	15 Scorched Thicket
+	15 Raided Archive
+	15 Blasphemous Pyre
+	15 Hallowed Moor
+	15 Teeming Sea
+	6 Invaluable Depot
+	15 Ransacked Granary
+	6 Scouted Pass
+	6 Neutral Settlement
+	6 Prized Trade Route
+	15 Squalling Peak
+	6 Beast-Ridden Backwood
+	6 Weapons Foundry
+	6 Still River
+	6 Cratered Barrens
+	6 Sundered Hall
+	6 Experimental Repository
+	15 Perilous Steppe
+	6 Skirmish Ground
+	7 Uncovered Mausoleum
+	7 Uncovered Grove
+	7 Uncovered Monastery
+	7 Uncovered Library
+	7 Uncovered Armory
+	4 Clash of Identity
+	4 Clash of Territory
+	4 Clash of Legacy
+	4 Clash of Cause
+	4 Clash of Interference
+	15 Liberated Claim
+	15 Sanctific Wildfire
+	15 Hollow Exchange
+	15 Mana Breach
+	15 Reinforced Line
+	4 Cotay Leadon, Inception Anew
+	15 Anguillic Titan
+	15 Subordiante Denial
+	15 Banian Charm
+	15 Kellian Charm
+	15 Phaetillic Charm
+	15 Willian Charm
+	15 Nuulian Charm
+	15 Haestoran Charm
+	15 Gologian Charm
+	15 Elioran Charm
+	4 Trios Ambermane, Heroic Idol
+	4 Eyari Aithlar, Frailty's Fall
+	4 Avox, Codacic Herald
+	4 Drotek, Scale of Superiority
+	4 Raika, Moray Guide
+	4 Alif, Devastation Enraged
+	4 Vara, Thought Thief
+	4 Kavanox, Mocking Marauder
+	4 Carrak Stormblessed, Anarchomancer
+	7 Eye of Haestor
+	7 Equalized Influence
+	7 Communal Grovemate
+	7 Rubble to Resource
+	7 Earthquake Stomper
+	7 Speaker of Savagery
+	7 Forefound Malaise
+	7 Hierarchal Spellbinder
+	7 Growing Discovery
+	7 There Can Only Be One
+	4 The Legend of Majesty
+	4 The Legend of Patronic Augury
+	4 The Legend of the First Felling
+	4 The Legend of the Quaking World
+	4 The Legend of Creation
+	6 Phaetillic Rites
+	6 Gologian Rites
+	6 Akian Rites
+	6 Banian Rites
+	6 Elioran Rites
+	6 Kellian Rites
+	6 Haestoran Rites
+	6 Selorian Rites
+	6 Willian Rites
+	6 Nuulian Rites
+	7 Amulet of Motivation
+	6 Mana Mirage
+	6 Livened Livery
+	7 Distant Scryglass
+	6 Graveshroud
+	15 Vivid Vision
+	15 Spectral Colossus
+	15 Devoted to the Cause
+	7 Disputed Lotus
+	7 Augur's Tome
+	4 Nu'Ul, Arbiter of Compliance
+	4 Will, Nature's Guide
+	4 Phaetilis, Nature's Cleansing
+	4 Ban'Est, Resistance Personified
+	4 A'Aka, Pursuit of Mindfulness
+	4 Gologo, Acceptance Personified
+	4 Haestor, Fervor of Blood
+	4 Selor, Pursuit of Advancement
+	4 Elio, Arbiter of Self
+	4 Kell, Fervor of Purpose
+	4 Trident of Nu'Ul

@@ -1,4 +1,657 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Gold Sarcophagus
+
+The Pharaoh, Atem
+
+Joey Wheeler, Lucky Duelist
+
+Yami Marik, Sadistic Spirit
+
+Yami Bakura, Vengeful Revenant
+
+Seto Kaiba, Unstoppable Duelist
+
+Kaiser Sea Horse
+
+Blue-Eyes White Dragon
+
+Yugi Muto, King of Games
+
+Gearfried the Iron Knight
+
+Lemon Magician Girl
+
+Magical Warrior
+
+Mystical Sheep
+
+Gift of the Mystical Elf
+
+Spellbinding Circle
+
+Gravekeeper's Recruiter
+
+Pump Up
+
+Red-Eyes Toon Dragon
+
+Toy Knight
+
+Blockman
+
+Yellow Gadget
+
+Red Gadget
+
+Green Gadget
+
+Banishing Trap Hole
+
+Thousand Knives
+
+Palladium Oracle
+
+Amazoness Archer
+
+Dramatic Rescue
+
+Negate Attack
+
+Chocolate Magician Girl
+
+Kiwi Magician Girl
+
+Electromagnetic Turtle
+
+King of the Swamp
+
+Toon Dark Magician
+
+Toon Dark Magician Girl
+
+Toy Magician
+
+Graceful Charity
+
+Dream Dice
+
+Keldo
+
+Magician's Rod
+
+Greenkappa
+
+Jar of Greed
+
+Skill Drain
+
+Skilled Blue Magician
+
+Magician of Faith
+
+Called by the Grave
+
+Card of Last Will
+
+Orichalcos Soldier
+
+Amazoness Chain Master
+
+Toon Summoned Skull
+
+Blast Held by a Tribute
+
+Gravekeeper's Cursemaker
+
+Dark Jeroid
+
+Advance Draw
+
+Skull Dice
+
+Dark Magic Attack
+
+Parasite Paracide
+
+Embodiment of Apophis
+
+Black Pendant
+
+Fearful Earthbound
+
+Zoma the Spirit
+
+Headless Knight
+
+Serpent Night Dragon
+
+Vampiric Leech
+rules_text: Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i] => Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+
+Gross Ghost
+
+Vorse Raider
+
+Apple Magician Girl
+
+Berry Magician Girl
+
+X-Head Cannon
+
+Y-Dragon Head
+
+Z-Metal Tank
+
+Alligator Swordsman
+
+Rush Recklessly
+
+Toy Soldier
+
+Gil Garth
+
+Lightning Blade
+
+Burst Stream of Destruction
+
+Mystical Genie of the Lamp
+
+Kunai with Chain
+
+Alexandrite Dragon
+
+Bowganian
+
+Arduous Decision
+
+Slot Machine
+
+7 Completed
+
+Maiden with Eyes of Blue
+
+It's Time to Duel!!!
+
+Gravekeeper's Ambusher
+
+Gravekeeper's Shaman
+
+Panther Warrior
+
+Giant Soldier of Stone
+
+Blue-Eyes Toon Dragon
+
+Toon Mermaid
+
+Mystic Tomato
+
+Graceful Dice
+
+Priestess with Eyes of Blue
+
+Ties That Bind
+
+Spear Dragon
+
+Cave Dragon
+
+Dark Wall of Wind
+
+Magical Stone Excavation
+
+Man-Eater Bug
+
+Big Bang Shot
+
+Falling Strength
+
+Gravekeeper's Spiritualist
+
+Timely Scapegoats
+
+Harpy's Feather Duster
+
+Silent Paladin
+
+Exodia, the Forbidden One
+
+Left Arm of the Forbidden One
+
+Right Arm of the Forbidden One
+
+Left Leg of the Forbidden One
+
+Right Leg of the Forbidden One
+
+Dark Magical Circle
+
+Jam Defender
+
+Magic Jammer
+
+Gravekeeper's Oracle
+
+Silent Magician
+
+Kuriboh
+
+Book of Moon
+
+Time Jump
+
+Soul Exchange
+
+Interdimensional Matter Transporter
+
+Strike of the Magical Mallet
+
+Exchange of the Spirit
+
+Divine Hierarchy
+
+Tournament Sabotage
+
+Black Magic Ritual
+
+Destiny Board — I
+
+Destiny Board — N
+
+Destiny Board — A
+
+Destiny Board — L
+
+Destiny Board — F
+
+Revival Jam
+
+Chain Destruction
+
+Bonz, Ghastly Henchman
+
+Skilled Dark Magician
+
+Kaiser Vorse Raider
+
+Outfit for Dueling
+
+Silent Swordsman
+
+Gaia the Fierce Knight
+
+Thunder Dragon
+
+Block Golem
+
+Jam Breeding Machine
+
+Duke Devlin, Dice Extraordinaire
+
+Black Tyranno
+
+Hand Destruction
+
+Skilled Red Magician
+
+Mystical Space Typhoon
+
+Book of Taiyou
+
+Roulette Spider
+
+Blue-Eyes Bingo Machine
+
+Sage with Eyes of Blue
+
+Insect Queen
+
+Trade-In
+
+Skilled Brown Magician
+
+Amazoness Spiritualist
+
+Amazoness Sage
+
+Hercules Beetle
+
+Mirror Force
+
+De-Fusion
+
+Block Dragon
+
+Landstar Forces
+
+Agido
+
+Swords of Revealing Light
+rules_text: At the beginning of your upkeep, put a light counter on this enchantment. Then if it has three or more light counters on it, sacrifice it.
+Creatures can't attack you unless their controller pays 3 for each creature they control that's attacking you. => At the beginning of your upkeep, put a light counter on this enchantment. Then if it has three or more light counters on it, sacrifice it.
+Creatures can't attack you unless their controller pays {3} for each creature they control that's attacking you.
+
+Multiply
+
+Solid Vision Spectre
+
+Destiny Draw
+
+Dark Magician Girl
+
+Hidden Temples of Necrovalley
+
+Toon Kingdom
+
+Magician of Black Chaos
+
+Solemn Judgement
+
+Rob the Grave
+
+Foolish Burial
+
+Shadow Game
+
+Summoned Skull
+
+Sangan
+
+Dark Time Wizard's Spin
+
+Shadow's Blaze
+
+Berserker Soul
+
+Change of Heart
+
+Twin-Headed Thunder Dragon
+
+Reinforcements of the Army
+
+Bandit Keith, Dexterous Deceiver
+
+Barrel Dragon
+
+Protector with Eyes of Blue
+
+Summon Dice
+
+Ancient Rules
+
+Multiplication of Ants
+
+Cocoon of Evolution
+
+Toon Alligator
+
+Magic Neutralizing Circle
+
+Deck Master
+rules_text: Enchant creature
+Enchanted creature has ward {2} and “You can't lose the game and your opponents can't win the game.” [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => Enchant creature
+Enchanted creature has ward {2} and “You can't lose the game and your opponents can't win the game.” [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+Palladium Wizard
+
+Toon World
+
+Relinquished
+
+Sentence of Doom
+
+Monster Reborn
+
+Raigeki
+
+Plasma Eel
+
+Ties of the Brethren
+
+Amazoness War Chief
+
+Star Chips
+
+Valkyrion the Magnet Warrior
+
+Gamma Magnet Warrior
+
+Alpha Magnet Warrior
+
+Beta Magnet Warrior
+
+Pot of Greed
+
+Duel Disk
+
+Infinite Cards
+
+Closed Forest
+
+Futuristic Arena
+
+Ishizu Ishtar, Wise Gravekeeper
+
+Mai Valentine, Queen of Harpies
+
+Odion, Marik's Protector
+
+Maximillion Pegasus, Inkling Illustrator
+
+Doomed Travels
+
+Harpy Lady
+
+Ghostly Pumpking
+
+Black Illusion Ritual
+
+Red-Eyes Black Dragon
+
+Dark Magician
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Whenever you cast a noncreature spell, you may have Dark Magician deals 2 damage to each opponent. If you don't, you lose 2 life and draw a card. => Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+Whenever you cast a noncreature spell, you may have Dark Magician deals 2 damage to each opponent. If you don't, you lose 2 life and draw a card.
+
+Dark Necrofear
+
+Lava Golem
+
+Gandora-X
+
+Magnet Reverse
+
+Haunting of the Twin Dolls
+
+Three-Masked Beast
+
+Chaos Emperor Dragon
+
+Black Luster Soldier
+
+Geh, the Divine Serpent
+
+Gravekeeper's Supernaturalist
+
+Necro Cycle
+
+Red-Eyes Alternative Black Dragon
+
+Toon Masked Sorcerer
+
+Horakhty, Creator God of Light
+
+Obelisk, the Tormentor
+
+Slifer, the Sky Dragon
+
+Ceremonial Duelground
+
+Lost World
+
+Harpies' Hunting Ground
+
+Battle City
+
+Necrovalley
+
+Temple of the Kings
+
+Duelist Kingdom
+
+Tomb of the Nameless Pharaoh
+
+Mystic Table
+
+Castle of Dark Illusions
+
+Different Dimension
+
+The Millennium Eye
+
+The Millennium Puzzle
+
+The Millennium Ring
+
+The Millennium Scale
+
+The Millennium Key
+
+The Millennium Rod
+
+The Millennium Necklace
+
+XYZ Dragon Cannon
+
+Harpy's Pet Dragon
+
+Polymerization
+
+Mako Tsunami, Compassionnate Fisherman
+
+Seto Kaiba, Duelist with Eyes of Blue
+
+Earl of Demise
+
+Aria From Beyond
+
+Ghostly Pumprincess
+
+Joey Wheeler, Steadfast Friend
+
+Jinzo, Psychic Lord
+
+Metalmorph
+
+Pot of Prosperity
+
+High Speed Aria
+
+Dark Sanctuary
+
+Fiend Kraken
+
+Curse of Dragon
+
+Weevil Underwood, Bug Brawler
+
+Ectoplasmer
+
+Rex Raptor, Regional Rival
+
+Watapon
+
+Nutrient Z
+
+Salamandra
+
+Point to Point Transfer
+
+Deep-Eyes White Dragon
+
+Toon Goblin Attack Force
+
+Baby Dragon
+
+Harpy Lady Sisters
+
+Ancient Vanguard Kelbek
+
+Skim Through the Spellbook
+
+Cyber Slash Harpy Lady
+
+Curse of the Masked Beast
+
+Mystical Beast Serket
+
+Magic Cylinder
+
+Blue-Eyes Ultimate Dragon
+
+Skilled White Magician
+
+Luster Dragon
+
+Shallow Burial
+
+Flame Swordsman
+
+Mudora
+
+The Winged Dragon of Ra
+
+Faerie
+
+The Seal of Orichalcos
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control get +2/+2.
+{3}: Level 2
+Creatures you control with power lower than another creature you control have hexproof.
+{5}: Level 3
+At the beginning of your upkeep, you gain 4 life and destroy up to one target creature.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control get +2/+2.
+{3}: Level 2
+Creatures you control with power lower than another creature you control have hexproof.
+{5}: Level 3
+At the beginning of your upkeep, you gain 4 life and destroy up to one target creature. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control get +2/+2.
+{3}: Level 2
+Creatures you control with power lower than another creature you control have hexproof.
+{5}: Level 3
+At the beginning of your upkeep, you gain 4 life and destroy up to one target creature.
+
+
+Goat
+
+The Legendary Fisherman
+
+Toy
+
+Skeleton
+
+Fusion Substitute
+
+Inkling
+
+Insect
+
+Tentacle
+
+Treasure
+
+Yugi Muto, Two Souls as One
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

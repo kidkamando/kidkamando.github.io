@@ -1,4 +1,855 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+The Twilight Darkbeast
+
+Entanglement Engine
+
+Tumultuous Exhibit
+
+Backwards Burrowbeast
+
+Phasebound Hunter
+
+Thaxian Phaseblade
+
+Charging Phasebound
+
+Exhibit Keeper
+
+Lifestation Scout
+
+Wurmguard Commandcraft
+rules_text:  => Whenever this Spacecraft is stationed, put a charge counter on target artifact.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 14+] Flying, vigilance
+Whenever this spacecraft attacks, proliferate. [4/4]
+
+Archive Lifestation
+rules_text:  => Whenever a creature you control enters, you gain 1 life and put a charge counter on this permanent. You may exile the top card of your library and put an entanglement counter on it.
+{T}: Create a copy of a card you own in exile with an entanglement counter on it. You may play it this turn.
+[level 15+] Flying
+{1}, Remove all entanglement counters from two different cards in exile. Untap Archive Lifestation. [5/13]
+
+Solar Emulator
+
+Darkwurm Hatchling
+
+Twilightborn Scavenger
+
+Possibility Oracle
+
+Death of the Dawn
+
+Solar Search
+
+Twilight Voidvessel
+rules_text:  => When this artifact enters, scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Flying, vigilance
+{T}: Scry 1. [4/4]
+
+Phaselight Colonyship
+rules_text: 
+Whenever this spacecraft enters or attacks, exile the top card of your library and put an entanglement counter on it. => Whenever this Spacecraft enters or attacks, exile the top card of your library and put an entanglement counter on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may play lands from your graveyard or lands you own in exile with an entanglement counter on them. [3/5]
+
+Phaselight Engine
+
+Enclosure Caretaker
+
+Darkworld Relic
+
+Habitat Architect
+
+Phaselight Starforge
+
+Legacy of the Phasebound
+
+Mid-Warp Collision
+
+Phasebound Voidmage
+
+Thaxian Phasecrasher
+
+Fauna Abductor
+rules_text: [i]Void[/i] — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 1/2 white Pangolin creature token. => [i]Void[/i] — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 1/2 white Pangolin creature token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 9+] Flying, double strike [2/4]
+
+Fighter Fabricator
+
+Flora Behemoth
+
+Twilight Starsnake
+
+Havoc Render
+
+Deadworld Archaeologist
+
+Twilight Starsearcher
+
+Glimpse of Hope
+
+Vaserian Apostle
+
+Phasic Barrage
+
+Ancient Darkwurm
+
+Otherworld Orders
+
+Light Tracker
+
+Enclosed Hydroponics
+
+Lightborn Agrariator
+rules_text: {T}: Untap target permanent. => {T}: Untap another target permanent.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Flying
+When this artifact becomes tapped, scry 1. [2/2]
+
+Escape Pod
+rules_text: {U}, {T}: The next spell you cast this turn has improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i] => When this artifact enters, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Flying
+{U}, {T}: The next spell you cast this turn has improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i] [2/3]
+
+Hotshot Space Ace
+
+Forward Scout
+
+Otherworld Resonator
+rules_text:  => The first time a creature stations this Spacecraft, it gains superposition until end of turn. Untap it. [i](Whenever this creature blocks or becomes blocked, this creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 10+] Flying
+Whenever a creature stations this Spacecraft, it gains lifelink until end of turn. [3/3]
+
+Advanced Observation Post
+rules_text:  => Whenever a creature stations this Spacecraft, scry 1.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 20+] Flying
+Other permanents you control have indestructible. [8/12]
+
+Otherworld Wurmtamer
+
+Static Sequence
+
+Allusions to Choice
+
+Rhest Ko, Brutal Subjugator
+
+Flechette Munitions
+
+Darkwurm Researchcraft
+rules_text:  => Whenever this Spacecraft is stationed by a nontoken creature, create a green 3/3 Wurm creature token with trample named Darkwurm.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 13+] Flying, trample
+Other creatures you control get +2/+2. [8/8]
+
+Elusive Starsquid
+
+Specimen Savior
+
+Phaselight Fighter
+rules_text:  => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 1+] Flying [3/2]
+
+Otherworld Vigil
+
+Breakyard Salvager
+
+Veiled Idyll
+
+Wurmhole Exploration
+
+Twilight Darkwurm
+
+Fate-Linked Twilightborn
+
+Voracious Cosmipillar
+
+Otherworld Assault Team
+
+Estevia, Otherworld Nebula
+rules_text:  => {T}: Add {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 8+.)[/i]
+[level 8+] At the beginning of your upkeep, scry 1. [3/4]
+
+Ovas III, Shrouded Moon
+rules_text:  => {T}: Add {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 9+.)[/i]
+[level 9+] When this creature attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] [3/5]
+
+Rukka, Comet Aurora
+rules_text:  => {T}: Add {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 7+.)[/i]
+[level 7+] When this creature attacks, it deals 2 damage to any target. [1/3]
+
+Thellex, Phasic Warworld
+rules_text:  => {T}: Add {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 10+.)[/i]
+[level 10+] Vigilance, superposition [i](Whenever this creature blocks or becomes blocked, this creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)[/i] [0/5]
+
+Distar, Celestial Egg
+rules_text:  => {T}: Add {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 14+.)[/i]
+[level 14+] Ward {2} [i](Whenever this land becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] [9/8]
+special_text: {T}: Add {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 14+.)[/i]
+[level 14+] Ward {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] [9/8] => {T}: Add {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It becomes a creature at 14+.)[/i]
+[level 14+] Ward {2} [i](Whenever this land becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] [9/8]
+
+Teeming Lushworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Forests and/or Islands.
+{T}: Add {G} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {G}{G}, {U}{U}, or {G}{U}.
+
+Moonless Plageworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Plains and/or Islands.
+{T}: Add {W} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {W}{W}, {U}{U}, or {W}{U}.
+
+Inclement Brineworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Islands and/or Swamps.
+{T}: Add {U} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {U}{U}, {B}{B}, or {U}{B}.
+
+Turbulent Stormworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Islands and/or Mountains.
+{T}: Add {U} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {U}{U}, {R}{R}, or {U}{R}.
+
+Juvenile Slagworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Swamps and/or Mountains.
+{T}: Add {B} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {B}{B}, {R}{R}, or {B}{R}.
+
+Savage Wildworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Mountains and/or Forests.
+{T}: Add {R} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {R}{R}, {G}{G}, or {R}{G}.
+
+Harmonic Farmworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Forests and/or Plains.
+{T}: Add {G} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {G}{G}, {W}{W}, or {G}{W}.
+
+Expired Gloomworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Plains and/or Swamps.
+{T}: Add {W} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {W}{W}, {B}{B}, or {W}{B}.
+
+Slough Wetworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Swamps and/or Forests.
+{T}: Add {B} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {B}{B}, {G}{G}, or {B}{G}.
+
+Torrid Dustworld
+rules_text: This land enters tapped unless you control three other Forests and/or Islands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control three Mountains and/or Plains.
+{T}: Add {R} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] {T}: Add {R}{R}, {W}{W}, or {R}{W}.
+
+Ark Epsilon, Ringworld
+rules_text:  => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 14+] You may spend mana as if it were mana of any color.
+{T}, Remove twice X charge counters from Ark Epsilon: Add X {C}.
+
+Nabarro, Glassworld
+rules_text:  => {T}: Add {C}.
+{2}, {T}, Sacrifice a land: Draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 16+] Spells you cast cost {1} less to cast for each type among land cards in your graveyard.
+
+Wildlife Preservator
+
+Retraction Beam
+
+Salvage Equipment
+
+Federation Twilightborn
+
+Darkwurm Light-Hunt
+
+Thiris Mine
+
+Phase Cannon
+
+Lio, Fate Binder
+
+Wurmhole Surveyor
+rules_text:  => Tunneling {W}{W}
+{T}, Shuffle target nonland permanent you control into your library: Draw a card.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 7+] Flying, vigilance [4/4]
+
+Anomolous Study
+
+Xenogen Exposure
+
+Emergency Preparations
+
+Vagrant Fruitbearer
+
+Otherworld Veteran
+
+Fleetwide Engineer
+
+Exovitalize
+
+Flame-Tongue Feline
+
+Infested Wurmgrounds
+
+Weapons Calibrator
+
+Roving Starsquid
+
+Writhing Bogbeast
+
+Fanatical Rage
+
+Formicat Scout
+
+Shara, Luck-Linked
+
+Fresh Reinforcements
+
+Suit Puncture
+
+Exoskeletal Puppeteering
+
+Chaos Reader
+
+Rocket Punch
+
+Phaselight Rupture
+
+Destabilize
+
+Bloody Exosoldier
+
+Vaserian Stormstone
+
+Lightborn Ecologist
+
+Veer Off Course
+
+Hypothermic Reaction
+
+Lone Curse-Linked
+
+Improvised Craftwelder
+
+Deadworld Terraformer
+
+Philanthropic Pathfinder
+
+Quantum Terror
+
+Stray Bombardment
+
+Unstable Stormhound
+
+Colony Pioneer
+
+Otherworld Banishment
+
+Twilight Disruption
+
+Regenerating Exosoldier
+
+Last-Second Exchange
+
+Voidhab Fabricator
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's a creature at 14+.)[/i]
+[level 2+] At the beginning of your upkeep, if you don't control a Habitat token, create one.
+[level 14+] Flying, trample
+[i]Landfall[/i] — Whenever a land you control enters, draw a card. [6/6]
+
+Phaselight Recalibration
+
+Macabre Prisonship
+rules_text:  => Whenever this artifact enters, each opponent discards a card and loses 3 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 12+] Flying
+When this creature attacks, each opponent sacrifices a creature and you draw a card. [4/8]
+
+Scrapper's Lightcutter
+
+Escape into Oasis
+
+Behavioral Analyst
+
+Untangle Fate
+
+Nihilistic Revelation
+
+Uproarious Sorcerer
+
+Voidmage's Blessing
+
+Missing No Longer
+
+Twilight Stalker
+
+Costly Position
+
+Electrostorm
+
+Yutaran Hunter
+
+Augur's Assistant
+
+Lightborn Ace
+
+Vaserian Chanter
+
+Hotshot Aeronaut
+
+Aggressive Phasewurm
+
+Rapidfire Lightcutter
+
+Soarnith Commando
+
+Solitary Captain
+
+Curation Envoy
+
+Relicworld Colonization
+rules_text: Up to one target creature you control explores. Create a Habitat token. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. A Habitat token is an artifact with “{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.”)[/i] => Up to one target creature you control explores. Create a Habitat token. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. A Habitat token is an artifact with “{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.”)[/i]
+
+Memoriam Station
+rules_text:  => When this artifact enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 10+] Flying
+Whenever a nontoken creature you control dies, you may pay {1}. When you do, create a 1/2 white Pangolin creature token. [3/3]
+
+Reverse Engineering
+
+Exoskeletal Operator
+
+Quantum Sightstone
+
+Domebound Ecologist
+
+Entanglement Engineer
+
+Xenogenic Bloodghoul
+
+Targeted Termination
+
+Armorback Specimen
+
+Waste Recycler
+
+Lost Cargo
+
+Allied Shredder-Class Frigate
+rules_text:  => When this artifact enters, exile up to one target creature, enchantment, or Spacecraft. Its controller creates a tapped Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 12+] Flying [9/9]
+
+Microstar Generator
+
+Deadworld Precolonizer
+
+Deadworld Dome
+
+Dyson Colossus
+type: Artifact => Artifact Creature — Construct
+rules_text: Sunburst, sunburst [i](This enters with two +1/+1 counter on it for each color of mana spent to cast it.)[/i]
+You may spend mana to cast spells as though it were mana of any color.
+As long as there are at least three +1/+1 counters on this artifact, it is a creature in addition to its other types. => Sunburst, sunburst [i](This enters with two +1/+1 counter on it for each color of mana spent to cast it.)[/i]
+You may spend mana to cast spells as though it were mana of any color.
+As long as there are two or less +1/+1 counters on Dyson Colossus, it isn't a creature.
+pt:  => 0/0
+
+Darkworld Monument
+
+Fleetwide Repairbot
+
+Lae Sard, Baron of the Stars
+
+Voya, Fate-Linked Savior
+
+Resource Raid
+
+Swarmlaunch Carrier
+rules_text: If one or more artifact tokens would be created under your control, those tokens plus an additional 3/2 colorless Spacecraft artifact token with station 1+ and flying are created instead. [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i] => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's a creature at 12+.)[/i]
+[level 2+] If one or more artifact tokens would be created under your control, those tokens plus an additional 3/2 colorless Spacecraft artifact token with station 1+ and flying are created instead.
+[level 12+] Flying
+Other artifact creatures you control get +2/+2. [2/5]
+
+Stereoscopic Tactician
+
+Dire Departure
+
+Summoned Cosmipede
+
+Soarnith Squaddie
+
+Soilless Tiller
+
+Re-Energize
+
+Crashed Transport
+rules_text: Flash
+When Crashed Transport enters, target creature you control gains hexproof until end of turn. => Flash
+When Crashed Transport enters, target creature you control gains hexproof and indestructible until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 4+] Flying
+As long as you have seven or more cards in your graveyard, this creature gets +2/+0. [1/3]
+
+Phaseshred
+
+Nebula Stormship
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 3+] Flying, haste [5/5]
+[level 15+] At the beginning of combat on your turn, Nebula Stormship deals 2 damage to each creature you don't control. [8/8]
+
+Gravitic Crush
+
+Last Ditch Maneuver
+
+Plans For Development
+
+Manufactured Incident
+
+Orbital Shocktroop
+
+Roving Barkcrusher
+rules_text: Trample
+When this creature enters, it explores and you gain 2 life. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Warp {1}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Trample
+When this creature enters, it explores and you gain 2 life. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Warp {1}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Omnidirectional Assault Gear
+
+Researcher's Shuttlecraft
+rules_text:  => When this Spacecraft enters, return up to one instant, sorcery, or artifact card from your graveyard to your hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 5+] Whenever this creature attacks or blocks, draw a card then discard a card. [3/3]
+
+Ration Nibbler
+
+Roving Garrison
+
+Force Multiplier
+
+Colony Surveyor
+
+Lost In Space
+
+Orbital Droptroop
+
+Overthrow Defenders
+
+Mycellic Crasher
+
+Blockade Eluder
+rules_text:  => This artifact enters with a +1/+1 counter on it for creature and/or artifact you control.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 7+] Flying
+When this creature dies, put its counters on up to one target creature you control. [3/2]
+
+Stranded Adrift
+
+Archpriest of Twilight
+
+Stampeding Sergeant
+
+Geoengineer's Multitool
+
+Soul Archivist
+
+Scrap Engineer
+
+Otherworldly Advantage
+
+Station Raider
+
+Phaselight Tellurcraft
+rules_text:  => When this artifact enters or the first time it's stationed each turn, you may put up to one land card from your hand onto the battlefield tapped.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 8+] Flying
+At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control. [3/3]
+
+Rhosha, Time's Prisoner
+
+Prisonworld's Sentence
+rules_text: Enchant land you control
+When this Aura enters, exile target nonland permanent an opponent controls with mana value 2 or less until this Aura leaves the battlefield.
+Enchanted land gains “{T}: Add {W}” and has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Enchant land you control
+When this Aura enters, exile target nonland permanent an opponent controls with mana value 2 or less until this Aura leaves the battlefield.
+Enchanted land gains “{T}: Add {W}” and has ward {1}. [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+Federation Advisor
+
+Preservation, Sentient Directive
+
+Thaxian Voidstone
+
+Unak, Exo Manipulator
+
+Jaster, Zionnoth's Second
+
+Chaotic Clamor
+
+Kai'Kellon, Fragmented Forebear
+
+Wurmtaming
+
+Tactical Communicator
+
+Ancient Starsquid
+
+Demise Evader
+
+Havoc Seer
+
+Otherworldly Blow
+
+Forced Emigration
+
+Shockfly Swarm
+
+Wing Entangler
+
+Inspiring Sergeant
+
+Supercooled Suspension
+
+Spark Siphon
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 1+] Flying [3/2]
+[level 10+] First strike, deathtouch, lifelink [6/3]
+
+Rampage Scorcher
+
+Catalytic Processor
+
+Active Shielding
+
+Hangar Bay Serviceman
+
+Wurmtamer's Stone
+
+Electromagnetic Disruption
+
+Interplanetary Trader
+
+Planet Settler
+
+Escort Oracle
+
+Artificial Ace
+
+Thrashing Cragwolf
+
+Mycellic Propagator
+
+Phasebound Duelist
+
+Star Ward
+
+Overwhelming Loss
+
+Reactive Magnetoad
+
+Harmonic Darkwurm
+
+Territory Pillager
+
+Collection Compiler
+
+Ravenous Cosmipede
+
+Shattering Cometcraft
+rules_text:  => [i]Landfall[/i] — Whenever a land enters the battlefield under your control, target opponent loses 1 life.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+[level 6+] Flying
+When this creature attacks, target opponent may have you create a Habitat token. Otherwise, put two +1/+1 counters on this creature. [3/3]
+
+Yutaran Vigor
+
+Mechanized Croptender
+
+Practiced Replicaster
+
+Thiris Crystal
+
+Zionnoth, Planet Conquerer
+
+Terrestrial Scouter
+
+Pangolin
+
+Clue
+
+Food
+
+Spacecraft
+
+Darkwurm
+
+Junk
+
+Thax Soldier
+
+Curator's Intervention
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Exile target nonland permanent. Its controller gains 3 life.
+II, III — Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+IV — You and target opponent each draw two cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target nonland permanent. Its controller gains 3 life.
+Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+You and target opponent each draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Exile target nonland permanent. Its controller gains 3 life.
+II, III — Populate or create a 1/2 white Pangolin creature token. [i](To populate, create a token that's a copy of a creature token you control.)[/i]
+IV — You and target opponent each draw two cards.
+
+Curator's Talent
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack with one or more non-Pangolin creatures, create a 1/2 white Pangolin creature token.
+{3}{W}: Level 2
+Whenever one or more tokens you control enter, scry 1. If this is the second time this ability has resolved this turn, draw a card.
+{4}{W}{W}: Level 3
+At the beginning of combat on your turn, put a +1/+1 counter on each creature you control for each token creature that entered under your control this turn.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack with one or more non-Pangolin creatures, create a 1/2 white Pangolin creature token.
+{3}{W}: Level 2
+Whenever one or more tokens you control enter, scry 1. If this is the second time this ability has resolved this turn, draw a card.
+{4}{W}{W}: Level 3
+At the beginning of combat on your turn, put a +1/+1 counter on each creature you control for each token creature that entered under your control this turn. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack with one or more non-Pangolin creatures, create a 1/2 white Pangolin creature token.
+{3}{W}: Level 2
+Whenever one or more tokens you control enter, scry 1. If this is the second time this ability has resolved this turn, draw a card.
+{4}{W}{W}: Level 3
+At the beginning of combat on your turn, put a +1/+1 counter on each creature you control for each token creature that entered under your control this turn.
+
+
+Habitat
+
+Engineer's Talent
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature or nontoken artifact you control enters, scry 1.
+{4}{U}: Level 2
+Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.
+{5}{U}: Level 3
+Whenever you cast a noncreature spell, create a 1/1 blue Squid creature token with flying named Starsquid.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature or nontoken artifact you control enters, scry 1.
+{4}{U}: Level 2
+Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.
+{5}{U}: Level 3
+Whenever you cast a noncreature spell, create a 1/1 blue Squid creature token with flying named Starsquid. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature or nontoken artifact you control enters, scry 1.
+{4}{U}: Level 2
+Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.
+{5}{U}: Level 3
+Whenever you cast a noncreature spell, create a 1/1 blue Squid creature token with flying named Starsquid.
+
+
+Junker's Talent
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Junker's Talent enters, create two tapped Junk tokens.
+{2}{R}: Level 2
+Junk tokens you control have “{T}, Sacrifice this artifact: Exile the top two cards of your library. You may play those cards until the end of your next turn. Activate only as a sorcery.”
+{5}{R}: Level 3
+Whenever you cast a spell from exile, Junker's Talent deals damage equal to its mana value to target opponent.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Junker's Talent enters, create two tapped Junk tokens.
+{2}{R}: Level 2
+Junk tokens you control have “{T}, Sacrifice this artifact: Exile the top two cards of your library. You may play those cards until the end of your next turn. Activate only as a sorcery.”
+{5}{R}: Level 3
+Whenever you cast a spell from exile, Junker's Talent deals damage equal to its mana value to target opponent. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Junker's Talent enters, create two tapped Junk tokens.
+{2}{R}: Level 2
+Junk tokens you control have “{T}, Sacrifice this artifact: Exile the top two cards of your library. You may play those cards until the end of your next turn. Activate only as a sorcery.”
+{5}{R}: Level 3
+Whenever you cast a spell from exile, Junker's Talent deals damage equal to its mana value to target opponent.
+
+
+Ransacker's Talent
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you control deals damage to a player, surveil 1.
+{3}{B}: Level 2
+Whenever a card enters your graveyard from anywhere other than the battlefield, each opponent loses 1 life.
+{5}{B}{B}: Level 3
+At the beginning of each upkeep, you may return target creature or Spacecraft card from your graveyard to the battlefield under your control.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you control deals damage to a player, surveil 1.
+{3}{B}: Level 2
+Whenever a card enters your graveyard from anywhere other than the battlefield, each opponent loses 1 life.
+{5}{B}{B}: Level 3
+At the beginning of each upkeep, you may return target creature or Spacecraft card from your graveyard to the battlefield under your control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you control deals damage to a player, surveil 1.
+{3}{B}: Level 2
+Whenever a card enters your graveyard from anywhere other than the battlefield, each opponent loses 1 life.
+{5}{B}{B}: Level 3
+At the beginning of each upkeep, you may return target creature or Spacecraft card from your graveyard to the battlefield under your control.
+
+
+Ecologist's Talent
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+{3}{G}: Level 2
+Whenever a creature you control enters, it fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{6}{G}: Level 3
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control for each land you control.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+{3}{G}: Level 2
+Whenever a creature you control enters, it fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{6}{G}: Level 3
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control for each land you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+{3}{G}: Level 2
+Whenever a creature you control enters, it fights up to one target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{6}{G}: Level 3
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control for each land you control.
+
+
+Starsquid
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
