@@ -2091,7 +2091,7 @@
 			}
 		},
 		{
-			"name": "Cyberdark Dragon",
+			"name": "Cyberdarkness Dragon",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Artifact Creature — Dragon Serpent Construct",

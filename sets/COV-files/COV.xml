@@ -5,7 +5,7 @@
 			<name>COV</name>
 			<longname>Crusades of Velesta</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-15</releasedate>
+			<releasedate>2026-10-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -356,8 +356,8 @@ Draw two cards. Then discard a card unless you pay 1 morale.</text>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -3968,7 +3968,7 @@ This land enters tapped unless your morale is 2 or less.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Crumbling Foretress</name>
+			<name>Crumbling Fortress</name>
 			<text>Crusade (When this permanent enters, increase your morale by 1. Once during your turn, whenever an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)
 This land enters tapped unless your morale is 2 or less.
 {T}: Add {U} or {B}.</text>
@@ -5844,15 +5844,15 @@ Motivated — When Nu&apos;Ul enters, exile each other creature with abilities. 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Horror</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
 				<manacost>4WB</manacost>
 				<cmc>6</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 				<pt>4/4</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Will, Nature&apos;s Guide</name>
@@ -5864,15 +5864,15 @@ Motivated — At the beginning of your end step, create a 2/2 red and green Plan
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Elemental</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Elemental</type>
+				<maintype>Creature</maintype>
 				<manacost>3GW</manacost>
 				<cmc>5</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 				<pt>4/4</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Phaetilis, Nature&apos;s Cleansing</name>
@@ -5884,15 +5884,15 @@ Motivated — Nonbasic lands enter tapped. As long as your morale is five or gre
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Plant</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Plant</type>
+				<maintype>Creature</maintype>
 				<manacost>3RG</manacost>
 				<cmc>5</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 				<pt>5/5</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ban&apos;Est, Resistance Personified</name>
@@ -5904,15 +5904,15 @@ Motivated — At the beginning of your end step, you may discard a card. If your
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Wizard</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Wizard</type>
+				<maintype>Creature</maintype>
 				<manacost>1UB</manacost>
 				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>A&apos;Aka, Pursuit of Mindfulness</name>
@@ -5924,15 +5924,15 @@ Motivated — As long as your morale is five or greater, if a land you control e
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Serpent</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Serpent</type>
+				<maintype>Creature</maintype>
 				<manacost>2GU</manacost>
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
 				<pt>3/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Gologo, Acceptance Personified</name>
@@ -5944,15 +5944,15 @@ Motivated — At the beginning of your end step, return up to one target creatur
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Beast</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Beast</type>
+				<maintype>Creature</maintype>
 				<manacost>3BG</manacost>
 				<cmc>5</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 				<pt>3/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Haestor, Fervor of Blood</name>
@@ -5964,15 +5964,15 @@ Motivated — When Haestor enters, you may reveal the top card of your library. 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Sorcerer</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Sorcerer</type>
+				<maintype>Creature</maintype>
 				<manacost>1UR</manacost>
 				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 				<pt>2/4</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Selor, Pursuit of Advancement</name>
@@ -5984,15 +5984,15 @@ Motivated — At the beginning of your upkeep, bolster 1. If your morale is five
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Noble</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Noble</type>
+				<maintype>Creature</maintype>
 				<manacost>WU</manacost>
 				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Elio, Arbiter of Self</name>
@@ -6004,15 +6004,15 @@ Motivated — When Elio enters or attacks, he deals 2 damage to target player or
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Knight</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Knight</type>
+				<maintype>Creature</maintype>
 				<manacost>2RW</manacost>
 				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>3/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Kell, Fervor of Purpose</name>
@@ -6024,15 +6024,15 @@ Motivated — Discard a card: Clerics your team controls get +1/+1 until end of 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment — Elder Ranger</type>
-				<maintype>Enchantment</maintype>
+				<type>Legendary Enchantment Creature — Elder Ranger</type>
+				<maintype>Creature</maintype>
 				<manacost>2BR</manacost>
 				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>3/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Trident of Nu&apos;Ul</name>

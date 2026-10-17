@@ -1,4 +1,51 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Crumbling Fortress added.
+
+Crumbling Foretress removed.
+
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Strategic Outmaneuvering
+cost: {1}{U} => {2}{U}
+
+Nu'Ul, Arbiter of Compliance
+type: Legendary Enchantment — Elder Horror => Legendary Enchantment Creature — Elder Horror
+
+Will, Nature's Guide
+type: Legendary Enchantment — Elder Elemental => Legendary Enchantment Creature — Elder Elemental
+
+Phaetilis, Nature's Cleansing
+type: Legendary Enchantment — Elder Plant => Legendary Enchantment Creature — Elder Plant
+
+Ban'Est, Resistance Personified
+type: Legendary Enchantment — Elder Wizard => Legendary Enchantment Creature — Elder Wizard
+
+A'Aka, Pursuit of Mindfulness
+type: Legendary Enchantment — Elder Serpent => Legendary Enchantment Creature — Elder Serpent
+
+Gologo, Acceptance Personified
+type: Legendary Enchantment — Elder Beast => Legendary Enchantment Creature — Elder Beast
+
+Haestor, Fervor of Blood
+type: Legendary Enchantment — Elder Sorcerer => Legendary Enchantment Creature — Elder Sorcerer
+
+Selor, Pursuit of Advancement
+type: Legendary Enchantment — Elder Noble => Legendary Enchantment Creature — Elder Noble
+
+Elio, Arbiter of Self
+type: Legendary Enchantment — Elder Knight => Legendary Enchantment Creature — Elder Knight
+
+Kell, Fervor of Purpose
+type: Legendary Enchantment — Elder Ranger => Legendary Enchantment Creature — Elder Ranger
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

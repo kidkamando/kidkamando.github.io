@@ -5,7 +5,7 @@
 			<name>YGX</name>
 			<longname>YuGiOh! GX</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-06</releasedate>
+			<releasedate>2026-10-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3748,8 +3748,8 @@ When this creature enters, return up to one target Hero, instant, or sorcery car
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Cyberdark Dragon</name>
-			<text>When this creature enters, Cyberdark Dragon deals X damage to each opponent, where X is the number of creatures they control.
+			<name>Cyberdarkness Dragon</name>
+			<text>When this creature enters, Cyberdarkness Dragon deals X damage to each opponent, where X is the number of creatures they control.
 Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
 First strike (This creature deals combat damage before creatures without first strike.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/YGX-files/img/209.jpg" num="209">YGX</set>

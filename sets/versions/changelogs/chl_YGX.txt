@@ -1,4 +1,12 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Cyberdarkness Dragon added.
+
+Cyberdark Dragon removed.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.

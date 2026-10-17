@@ -1,4 +1,695 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Extortion Envoy
+
+Restra Enforcer
+
+Resplendent Intervention
+
+Bartered Passage
+
+Uneven Exchange
+
+Lord Restra, Malicious Patriarch
+
+Lord Stormwood XVI
+
+Skeletony, Boney Butler
+rules_text: Whenever one or more cards leave your graveyard, choose one —
+• Skeletony connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+• Target opponent discards a card. => Whenever one or more cards leave your graveyard, choose one —
+• Skeletony connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+• Target opponent discards a card.
+
+Joint Acquisition
+
+Health Inspector
+
+Amoral Auditor
+
+Tosshorn Intervention
+
+Woolen Advisor
+
+Keen-Eared Publican
+
+Winding Bureau
+
+Caring Host
+
+Investment Broker
+
+Cabinet's Taskmaster
+
+Watchful Innkeeper
+
+Factory Soulgifter
+
+Tosshorn Immunity
+
+Vault Sentinel
+
+Paladin of the People
+
+Spire Crier
+
+Hope
+
+Paid Off
+
+Induced Immurement
+
+Expel From the Commune
+
+Underground Dead Drop
+
+Special Interest Activist
+
+Winding Archive
+
+Momentary Counsel
+
+Confine
+
+Perfection
+
+Separated by Disaster
+
+Restless Agent
+rules_text: When this creature enters, choose one — 
+• Target player draws a card.
+• Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => When this creature enters, choose one — 
+• Target player draws a card.
+• Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Improvised Distraction
+
+Liberating Clause
+
+Pursuit of Technicality
+
+Parapet Protector
+
+Indebted Acrobat
+
+Double-Dealing Senator
+
+Deepspire Spellcarver
+
+Forgotten Spellcarver
+
+Plan a Scheme
+
+Venal Lawmaker
+
+Disorienting Didact
+
+Forceful Request
+
+Iniquitous Informant
+
+Unending Service
+
+Winding Cemetery
+
+Ruthlessness
+
+Dismissive Hit
+
+Sleep in the Deep
+
+Raised Muscle
+rules_text: {2}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+{1}{B}: Return this card from your graveyard to the battlefield tapped. => {2}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+{1}{B}: Return this card from your graveyard to the battlefield tapped.
+
+Leaping Finslasher
+
+Contract Contact
+rules_text: Flying
+When this creature dies, create a 1/1 white and black Mercenary creature token with “{1}, {T}: This creature connives.” [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Flying
+When this creature dies, create a 1/1 white and black Mercenary creature token with “{1}, {T}: This creature connives.” [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Double-Jointed Double-Agent
+rules_text: Menace
+When this creature enters, target creature your team controls connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Menace
+When this creature enters, target creature your team controls connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Crumbling Worker
+
+Dip in Venom
+
+Bonesight
+
+Harkland Bonebrute
+
+Executive's Executor
+
+Conspicuous Disappearance
+
+Lightning Salvo
+
+Emergency Landlord
+
+Hireling Muscle
+
+Winding Camp
+
+Exchange for Might
+
+Hustling Hireling
+
+Determination
+
+Corporate Race
+
+Workaholic Workdog
+
+Arsonize
+
+Skytop Investigator
+
+Creative Arsonist
+
+Experienced Crownguard
+
+Storeroom Raider
+
+Spellcarved Furygem
+
+Spontaneous Sharpshooter
+
+Spire Surge
+
+Battle-Hardened Reflexes
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Target creature gets +2/+0 and gains first strike until end of turn. If this spell was bargained, it gains ward {1} until end of turn. [i](Whenever that permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Target creature gets +2/+0 and gains first strike until end of turn. If this spell was bargained, it gains ward {1} until end of turn. [i](Whenever this instant becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+Creative Canoid
+
+People's Envoy
+
+Stormspire Grovewarden
+
+Rubble Rescuer
+
+Plentitude
+
+Social Pressure
+
+Favored Growth
+
+Welcoming Community
+
+Coilhorn Crusader
+
+Canoid Commando
+
+Wingless Watcher
+
+Militia Sniper
+
+Wooly Pierceshot
+
+Splendorspire Champion
+
+Spire Habitation
+
+Binate Bash
+
+Bucktooth Spirecarver
+
+Wing Shatter
+
+Splendorspire Training
+
+Suborned Overseer
+
+Allied Tosshorn
+
+Resplendent Trainings
+
+Tosshorn Enforcer
+rules_text: When this creature enters, create a 1/1 white and black Mercenary creature token with “{1}, {T}: This creature connives.”
+{1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => When this creature enters, create a 1/1 white and black Mercenary creature token with “{1}, {T}: This creature connives.”
+{1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Purge From Within
+
+Acquisition Equalator
+
+Drawn to Success
+
+Bulk Recruitment
+
+Summary Predictor
+
+Up For Lease
+
+Serrated Glasswings
+
+Mimicked Movements
+
+Busted Scheme
+
+Keep to Contract
+
+Tricked Twice
+
+Thought Inhibitor
+
+Glimmerjelly Spellweaver
+
+Age of Inspiration
+
+Variant Runemaker
+
+Muscled Finbasher
+
+Slinking Stabber
+
+Discount Dignitary
+
+Dead Investment
+
+Undercity Network
+
+Underhanded Fink
+
+Undetected Spy
+
+Laid Off for Life
+
+Arranged Betrayal
+
+Debt Catchpole
+
+Concealed Dagger
+
+Gnashing Blooddrinker
+
+Foraged Feast
+
+Exploitative Worklog
+
+Joint Sabotage
+
+Aerial Sentinel
+
+Spirebound Disaster
+
+Abrasive Blast
+
+Crown's Sharpshooter
+
+Manaleech Devil
+
+Population Explosion
+
+Staggering Strike
+
+Spire's Collapse
+
+Rallying Officer
+
+Bellicose Boss
+
+Personal Protection Check
+
+United Anthem
+
+Winding Nest
+
+Spire Slammer
+
+Tribute From the Families
+
+Withstand Atrocity
+
+Coalition Courage
+
+Tosshorn Trustee
+
+Headbutting Skullbasher
+
+Property Monopoly
+
+Corporate Landloaner
+
+Contracted Companion
+
+Joint Enterprise
+
+Balan, Citizen's Surrogate
+
+Unfavorable Obligation
+
+Spiretop Watcher
+
+Atteli Yewtooth, Crown's Tactician
+
+Insider Sabotage
+
+Joint Research
+
+Ingenious Advisor
+
+Dictate of Splendor
+
+Egocentric Lawmaker
+rules_text: Flash, flying
+Whenever another player draws their second card each turn, choose one — 
+• Create a tapped Treasure token.
+• This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Flash, flying
+Whenever another player draws their second card each turn, choose one — 
+• Create a tapped Treasure token.
+• This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Lumi, Deepspire Representative
+rules_text: Flying
+At the beginning of combat on your turn, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+As long as Lumi's toughness is five or greater, whenever you cast a noncreature spell, create a 1/1 blue Jellyfish Rogue creature token with flying. => Flying
+At the beginning of combat on your turn, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+As long as Lumi's toughness is five or greater, whenever you cast a noncreature spell, create a 1/1 blue Jellyfish Rogue creature token with flying.
+
+Political Manipulator
+
+Joint Excavation
+
+Malicious Confluence
+
+Swirling Thoughtstone
+
+Internest Socialite
+
+Untreated Fadestone
+
+Siyzol, Restra's Chosen
+
+Colluded Scheme
+
+Circular Investment
+
+Conspired Assault
+
+Devil Spirehawk
+
+Quick-Response Policy
+
+Root Retailer
+
+Dualcaster Devil
+
+Spire Titan
+
+Martyr's Moment
+
+Growing Colony
+
+Rykkon, Resident Recruiter
+
+Rage of the Recruited
+
+Gutter Ambusher
+
+Wolanne Tosshorn, Peacemaker
+
+Flawless Graven
+
+Magistrate of the Final Word
+
+Resplendent Archmage
+
+Quest For Remembrance
+
+Forgotten Significance
+
+Gilban, Impulsive Electromancer
+
+Awakened Anger
+
+Thrive Twofold
+
+Waxley, Union Chief
+
+Revelation of Synergy
+
+Anamnomancer
+
+Mayhem Rallier
+
+Interior Designer
+
+Safety Inspector
+
+Coin's Motivation
+
+Sludge Scrounger
+
+Dynamic Storm
+
+Birthing Roepod
+
+Charming Duke
+
+Auriel, Professional Chantagée
+
+Accomodating Lessor
+
+Form a Union!
+
+Undrix, Executive Investor
+
+Practiced Persecutor
+
+Product Conversion
+
+Official Exciser
+
+Deepspire Caretaker
+
+Dreaded Letter
+
+Relic of Secrets
+
+Restless Guardian
+
+Spiretop Bell
+
+Bladesinger's Polyfocus
+
+Cityscape Glidegear
+
+Corded Net
+
+Spire Overseer
+
+Blessed Spirekeeper
+
+District Borderpost
+
+Condemned Skyspire
+
+Resplendent Revenue Service Bureau
+
+Skytop Leasing Firm Office
+
+Varden Party Donation Center
+
+Restra Mercenary Agency
+
+Hoardmoor Investement Department
+
+Fable's Gift
+
+Barkley, Union Head
+
+Lattice Stillstone
+
+Zevuth, Barracks Commander
+
+Slick Official
+
+Eventide Enforcer
+
+Bracers of Reverberation
+
+Roe Protector
+
+Debt Hunter
+
+Splendor Spoiler
+
+Skytop Lessor
+
+Shady Hireling
+
+Social Guide
+
+Prospect Scout
+
+Splendorspire Protector
+
+Somatic Negotiator
+
+Crumbled Skyspire
+
+Resplendent Crown Public Office
+
+Restless Eyes Meeting Point
+
+Internest Investments Division
+
+People's Trade Union Branch
+
+Harkland Distribution Center
+
+Fable, Catastrophic Manipulator
+
+Reddened Seal
+
+Sublime Compromise
+
+Knight of Stormspire
+
+Quick-Handed Marksman
+
+Lessor's Log
+
+Rennovating Skyspire
+
+Innovative Deepspire
+
+Underway Deepspire
+
+Biophilic Skyspire
+
+Crowded Skyspire
+
+Festival Chimes
+
+Autonomous Messenger
+
+Transport Automaton
+
+Fulfillment of Fortune
+
+Fulfillment of Knowledge
+
+Bone Crash
+
+Political Promise
+
+Bond of Brothers
+
+Tirading Perorator
+
+Splashback
+
+Grinning Menace
+
+Canoid Captain
+
+Tosshorn Crasher
+
+Unionback Walker
+
+Resplendent Stormspire
+
+Calan Harkland, Chief Executive
+
+Scant Survival
+
+Splendid Speaker
+
+Executive Assassination
+
+Hostile Buyout
+
+Protection Educator
+
+Torrix, Heir to Internest
+rules_text: When Torrix enters, choose artifact or creature.
+Permanents of the chosen type enter tapped.
+{1}, Sacrifice a permanent of the chosen type: Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => When Torrix enters, choose artifact or creature.
+Permanents of the chosen type enter tapped.
+{1}, Sacrifice a permanent of the chosen type: Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Adan, Revenue Restrictor
+
+Emule Tosshorn, Philanthropist
+
+Sikka, Skeletony Unmasked
+
+Harold Hoardmoor, Curio Collector
+
+Lector Varden, Party Leader
+
+Lord Maxspire, Skytop Sovereign
+
+Embargo List
+
+Construct Castleguard
+
+Adan's Regiment
+
+Stormwood's Will
+
+Sikka's Plot
+
+Gilban's Electroblast
+
+Emule's Gift
+
+Favor
+
+Tenant
+
+Map
+rules_text: {1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i] => {1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Jellyfish Rogue
+
+Mercenary
+rules_text: {1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => {1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Food
+
+Treasure
+
+Wolanne, Spiretop Comrade
+rules_text: Exile target creature. Return it to the battlefield under its owner's control. => [+2]: Exile target creature. Return it to the battlefield under its owner's control.
+[-X]: Tap all creatures with power X or greater and put two stun counters on each of them.
+[-10]: You get an emblem with “Creatures you control get +3/+3 and have flying.”
+
+Auriel, Changed by Luck
+rules_text:  => Flash
+As long as Auriel entered this turn, you may activate Auriel's loyalty abilities any time you could cast an instant.
+[+1]: Scry 3. [i](Look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+[0]: Choose instant or sorcery. Reveal the top card of your library. If it's a card of the chosen type, create a 1/1 blue Jellyfish Rogue creature token with flying.
+[-2]: Target creature's owner puts it on their choice of the top or bottom of their library.
+
+Restra, Accused Vengeance
+rules_text:  => [+1]: Look at the top two cards of your library. You may reveal one. When you do, put that card into your hand and lose life equal to its mana value. Put the rest back on top of your library in any order.
+[0]: Return target creature card from your graveyard to your hand.
+[-3]: Put X -1/-1 counters on target creature, where X is the number of creature cards in your graveyard.
+
+Gilban, Vengeful Dealmaker
+rules_text:  => [+1]: You may sacrifice an artifact or discard a card. If you do, draw a card.
+[0]: Create a 1/1 red and green Tenant creature token. [i](It's a Citizen with “{2}, {T}: Choose one. Create a Treasure token or put a +1/+1 counter on target creature you control.”)[/i]
+[-4]: Gain control of target artifact or creature. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+
+Licium, Living Funghive
+rules_text:  => [+1]: Reveal the top card of your library. If it's a land card, you may put it into your graveyard.
+[-1]: Put a -1/-1 counter on up to one target creature.
+[-3]: Create a token that's a copy of this planeswalker.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.

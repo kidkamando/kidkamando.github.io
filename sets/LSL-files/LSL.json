@@ -1,6 +1,6 @@
 ﻿{
     "name": "Last Starlight",
-    "formats": "Standard,Eternal,Commander,LSL",
+    "formats": "Eternal,Commander,LSL",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "unpreviewed": "card back",

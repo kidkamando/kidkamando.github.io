@@ -4397,14 +4397,14 @@
             "notes": ""
         },
         {
-            "card_name": "Cyberdark Dragon",
+            "card_name": "Cyberdarkness Dragon",
             "color": "BR",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Dragon Serpent Construct",
             "number": 209,
             "color_identity": "BR",
             "cost": "{4}{B}{R}",
-            "rules_text": "When this creature enters, Cyberdark Dragon deals X damage to each opponent, where X is the number of creatures they control.\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
+            "rules_text": "When this creature enters, Cyberdarkness Dragon deals X damage to each opponent, where X is the number of creatures they control.\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5825,5 +5825,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }

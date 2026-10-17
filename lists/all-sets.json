@@ -13,7 +13,7 @@
         {
             "set_code": "LSL",
             "set_name": "Last Starlight",
-            "formats": "Standard,Eternal,Commander,SLC"
+            "formats": "Eternal,Commander,SLC"
         },
         {
             "set_code": "PWR",
@@ -79,6 +79,11 @@
             "set_code": "YGX",
             "set_name": "YuGiOh! GX",
             "formats": "Standard,Eternal,Commander,YGO"
-        }
+        },
+		{
+	    "set_code": "COV",
+            "set_name": "Crusades of Velesta",
+            "formats": "Standard,Eternal,Commander,BVEL"
+	}
     ]
 }

@@ -16,8 +16,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Restra Enforcer",
@@ -35,27 +39,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Favor",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Favor",
-            "number": 4,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "While making a choice, if this artifact is untapped, you may tap and sacrifice it. If you do, you may make an additional choice and may choose an option that's already been chosen.",
-            "flavor_text": "[i]A letter, with no address, manages to slip into the right hands. Their \u2018friends' need something, no questions asked. Great...[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Resplendent Intervention",
@@ -73,8 +62,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bartered Passage",
@@ -92,8 +85,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Uneven Exchange",
@@ -111,8 +108,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lord Restra, Malicious Patriarch",
@@ -130,8 +131,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lord Stormwood XVI",
@@ -149,8 +154,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skeletony, Boney Butler",
@@ -160,7 +169,7 @@
             "number": 127,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever one or more cards leave your graveyard, choose one \u2013\n\u2022 Skeletony connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]\n\u2022 Target opponent discards a card.",
+            "rules_text": "Whenever one or more cards leave your graveyard, choose one \u2013\n\u2022 Skeletony connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]\n\u2022 Target opponent discards a card.",
             "flavor_text": "[i]\u201cOf course, Harkland. Your tea will be ready soon.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -168,8 +177,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Joint Acquisition",
@@ -187,8 +200,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Health Inspector",
@@ -206,8 +223,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Amoral Auditor",
@@ -225,8 +246,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tosshorn Intervention",
@@ -244,8 +269,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Woolen Advisor",
@@ -263,8 +292,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Keen-Eared Publican",
@@ -282,8 +315,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Winding Bureau",
@@ -301,8 +338,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Caring Host",
@@ -320,8 +361,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Investment Broker",
@@ -339,8 +384,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cabinet's Taskmaster",
@@ -358,8 +407,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Watchful Innkeeper",
@@ -377,8 +430,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Factory Soulgifter",
@@ -396,8 +453,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tosshorn Immunity",
@@ -415,8 +476,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vault Sentinel",
@@ -434,8 +499,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Paladin of the People",
@@ -453,8 +522,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire Crier",
@@ -472,8 +545,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hope",
@@ -491,8 +568,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Paid Off",
@@ -510,8 +591,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Induced Immurement",
@@ -529,8 +614,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Expel From the Commune",
@@ -548,8 +637,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Underground Dead Drop",
@@ -567,8 +660,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Special Interest Activist",
@@ -586,8 +683,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Winding Archive",
@@ -605,8 +706,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Momentary Counsel",
@@ -624,8 +729,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Confine",
@@ -643,8 +752,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Perfection",
@@ -662,8 +775,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Separated by Disaster",
@@ -681,8 +798,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Restless Agent",
@@ -692,7 +813,7 @@
             "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, choose one \u2013 \n\u2022 Target player draws a card.\n\u2022 Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "When this creature enters, choose one \u2013 \n\u2022 Target player draws a card.\n\u2022 Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i]Careful ears, careful eyes.\n\u2014 Motto of the Restless Eyes[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -700,8 +821,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Improvised Distraction",
@@ -719,8 +844,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Liberating Clause",
@@ -738,8 +867,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pursuit of Technicality",
@@ -757,8 +890,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Parapet Protector",
@@ -776,8 +913,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Indebted Acrobat",
@@ -795,8 +936,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Double-Dealing Senator",
@@ -814,8 +959,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Deepspire Spellcarver",
@@ -833,8 +982,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Spellcarver",
@@ -852,8 +1005,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plan a Scheme",
@@ -871,8 +1028,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Venal Lawmaker",
@@ -890,8 +1051,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disorienting Didact",
@@ -909,8 +1074,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forceful Request",
@@ -928,8 +1097,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Iniquitous Informant",
@@ -947,8 +1120,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unending Service",
@@ -966,8 +1143,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Winding Cemetery",
@@ -985,8 +1166,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ruthlessness",
@@ -1004,8 +1189,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dismissive Hit",
@@ -1023,8 +1212,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sleep in the Deep",
@@ -1042,8 +1235,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Raised Muscle",
@@ -1053,7 +1250,7 @@
             "number": 122,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "{2}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]\n{1}{B}: Return this card from your graveyard to the battlefield tapped.",
+            "rules_text": "{2}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]\n{1}{B}: Return this card from your graveyard to the battlefield tapped.",
             "flavor_text": "[i]Never sell your soul to the Families.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1061,8 +1258,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Leaping Finslasher",
@@ -1080,8 +1281,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Contract Contact",
@@ -1091,7 +1296,7 @@
             "number": 97,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flying\nWhen this creature dies, create a 1/1 white and black Mercenary creature token with \u201c{1}, {T}: This creature connives.\u201d [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "Flying\nWhen this creature dies, create a 1/1 white and black Mercenary creature token with \u201c{1}, {T}: This creature connives.\u201d [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i]\u201cYeah, I know a guy.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1099,8 +1304,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Double-Jointed Double-Agent",
@@ -1110,7 +1319,7 @@
             "number": 103,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Menace\nWhen this creature enters, target creature your team controls connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "Menace\nWhen this creature enters, target creature your team controls connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i]Harkland wasn't the only one who commanded the dead. The Eyes sought to keep that under wraps.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1118,8 +1327,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crumbling Worker",
@@ -1137,8 +1350,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dip in Venom",
@@ -1156,8 +1373,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bonesight",
@@ -1175,8 +1396,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Harkland Bonebrute",
@@ -1194,8 +1419,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Executive's Executor",
@@ -1213,8 +1442,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Conspicuous Disappearance",
@@ -1232,8 +1465,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lightning Salvo",
@@ -1251,8 +1488,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Emergency Landlord",
@@ -1270,8 +1511,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hireling Muscle",
@@ -1289,8 +1534,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Winding Camp",
@@ -1308,8 +1557,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Exchange for Might",
@@ -1327,8 +1580,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hustling Hireling",
@@ -1346,8 +1603,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Determination",
@@ -1365,8 +1626,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Corporate Race",
@@ -1384,8 +1649,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Workaholic Workdog",
@@ -1403,8 +1672,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Arsonize",
@@ -1422,8 +1695,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skytop Investigator",
@@ -1441,8 +1718,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Creative Arsonist",
@@ -1460,8 +1741,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Experienced Crownguard",
@@ -1479,8 +1764,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Storeroom Raider",
@@ -1498,8 +1787,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spellcarved Furygem",
@@ -1517,8 +1810,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spontaneous Sharpshooter",
@@ -1536,8 +1833,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire Surge",
@@ -1555,8 +1856,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Battle-Hardened Reflexes",
@@ -1566,7 +1871,7 @@
             "number": 140,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]\nTarget creature gets +2/+0 and gains first strike until end of turn. If this spell was bargained, it gains ward {1} until end of turn. [i](Whenever that permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
+            "rules_text": "Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]\nTarget creature gets +2/+0 and gains first strike until end of turn. If this spell was bargained, it gains ward {1} until end of turn. [i](Whenever this instant becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1574,8 +1879,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Creative Canoid",
@@ -1593,8 +1902,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "People's Envoy",
@@ -1612,8 +1925,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stormspire Grovewarden",
@@ -1631,8 +1948,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rubble Rescuer",
@@ -1650,8 +1971,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plentitude",
@@ -1669,8 +1994,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Social Pressure",
@@ -1688,8 +2017,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Favored Growth",
@@ -1707,8 +2040,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Welcoming Community",
@@ -1726,8 +2063,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Coilhorn Crusader",
@@ -1745,8 +2086,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Canoid Commando",
@@ -1764,8 +2109,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wingless Watcher",
@@ -1783,8 +2132,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Militia Sniper",
@@ -1802,8 +2155,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wooly Pierceshot",
@@ -1821,8 +2178,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Splendorspire Champion",
@@ -1840,8 +2201,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire Habitation",
@@ -1859,8 +2224,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Binate Bash",
@@ -1878,8 +2247,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bucktooth Spirecarver",
@@ -1897,8 +2270,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wing Shatter",
@@ -1916,8 +2293,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Splendorspire Training",
@@ -1935,8 +2316,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Suborned Overseer",
@@ -1954,8 +2339,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Allied Tosshorn",
@@ -1973,8 +2362,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Resplendent Trainings",
@@ -1992,8 +2385,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tosshorn Enforcer",
@@ -2003,7 +2400,7 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, create a 1/1 white and black Mercenary creature token with \u201c{1}, {T}: This creature connives.\u201d\n{1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "When this creature enters, create a 1/1 white and black Mercenary creature token with \u201c{1}, {T}: This creature connives.\u201d\n{1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i]\u201cNot all mercs are bad, kid. We all have to make coin somehow.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2011,8 +2408,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Purge From Within",
@@ -2030,8 +2431,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Acquisition Equalator",
@@ -2049,8 +2454,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Drawn to Success",
@@ -2068,8 +2477,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bulk Recruitment",
@@ -2087,8 +2500,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Summary Predictor",
@@ -2106,8 +2523,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Up For Lease",
@@ -2125,8 +2546,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Serrated Glasswings",
@@ -2144,8 +2569,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mimicked Movements",
@@ -2163,8 +2592,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Busted Scheme",
@@ -2182,8 +2615,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Keep to Contract",
@@ -2201,8 +2638,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tricked Twice",
@@ -2220,8 +2661,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thought Inhibitor",
@@ -2239,8 +2684,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Glimmerjelly Spellweaver",
@@ -2258,8 +2707,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Age of Inspiration",
@@ -2277,8 +2730,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Variant Runemaker",
@@ -2296,8 +2753,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Muscled Finbasher",
@@ -2315,8 +2776,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Slinking Stabber",
@@ -2334,8 +2799,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Discount Dignitary",
@@ -2353,8 +2822,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dead Investment",
@@ -2372,8 +2845,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Undercity Network",
@@ -2391,8 +2868,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Underhanded Fink",
@@ -2410,8 +2891,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Undetected Spy",
@@ -2429,8 +2914,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Laid Off for Life",
@@ -2448,8 +2937,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Arranged Betrayal",
@@ -2467,8 +2960,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Debt Catchpole",
@@ -2486,8 +2983,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Concealed Dagger",
@@ -2505,8 +3006,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gnashing Blooddrinker",
@@ -2524,8 +3029,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Foraged Feast",
@@ -2543,8 +3052,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Exploitative Worklog",
@@ -2562,8 +3075,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Joint Sabotage",
@@ -2581,8 +3098,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Aerial Sentinel",
@@ -2600,8 +3121,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spirebound Disaster",
@@ -2619,8 +3144,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Abrasive Blast",
@@ -2638,8 +3167,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crown's Sharpshooter",
@@ -2657,8 +3190,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Manaleech Devil",
@@ -2676,8 +3213,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Population Explosion",
@@ -2695,8 +3236,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Staggering Strike",
@@ -2714,8 +3259,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire's Collapse",
@@ -2733,8 +3282,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rallying Officer",
@@ -2752,8 +3305,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bellicose Boss",
@@ -2771,8 +3328,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Personal Protection Check",
@@ -2790,8 +3351,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "United Anthem",
@@ -2809,8 +3374,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Winding Nest",
@@ -2828,8 +3397,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire Slammer",
@@ -2847,8 +3420,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tribute From the Families",
@@ -2866,8 +3443,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Withstand Atrocity",
@@ -2885,8 +3466,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Coalition Courage",
@@ -2904,8 +3489,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tosshorn Trustee",
@@ -2923,8 +3512,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Headbutting Skullbasher",
@@ -2942,8 +3535,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Property Monopoly",
@@ -2961,8 +3558,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Corporate Landloaner",
@@ -2980,8 +3581,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Contracted Companion",
@@ -2999,8 +3604,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Joint Enterprise",
@@ -3018,8 +3627,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Balan, Citizen's Surrogate",
@@ -3037,8 +3650,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unfavorable Obligation",
@@ -3056,8 +3673,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spiretop Watcher",
@@ -3075,8 +3696,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Atteli Yewtooth, Crown's Tactician",
@@ -3094,8 +3719,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Insider Sabotage",
@@ -3113,8 +3742,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Joint Research",
@@ -3132,8 +3765,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ingenious Advisor",
@@ -3151,8 +3788,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dictate of Splendor",
@@ -3170,8 +3811,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Egocentric Lawmaker",
@@ -3181,7 +3826,7 @@
             "number": 55,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Flash, flying\nWhenever another player draws their second card each turn, choose one \u2013 \n\u2022 Create a tapped Treasure token.\n\u2022 This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "Flash, flying\nWhenever another player draws their second card each turn, choose one \u2013 \n\u2022 Create a tapped Treasure token.\n\u2022 This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3189,8 +3834,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lumi, Deepspire Representative",
@@ -3200,7 +3849,7 @@
             "number": 66,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flying\nAt the beginning of combat on your turn, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]\nAs long as Lumi's toughness is five or greater, whenever you cast a noncreature spell, create a 1/1 blue Jellyfish Rogue creature token with flying.",
+            "rules_text": "Flying\nAt the beginning of combat on your turn, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]\nAs long as Lumi's toughness is five or greater, whenever you cast a noncreature spell, create a 1/1 blue Jellyfish Rogue creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -3208,8 +3857,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Political Manipulator",
@@ -3227,8 +3880,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Joint Excavation",
@@ -3246,8 +3903,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Malicious Confluence",
@@ -3265,8 +3926,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swirling Thoughtstone",
@@ -3284,8 +3949,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Internest Socialite",
@@ -3303,8 +3972,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Untreated Fadestone",
@@ -3322,8 +3995,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Siyzol, Restra's Chosen",
@@ -3341,8 +4018,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Colluded Scheme",
@@ -3360,8 +4041,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Circular Investment",
@@ -3379,8 +4064,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Conspired Assault",
@@ -3398,8 +4087,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Devil Spirehawk",
@@ -3417,8 +4110,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Quick-Response Policy",
@@ -3436,8 +4133,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Root Retailer",
@@ -3455,8 +4156,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dualcaster Devil",
@@ -3474,8 +4179,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire Titan",
@@ -3493,8 +4202,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Martyr's Moment",
@@ -3512,8 +4225,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Growing Colony",
@@ -3531,8 +4248,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rykkon, Resident Recruiter",
@@ -3550,8 +4271,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rage of the Recruited",
@@ -3569,8 +4294,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gutter Ambusher",
@@ -3588,8 +4317,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wolanne Tosshorn, Peacemaker",
@@ -3607,8 +4340,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Flawless Graven",
@@ -3626,8 +4363,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Magistrate of the Final Word",
@@ -3645,8 +4386,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Resplendent Archmage",
@@ -3664,8 +4409,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Quest For Remembrance",
@@ -3683,8 +4432,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Significance",
@@ -3702,8 +4455,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gilban, Impulsive Electromancer",
@@ -3721,8 +4478,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Awakened Anger",
@@ -3740,8 +4501,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thrive Twofold",
@@ -3759,8 +4524,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Waxley, Union Chief",
@@ -3778,8 +4547,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Revelation of Synergy",
@@ -3797,8 +4570,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Anamnomancer",
@@ -3816,8 +4593,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mayhem Rallier",
@@ -3835,8 +4616,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Interior Designer",
@@ -3854,8 +4639,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Safety Inspector",
@@ -3873,8 +4662,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Coin's Motivation",
@@ -3892,8 +4685,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sludge Scrounger",
@@ -3911,8 +4708,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dynamic Storm",
@@ -3930,8 +4731,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Birthing Roepod",
@@ -3949,8 +4754,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Charming Duke",
@@ -3968,8 +4777,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Auriel, Professional Chantag\u00e9e",
@@ -3987,8 +4800,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Accomodating Lessor",
@@ -4006,8 +4823,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Form a Union!",
@@ -4025,8 +4846,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Undrix, Executive Investor",
@@ -4044,8 +4869,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Practiced Persecutor",
@@ -4063,8 +4892,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Product Conversion",
@@ -4082,8 +4915,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Official Exciser",
@@ -4101,8 +4938,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Deepspire Caretaker",
@@ -4120,8 +4961,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dreaded Letter",
@@ -4139,8 +4984,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Relic of Secrets",
@@ -4158,8 +5007,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Restless Guardian",
@@ -4177,8 +5030,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spiretop Bell",
@@ -4196,8 +5053,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bladesinger's Polyfocus",
@@ -4215,8 +5076,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cityscape Glidegear",
@@ -4234,8 +5099,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Corded Net",
@@ -4253,8 +5122,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spire Overseer",
@@ -4272,8 +5145,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blessed Spirekeeper",
@@ -4291,8 +5168,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "District Borderpost",
@@ -4310,8 +5191,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Condemned Skyspire",
@@ -4329,8 +5214,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Resplendent Revenue Service Bureau",
@@ -4348,8 +5237,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skytop Leasing Firm Office",
@@ -4367,8 +5260,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Varden Party Donation Center",
@@ -4386,8 +5283,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Restra Mercenary Agency",
@@ -4405,8 +5306,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hoardmoor Investement Department",
@@ -4424,8 +5329,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fable's Gift",
@@ -4443,8 +5352,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Barkley, Union Head",
@@ -4462,8 +5375,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lattice Stillstone",
@@ -4481,27 +5398,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Tenant",
-            "color": "RG",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Citizen",
-            "number": 3,
-            "color_identity": "RG",
-            "cost": "",
-            "rules_text": "{2}, {T}: Choose one \u2013 \n\u2022 Create a Treasure token.\n\u2022 Put a +1/+1 counter on target creature you control.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Zevuth, Barracks Commander",
@@ -4519,8 +5421,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Slick Official",
@@ -4538,103 +5444,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Map",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Map",
-            "number": 6,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Jellyfish Rogue",
-            "color": "U",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Jellyfish Rogue",
-            "number": 1,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "Flying",
-            "flavor_text": "[i]The pulse of its jellied head sent it floating towards the sky, dancing between the glimmering spires.[/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Mercenary",
-            "color": "WB",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Mercenary",
-            "number": 2,
-            "color_identity": "WB",
-            "cost": "",
-            "rules_text": "{1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Food",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Food",
-            "number": 5,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
-            "flavor_text": "[i]It was a feast to be had, each and every day within the Splendorspire marked with excess.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
-            "number": 7,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
-            "flavor_text": "[i]Among the treasures of the buyout lay baubles of unimaginable splendor.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "ACS",
-            "loyalty": "",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Eventide Enforcer",
@@ -4652,8 +5467,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bracers of Reverberation",
@@ -4671,8 +5490,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Roe Protector",
@@ -4690,8 +5513,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Debt Hunter",
@@ -4709,8 +5536,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Splendor Spoiler",
@@ -4728,8 +5559,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skytop Lessor",
@@ -4747,8 +5582,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shady Hireling",
@@ -4766,8 +5605,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Social Guide",
@@ -4785,8 +5628,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Prospect Scout",
@@ -4804,8 +5651,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Splendorspire Protector",
@@ -4823,8 +5674,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Somatic Negotiator",
@@ -4842,8 +5697,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crumbled Skyspire",
@@ -4861,8 +5720,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Resplendent Crown Public Office",
@@ -4880,8 +5743,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Restless Eyes Meeting Point",
@@ -4899,8 +5766,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Internest Investments Division",
@@ -4918,8 +5789,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "People's Trade Union Branch",
@@ -4937,8 +5812,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Harkland Distribution Center",
@@ -4956,8 +5835,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fable, Catastrophic Manipulator",
@@ -4975,8 +5858,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Reddened Seal",
@@ -4994,8 +5881,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sublime Compromise",
@@ -5013,8 +5904,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Knight of Stormspire",
@@ -5032,8 +5927,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Quick-Handed Marksman",
@@ -5051,8 +5950,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lessor's Log",
@@ -5070,8 +5973,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rennovating Skyspire",
@@ -5089,8 +5996,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Innovative Deepspire",
@@ -5108,8 +6019,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Underway Deepspire",
@@ -5127,8 +6042,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Biophilic Skyspire",
@@ -5146,8 +6065,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crowded Skyspire",
@@ -5165,8 +6088,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Festival Chimes",
@@ -5184,8 +6111,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Autonomous Messenger",
@@ -5203,8 +6134,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Transport Automaton",
@@ -5222,8 +6157,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fulfillment of Fortune",
@@ -5241,8 +6180,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fulfillment of Knowledge",
@@ -5260,8 +6203,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bone Crash",
@@ -5279,8 +6226,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Political Promise",
@@ -5298,8 +6249,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bond of Brothers",
@@ -5317,103 +6272,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Wolanne, Spiretop Comrade",
-            "color": "W",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Wolanne",
-            "number": 43,
-            "color_identity": "W",
-            "cost": "{4}{W}{W}",
-            "rules_text": "Exile target creature. Return it to the battlefield under its owner's control.",
-            "flavor_text": "[i]a[/i]",
-            "pt": "",
-            "special_text": "[+2]: Exile target creature. Return it to the battlefield under its owner's control.\n[-X]: Tap all creatures with power X or greater and put two stun counters on each of them.\n[-10]: You get an emblem with \u201cCreatures you control get +3/+3 and have flying.\u201d",
-            "shape": "planeswalker",
-            "set": "ACS",
-            "loyalty": "5",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Auriel, Changed by Luck",
-            "color": "U",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Auriel",
-            "number": 47,
-            "color_identity": "U",
-            "cost": "{3}{U}{U}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "Flash\nAs long as Auriel entered this turn, you may activate Auriel's loyalty abilities any time you could cast an instant.\n[+1]: Scry 3. [i](Look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]\n[0]: Choose instant or sorcery. Reveal the top card of your library. If it's a card of the chosen type, create a 1/1 blue Jellyfish Rogue creature token with flying.\n[-2]: Target creature's owner puts it on their choice of the top or bottom of their library.",
-            "shape": "planeswalker",
-            "set": "ACS",
-            "loyalty": "4",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Restra, Accused Vengeance",
-            "color": "B",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Restra",
-            "number": 123,
-            "color_identity": "B",
-            "cost": "{2}{B}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+1]: Look at the top two cards of your library. You may reveal one. When you do, put that card into your hand and lose life equal to its mana value. Put the rest back on top of your library in any order.\n[0]: Return target creature card from your graveyard to your hand.\n[-3]: Put X -1/-1 counters on target creature, where X is the number of creature cards in your graveyard.",
-            "shape": "planeswalker",
-            "set": "ACS",
-            "loyalty": "4",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Gilban, Vengeful Dealmaker",
-            "color": "R",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Gilban",
-            "number": 157,
-            "color_identity": "R",
-            "cost": "{3}{R}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+1]: You may sacrifice an artifact or discard a card. If you do, draw a card.\n[0]: Create a 1/1 red and green Tenant creature token. [i](It's a Citizen with \u201c{2}, {T}: Choose one. Create a Treasure token or put a +1/+1 counter on target creature you control.\u201d)[/i]\n[-4]: Gain control of target artifact or creature. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.",
-            "shape": "planeswalker",
-            "set": "ACS",
-            "loyalty": "4",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
-        },
-        {
-            "card_name": "Licium, Living Funghive",
-            "color": "G",
-            "rarity": "mythic",
-            "type": "Planeswalker \u2013 Licium",
-            "number": 195,
-            "color_identity": "G",
-            "cost": "{1}{G}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+1]: Reveal the top card of your library. If it's a land card, you may put it into your graveyard.\n[-1]: Put a -1/-1 counter on up to one target creature.\n[-3]: Create a token that's a copy of this planeswalker.",
-            "shape": "planeswalker",
-            "set": "ACS",
-            "loyalty": "2",
-            "artist": "",
-            "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tirading Perorator",
@@ -5431,8 +6295,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Splashback",
@@ -5450,8 +6318,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Grinning Menace",
@@ -5469,8 +6341,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Canoid Captain",
@@ -5488,8 +6364,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tosshorn Crasher",
@@ -5507,8 +6387,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unionback Walker",
@@ -5526,8 +6410,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Resplendent Stormspire",
@@ -5545,8 +6433,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Calan Harkland, Chief Executive",
@@ -5564,8 +6456,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Scant Survival",
@@ -5583,8 +6479,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Splendid Speaker",
@@ -5602,8 +6502,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Executive Assassination",
@@ -5621,8 +6525,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hostile Buyout",
@@ -5640,8 +6548,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Protection Educator",
@@ -5659,8 +6571,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Torrix, Heir to Internest",
@@ -5670,7 +6586,7 @@
             "number": 267,
             "color_identity": "WB",
             "cost": "{WB}{WB}",
-            "rules_text": "When Torrix enters, choose artifact or creature.\nPermanents of the chosen type enter tapped.\n{1}, Sacrifice a permanent of the chosen type: Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "When Torrix enters, choose artifact or creature.\nPermanents of the chosen type enter tapped.\n{1}, Sacrifice a permanent of the chosen type: Target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5678,8 +6594,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Adan, Revenue Restrictor",
@@ -5697,8 +6617,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Emule Tosshorn, Philanthropist",
@@ -5716,8 +6640,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sikka, Skeletony Unmasked",
@@ -5735,8 +6663,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Harold Hoardmoor, Curio Collector",
@@ -5754,8 +6686,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lector Varden, Party Leader",
@@ -5773,8 +6709,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lord Maxspire, Skytop Sovereign",
@@ -5792,8 +6732,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Embargo List",
@@ -5811,8 +6755,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Construct Castleguard",
@@ -5830,8 +6778,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Adan's Regiment",
@@ -5849,8 +6801,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "295",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stormwood's Will",
@@ -5868,8 +6824,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "296",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sikka's Plot",
@@ -5887,8 +6847,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "297",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gilban's Electroblast",
@@ -5906,8 +6870,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "298",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Emule's Gift",
@@ -5925,8 +6893,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "299",
+            "rotated": false,
             "notes": "",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -5944,8 +6916,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "300",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -5963,8 +6939,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "301",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -5982,8 +6962,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "302",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -6001,8 +6985,12 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "303",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -6020,8 +7008,288 @@
             "set": "ACS",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "304",
+            "rotated": false,
             "notes": "!landslot",
-            "image_type": "jpg"
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Favor",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Favor",
+            "number": 4,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "While making a choice, if this artifact is untapped, you may tap and sacrifice it. If you do, you may make an additional choice and may choose an option that's already been chosen.",
+            "flavor_text": "[i]A letter, with no address, manages to slip into the right hands. Their \u2018friends' need something, no questions asked. Great...[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "305",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Tenant",
+            "color": "RG",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Citizen",
+            "number": 3,
+            "color_identity": "RG",
+            "cost": "",
+            "rules_text": "{2}, {T}: Choose one \u2013 \n\u2022 Create a Treasure token.\n\u2022 Put a +1/+1 counter on target creature you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "306",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Map",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Map",
+            "number": 6,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "307",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Jellyfish Rogue",
+            "color": "U",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Jellyfish Rogue",
+            "number": 1,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i]The pulse of its jellied head sent it floating towards the sky, dancing between the glimmering spires.[/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "308",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Mercenary",
+            "color": "WB",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Mercenary",
+            "number": 2,
+            "color_identity": "WB",
+            "cost": "",
+            "rules_text": "{1}, {T}: This creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "309",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Food",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Food",
+            "number": 5,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+            "flavor_text": "[i]It was a feast to be had, each and every day within the Splendorspire marked with excess.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "310",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Treasure",
+            "number": 7,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+            "flavor_text": "[i]Among the treasures of the buyout lay baubles of unimaginable splendor.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "ACS",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "311",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Wolanne, Spiretop Comrade",
+            "color": "W",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2013 Wolanne",
+            "number": 43,
+            "color_identity": "W",
+            "cost": "{4}{W}{W}",
+            "rules_text": "[+2]: Exile target creature. Return it to the battlefield under its owner's control.\n[-X]: Tap all creatures with power X or greater and put two stun counters on each of them.\n[-10]: You get an emblem with \u201cCreatures you control get +3/+3 and have flying.\u201d",
+            "flavor_text": "[i]a[/i]",
+            "pt": "",
+            "special_text": "[+2]: Exile target creature. Return it to the battlefield under its owner's control.\n[-X]: Tap all creatures with power X or greater and put two stun counters on each of them.\n[-10]: You get an emblem with \u201cCreatures you control get +3/+3 and have flying.\u201d",
+            "shape": "planeswalker",
+            "set": "ACS",
+            "loyalty": "5",
+            "artist": "",
+            "alias": "",
+            "position": "312",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Auriel, Changed by Luck",
+            "color": "U",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2013 Auriel",
+            "number": 47,
+            "color_identity": "U",
+            "cost": "{3}{U}{U}",
+            "rules_text": "Flash\nAs long as Auriel entered this turn, you may activate Auriel's loyalty abilities any time you could cast an instant.\n[+1]: Scry 3. [i](Look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]\n[0]: Choose instant or sorcery. Reveal the top card of your library. If it's a card of the chosen type, create a 1/1 blue Jellyfish Rogue creature token with flying.\n[-2]: Target creature's owner puts it on their choice of the top or bottom of their library.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "Flash\nAs long as Auriel entered this turn, you may activate Auriel's loyalty abilities any time you could cast an instant.\n[+1]: Scry 3. [i](Look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]\n[0]: Choose instant or sorcery. Reveal the top card of your library. If it's a card of the chosen type, create a 1/1 blue Jellyfish Rogue creature token with flying.\n[-2]: Target creature's owner puts it on their choice of the top or bottom of their library.",
+            "shape": "planeswalker",
+            "set": "ACS",
+            "loyalty": "4",
+            "artist": "",
+            "alias": "",
+            "position": "313",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Restra, Accused Vengeance",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2013 Restra",
+            "number": 123,
+            "color_identity": "B",
+            "cost": "{2}{B}{B}",
+            "rules_text": "[+1]: Look at the top two cards of your library. You may reveal one. When you do, put that card into your hand and lose life equal to its mana value. Put the rest back on top of your library in any order.\n[0]: Return target creature card from your graveyard to your hand.\n[-3]: Put X -1/-1 counters on target creature, where X is the number of creature cards in your graveyard.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: Look at the top two cards of your library. You may reveal one. When you do, put that card into your hand and lose life equal to its mana value. Put the rest back on top of your library in any order.\n[0]: Return target creature card from your graveyard to your hand.\n[-3]: Put X -1/-1 counters on target creature, where X is the number of creature cards in your graveyard.",
+            "shape": "planeswalker",
+            "set": "ACS",
+            "loyalty": "4",
+            "artist": "",
+            "alias": "",
+            "position": "314",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Gilban, Vengeful Dealmaker",
+            "color": "R",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2013 Gilban",
+            "number": 157,
+            "color_identity": "R",
+            "cost": "{3}{R}",
+            "rules_text": "[+1]: You may sacrifice an artifact or discard a card. If you do, draw a card.\n[0]: Create a 1/1 red and green Tenant creature token. [i](It's a Citizen with \u201c{2}, {T}: Choose one. Create a Treasure token or put a +1/+1 counter on target creature you control.\u201d)[/i]\n[-4]: Gain control of target artifact or creature. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: You may sacrifice an artifact or discard a card. If you do, draw a card.\n[0]: Create a 1/1 red and green Tenant creature token. [i](It's a Citizen with \u201c{2}, {T}: Choose one. Create a Treasure token or put a +1/+1 counter on target creature you control.\u201d)[/i]\n[-4]: Gain control of target artifact or creature. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.",
+            "shape": "planeswalker",
+            "set": "ACS",
+            "loyalty": "4",
+            "artist": "",
+            "alias": "",
+            "position": "315",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Licium, Living Funghive",
+            "color": "G",
+            "rarity": "mythic",
+            "type": "Planeswalker \u2013 Licium",
+            "number": 195,
+            "color_identity": "G",
+            "cost": "{1}{G}{G}",
+            "rules_text": "[+1]: Reveal the top card of your library. If it's a land card, you may put it into your graveyard.\n[-1]: Put a -1/-1 counter on up to one target creature.\n[-3]: Create a token that's a copy of this planeswalker.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: Reveal the top card of your library. If it's a land card, you may put it into your graveyard.\n[-1]: Put a -1/-1 counter on up to one target creature.\n[-3]: Create a token that's a copy of this planeswalker.",
+            "shape": "planeswalker",
+            "set": "ACS",
+            "loyalty": "2",
+            "artist": "",
+            "alias": "",
+            "position": "316",
+            "rotated": false,
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Righteous Footman",
@@ -6467,7 +7735,7 @@
             "type": "Sorcery",
             "number": 80,
             "color_identity": "U",
-            "cost": "{1}{U}",
+            "cost": "{2}{U}",
             "rules_text": "Crusade [i](Increase your morale by 1. Once during your turn, whenever an opponent loses life, increase it. At the beginning of your upkeep, if you lost life since the end of your last turn, decrease it.)[/i]\nDraw two cards. Then discard a card unless you pay 1 morale.",
             "flavor_text": "[i]The Lancers of Nexos were among the fastest forces in all of Velesta.[/i]",
             "pt": "",
@@ -11176,7 +12444,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Crumbling Foretress",
+            "card_name": "Crumbling Fortress",
             "color": "",
             "rarity": "rare",
             "type": "Land \u2013 Battleground",
@@ -13663,7 +14931,7 @@
             "card_name": "Nu'Ul, Arbiter of Compliance",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Horror",
+            "type": "Legendary Enchantment Creature \u2013 Elder Horror",
             "number": 246,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
@@ -13686,7 +14954,7 @@
             "card_name": "Will, Nature's Guide",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Elemental",
+            "type": "Legendary Enchantment Creature \u2013 Elder Elemental",
             "number": 264,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -13709,7 +14977,7 @@
             "card_name": "Phaetilis, Nature's Cleansing",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Plant",
+            "type": "Legendary Enchantment Creature \u2013 Elder Plant",
             "number": 249,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
@@ -13732,7 +15000,7 @@
             "card_name": "Ban'Est, Resistance Personified",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Wizard",
+            "type": "Legendary Enchantment Creature \u2013 Elder Wizard",
             "number": 212,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -13755,7 +15023,7 @@
             "card_name": "A'Aka, Pursuit of Mindfulness",
             "color": "UG",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Serpent",
+            "type": "Legendary Enchantment Creature \u2013 Elder Serpent",
             "number": 207,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
@@ -13778,7 +15046,7 @@
             "card_name": "Gologo, Acceptance Personified",
             "color": "BG",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Beast",
+            "type": "Legendary Enchantment Creature \u2013 Elder Beast",
             "number": 235,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
@@ -13801,7 +15069,7 @@
             "card_name": "Haestor, Fervor of Blood",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Sorcerer",
+            "type": "Legendary Enchantment Creature \u2013 Elder Sorcerer",
             "number": 238,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -13824,7 +15092,7 @@
             "card_name": "Selor, Pursuit of Advancement",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Noble",
+            "type": "Legendary Enchantment Creature \u2013 Elder Noble",
             "number": 255,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -13847,7 +15115,7 @@
             "card_name": "Elio, Arbiter of Self",
             "color": "WR",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Knight",
+            "type": "Legendary Enchantment Creature \u2013 Elder Knight",
             "number": 225,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -13870,7 +15138,7 @@
             "card_name": "Kell, Fervor of Purpose",
             "color": "BR",
             "rarity": "mythic",
-            "type": "Legendary Enchantment \u2013 Elder Ranger",
+            "type": "Legendary Enchantment Creature \u2013 Elder Ranger",
             "number": 242,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -102983,14 +104251,14 @@
             "v_mana": ""
         },
         {
-            "card_name": "Cyberdark Dragon",
+            "card_name": "Cyberdarkness Dragon",
             "color": "BR",
             "rarity": "rare",
             "type": "Artifact Creature \u2013 Dragon Serpent Construct",
             "number": 209,
             "color_identity": "BR",
             "cost": "{4}{B}{R}",
-            "rules_text": "When this creature enters, Cyberdark Dragon deals X damage to each opponent, where X is the number of creatures they control.\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
+            "rules_text": "When this creature enters, Cyberdarkness Dragon deals X damage to each opponent, where X is the number of creatures they control.\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",

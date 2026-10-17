@@ -193,7 +193,7 @@
 		{
 			"name": "Strategic Outmaneuvering",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
@@ -2241,7 +2241,7 @@
 			}
 		},
 		{
-			"name": "Crumbling Foretress",
+			"name": "Crumbling Fortress",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Battleground",
@@ -3324,7 +3324,7 @@
 			"name": "Nu'Ul, Arbiter of Compliance",
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}",
-			"type": "Legendary Enchantment — Elder Horror",
+			"type": "Legendary Enchantment Creature — Elder Horror",
 			"collector_number": "246",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/332.jpg"
@@ -3334,7 +3334,7 @@
 			"name": "Will, Nature's Guide",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
-			"type": "Legendary Enchantment — Elder Elemental",
+			"type": "Legendary Enchantment Creature — Elder Elemental",
 			"collector_number": "264",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/333.jpg"
@@ -3344,7 +3344,7 @@
 			"name": "Phaetilis, Nature's Cleansing",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
-			"type": "Legendary Enchantment — Elder Plant",
+			"type": "Legendary Enchantment Creature — Elder Plant",
 			"collector_number": "249",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/334.jpg"
@@ -3354,7 +3354,7 @@
 			"name": "Ban'Est, Resistance Personified",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Enchantment — Elder Wizard",
+			"type": "Legendary Enchantment Creature — Elder Wizard",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/335.jpg"
@@ -3364,7 +3364,7 @@
 			"name": "A'Aka, Pursuit of Mindfulness",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Enchantment — Elder Serpent",
+			"type": "Legendary Enchantment Creature — Elder Serpent",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/336.jpg"
@@ -3374,7 +3374,7 @@
 			"name": "Gologo, Acceptance Personified",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Legendary Enchantment — Elder Beast",
+			"type": "Legendary Enchantment Creature — Elder Beast",
 			"collector_number": "235",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/337.jpg"
@@ -3384,7 +3384,7 @@
 			"name": "Haestor, Fervor of Blood",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Enchantment — Elder Sorcerer",
+			"type": "Legendary Enchantment Creature — Elder Sorcerer",
 			"collector_number": "238",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/338.jpg"
@@ -3394,7 +3394,7 @@
 			"name": "Selor, Pursuit of Advancement",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
-			"type": "Legendary Enchantment — Elder Noble",
+			"type": "Legendary Enchantment Creature — Elder Noble",
 			"collector_number": "255",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/339.jpg"
@@ -3404,7 +3404,7 @@
 			"name": "Elio, Arbiter of Self",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Enchantment — Elder Knight",
+			"type": "Legendary Enchantment Creature — Elder Knight",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/340.jpg"
@@ -3414,7 +3414,7 @@
 			"name": "Kell, Fervor of Purpose",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Enchantment — Elder Ranger",
+			"type": "Legendary Enchantment Creature — Elder Ranger",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/COV-files/img/341.jpg"
@@ -3433,6 +3433,7 @@
 	]
 
 [rare(1)]
+	2 Patronic Domain
 	2 Stormeye Warleader
 	2 Virtuous Vitality
 	2 Ancestral Prophecy
@@ -3483,22 +3484,6 @@
 	2 Battleground Recycler
 	2 Zealot's Cache
 	2 Seaside Skywatcher
-	2 Château Nareaux
-	2 Jagged Anchorage
-	2 Fortified Grove
-	2 Storied Battlefield
-	2 Lush Landing
-	2 Patronic Domain
-	2 Column-Filled Hills
-	2 Conscript's Citadel
-	2 Crumbling Foretress
-	2 Haunted Keep
-	2 Battlefront Barracks
-	2 Uncovered Mausoleum
-	2 Uncovered Grove
-	2 Uncovered Monastery
-	2 Uncovered Library
-	2 Uncovered Armory
 	1 Clash of Identity
 	1 Clash of Territory
 	1 Clash of Legacy
@@ -3610,16 +3595,6 @@
 	4 Fleetfoot Greaves
 	4 Starsteel Treasure
 	4 Current Reader
-	4 Redoubted Monastery
-	4 Blighted Moot
-	4 Scorched Thicket
-	4 Raided Archive
-	4 Blasphemous Pyre
-	4 Hallowed Moor
-	4 Teeming Sea
-	4 Ransacked Granary
-	4 Squalling Peak
-	4 Perilous Steppe
 	4 Liberated Claim
 	4 Sanctific Wildfire
 	4 Hollow Exchange
@@ -3891,6 +3866,7 @@
 	8 Livened Livery
 	8 Graveshroud
 [foil(1)]
+	2 Patronic Domain
 	12 Righteous Footman
 	12 Unconstrained Duo
 	12 Courageous Clanmate
@@ -4106,44 +4082,6 @@
 	6 Fleetfoot Greaves
 	6 Starsteel Treasure
 	6 Current Reader
-	6 Redoubted Monastery
-	2 Château Nareaux
-	2 Jagged Anchorage
-	2 Fortified Grove
-	2 Storied Battlefield
-	2 Lush Landing
-	2 Patronic Domain
-	2 Column-Filled Hills
-	2 Conscript's Citadel
-	2 Crumbling Foretress
-	2 Haunted Keep
-	2 Battlefront Barracks
-	12 Highland Falls
-	6 Blighted Moot
-	6 Scorched Thicket
-	6 Raided Archive
-	6 Blasphemous Pyre
-	6 Hallowed Moor
-	6 Teeming Sea
-	12 Invaluable Depot
-	6 Ransacked Granary
-	12 Scouted Pass
-	12 Neutral Settlement
-	12 Prized Trade Route
-	6 Squalling Peak
-	12 Beast-Ridden Backwood
-	12 Weapons Foundry
-	12 Still River
-	12 Cratered Barrens
-	12 Sundered Hall
-	12 Experimental Repository
-	6 Perilous Steppe
-	12 Skirmish Ground
-	2 Uncovered Mausoleum
-	2 Uncovered Grove
-	2 Uncovered Monastery
-	2 Uncovered Library
-	2 Uncovered Armory
 	1 Clash of Identity
 	1 Clash of Territory
 	1 Clash of Legacy
@@ -4221,6 +4159,7 @@
 	1 Kell, Fervor of Purpose
 	1 Trident of Nu'Ul
 [wildcard(1)]
+	7 Patronic Domain
 	6 Righteous Footman
 	6 Unconstrained Duo
 	6 Courageous Clanmate
@@ -4436,44 +4375,6 @@
 	15 Fleetfoot Greaves
 	15 Starsteel Treasure
 	15 Current Reader
-	15 Redoubted Monastery
-	7 Château Nareaux
-	7 Jagged Anchorage
-	7 Fortified Grove
-	7 Storied Battlefield
-	7 Lush Landing
-	7 Patronic Domain
-	7 Column-Filled Hills
-	7 Conscript's Citadel
-	7 Crumbling Foretress
-	7 Haunted Keep
-	7 Battlefront Barracks
-	6 Highland Falls
-	15 Blighted Moot
-	15 Scorched Thicket
-	15 Raided Archive
-	15 Blasphemous Pyre
-	15 Hallowed Moor
-	15 Teeming Sea
-	6 Invaluable Depot
-	15 Ransacked Granary
-	6 Scouted Pass
-	6 Neutral Settlement
-	6 Prized Trade Route
-	15 Squalling Peak
-	6 Beast-Ridden Backwood
-	6 Weapons Foundry
-	6 Still River
-	6 Cratered Barrens
-	6 Sundered Hall
-	6 Experimental Repository
-	15 Perilous Steppe
-	6 Skirmish Ground
-	7 Uncovered Mausoleum
-	7 Uncovered Grove
-	7 Uncovered Monastery
-	7 Uncovered Library
-	7 Uncovered Armory
 	4 Clash of Identity
 	4 Clash of Territory
 	4 Clash of Legacy
@@ -4550,3 +4451,46 @@
 	4 Elio, Arbiter of Self
 	4 Kell, Fervor of Purpose
 	4 Trident of Nu'Ul
+[landslot(1)]
+	16 Island
+	16 Plains
+	16 Mountain
+	16 Swamp
+	16 Forest
+	16 Redoubted Monastery
+	16 Blighted Moot
+	16 Scorched Thicket
+	16 Raided Archive
+	16 Blasphemous Pyre
+	16 Hallowed Moor
+	16 Teeming Sea
+	16 Ransacked Granary
+	16 Squalling Peak
+	16 Perilous Steppe
+	10 Highland Falls
+	10 Invaluable Depot
+	10 Scouted Pass
+	10 Neutral Settlement
+	10 Prized Trade Route
+	10 Beast-Ridden Backwood
+	10 Weapons Foundry
+	10 Still River
+	10 Cratered Barrens
+	10 Sundered Hall
+	10 Experimental Repository
+	10 Skirmish Ground
+	2 Château Nareaux
+	2 Jagged Anchorage
+	2 Fortified Grove
+	2 Storied Battlefield
+	2 Lush Landing
+	2 Column-Filled Hills
+	2 Conscript's Citadel
+	2 Crumbling Fortress
+	2 Haunted Keep
+	2 Battlefront Barracks
+	2 Uncovered Mausoleum
+	2 Uncovered Grove
+	2 Uncovered Monastery
+	2 Uncovered Library
+	2 Uncovered Armory
