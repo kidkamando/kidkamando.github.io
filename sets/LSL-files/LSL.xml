@@ -5,7 +5,7 @@
 			<name>LSL</name>
 			<longname>Last Starlight</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-15</releasedate>
+			<releasedate>2026-10-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -782,7 +782,7 @@ At the beginning of your end step, if this creature&apos;s tunneling cost was pa
 			<name>Otherworld Orders</name>
 			<text>When this enchantment enters, create a 1/1 black Thax Soldier creature token.
 Whenever one or more creatures you control attack, the defending player loses 1 life.
-Warp {B}{R} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {B}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/44.jpg" num="216">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1075,7 +1075,7 @@ At the beginning of your end step, if this creature&apos;s tunneling cost was pa
 		<card>
 			<name>Specimen Savior</name>
 			<text>When this creature becomes tapped, put target card from a graveyard on the bottom of its owner&apos;s library.
-Warp {3} (You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/60.jpg" num="245">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1853,7 +1853,7 @@ Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this
 		<card>
 			<name>Infested Wurmgrounds</name>
 			<text>Landfall — Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.
-Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/104.jpg" num="179">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3133,7 +3133,7 @@ As long as there are two or less +1/+1 counters on Dyson Colossus, it isn&apos;t
 		<card>
 			<name>Fleetwide Repairbot</name>
 			<text>When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.
-Warp {3} (You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/177.jpg" num="238">LSL</set>
 			<prop>
 				<layout>normal</layout>

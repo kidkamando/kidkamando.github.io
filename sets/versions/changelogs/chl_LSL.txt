@@ -1,4 +1,32 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Otherworld Orders
+rules_text: When this enchantment enters, create a 1/1 black Thax Soldier creature token.
+Whenever one or more creatures you control attack, the defending player loses 1 life.
+Warp {B}{R} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this enchantment enters, create a 1/1 black Thax Soldier creature token.
+Whenever one or more creatures you control attack, the defending player loses 1 life.
+Warp {B}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Specimen Savior
+rules_text: When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Infested Wurmgrounds
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.
+Warp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.
+Warp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Fleetwide Repairbot
+rules_text: When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

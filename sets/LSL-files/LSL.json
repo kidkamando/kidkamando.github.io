@@ -1,6 +1,6 @@
 ﻿{
     "name": "Last Starlight",
-    "formats": "Eternal,Commander,LSL",
+    "formats": "Standard,Eternal,Commander,SLC",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -939,7 +939,7 @@
             "number": 216,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "When this enchantment enters, create a 1/1 black Thax Soldier creature token.\nWhenever one or more creatures you control attack, the defending player loses 1 life.\nWarp {B}{R} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this enchantment enters, create a 1/1 black Thax Soldier creature token.\nWhenever one or more creatures you control attack, the defending player loses 1 life.\nWarp {B}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1275,7 +1275,7 @@
             "number": 245,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]Once the Lifestation arrived, it would dispatch innumerable units to store as many specimens from the system as it could.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2199,7 +2199,7 @@
             "number": 179,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.\nWarp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 3/3 green Wurm creature token with trample named Darkwurm.\nWarp {2}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]The comet was infested with eggs, each awaiting but the faintest light to hatch and feed upon.[/i]",
             "pt": "",
             "special_text": "",
@@ -3732,7 +3732,7 @@
             "number": 238,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.\nWarp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]Most Twilightborn fleets could only afford a single repairbot, but their capacity for mid-warp maintenance was second-to-none.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -5909,5 +5909,5 @@
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 7
 }
