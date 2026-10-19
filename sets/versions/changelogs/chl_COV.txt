@@ -1,4 +1,17 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Dendromorph
+rules_text: Ward {1}
+When this enchantment enters, attach it to target creature. This enchantment becomes an Aura in addition to its other types and has “Enchanted creature is a basic Forest land.”
+Forestcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Ward {1}
+When this enchantment enters, attach it to target creature. This enchantment becomes an Aura in addition to its other types and has “Enchant creature” and “Enchanted creature is a basic Forest land.”
+Forestcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Crumbling Fortress added.

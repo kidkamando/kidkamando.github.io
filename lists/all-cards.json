@@ -10519,7 +10519,7 @@
             "number": 175,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Ward {1}\nWhen this enchantment enters, attach it to target creature. This enchantment becomes an Aura in addition to its other types and has \u201cEnchanted creature is a basic Forest land.\u201d\nForestcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Ward {1}\nWhen this enchantment enters, attach it to target creature. This enchantment becomes an Aura in addition to its other types and has \u201cEnchant creature\u201d and \u201cEnchanted creature is a basic Forest land.\u201d\nForestcycling {1}{G} [i]({1}{G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

@@ -5,7 +5,7 @@
 			<name>COV</name>
 			<longname>Crusades of Velesta</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-16</releasedate>
+			<releasedate>2026-10-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2501,7 +2501,7 @@ Basic landcycling {1} ({1}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Dendromorph</name>
 			<text>Ward {1}
-When this enchantment enters, attach it to target creature. This enchantment becomes an Aura in addition to its other types and has &quot;Enchanted creature is a basic Forest land.&quot;
+When this enchantment enters, attach it to target creature. This enchantment becomes an Aura in addition to its other types and has &quot;Enchant creature&quot; and &quot;Enchanted creature is a basic Forest land.&quot;
 Forestcycling {1}{G} ({1}{G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/COV-files/img/140.jpg" num="175">COV</set>
 			<prop>
