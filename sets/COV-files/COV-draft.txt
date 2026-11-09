@@ -2701,7 +2701,7 @@
 			}
 		},
 		{
-			"name": "Subordiante Denial",
+			"name": "Subordinate Denial",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
@@ -3601,7 +3601,7 @@
 	4 Mana Breach
 	4 Reinforced Line
 	4 Anguillic Titan
-	4 Subordiante Denial
+	4 Subordinate Denial
 	4 Banian Charm
 	4 Kellian Charm
 	4 Phaetillic Charm
@@ -4094,7 +4094,7 @@
 	6 Reinforced Line
 	1 Cotay Leadon, Inception Anew
 	6 Anguillic Titan
-	6 Subordiante Denial
+	6 Subordinate Denial
 	6 Banian Charm
 	6 Kellian Charm
 	6 Phaetillic Charm
@@ -4387,7 +4387,7 @@
 	15 Reinforced Line
 	4 Cotay Leadon, Inception Anew
 	15 Anguillic Titan
-	15 Subordiante Denial
+	15 Subordinate Denial
 	15 Banian Charm
 	15 Kellian Charm
 	15 Phaetillic Charm

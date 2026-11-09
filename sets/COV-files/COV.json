@@ -5678,7 +5678,7 @@
             "notes": ""
         },
         {
-            "card_name": "Subordiante Denial",
+            "card_name": "Subordinate Denial",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Instant",
@@ -7211,5 +7211,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

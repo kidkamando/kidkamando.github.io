@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "224"
+        "position": "223"
     },
     {
         "card_name": "Darkwurm Researchcraft",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "221"
+        "position": "220"
     },
     {
         "card_name": "Flechette Munitions",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "225"
+        "position": "224"
     },
     {
         "card_name": "Static Sequence",
@@ -93,7 +93,7 @@
         "shape": "saga",
         "set": "LSL",
         "rotated": false,
-        "position": "220"
+        "position": "280"
     },
     {
         "card_name": "Unak, Exo Manipulator",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "222"
+        "position": "221"
     },
     {
         "card_name": "Jaster, Zionnoth's Second",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "223"
+        "position": "222"
     },
     {
         "card_name": "Wurmtaming",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "226"
+        "position": "225"
     },
     {
         "card_name": "Curator's Intervention",
@@ -125,7 +125,7 @@
         "shape": "saga",
         "set": "LSL",
         "rotated": false,
-        "position": "273"
+        "position": "272"
     },
     {
         "card_name": "Fate-Linked Twilightborn",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "239"
+        "position": "238"
     },
     {
         "card_name": "Habitat Architect",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "249"
+        "position": "248"
     },
     {
         "card_name": "Prisonworld's Sentence",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "242"
+        "position": "241"
     },
     {
         "card_name": "Twilightborn Scavenger",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "240"
+        "position": "239"
     },
     {
         "card_name": "Ancient Starsquid",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "228"
+        "position": "227"
     },
     {
         "card_name": "Artificial Ace",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "247"
+        "position": "246"
     },
     {
         "card_name": "Emergency Preparations",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "229"
+        "position": "228"
     },
     {
         "card_name": "Havoc Seer",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "230"
+        "position": "229"
     },
     {
         "card_name": "Armorback Specimen",
@@ -405,7 +405,7 @@
         "shape": "class",
         "set": "LSL",
         "rotated": false,
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Collection Compiler",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "Exoskeletal Operator",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "232"
+        "position": "231"
     },
     {
         "card_name": "Engineer's Talent",
@@ -453,7 +453,7 @@
         "shape": "class",
         "set": "LSL",
         "rotated": false,
-        "position": "276"
+        "position": "275"
     },
     {
         "card_name": "Lone Curse-Linked",
@@ -469,7 +469,7 @@
         "shape": "class",
         "set": "LSL",
         "rotated": false,
-        "position": "277"
+        "position": "276"
     },
     {
         "card_name": "Colony Pioneer",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "235"
+        "position": "234"
     },
     {
         "card_name": "Entanglement Engineer",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "260"
+        "position": "259"
     },
     {
         "card_name": "Escort Oracle",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "246"
+        "position": "245"
     },
     {
         "card_name": "Otherworldly Advantage",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "252"
+        "position": "251"
     },
     {
         "card_name": "Phasic Barrage",
@@ -597,7 +597,7 @@
         "shape": "class",
         "set": "LSL",
         "rotated": false,
-        "position": "279"
+        "position": "278"
     },
     {
         "card_name": "Phasebound Duelist",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "250"
+        "position": "249"
     },
     {
         "card_name": "Hangar Bay Serviceman",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "241"
+        "position": "240"
     },
     {
         "card_name": "Ransacker's Talent",
@@ -621,7 +621,7 @@
         "shape": "class",
         "set": "LSL",
         "rotated": false,
-        "position": "278"
+        "position": "277"
     },
     {
         "card_name": "Quantum Sightstone",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "257"
+        "position": "256"
     },
     {
         "card_name": "Rampage Scorcher",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "238"
+        "position": "237"
     },
     {
         "card_name": "Gravitic Crush",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "261"
+        "position": "260"
     },
     {
         "card_name": "Regenerating Exosoldier",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "253"
+        "position": "252"
     },
     {
         "card_name": "Harmonic Darkwurm",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "Planet Settler",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "245"
+        "position": "244"
     },
     {
         "card_name": "Retraction Beam",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "233"
+        "position": "232"
     },
     {
         "card_name": "Shattering Cometcraft",
@@ -749,7 +749,7 @@
         "shape": "leveler",
         "set": "LSL",
         "rotated": false,
-        "position": "258"
+        "position": "257"
     },
     {
         "card_name": "Interplanetary Trader",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "244"
+        "position": "243"
     },
     {
         "card_name": "Soul Archivist",
@@ -781,7 +781,7 @@
         "shape": "leveler",
         "set": "LSL",
         "rotated": false,
-        "position": "237"
+        "position": "236"
     },
     {
         "card_name": "Stampeding Sergeant",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "231"
+        "position": "230"
     },
     {
         "card_name": "Tactical Communicator",
@@ -805,7 +805,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "227"
+        "position": "226"
     },
     {
         "card_name": "Star Ward",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "251"
+        "position": "250"
     },
     {
         "card_name": "Stray Bombardment",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "255"
+        "position": "254"
     },
     {
         "card_name": "Supercooled Suspension",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "236"
+        "position": "235"
     },
     {
         "card_name": "Thaxian Phaseblade",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "Vagrant Fruitbearer",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "248"
+        "position": "247"
     },
     {
         "card_name": "Voidhab Fabricator",
@@ -957,7 +957,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "259"
+        "position": "258"
     },
     {
         "card_name": "Augur's Assistant",
@@ -1109,7 +1109,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "243"
+        "position": "242"
     },
     {
         "card_name": "Force Multiplier",
@@ -1557,7 +1557,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "234"
+        "position": "233"
     },
     {
         "card_name": "Wildlife Preservator",
@@ -1874,7 +1874,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "263"
+        "position": "262"
     },
     {
         "card_name": "Shara, Luck-Linked",
@@ -1986,7 +1986,7 @@
         "shape": "normal",
         "set": "LSL",
         "rotated": false,
-        "position": "264"
+        "position": "263"
     },
     {
         "card_name": "Allied Shredder-Class Frigate",
@@ -2342,7 +2342,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "266"
+        "position": "265"
     },
     {
         "card_name": "Food",
@@ -2350,7 +2350,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "Habitat",
@@ -2358,7 +2358,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "275"
+        "position": "274"
     },
     {
         "card_name": "Junk",
@@ -2366,7 +2366,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "271"
+        "position": "270"
     },
     {
         "card_name": "Spacecraft",
@@ -2374,7 +2374,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "268"
+        "position": "267"
     },
     {
         "card_name": "Wastes",
@@ -2382,7 +2382,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "270"
+        "position": "269"
     },
     {
         "card_name": "Pangolin",
@@ -2390,7 +2390,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "Starsquid",
@@ -2398,7 +2398,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "280"
+        "position": "279"
     },
     {
         "card_name": "Thax Soldier",
@@ -2406,7 +2406,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "272"
+        "position": "271"
     },
     {
         "card_name": "Darkwurm",
@@ -2414,7 +2414,7 @@
         "shape": "token",
         "set": "LSL",
         "rotated": false,
-        "position": "269"
+        "position": "268"
     },
     {
         "card_name": "er"

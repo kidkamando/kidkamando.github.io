@@ -2201,23 +2201,13 @@
 			}
 		},
 		{
-			"name": "Preservation, Sentient Directive",
-			"rarity": "mythic",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Enchantment Creature — Saga Construct",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/220.jpg"
-			}
-		},
-		{
 			"name": "Thaxian Voidstone",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Artifact",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/221.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/220.jpg"
 			}
 		},
 		{
@@ -2227,7 +2217,7 @@
 			"type": "Legendary Creature — Thax Wizard",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/222.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/221.jpg"
 			}
 		},
 		{
@@ -2237,7 +2227,7 @@
 			"type": "Legendary Creature — Thax Soldier Wizard",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/223.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/222.jpg"
 			}
 		},
 		{
@@ -2247,7 +2237,7 @@
 			"type": "Enchantment",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/224.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/223.jpg"
 			}
 		},
 		{
@@ -2257,7 +2247,7 @@
 			"type": "Legendary Creature — Elder Wurm",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/225.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/224.jpg"
 			}
 		},
 		{
@@ -2267,7 +2257,7 @@
 			"type": "Enchantment",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/226.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/225.jpg"
 			}
 		},
 		{
@@ -2277,7 +2267,7 @@
 			"type": "Creature — Salamander Soldier",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/227.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/226.jpg"
 			}
 		},
 		{
@@ -2287,7 +2277,7 @@
 			"type": "Creature — Leviathan Squid",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/228.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/227.jpg"
 			}
 		},
 		{
@@ -2297,7 +2287,7 @@
 			"type": "Creature — Human Survivor",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/229.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/228.jpg"
 			}
 		},
 		{
@@ -2307,7 +2297,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/230.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/229.jpg"
 			}
 		},
 		{
@@ -2317,7 +2307,7 @@
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/231.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/230.jpg"
 			}
 		},
 		{
@@ -2327,7 +2317,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/232.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/231.jpg"
 			}
 		},
 		{
@@ -2337,7 +2327,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/233.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/232.jpg"
 			}
 		},
 		{
@@ -2347,7 +2337,7 @@
 			"type": "Creature — Treefolk Soldier",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/234.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/233.jpg"
 			}
 		},
 		{
@@ -2357,7 +2347,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/235.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/234.jpg"
 			}
 		},
 		{
@@ -2367,7 +2357,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/236.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/235.jpg"
 			}
 		},
 		{
@@ -2377,7 +2367,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/237.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/236.jpg"
 			}
 		},
 		{
@@ -2387,7 +2377,7 @@
 			"type": "Artifact Creature — Construct Soldier",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/238.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/237.jpg"
 			}
 		},
 		{
@@ -2397,7 +2387,7 @@
 			"type": "Artifact",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/239.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/238.jpg"
 			}
 		},
 		{
@@ -2407,7 +2397,7 @@
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/240.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/239.jpg"
 			}
 		},
 		{
@@ -2417,7 +2407,7 @@
 			"type": "Creature — Salamander Artificer",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/241.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/240.jpg"
 			}
 		},
 		{
@@ -2427,7 +2417,7 @@
 			"type": "Artifact",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/242.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/241.jpg"
 			}
 		},
 		{
@@ -2437,7 +2427,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/243.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/242.jpg"
 			}
 		},
 		{
@@ -2447,7 +2437,7 @@
 			"type": "Creature — Bird Citizen",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/244.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/243.jpg"
 			}
 		},
 		{
@@ -2457,7 +2447,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/245.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/244.jpg"
 			}
 		},
 		{
@@ -2467,7 +2457,7 @@
 			"type": "Creature — Salamander Wizard",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/246.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/245.jpg"
 			}
 		},
 		{
@@ -2477,7 +2467,7 @@
 			"type": "Artifact Creature — Robot Pilot",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/247.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/246.jpg"
 			}
 		},
 		{
@@ -2487,7 +2477,7 @@
 			"type": "Creature — Wolf Elemental",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/248.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/247.jpg"
 			}
 		},
 		{
@@ -2497,7 +2487,7 @@
 			"type": "Creature — Fungi Beast",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/249.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/248.jpg"
 			}
 		},
 		{
@@ -2507,7 +2497,7 @@
 			"type": "Creature — Thax Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/250.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/249.jpg"
 			}
 		},
 		{
@@ -2517,7 +2507,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/251.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/250.jpg"
 			}
 		},
 		{
@@ -2527,7 +2517,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/252.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/251.jpg"
 			}
 		},
 		{
@@ -2537,7 +2527,7 @@
 			"type": "Artifact Creature — Frog",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/253.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/252.jpg"
 			}
 		},
 		{
@@ -2547,7 +2537,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/254.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/253.jpg"
 			}
 		},
 		{
@@ -2557,7 +2547,7 @@
 			"type": "Creature — Thax Warrior",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/255.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/254.jpg"
 			}
 		},
 		{
@@ -2567,7 +2557,7 @@
 			"type": "Artifact Creature — Robot Scientist",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/256.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/255.jpg"
 			}
 		},
 		{
@@ -2577,7 +2567,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/257.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/256.jpg"
 			}
 		},
 		{
@@ -2587,7 +2577,7 @@
 			"type": "Artifact — Spacecraft",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/258.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/257.jpg"
 			}
 		},
 		{
@@ -2597,7 +2587,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/259.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/258.jpg"
 			}
 		},
 		{
@@ -2607,7 +2597,7 @@
 			"type": "Creature — Rabbit Citizen",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/260.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/259.jpg"
 			}
 		},
 		{
@@ -2617,7 +2607,7 @@
 			"type": "Creature — Salamander Wizard",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/261.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/260.jpg"
 			}
 		},
 		{
@@ -2627,7 +2617,7 @@
 			"type": "Artifact",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/262.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/261.jpg"
 			}
 		},
 		{
@@ -2637,7 +2627,7 @@
 			"type": "Legendary Creature — Dragon Noble",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/263.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/262.jpg"
 			}
 		},
 		{
@@ -2647,7 +2637,7 @@
 			"type": "Artifact Creature — Thopter",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/264.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/263.jpg"
 			}
 		},
 		{
@@ -2657,7 +2647,7 @@
 			"type": "Token Creature — Pangolin",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/265.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/264.jpg"
 			}
 		},
 		{
@@ -2667,7 +2657,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/266.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/265.jpg"
 			}
 		},
 		{
@@ -2677,7 +2667,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/267.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/266.jpg"
 			}
 		},
 		{
@@ -2687,7 +2677,7 @@
 			"type": "Token Artifact — Spacecraft",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/268.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/267.jpg"
 			}
 		},
 		{
@@ -2697,7 +2687,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/269.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/268.jpg"
 			}
 		},
 		{
@@ -2707,7 +2697,7 @@
 			"type": "Token Basic Land",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/270.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/269.jpg"
 			}
 		},
 		{
@@ -2717,7 +2707,7 @@
 			"type": "Token Artifact — Junk",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/271.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/270.jpg"
 			}
 		},
 		{
@@ -2727,7 +2717,7 @@
 			"type": "Token Creature — Thax Soldier",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/272.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/271.jpg"
 			}
 		},
 		{
@@ -2737,7 +2727,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/273.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/272.jpg"
 			}
 		},
 		{
@@ -2747,7 +2737,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/274.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/273.jpg"
 			}
 		},
 		{
@@ -2757,7 +2747,7 @@
 			"type": "Token Artifact — Habitat",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/275.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/274.jpg"
 			}
 		},
 		{
@@ -2767,7 +2757,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/276.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/275.jpg"
 			}
 		},
 		{
@@ -2777,7 +2767,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/277.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/276.jpg"
 			}
 		},
 		{
@@ -2787,7 +2777,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/278.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/277.jpg"
 			}
 		},
 		{
@@ -2797,7 +2787,7 @@
 			"type": "Enchantment — Class",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://kidkamando.github.io/sets/LSL-files/img/279.jpg"
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/278.jpg"
 			}
 		},
 		{
@@ -2806,6 +2796,16 @@
 			"mana_cost": "",
 			"type": "Token Creature — Squid",
 			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kidkamando.github.io/sets/LSL-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Preservation, Sentient Directive",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment Creature — Saga Construct",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://kidkamando.github.io/sets/LSL-files/img/280.jpg"
 			}
@@ -2861,7 +2861,6 @@
 	1 Rhosha, Time's Prisoner
 	2 Prisonworld's Sentence
 	1 Federation Advisor
-	1 Preservation, Sentient Directive
 	1 Thaxian Voidstone
 	1 Unak, Exo Manipulator
 	1 Jaster, Zionnoth's Second
@@ -2873,6 +2872,7 @@
 	2 Mycellic Propagator
 	1 Zionnoth, Planet Conquerer
 	2 Curator's Intervention
+	1 Preservation, Sentient Directive
 [uncommon(3)]
 	4 Backwards Burrowbeast
 	4 Thaxian Phaseblade
@@ -3398,7 +3398,6 @@
 	1 Rhosha, Time's Prisoner
 	2 Prisonworld's Sentence
 	1 Federation Advisor
-	1 Preservation, Sentient Directive
 	1 Thaxian Voidstone
 	1 Unak, Exo Manipulator
 	1 Jaster, Zionnoth's Second
@@ -3449,6 +3448,7 @@
 	6 Junker's Talent
 	6 Ransacker's Talent
 	6 Ecologist's Talent
+	1 Preservation, Sentient Directive
 [wildcard(1)]
 	4 The Twilight Darkbeast
 	4 Entanglement Engine
@@ -3665,7 +3665,6 @@
 	4 Rhosha, Time's Prisoner
 	7 Prisonworld's Sentence
 	4 Federation Advisor
-	4 Preservation, Sentient Directive
 	4 Thaxian Voidstone
 	4 Unak, Exo Manipulator
 	4 Jaster, Zionnoth's Second
@@ -3716,3 +3715,4 @@
 	15 Junker's Talent
 	15 Ransacker's Talent
 	15 Ecologist's Talent
+	4 Preservation, Sentient Directive

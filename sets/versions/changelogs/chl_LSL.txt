@@ -1,4 +1,159 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Otherworld Orders
+rules_text: When this enchantment enters, create a 1/1 black Thax Soldier creature token.
+Whenever one or more creatures you control attack, the defending player loses 1 life.
+Warp {B}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this enchantment enters, create a 1/1 black Thax Soldier creature token.
+Whenever one or more creatures you control attack, the defending player loses 1 life.
+Warp {B}{R} [i](You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Specimen Savior
+rules_text: When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this creature becomes tapped, put target card from a graveyard on the bottom of its owner's library.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Fleetwide Repairbot
+rules_text: When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.
+Warp {3} [i](You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Thaxian Voidstone
+
+Unak, Exo Manipulator
+
+Jaster, Zionnoth's Second
+
+Chaotic Clamor
+
+Kai'Kellon, Fragmented Forebear
+
+Wurmtaming
+
+Tactical Communicator
+
+Ancient Starsquid
+
+Demise Evader
+
+Havoc Seer
+
+Otherworldly Blow
+
+Forced Emigration
+
+Shockfly Swarm
+
+Wing Entangler
+
+Inspiring Sergeant
+
+Supercooled Suspension
+
+Spark Siphon
+
+Rampage Scorcher
+
+Catalytic Processor
+
+Active Shielding
+
+Hangar Bay Serviceman
+
+Wurmtamer's Stone
+
+Electromagnetic Disruption
+
+Interplanetary Trader
+
+Planet Settler
+
+Escort Oracle
+
+Artificial Ace
+
+Thrashing Cragwolf
+
+Mycellic Propagator
+
+Phasebound Duelist
+
+Star Ward
+
+Overwhelming Loss
+
+Reactive Magnetoad
+
+Harmonic Darkwurm
+
+Territory Pillager
+
+Collection Compiler
+
+Ravenous Cosmipede
+
+Shattering Cometcraft
+
+Yutaran Vigor
+
+Mechanized Croptender
+
+Practiced Replicaster
+
+Thiris Crystal
+
+Zionnoth, Planet Conquerer
+
+Terrestrial Scouter
+
+Pangolin
+
+Clue
+
+Food
+
+Spacecraft
+
+Darkwurm
+
+Junk
+
+Thax Soldier
+
+Curator's Intervention
+
+Curator's Talent
+
+Habitat
+
+Engineer's Talent
+
+Junker's Talent
+
+Ransacker's Talent
+
+Ecologist's Talent
+
+Starsquid
+
+Preservation, Sentient Directive
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Scry 2, then draw a card.
+II — Return up to one target creature or Spacecraft to its owner's hand.
+III — Exile this creature, then return it to the battlefield tapped under its owner's control.
+---
+Vigilance
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Scry 2, then draw a card.
+II — Return up to one target creature or Spacecraft to its owner's hand.
+III — Exile this creature, then return it to the battlefield tapped under its owner's control.
+---
+Vigilance
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

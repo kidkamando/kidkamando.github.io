@@ -1,4 +1,12 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Subordinate Denial added.
+
+Subordiante Denial removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

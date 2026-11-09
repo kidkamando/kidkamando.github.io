@@ -5,7 +5,7 @@
 			<name>COV</name>
 			<longname>Crusades of Velesta</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-18</releasedate>
+			<releasedate>2026-11-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4742,7 +4742,7 @@ When this creature enters, you may return two lands you control to their owners&
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Subordiante Denial</name>
+			<name>Subordinate Denial</name>
 			<text>Kicker—Pay 2 morale (You may pay 2 morale in addition to any other costs as you cast this spell.)
 Exile target spell unless its controller pays {2}. If this spell was kicked, draw a card.</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/COV-files/img/270.jpg" num="258">COV</set>

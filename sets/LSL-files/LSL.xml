@@ -5,7 +5,7 @@
 			<name>LSL</name>
 			<longname>Last Starlight</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-18</releasedate>
+			<releasedate>2026-11-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -782,7 +782,7 @@ At the beginning of your end step, if this creature&apos;s tunneling cost was pa
 			<name>Otherworld Orders</name>
 			<text>When this enchantment enters, create a 1/1 black Thax Soldier creature token.
 Whenever one or more creatures you control attack, the defending player loses 1 life.
-Warp {B}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {B}{R} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/44.jpg" num="216">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1075,7 +1075,7 @@ At the beginning of your end step, if this creature&apos;s tunneling cost was pa
 		<card>
 			<name>Specimen Savior</name>
 			<text>When this creature becomes tapped, put target card from a graveyard on the bottom of its owner&apos;s library.
-Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/60.jpg" num="245">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3133,7 +3133,7 @@ As long as there are two or less +1/+1 counters on Dyson Colossus, it isn&apos;t
 		<card>
 			<name>Fleetwide Repairbot</name>
 			<text>When this creature becomes tapped, put a +1/+1 counter on up to one target Spacecraft you control.
-Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp {3} (You may cast this card from your hand for its warp cost. Exile this artifact creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/177.jpg" num="238">LSL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3903,28 +3903,11 @@ Warp {1}{U}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Preservation, Sentient Directive</name>
-			<text></text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/220.jpg" num="63">LSL</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Creature — Saga Construct</type>
-				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Thaxian Voidstone</name>
 			<text>When Thaxian Voidstone enters, creatures you control gain superposition until end of turn. (Whenever those creatures block or become blocked, they creature gets +X/+0 until end of turn, where X is the toughness of the blocked or blocking creature.)
 Whenever a creature dies, target opponent loses 1 life and you gain 1 life.
 Warp {1}{B}{B}</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/221.jpg" num="112">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/220.jpg" num="112">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3942,7 +3925,7 @@ Warp {1}{B}{B}</text>
 			<text>{T}, Sacrifice a creature, choose one —
 • Return target creature card from your graveyard to the battlefield and create a tapped copy of it. They each are a Zombie in addition to their other types and gain menace and lose all other abilities. Activate only as a sorcery.
 • Look at the top four cards of your library. Put up to one card from among them into your hand and the rest into your graveyard.</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/222.jpg" num="113">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/221.jpg" num="113">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3961,7 +3944,7 @@ Warp {1}{B}{B}</text>
 			<text>Whenever you cast a spell from exile, add {R}.
 If you would lose unspent mana, that mana becomes red instead.
 {6}: Create a 1/1 black Thax Soldier creature token and a 3/2 colorless Spacecraft artifact token with station 1+ and flying.</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/223.jpg" num="135">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/222.jpg" num="135">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3979,7 +3962,7 @@ If you would lose unspent mana, that mana becomes red instead.
 			<name>Chaotic Clamor</name>
 			<text>You may cast spells from exile without paying their mana costs.
 Cycling {3} ({3}, Discard this card: Draw a card.)</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/224.jpg" num="123">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/223.jpg" num="123">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3996,7 +3979,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
 			<name>Kai&apos;Kellon, Fragmented Forebear</name>
 			<text>Creature and sorcery spells you control and creature and sorcery cards you own that aren&apos;t on the battlefield have tunneling, where the tunneling cost is that card&apos;s mana cost.
 During your turn, spells you cast from anywhere other than your hand cost {2} less to cast.</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/225.jpg" num="181">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/224.jpg" num="181">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4014,7 +3997,7 @@ During your turn, spells you cast from anywhere other than your hand cost {2} le
 			<name>Wurmtaming</name>
 			<text>At the beginning of your upkeep, look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 Whenever you cast a spell from anywhere other than your hand, create a 3/3 green Wurm creature token with trample named Darkwurm.</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/226.jpg" num="198">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/225.jpg" num="198">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4031,7 +4014,7 @@ Whenever you cast a spell from anywhere other than your hand, create a 3/3 green
 			<name>Tactical Communicator</name>
 			<text>Tunneling {1}{W} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its tunneling cost.)
 When this creature enters, look at the top six cards of you library. You may reveal a Spacecraft card or creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/227.jpg" num="33">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/226.jpg" num="33">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4052,7 +4035,7 @@ This spell costs {1} less to cast for each artifact you control and/or each inst
 Ancient Starsquid enters tapped if it&apos;s not your turn.
 When Ancient Starsquid enters, tap up to two target creatures.
 Warp {5}</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/228.jpg" num="42">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/227.jpg" num="42">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4070,7 +4053,7 @@ Warp {5}</text>
 			<name>Demise Evader</name>
 			<text>When this creature enters, put target card with warp on the bottom of its owner&apos;s library.
 When this creature becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/229.jpg" num="86">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/228.jpg" num="86">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4089,7 +4072,7 @@ When this creature becomes tapped, surveil 1. (Look at the top card of your libr
 			<text>When Havoc Seer enters, discard a card then draw a card.
 Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on target creature that attacked this turn.
 Warp {1}{R}</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/230.jpg" num="132">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/229.jpg" num="132">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4107,7 +4090,7 @@ Warp {1}{R}</text>
 			<name>Otherworldly Blow</name>
 			<text>As an additional cost to cast this spell, choose a creature you control or a warped or tunneled creature card you own in exile.
 Otherworldly Blow deals damage equal to the power of the chosen creature or card to target creature.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/231.jpg" num="185">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/230.jpg" num="185">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4124,7 +4107,7 @@ Otherworldly Blow deals damage equal to the power of the chosen creature or card
 			<name>Forced Emigration</name>
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Destroy target nonland permanent. If this spell wasn&apos;t kicked, its controller creates a Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/232.jpg" num="9">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/231.jpg" num="9">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4141,7 +4124,7 @@ Destroy target nonland permanent. If this spell wasn&apos;t kicked, its controll
 			<name>Shockfly Swarm</name>
 			<text>Flying
 A the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/233.jpg" num="106">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/232.jpg" num="106">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4159,7 +4142,7 @@ A the beginning of your end step, if an opponent lost life this turn, put a +1/+
 			<name>Wing Entangler</name>
 			<text>Reach
 Whenever this creature blocks or becomes blocked by a creature with flying, it gets +3/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/234.jpg" num="196">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/233.jpg" num="196">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4178,7 +4161,7 @@ Whenever this creature blocks or becomes blocked by a creature with flying, it g
 			<text>Vigilance
 At the beginning of your second main phase, untap each creature you control that didn&apos;t attack this turn.
 Warp {2}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/235.jpg" num="12">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/234.jpg" num="12">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4197,7 +4180,7 @@ Warp {2}{W} (You may cast this card from your hand for its warp cost. Exile this
 			<text>Enchant creature
 Enchanted creature gets +2/+2 and has flying.
 Whenever enchanted creature deals combat damage to a player, if you control two or more artifacts, draw a card.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/236.jpg" num="75">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/235.jpg" num="75">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4215,7 +4198,7 @@ Whenever enchanted creature deals combat damage to a player, if you control two 
 			<text>Station (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)
 [level 1+] Flying [3/2]
 [level 10+] First strike, deathtouch, lifelink [6/3]</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/237.jpg" num="108">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/236.jpg" num="108">LSL</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -4232,7 +4215,7 @@ Whenever enchanted creature deals combat damage to a player, if you control two 
 			<name>Rampage Scorcher</name>
 			<text>Haste
 {1}, Sacrifice an artifact: Rampage Scorcher deals 1 damage to each creature.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/238.jpg" num="146">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/237.jpg" num="146">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4250,7 +4233,7 @@ Whenever enchanted creature deals combat damage to a player, if you control two 
 			<name>Catalytic Processor</name>
 			<text>{T}, Sacrifice X Foods you control: Add X mana of any color.
 Whenever you cast a spell, if mana from an artifact token was spent to cast it, exile cards from the top of your library until you exile a nonland card that costs less. You may cast that spell without paying its mana cost. Put the rest on the bottom of your library in any order.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/239.jpg" num="165">LSL</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/238.jpg" num="165">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4267,7 +4250,7 @@ Whenever you cast a spell, if mana from an artifact token was spent to cast it, 
 			<name>Active Shielding</name>
 			<text>Target artifact or creature you control gains protection from the color of your choice or colorless until end of turn. (It can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)
 Void — As long as a nonland permanent left the battlefield this turn or a spell was warped this turn, scry 1.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/240.jpg" num="1">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/239.jpg" num="1">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4284,7 +4267,7 @@ Void — As long as a nonland permanent left the battlefield this turn or a spel
 			<name>Hangar Bay Serviceman</name>
 			<text>Whenever you draw your second card each turn, put a charge counter on up to two target permanents you control.
 {T}, Remove a charge counter from this creature: Create a 1/1 blue Squid creature token with flying named Starsquid.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/241.jpg" num="56">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/240.jpg" num="56">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4302,7 +4285,7 @@ Void — As long as a nonland permanent left the battlefield this turn or a spel
 			<name>Wurmtamer&apos;s Stone</name>
 			<text>{T}: Draw a card. Put a card from your hand on top of your library.
 Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/242.jpg" num="118">LSL</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/241.jpg" num="118">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4320,7 +4303,7 @@ Void — At the beginning of your end step, if a nonland permanent left the batt
 			<text>Choose one — 
 • Electromagnetic Disruption deals 3 damage to target creature. It loses flying until end of turn.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/243.jpg" num="125">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/242.jpg" num="125">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4338,7 +4321,7 @@ Void — At the beginning of your end step, if a nonland permanent left the batt
 			<text>Flying
 When this creature enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 Warp {1}{G}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/244.jpg" num="180">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/243.jpg" num="180">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4356,7 +4339,7 @@ Warp {1}{G}{G} (You may cast this card from your hand for its warp cost. Exile t
 			<name>Planet Settler</name>
 			<text>When this creature enters, if an opponent controls more lands than you, create a Habitat token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Choose one — Create a Wastes basic land token. Choose a basic land type. Target land you control becomes that type in addition to its other types.&quot;)
 Warp {W}</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/245.jpg" num="25">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/244.jpg" num="25">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4375,7 +4358,7 @@ Warp {W}</text>
 			<text>Flash
 Tunneling {1}{U} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its tunneling cost.)
 When this creature enters, target creature you control gains hexproof until end of turn.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/246.jpg" num="50">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/245.jpg" num="50">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4394,7 +4377,7 @@ When this creature enters, target creature you control gains hexproof until end 
 			<text>Flying
 When this creature dies, create a 3/2 colorless Spacecraft artifact token with station 1+ and flying.
 {B}, Exile this card from your graveyard: Put a charge counter on target permanent you control.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/247.jpg" num="82">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/246.jpg" num="82">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4412,7 +4395,7 @@ When this creature dies, create a 3/2 colorless Spacecraft artifact token with s
 			<name>Thrashing Cragwolf</name>
 			<text>Menace
 Landfall — Whenever a land you control enters, scry 1. Then, you may reveal the top card of your library. When you do, this creature gets +X/+0 until end of turn, where X is that card&apos;s mana value.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/248.jpg" num="156">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/247.jpg" num="156">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4430,7 +4413,7 @@ Landfall — Whenever a land you control enters, scry 1. Then, you may reveal th
 			<name>Mycellic Propagator</name>
 			<text>Tokens you control have &quot;Whenever this permanent becomes tapped, target creature you control gets +1/+1 until end of turn.&quot;
 If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/249.jpg" num="184">LSL</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/248.jpg" num="184">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4447,7 +4430,7 @@ If one or more tokens would be created under your control, those tokens plus an 
 		<card>
 			<name>Phasebound Duelist</name>
 			<text>Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature and draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/250.jpg" num="21">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/249.jpg" num="21">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4464,7 +4447,7 @@ If one or more tokens would be created under your control, those tokens plus an 
 		<card>
 			<name>Star Ward</name>
 			<text>Counter target spell. If it wasn&apos;t cast from its owner&apos;s hand, exile it instead. Then draw a card.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/251.jpg" num="72">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/250.jpg" num="72">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4482,7 +4465,7 @@ If one or more tokens would be created under your control, those tokens plus an 
 			<text>This spell costs {1} less to cast for each life your opponents have lost this turn.
 Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If this spell was kicked, that player loses 3 life.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/252.jpg" num="97">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/251.jpg" num="97">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4499,7 +4482,7 @@ Target opponent reveals their hand. You choose a nonland card from it. That play
 			<name>Reactive Magnetoad</name>
 			<text>Tunneling {1}{R} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its tunneling cost.)
 Whenever another creature or artifact you control enters, Reactive Magnetoad deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/253.jpg" num="147">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/252.jpg" num="147">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4518,7 +4501,7 @@ Whenever another creature or artifact you control enters, Reactive Magnetoad dea
 			<text>Trample
 {4}{G}{G}: Adapt 3. Draw three cards. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)
 Whenever one or more +1/+1 counters are put on this creature, creatures you control gain vigilance until end of turn.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/254.jpg" num="178">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/253.jpg" num="178">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4536,7 +4519,7 @@ Whenever one or more +1/+1 counters are put on this creature, creatures you cont
 			<name>Territory Pillager</name>
 			<text>Double strike
 Landfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/255.jpg" num="34">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/254.jpg" num="34">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4554,7 +4537,7 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 			<name>Collection Compiler</name>
 			<text>At the beginning of your upkeep, scry 1.
 This creature&apos;s power is equal to the number of cards in your hand.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/256.jpg" num="44">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/255.jpg" num="44">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4573,7 +4556,7 @@ This creature&apos;s power is equal to the number of cards in your hand.</text>
 			<text>Tunneling {2}{B}{B} (Whenever you look at or reveal the top cards of your library, if this card is among them, you may exile it. You may cast this card from exile until end of turn for its tunneling cost.)
 Menace
 When this creature enters, destroy up to one other target creature.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/257.jpg" num="102">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/256.jpg" num="102">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4593,7 +4576,7 @@ When this creature enters, destroy up to one other target creature.</text>
 Station (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)
 [level 6+] Flying
 When this creature attacks, target opponent may have you create a Habitat token. Otherwise, put two +1/+1 counters on this creature. [3/3]</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/258.jpg" num="150">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/257.jpg" num="150">LSL</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -4611,7 +4594,7 @@ When this creature attacks, target opponent may have you create a Habitat token.
 			<text>Enchant creature
 When this Aura enters, enchanted creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
 Enchanted creature gets +1/+1 and has trample.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/259.jpg" num="200">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/258.jpg" num="200">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4628,7 +4611,7 @@ Enchanted creature gets +1/+1 and has trample.</text>
 			<name>Mechanized Croptender</name>
 			<text>When this creature enters, search your library for a basic Plains card or up to two creature cards with total mana value 2 or less, reveal them, put them into your hand, then shuffle.
 Landfall — Whenever a land you control enters, put a +1/+1 counter on each other creature you control.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/260.jpg" num="14">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/259.jpg" num="14">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4646,7 +4629,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on each oth
 			<name>Practiced Replicaster</name>
 			<text>When Practiced Replicaster enters, you may cast target instant or sorcery card with mana value 4 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
 Warp {2}{U}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/261.jpg" num="62">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/260.jpg" num="62">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4664,7 +4647,7 @@ Warp {2}{U}{U} (You may cast this card from your hand for its warp cost. Exile t
 			<name>Thiris Crystal</name>
 			<text>Whenever you cast a spell from exile, Thiris Crystal deals 1 damage to target opponent.
 {1}, {T}, Sacrifice another artifact: Exile the top card of your library. You may play it until end of turn.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/262.jpg" num="155">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/261.jpg" num="155">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4685,7 +4668,7 @@ Whenever Zionnoth deals combat damage to a player, choose one —
 • Discard a card, then draw two cards.
 • Remove up to two counters from a land or artifact an opponent controls. Put that many counters on a land or artifact you control.
 • Create a Habitat token.</text>
-			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/263.jpg" num="227">LSL</set>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/262.jpg" num="227">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4703,7 +4686,7 @@ Whenever Zionnoth deals combat damage to a player, choose one —
 			<name>Terrestrial Scouter</name>
 			<text>Flying
 {8}, Sacrifice this creature: You draw three cards and gain 3 life. This ability costs {X} less to activate, where X is the number of basic land types among lands you control.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/264.jpg" num="247">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/263.jpg" num="247">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4718,7 +4701,7 @@ Whenever Zionnoth deals combat damage to a player, choose one —
 		<card>
 			<name>Pangolin LSL</name>
 			<text></text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/265.jpg" num="1">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/264.jpg" num="1">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,7 +4719,7 @@ Whenever Zionnoth deals combat damage to a player, choose one —
 		<card>
 			<name>Clue LSL</name>
 			<text>{2}, Sacrifice this artifact: Draw a card</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/266.jpg" num="5">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/265.jpg" num="5">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4751,7 +4734,7 @@ Whenever Zionnoth deals combat damage to a player, choose one —
 		<card>
 			<name>Food LSL</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/267.jpg" num="6">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/266.jpg" num="6">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4767,7 +4750,7 @@ Whenever Zionnoth deals combat damage to a player, choose one —
 			<name>Spacecraft LSL</name>
 			<text>Flying
 Station 1+ (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It&apos;s a creature at 1+.)</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/268.jpg" num="9">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/267.jpg" num="9">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4783,7 +4766,7 @@ Station 1+ (Tap another creature you control: Put charge counters equal to its p
 		<card>
 			<name>Darkwurm LSL</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/269.jpg" num="4">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/268.jpg" num="4">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4801,7 +4784,7 @@ Station 1+ (Tap another creature you control: Put charge counters equal to its p
 		<card>
 			<name>Wastes LSL</name>
 			<text>{T}: Add {C}.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/270.jpg" num="10">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/269.jpg" num="10">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4816,7 +4799,7 @@ Station 1+ (Tap another creature you control: Put charge counters equal to its p
 		<card>
 			<name>Junk LSL</name>
 			<text>{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/271.jpg" num="8">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/270.jpg" num="8">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4831,7 +4814,7 @@ Station 1+ (Tap another creature you control: Put charge counters equal to its p
 		<card>
 			<name>Thax Soldier LSL</name>
 			<text></text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/272.jpg" num="3">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/271.jpg" num="3">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4852,7 +4835,7 @@ Station 1+ (Tap another creature you control: Put charge counters equal to its p
 I — Exile target nonland permanent. Its controller gains 3 life.
 II, III — Populate or create a 1/2 white Pangolin creature token. (To populate, create a token that&apos;s a copy of a creature token you control.)
 IV — You and target opponent each draw two cards.</text>
-			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/273.jpg" num="7">LSL</set>
+			<set rarity="rare" picurl="https://MSE-Hub/sets/LSL-files/img/272.jpg" num="7">LSL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4873,7 +4856,7 @@ Whenever you attack with one or more non-Pangolin creatures, create a 1/2 white 
 Whenever one or more tokens you control enter, scry 1. If this is the second time this ability has resolved this turn, draw a card.
 {4}{W}{W}: Level 3
 At the beginning of combat on your turn, put a +1/+1 counter on each creature you control for each token creature that entered under your control this turn.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/274.jpg" num="8">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/273.jpg" num="8">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4891,7 +4874,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on each creature yo
 			<text>{2}, {T}, Sacrifice this artifact: Choose one —
 • Create a Wastes basic land token. (It&apos;s a colorless land with &quot;{T}: Add {C}.&quot;)
 • Choose a basic land type. Target land you control becomes that type in addition to its other types.</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/275.jpg" num="7">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/274.jpg" num="7">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4911,7 +4894,7 @@ Whenever a creature or nontoken artifact you control enters, scry 1.
 Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.
 {5}{U}: Level 3
 Whenever you cast a noncreature spell, create a 1/1 blue Squid creature token with flying named Starsquid.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/276.jpg" num="48">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/275.jpg" num="48">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4932,7 +4915,7 @@ When Junker&apos;s Talent enters, create two tapped Junk tokens.
 Junk tokens you control have &quot;{T}, Sacrifice this artifact: Exile the top two cards of your library. You may play those cards until the end of your next turn. Activate only as a sorcery.&quot;
 {5}{R}: Level 3
 Whenever you cast a spell from exile, Junker&apos;s Talent deals damage equal to its mana value to target opponent.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/277.jpg" num="136">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/276.jpg" num="136">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4953,7 +4936,7 @@ Whenever a creature you control deals damage to a player, surveil 1.
 Whenever a card enters your graveyard from anywhere other than the battlefield, each opponent loses 1 life.
 {5}{B}{B}: Level 3
 At the beginning of each upkeep, you may return target creature or Spacecraft card from your graveyard to the battlefield under your control.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/278.jpg" num="100">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/277.jpg" num="100">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4974,7 +4957,7 @@ Landfall — Whenever a land you control enters, create a Food token.
 Whenever a creature you control enters, it fights up to one target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
 {6}{G}: Level 3
 At the beginning of combat on your turn, put a +1/+1 counter on target creature you control for each land you control.</text>
-			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/279.jpg" num="172">LSL</set>
+			<set rarity="uncommon" picurl="https://MSE-Hub/sets/LSL-files/img/278.jpg" num="172">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4990,7 +4973,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on target creature 
 		<card>
 			<name>Starsquid LSL</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/280.jpg" num="2">LSL</set>
+			<set rarity="common" picurl="https://MSE-Hub/sets/LSL-files/img/279.jpg" num="2">LSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5004,6 +4987,28 @@ At the beginning of combat on your turn, put a +1/+1 counter on target creature 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Preservation, Sentient Directive</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter.)
+I — Scry 2, then draw a card.
+II — Return up to one target creature or Spacecraft to its owner&apos;s hand.
+III — Exile this creature, then return it to the battlefield tapped under its owner&apos;s control.
+---
+Vigilance</text>
+			<set rarity="mythic" picurl="https://MSE-Hub/sets/LSL-files/img/280.jpg" num="63">LSL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Saga Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
